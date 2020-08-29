@@ -1,6 +1,3 @@
-#EXTM3U
-#EXTINF:-1,IR: VOA Persian 1
-http://tezkom.ksbox.life:8080/5513915147/gRvsFs43j7/41770
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/HGmC8ea.png" tvg-country="IR" tvg-url="" group-title="Persian",24 Box TV
 http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/afghantv.jpg" tvg-country="IR" tvg-url="" group-title="Persian",AFN TV
