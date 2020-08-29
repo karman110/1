@@ -47,19 +47,19 @@ http://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunkl
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ghLKlHs.png" group-title="MUSIK",Radio m20 Lazio
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/WGs1jsk.png" group-title="SCHWEIZ;MUSIK",Radio Pilatus (Webradio)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WGs1jsk.png" group-title="",Radio Pilatus (Webradio)
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Reload Radio" tvg-logo="https://www.radioreload.it/wp-content/uploads/2019/05/Logo-Radio-Reload-black.png" group-title="MUSIK",Reload Radio
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:-1 tvg-name="Radiou TV USA" tvg-id="Radiou TV" group-title="MUSIK" tvg-logo="https://radiou.com/wp-content/uploads/2014/07/LogoFullsize140724-300x300.jpg",Radiou TV USA
+#EXTINF:-1 tvg-name="Radiou TV USA" tvg-id="Radiou TV" group-title="" tvg-logo="https://radiou.com/wp-content/uploads/2014/07/LogoFullsize140724-300x300.jpg",Radiou TV USA
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/SrhtocV.png" group-title="MUSIK",Radio Taormina Sicilia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SrhtocV.png" group-title="",Radio Taormina Sicilia
 https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Retro Musik" tvg-id="Retro Musik" group-title="MUSIK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Retro_Music_TV_logo.png/320px-Retro_Music_TV_logo.png",Retro Musik
+#EXTINF:-1 tvg-name="Retro Musik" tvg-id="Retro Musik" group-title="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Retro_Music_TV_logo.png/320px-Retro_Music_TV_logo.png",Retro Musik
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
-#EXTINF:-1  tvg-name="Sky Folk TV" tvg-id="Sky Folk TV" tvg-logo="https://i.imgur.com/tcL0bP3.jpg" group-title="MUSIK",Sky Folk TV
+#EXTINF:-1  tvg-name="Sky Folk TV" tvg-id="Sky Folk TV" tvg-logo="https://i.imgur.com/tcL0bP3.jpg" group-title="",Sky Folk TV
 http://eu.live.skyfolk.mk/live.m3u8
-#EXTINF:-1  tvg-name="Sonus FM TV" tvg-id="Sonus FM TV" tvg-logo="http://sonus.fm/img/sonus_logo.png" group-title="MUSIK",Sonus FM TV
+#EXTINF:-1  tvg-name="Sonus FM TV" tvg-id="Sonus FM TV" tvg-logo="http://sonus.fm/img/sonus_logo.png" group-title="MUIK",Sonus FM TV
 http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
 #EXTINF:-1 tvg-name="Spirit TV" tvg-id="Spirit TV" group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP7xUfIz3KJC-Dg1J6KHypDnwdBn8EDCrBIbEEdkQC_RI3NtwO",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
