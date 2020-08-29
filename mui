@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-name="******************** MUSIK *  07578044490 " tvg-id="" group-title="" tvg-logo="",****************** MUSIK *07578044490*
 https://secure7.todostreaming.es/live/101tv-web101tv.m3u8
 #EXTINF:-1 tvg-name="8 Cadiz TV" tvg-logo="https://i.imgur.com/gr1pI7Y.png" group-title="MUSIK",8 Cadiz TV
@@ -42,7 +41,7 @@ https://58b42f6c8c9bf.streamlock.net:8080/live/musig24/chunklist_w135827796.m3u8
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2jE6ItV.png" group-title="MUSIK",Otto FM TV
 http://217.182.192.240:8080/hls/ottofmtv/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/O8ByUjT.png" group-title="ITALY;MUSIK",RADIO FRECCIA HD
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O8ByUjT.png" group-title="MUSIK",RADIO FRECCIA HD
 http://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b2296000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bedxx0y.png" group-title="MUSIK",Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
@@ -52,7 +51,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Reload Radio" tvg-logo="https://www.radioreload.it/wp-content/uploads/2019/05/Logo-Radio-Reload-black.png" group-title="MUSIK",Reload Radio
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
-#EXTINF:-1 tvg-name="Radiou TV USA" tvg-id="Radiou TV" group-title="USA;MUSIK" tvg-logo="https://radiou.com/wp-content/uploads/2014/07/LogoFullsize140724-300x300.jpg",Radiou TV USA
+#EXTINF:-1 tvg-name="Radiou TV USA" tvg-id="Radiou TV" group-title="MUSIK" tvg-logo="https://radiou.com/wp-content/uploads/2014/07/LogoFullsize140724-300x300.jpg",Radiou TV USA
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/SrhtocV.png" group-title="MUSIK",Radio Taormina Sicilia
 https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
@@ -60,11 +59,11 @@ https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1  tvg-name="Sky Folk TV" tvg-id="Sky Folk TV" tvg-logo="https://i.imgur.com/tcL0bP3.jpg" group-title="MUSIK",Sky Folk TV
 http://eu.live.skyfolk.mk/live.m3u8
-#EXTINF:-1  tvg-name="Sonus FM TV" tvg-id="Sonus FM TV" tvg-logo="http://sonus.fm/img/sonus_logo.png" group-title="USA;MUSIK",Sonus FM TV
+#EXTINF:-1  tvg-name="Sonus FM TV" tvg-id="Sonus FM TV" tvg-logo="http://sonus.fm/img/sonus_logo.png" group-title="MUSIK",Sonus FM TV
 http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
 #EXTINF:-1 tvg-name="Spirit TV" tvg-id="Spirit TV" group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP7xUfIz3KJC-Dg1J6KHypDnwdBn8EDCrBIbEEdkQC_RI3NtwO",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1 tvg-name="The Box" tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="UK;MUSIK",The Box
+#EXTINF:-1 tvg-name="The Box" tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="MUSIK",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 #EXTINF:-1 tvg-id="" tvg-name="Top Music" tvg-logo="http://2.bp.blogspot.com/-_A-jiGtuVp8/UW_Qs9-lOJI/AAAAAAAAAEg/NsmFv_C60B0/s1600/TOPMUSIC.gif" group-title="MUSIK",Top Music
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
@@ -72,5 +71,5 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w10384273
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
 #EXTINF:-1 tvg-name="Urban Music" tvg-id="" group-title="MUSIK" tvg-logo="https://www.ginikousa.com/channels/logo/urban-music-4u.jpg",Urban Music
 https://nrpus.bozztv.com/36bay2/gusa-urbanmusic4u/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="XITE" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="BELGIEN;MUSIK",XITE
+#EXTINF:-1 tvg-id="" tvg-name="XITE" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="MUSIK",XITE
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
