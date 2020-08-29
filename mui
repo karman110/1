@@ -45,11 +45,11 @@ http://217.182.192.240:8080/hls/ottofmtv/index.m3u8
 http://rtl-radio-stream-thron.akamaized.net/live-video/video2/ngrp:video2/chunklist_b2296000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bedxx0y.png" group-title="",Radio Italia TV
 http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ghLKlHs.png" group-title="MUSIK",Radio m20 Lazio
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ghLKlHs.png" group-title="",Radio m20 Lazio
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WGs1jsk.png" group-title="",Radio Pilatus (Webradio)
 https://livevideo.infomaniak.com/streaming/livecast/rp_tv_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Reload Radio" tvg-logo="https://www.radioreload.it/wp-content/uploads/2019/05/Logo-Radio-Reload-black.png" group-title="MUSIK",Reload Radio
+#EXTINF:-1 tvg-id="" tvg-name="Reload Radio" tvg-logo="https://www.radioreload.it/wp-content/uploads/2019/05/Logo-Radio-Reload-black.png" group-title="",Reload Radio
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 #EXTINF:-1 tvg-name="Radiou TV USA" tvg-id="Radiou TV" group-title="" tvg-logo="https://radiou.com/wp-content/uploads/2014/07/LogoFullsize140724-300x300.jpg",Radiou TV USA
 https://cdnlive.radiou.com/LS-ATL-43240-1/index.m3u8
@@ -59,17 +59,17 @@ https://stream2.xdevel.com/video1s3-7/stream/playlist.m3u8
 http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8
 #EXTINF:-1  tvg-name="Sky Folk TV" tvg-id="Sky Folk TV" tvg-logo="https://i.imgur.com/tcL0bP3.jpg" group-title="",Sky Folk TV
 http://eu.live.skyfolk.mk/live.m3u8
-#EXTINF:-1  tvg-name="Sonus FM TV" tvg-id="Sonus FM TV" tvg-logo="http://sonus.fm/img/sonus_logo.png" group-title="MUIK",Sonus FM TV
+#EXTINF:-1  tvg-name="Sonus FM TV" tvg-id="Sonus FM TV" tvg-logo="http://sonus.fm/img/sonus_logo.png" group-title="",Sonus FM TV
 http://www.sonus.fm:1935/public/stream_240p/playlist.m3u8
-#EXTINF:-1 tvg-name="Spirit TV" tvg-id="Spirit TV" group-title="MUSIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP7xUfIz3KJC-Dg1J6KHypDnwdBn8EDCrBIbEEdkQC_RI3NtwO",Spirit TV
+#EXTINF:-1 tvg-name="Spirit TV" tvg-id="Spirit TV" group-title="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP7xUfIz3KJC-Dg1J6KHypDnwdBn8EDCrBIbEEdkQC_RI3NtwO",Spirit TV
 https://cdnlive.myspirit.tv/LS-ATL-43240-2/index.m3u8
-#EXTINF:-1 tvg-name="The Box" tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="MUSIK",The Box
+#EXTINF:-1 tvg-name="The Box" tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="",The Box
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-#EXTINF:-1 tvg-id="" tvg-name="Top Music" tvg-logo="http://2.bp.blogspot.com/-_A-jiGtuVp8/UW_Qs9-lOJI/AAAAAAAAAEg/NsmFv_C60B0/s1600/TOPMUSIC.gif" group-title="MUSIK",Top Music
+#EXTINF:-1 tvg-id="" tvg-name="Top Music" tvg-logo="http://2.bp.blogspot.com/-_A-jiGtuVp8/UW_Qs9-lOJI/AAAAAAAAAEg/NsmFv_C60B0/s1600/TOPMUSIC.gif" group-title="",Top Music
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1038427347_b2028000_sleng.m3u8
-#EXTINF:-1 tvg-name="TVM3" tvg-id="TVM3.ch" group-title="MUSIK" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvm3.png",TVM3
+#EXTINF:-1 tvg-name="TVM3" tvg-id="TVM3.ch" group-title="" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvm3.png",TVM3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 tvg-name="Urban Music" tvg-id="" group-title="MUSIK" tvg-logo="https://www.ginikousa.com/channels/logo/urban-music-4u.jpg",Urban Music
+#EXTINF:-1 tvg-name="Urban Music" tvg-id="" group-title="" tvg-logo="https://www.ginikousa.com/channels/logo/urban-music-4u.jpg",Urban Music
 https://nrpus.bozztv.com/36bay2/gusa-urbanmusic4u/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="XITE" tvg-logo="https://i.imgur.com/wvo2EYr.jpg" group-title="MUSIK",XITE
 https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/chunklist_w323364313_b3328000_slNLD.m3u8
