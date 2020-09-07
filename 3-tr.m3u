@@ -1,5 +1,4 @@
 #EXTM3U
-#PLAYLIST:hlscat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="" group-title="Undefined",1NTVSPOR HD
 http://46.105.233.106:8484/ntvspor.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="TR" tvg-logo="https://iili.io/JASRBR.png" group-title="Undefined",24 TV [HD]
