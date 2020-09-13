@@ -693,19 +693,707 @@ https://s01.vpis.io/wmtv/wmtv.m3u8
 https://59cba4d34b678.streamlock.net/canlitv/yarentv/iptvdelisi.m3u8
 #EXTINF:-0,Yeşilyurt TV
 https://waw1.artiyerelmedya.net/yesilyurttv/bant1/playlist.m3u8
-#EXTINF:-1,TR: Bein Sports 4 EXTRA
-http://ingrid.ltd:25461/Melon3175/Melon7531/23112
-#EXTINF:-1,TR: Bein Sports Haber HD
-http://ingrid.ltd:25461/Melon3175/Melon7531/23110
-#EXTINF:-1,TR: Bein Sports HD 1 FHD
-http://ingrid.ltd:25461/Melon3175/Melon7531/23109
-#EXTINF:-1,TR: Bein Sports HD 2 FHD French)
-http://ingrid.ltd:25461/Melon3175/Melon7531/23108
-#EXTINF:-1,TR: Bein Sports HD 3 FHD
-http://ingrid.ltd:25461/Melon3175/Melon7531/23107
-#EXTINF:-1,TR: Bein Sports HD 4 FHD
-http://ingrid.ltd:25461/Melon3175/Melon7531/23106
-#EXTINF:-1,TR: Bein Sports Max 1 FHD
-http://ingrid.ltd:25461/Melon3175/Melon7531/23105
-#EXTINF:-1,TR: Bein Sports Max 2 FHD
-http://ingrid.ltd:25461/Melon3175/Melon7531/23104
+#EXTINF:-1,TR: TRT 4K
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/35064
+#EXTINF:-1,TR: TRT 1 HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/174
+#EXTINF:-1,TR: TRT 2 HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/41402
+#EXTINF:-1,TR: ATV HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/176
+#EXTINF:-1,TR: STAR TV HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/179
+#EXTINF:-1,TR: SHOW TV HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/181
+#EXTINF:-1,TR: KANAL D HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/185
+#EXTINF:-1,TR: TV 8 HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/184
+#EXTINF:-1,TR: TV 8.5 HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5057
+#EXTINF:-1,TR: FOX TV HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/183
+#EXTINF:-1,TR: KANAL 7 HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/189
+#EXTINF:-1,TR: TEVE2 HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/187
+#EXTINF:-1,TR: BEYAZ TV HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/188
+#EXTINF:-1,TR: Ulusal Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/156
+#EXTINF:-1,TR: Halk Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/162
+#EXTINF:-1,TR: A2 HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/4723
+#EXTINF:-1,TR: TV 4 HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5066
+#EXTINF:-1,TR: Show Max
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/30431
+#EXTINF:-1,TR: 360 TV HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/2050
+#EXTINF:-1,TR: FX HD TR
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/35264
+#EXTINF:-1,TR: FOX LiFE HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/42126
+#EXTINF:-1,TR: FOX CRiME HD TR
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/35265
+#EXTINF:-1,TR: TLC HD TR
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/163
+#EXTINF:-1,TR: DMAX HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/180
+#EXTINF:-1,TR: TRT HABER HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/327
+#EXTINF:-1,TR: CNN TURK HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/186
+#EXTINF:-1,TR: HABERTURK HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/182
+#EXTINF:-1,TR: NTV HD TR
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/153
+#EXTINF:-1,TR: A HABER HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/177
+#EXTINF:-1,TR: HABER GLOBAL HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/35850
+#EXTINF:-1,TR: EKOTÜRK
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/37521
+#EXTINF:-1,TR: Bloomberg HT TR
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1198
+#EXTINF:-1,TR: ULKE TV HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/190
+#EXTINF:-1,TR: 24 TV HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1197
+#EXTINF:-1,TR: Tele 1 TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/6926
+#EXTINF:-1,TR: Tgrt Haber HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/157
+#EXTINF:-1,TR: TVNET HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/2041
+#EXTINF:-1,TR: A News HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/39748
+#EXTINF:-1,TR: A Para HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/39749
+#EXTINF:-1,TR: TBMM Televizyonu
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/34393
+#EXTINF:-1,TR: TRT World HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/2048
+#EXTINF:-1,TR: TRT Turk HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/6347
+#EXTINF:-1,TR: BENGÜTÜRK TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/2471
+#EXTINF:-1,TR: TGRT EU
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/37523
+#EXTINF:-1,TR: Kanal Avrupa
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5100
+#EXTINF:-1,TR: Turkmeneli TV HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5047
+#EXTINF:-1,TR: CEM TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/2462
+#EXTINF:-1,TR: Yol TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/29207
+#EXTINF:-1,TR: CAN TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5067
+#EXTINF:-1,TR: Akilli TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/3542
+#EXTINF:-1,TR: Baby First Turkiye
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21744
+#EXTINF:-1,TR: Baby TV TR
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/2915
+#EXTINF:-1,TR:CAILLOU TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49275
+#EXTINF:-1,TR:NILOYA TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49274
+#EXTINF:-1,TR: Niloya TV 2
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/43687
+#EXTINF:-1,TR: Pepee TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/43896
+#EXTINF:-1,TR: Kral Şakir
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/57097
+#EXTINF:-1,TR: CBeebies TR
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/35235
+#EXTINF:-1,TR: Disney Channel TR
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/168
+#EXTINF:-1,TR: Disney Junior HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/52108
+#EXTINF:-1,TR: Disney XD HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/52109
+#EXTINF:-1,TR: Nick Junior HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/35233
+#EXTINF:-1,TR: Nickeledon HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/9172
+#EXTINF:-1,TR: Cartoon Network TR
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/169
+#EXTINF:-1,TR: TRT COCUK HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/19691
+#EXTINF:-1,TR: SMART ÇOCUK HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/41283
+#EXTINF:-1,TR: Minika Go
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/166
+#EXTINF:-1,TR: Minika Cocuk
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/167
+#EXTINF:-1,TR: beIN Office 1 Turkey
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/29179
+#EXTINF:-1,TR: beIN Office 2 Turkey
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/29180
+#EXTINF:-1,TR: beIN Office 3 Turkey
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/29181
+#EXTINF:-1,TR: beIN MOVIES ACTION HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21308
+#EXTINF:-1,TR: beIN MOVIES ACTION 2 HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21307
+#EXTINF:-1,TR: beIN MOVIES FAMILY HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21303
+#EXTINF:-1,TR: beIN MOVIES PREMIERE 2 HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21309
+#EXTINF:-1,TR: beIN MOVIES PREMIERE HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21310
+#EXTINF:-1,TR: beIN MOVIES STARS HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21306
+#EXTINF:-1,TR: beIN MOVIES TURK HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21311
+#EXTINF:-1,TR: beIN SERIES COMEDY HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21301
+#EXTINF:-1,TR: beIN SERIES DRAMA HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21300
+#EXTINF:-1,TR: beIN SERIES Vice HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/37059
+#EXTINF:-1,TR: beIN SERIES SCI-FI HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21299
+#EXTINF:-1,TR: MOVIE SMART GOLD HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21685
+#EXTINF:-1,TR: MOVIE SMART ACTION HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21291
+#EXTINF:-1,TR: MOVIE SMART FAMILY HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21289
+#EXTINF:-1,TR: MOVIE SMART PLATIN HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21293
+#EXTINF:-1,TR: MOVIE SMART PREMIUM HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21295
+#EXTINF:-1,TR: MOVIE SMART TURK HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21296
+#EXTINF:-1,TR: MOVIE SMART CLASSIC HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/41282
+#EXTINF:-1,TR: MOVIE SMART FEST HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/41281
+#EXTINF:-1,TR: MOVIE SMART PLATIN 2 HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/41280
+#EXTINF:-1,TR: MOVIE SMART PREMIUM 2 HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/41279
+#EXTINF:-1,TR: DIZI SMART PREMIUM HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21287
+#EXTINF:-1,TR: Iphd Aksiyon
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/52701
+#EXTINF:-1,TR: Iphd Comedy
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/52700
+#EXTINF:-1,TR: FILMBOX SINEVIZYON INFO
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49253
+#EXTINF:-1,TR: FILMBOX SINEVIZYON 1
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49254
+#EXTINF:-1,TR: FILMBOX SINEVIZYON 2
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49255
+#EXTINF:-1,TR: FILMBOX SINEVIZYON 3
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49256
+#EXTINF:-1,TR: FILMBOX SINEVIZYON 4
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49257
+#EXTINF:-1,TR: FILMBOX SINEVIZYON 5
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49258
+#EXTINF:-1,TR: FILMBOX SINEVIZYON 6
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49259
+#EXTINF:-1,TR: FILMBOX SINEVIZYON 7
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49260
+#EXTINF:-1,TR: FILMBOX SINEVIZYON 8
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49261
+#EXTINF:-1,TR: FILMBOX SINEVIZYON 9
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49262
+#EXTINF:-1,TR: FILMBOX SINEVIZYON 10
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49263
+#EXTINF:-1,TR: FILMBOX SINEVIZYON 11
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49264
+#EXTINF:-1,TR: FILMBOX SINEVIZYON 12
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49265
+#EXTINF:-1,TR: FILMBOX SINEVIZYON 13
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49266
+#EXTINF:-1,TR: FILMBOX SINEVIZYON 14
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49267
+#EXTINF:-1,TR: FILMBOX SINEVIZYON 15
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49268
+#EXTINF:-1,TR: FILMBOX SINEVIZYON 16
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49269
+#EXTINF:-1,TR: FILMBOX SINEVIZYON 17
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49270
+#EXTINF:-1,TR: FILMBOX SINEVIZYON 18
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49271
+#EXTINF:-1,TR: FILMBOX SINEVIZYON 19
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49272
+#EXTINF:-1,TR: FILMBOX SINEVIZYON 20
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49273
+#EXTINF:-1,TR: FILMBOX ŞENER ŞEN TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/49276
+#EXTINF:-1,TR: FiLMBOXHD AiLE
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21204
+#EXTINF:-1,TR: FiLMBOXHD AKSiYON
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21213
+#EXTINF:-1,TR: FiLMBOXHD DRAM
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21207
+#EXTINF:-1,TR: FiLMBOXHD FANTASTiK
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21208
+#EXTINF:-1,TR: FiLMBOXHD KEMAL SUNAL TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21218
+#EXTINF:-1,TR: FİLMBOX CÜNEYT ARKIN
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/52285
+#EXTINF:-1,TR: FİLMBOX KADİR İNANIR
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/52283
+#EXTINF:-1,TR: FİLMBOX TARIK AKAN
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/52282
+#EXTINF:-1,TR: FİLMBOX ZEKİ & METİN
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/52281
+#EXTINF:-1,TR: FİLMBOX İLYAS SALMAN
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/52284
+#EXTINF:-1,TR: FiLMBOXHD KOMEDi
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21210
+#EXTINF:-1,TR: FiLMBOXHD KORKU
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21211
+#EXTINF:-1,TR: FiLMBOXHD SCi-Fi
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21209
+#EXTINF:-1,TR: FiLMBOXHD  YERLİ
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21205
+#EXTINF:-1,TR: FiLMBOXHD YESiLCAM
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/21206
+#EXTINF:-1,TR:Filmbox-II Animasyon HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/55993
+#EXTINF:-1,TR:Filmbox-II Arthouse
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/55994
+#EXTINF:-1,TR:Filmbox-II Festival HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/55995
+#EXTINF:-1,TR:Filmbox-II Gold HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/55996
+#EXTINF:-1,TR:Filmbox-II HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/55997
+#EXTINF:-1,TR:Filmbox-II KemalSunal
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/55998
+#EXTINF:-1,TR:Filmbox-II Premier HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56000
+#EXTINF:-1,TR:Filmbox-II Stars HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56001
+#EXTINF:-1,TR:Filmbox-II Turk HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56002
+#EXTINF:-1,TR:Filmbox-II Yesilcam HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56003
+#EXTINF:-1,TR: SINEMAX ACTION
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56739
+#EXTINF:-1,TR: SINEMAX AKSIYON
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56740
+#EXTINF:-1,TR: SINEMAX ANIMASYON
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56741
+#EXTINF:-1,TR: SINEMAX Comedy HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56742
+#EXTINF:-1,TR: SINEMAX DRAMA HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56743
+#EXTINF:-1,TR: SINEMAX Family HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56744
+#EXTINF:-1,TR: SINEMAX FANTASTIK HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56745
+#EXTINF:-1,TR: SINEMAX Fear HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56746
+#EXTINF:-1,TR: SINEMAX KOMEDi
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56747
+#EXTINF:-1,TR: SINEMAX KORKU HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56748
+#EXTINF:-1,TR: SINEMAX Nostalgia HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56749
+#EXTINF:-1,TR: SINEMAX OSCAR HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56750
+#EXTINF:-1,TR: SINEMAX PREMIER HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56751
+#EXTINF:-1,TR: SINEMAX Turk HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56752
+#EXTINF:-1,TR: SINEMAX VIZYON 1
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56753
+#EXTINF:-1,TR: SINEMAX VIZYON 2
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56754
+#EXTINF:-1,TR: SINEMAX VIZYON 3
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56755
+#EXTINF:-1,TR: SINEMAX VIZYON 4
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56756
+#EXTINF:-1,TR: SINEMAX VIZYON AKSIYON
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56757
+#EXTINF:-1,TR: SINEMAX WESTERN
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56758
+#EXTINF:-1,TR: Bein IZ TV HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/2142
+#EXTINF:-1,TR: beIN GURME HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/29177
+#EXTINF:-1,TR: 24 KiTCHEN HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1205
+#EXTINF:-1,TR: Animal Planet Channel HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/42125
+#EXTINF:-1,TR: NAT GEOGRAPHIC HD TR
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/19683
+#EXTINF:-1,TR: NAT GEO WILD HD TR
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/19681
+#EXTINF:-1,TR: History Channel HD TR
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/8487
+#EXTINF:-1,TR: DISCOVERY SCIENCE HD TR
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/19679
+#EXTINF:-1,TR: Discovery Channel HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1195
+#EXTINF:-1,TR: Discovery IDX Turkey
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/24390
+#EXTINF:-1,TR: Discovery Showcase HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56736
+#EXTINF:-1,TR: ViASAT HiSTORY HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1256
+#EXTINF:-1,TR: BBC EARTH HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/54925
+#EXTINF:-1,TR: Love Nature HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/57095
+#EXTINF:-1,TR: DA VINCI KIDS
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/54927
+#EXTINF:-1,TR: DOCUBOX HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/54926
+#EXTINF:-1,TR: FASHION BOX HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56738
+#EXTINF:-1,TR: FAST & FUN HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56737
+#EXTINF:-1,TR: Auto Moto
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56734
+#EXTINF:-1,TR: Chasse & Peche HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56735
+#EXTINF:-1,TR: TRT BELGESEL HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/2049
+#EXTINF:-1,TR: Tgrt Belgesel
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/158
+#EXTINF:-1,TR: Yaban Tv HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/164
+#EXTINF:-1,TR: TRT MUZIK HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/330
+#EXTINF:-1,TR: Dream Türk
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/2051
+#EXTINF:-1,TR: Kral TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/42097
+#EXTINF:-1,TR: KRAL POP TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/2941
+#EXTINF:-1,TR: POWER TURK HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/192
+#EXTINF:-1,TR: NR1 Turk HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/39736
+#EXTINF:-1,TR: NR1 HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/39737
+#EXTINF:-1,TR: Power TV HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/172
+#EXTINF:-1,TR: Dream Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/2052
+#EXTINF:-1,TR: Uçankuş Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/2042
+#EXTINF:-1,TR: TRT 1 SD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/142
+#EXTINF:-1,TR: ATV SD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/143
+#EXTINF:-1,TR: STAR TV SD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/145
+#EXTINF:-1,TR: SHOW TV SD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/146
+#EXTINF:-1,TR: TV8 SD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/144
+#EXTINF:-1,TR: FOX TV SD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/148
+#EXTINF:-1,TR: KANAL D SD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/147
+#EXTINF:-1,TR: BEYAZ TV SD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/149
+#EXTINF:-1,TR: A Haber
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/151
+#EXTINF:-1,TR: A Spor
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/155
+#EXTINF:-1,TR: Kabe TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1200
+#EXTINF:-1,TR: Sunnah TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/42098
+#EXTINF:-1,TR: Anadolu Dernek TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/9204
+#EXTINF:-1,TR: FM TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/3929
+#EXTINF:-1,TR: Akit TV HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/3931
+#EXTINF:-1,TR: Dost Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1202
+#EXTINF:-1,TR: SEMERKAND HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/191
+#EXTINF:-1,TR: Meltem TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/3543
+#EXTINF:-1,TR: Lalegul TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/319
+#EXTINF:-1,TR: TRT Diyanet HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1199
+#EXTINF:-1,TR: Sosyal Doku TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/22635
+#EXTINF:-1,TR: Trt Avaz
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/2055
+#EXTINF:-1,TR: Trt Kürdi HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/2054
+#EXTINF:-1,TR: As TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/16400
+#EXTINF:-1,TR: Ada TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5091
+#EXTINF:-1,TR: Srt Sivas
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56705
+#EXTINF:-1,TR: Adana Koza Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1203
+#EXTINF:-1,TR: Afyon Kanal 3 Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1204
+#EXTINF:-1,TR: ALTAS ORDU TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/4377
+#EXTINF:-1,TR: AV TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/6065
+#EXTINF:-1,TR: Ber Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5363
+#EXTINF:-1,TR: Beykent Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/329
+#EXTINF:-1,TR: BRT 1 HD Kibris
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1246
+#EXTINF:-1,TR: BRT 2 HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1247
+#EXTINF:-1,TR: Ciftci HD TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/9575
+#EXTINF:-1,TR: Corum 19 Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1220
+#EXTINF:-1,TR: Deha Tv Denizli
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1221
+#EXTINF:-1,TR: Denizli DRT TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1222
+#EXTINF:-1,TR: Karadeni Turk
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5086
+#EXTINF:-1,TR: Ege TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5084
+#EXTINF:-1,TR: ER TV Malatya
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5081
+#EXTINF:-1,TR: Es Tv Eskisehir
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5373
+#EXTINF:-1,TR: 1 AN TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/37466
+#EXTINF:-1,TR: Gonca Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5371
+#EXTINF:-1,TR: Guney Dogu TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5085
+#EXTINF:-1,TR: Haber 61 TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/28917
+#EXTINF:-1,TR: BLT Turk
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5380
+#EXTINF:-1,TR: HRT Akdeniz Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/39729
+#EXTINF:-1,TR: Kanal 43
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/39730
+#EXTINF:-1,TR: Kanal Firat
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1225
+#EXTINF:-1,TR: Kadirga Tv Trabzon
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/3926
+#EXTINF:-1,TR: Kanal Malatya
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56958
+#EXTINF:-1,TR: Kanal 33
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5357
+#EXTINF:-1,TR: Kanal 32
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/20873
+#EXTINF:-1,TR: Kanal 34
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5359
+#EXTINF:-1,TR: Park TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5080
+#EXTINF:-1,TR: Kanal 26 Eskişehir
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1230
+#EXTINF:-1,TR: Kanal 42
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5078
+#EXTINF:-1,TR: Kanal 68 - Aksaray
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5065
+#EXTINF:-1,TR: Kanal Z Zonguldak
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5377
+#EXTINF:-1,TR: Kanal 15
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1249
+#EXTINF:-1,TR: KANAL B
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/37522
+#EXTINF:-1,TR: Kanal V Antalya
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/2044
+#EXTINF:-1,TR: Kanal Urfa
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1239
+#EXTINF:-1,TR: Kibris Genc Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/39733
+#EXTINF:-1,TR: Kibris TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/39734
+#EXTINF:-1,TR: Kent Turk Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/20630
+#EXTINF:-1,TR: K.Maras Aksu Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1236
+#EXTINF:-1,TR: Kon Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1254
+#EXTINF:-1,TR: KRT TV HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/3544
+#EXTINF:-1,TR: Kudus Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/39735
+#EXTINF:-1,TR: Line Tv Bursa
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5361
+#EXTINF:-1,TR: Mercan TV Adiyaman
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5073
+#EXTINF:-1,TR: Metro Adana
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1258
+#EXTINF:-1,TR: Mavi Karadeniz
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/2467
+#EXTINF:-1,TR: On4
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/39738
+#EXTINF:-1,TR: Berat Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/39739
+#EXTINF:-1,TR: Nisa Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5375
+#EXTINF:-1,TR: Vuslat TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/56957
+#EXTINF:-1,TR: Rize Cay Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1269
+#EXTINF:-1,TR: Rehber Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1268
+#EXTINF:-1,TR: Köy TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5355
+#EXTINF:-1,TR: Kanal T
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/8308
+#EXTINF:-1,TR: Tek Rumeli Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5069
+#EXTINF:-1,TR: Tempo TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1261
+#EXTINF:-1,TR: TV 100
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/39742
+#EXTINF:-1,TR: TV A
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/39743
+#EXTINF:-1,TR: TVDEN TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/2468
+#EXTINF:-1,TR: Ton Tv Canakkale
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5696
+#EXTINF:-1,TR: Kay TV Kayseri
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1244
+#EXTINF:-1,TR: TV1 Kayseri
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/34987
+#EXTINF:-1,TR: TV5
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/37514
+#EXTINF:-1,TR: Tv41 Kocaeli
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/2045
+#EXTINF:-1,TR: Uzay Haber
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/39744
+#EXTINF:-1,TR: WM TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/39745
+#EXTINF:-1,TR: Vatan Tv
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/6593
+#EXTINF:-1,TR: Vizyon 58
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/39752
+#EXTINF:-1,TR: Yeni Kocaeli TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5075
+#EXTINF:-1,TR: EURO D
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/7244
+#EXTINF:-1,TR: Euro Star
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/7246
+#EXTINF:-1,TR: Show Turk
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/39754
+#EXTINF:-1,TR: TV8 Int
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/16404
+#EXTINF:-1,TR: ATV EU
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/17319
+#EXTINF:-1,TR: TJK TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1283
+#EXTINF:-1,TR: Tay TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1284
+#EXTINF:-1,TR: Fenerbahce TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/3875
+#EXTINF:-1,TR: GS TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/3322
+#EXTINF:-1,TR: Sports TV Turk
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1281
+#EXTINF:-1,TR: SMART SPOR HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/59038
+#EXTINF:-1,TR: SMART SPOR SD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/12898
+#EXTINF:-1,TR: S-Sport 1 HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/5861
+#EXTINF:-1,TR: S-Sport 2 HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/1276
+#EXTINF:-1,TR: NBA TV
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/48139
+#EXTINF:-1,TR: EUROSPORT1 TR HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/24691
+#EXTINF:-1,TR: EUROSPORT2 TR HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/24692
+#EXTINF:-1,TR: TIVIBUSPOR 1 HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/12899
+#EXTINF:-1,TR: TIVIBUSPOR 2 HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/12900
+#EXTINF:-1,TR: TIVIBUSPOR 3 HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/12901
+#EXTINF:-1,TR: BEiN SPORT MAX-1 HD (PLAY)
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/42027
+#EXTINF:-1,TR: BEiN SPORT MAX-2 HD (PLAY)
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/42028
+#EXTINF:-1,TR: BEiN SPORT-1 HD  (PLAY)
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/42023
+#EXTINF:-1,TR: BEiN SPORT-2 HD  (PLAY)
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/42024
+#EXTINF:-1,TR: BEiN SPORT-3 HD  (PLAY)
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/42025
+#EXTINF:-1,TR: BEiN SPORT-4 HD  (PLAY)
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/42026
+#EXTINF:-1,TR: BEINSPORTS MAX 1 HD (1LIG)
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/12897
+#EXTINF:-1,TR: BEINSPORTS MAX 2 HD (1LIG)
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/12966
+#EXTINF:-1,TR: BEINSPORTS 1 HD 1080P (ligtv1)
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/12893
+#EXTINF:-1,TR: BEINSPORTS 2 HD 1080P (ligtv2)
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/12894
+#EXTINF:-1,TR: BEINSPORTS 3 HD 1080P (ligtv3)
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/12895
+#EXTINF:-1,TR: BEINSPORTS 4 HD  1080P (ligtv4)
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/12896
+#EXTINF:-1,TR: BEINSPORTS MAX 1 HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/13890
+#EXTINF:-1,TR: BEINSPORTS MAX 2 HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/13891
+#EXTINF:-1,TR: beIN SPORT 1 HD (ligtv1)
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/14724
+#EXTINF:-1,TR: beIN SPORT 2 HD (ligtv2)
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/14723
+#EXTINF:-1,TR: beIN SPORT 3 HD (ligtv3)
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/14722
+#EXTINF:-1,TR: beIN SPORT 4 HD (ligtv4)
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/14721
+#EXTINF:-1,TR: beIN Sports Haber HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/24688
+#EXTINF:-1,TR: BEIN SPORTS 1 HD ( MACTA FHD )
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/24650
+#EXTINF:-1,TR: A SPOR HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/178
+#EXTINF:-1,TR: TRT SPOR HD
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/175
+#EXTINF:-1,TR: TRT 1 HD x265
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/58795
+#EXTINF:-1,TR: ATV HD x265
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/57038
+#EXTINF:-1,TR: STAR TV  HD x265
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/58792
+#EXTINF:-1,TR: KANAL D HD x265
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/57073
+#EXTINF:-1,TR: SHOW TV  HD x265
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/58791
+#EXTINF:-1,TR: TV 8 HD x265
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/58793
+#EXTINF:-1,TR: FOX TV  HD x265
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/58794
+#EXTINF:-1,TR: BEYAZ TV HD x265
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/58799
+#EXTINF:-1,TR: KANAL 7 HD x265
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/58800
+#EXTINF:-1,TR: CNN TURK HD x265
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/58801
+#EXTINF:-1,TR: HABER TURK HD x265
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/58802
+#EXTINF:-1,TR: NTV HD x265
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/58804
+#EXTINF:-1,TR: TRT HABER HD x265
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/58805
+#EXTINF:-1,TR: A HABER HD x265
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/58803
+#EXTINF:-1,TR: TRT SPOR HD x265
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/58965
+#EXTINF:-1,TR: A SPOR HD x265
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/58966
+#EXTINF:-1,TR: BeIN SPORTS HD 1 UHD X265
+http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/46827
