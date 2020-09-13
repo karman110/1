@@ -1,477 +1,319 @@
 #EXTM3U
-#EXTINF:-1,UK: BBC 1 FHD
-http://bymovistar.es:8080/manuel/1234/200482
-#EXTINF:-1,UK: BBC 2
-http://bymovistar.es:8080/manuel/1234/200483
-#EXTINF:-1,UK: BBC 3
-http://bymovistar.es:8080/manuel/1234/200484
-#EXTINF:-1,UK: BBC 4
-http://bymovistar.es:8080/manuel/1234/200485
-#EXTINF:-1,UK: BBC Scotland
-http://bymovistar.es:8080/manuel/1234/200486
-#EXTINF:-1,UK: BBC One Scotland
-http://bymovistar.es:8080/manuel/1234/200487
-#EXTINF:-1,UK: BBC Two Scotland
-http://bymovistar.es:8080/manuel/1234/200488
-#EXTINF:-1,UK: BBC One Wales
-http://bymovistar.es:8080/manuel/1234/200489
-#EXTINF:-1,UK: BBC Two Wales
-http://bymovistar.es:8080/manuel/1234/200490
-#EXTINF:-1,UK: BBC One Northern Ireland
-http://bymovistar.es:8080/manuel/1234/200491
-#EXTINF:-1,UK: BBC Two Northern Ireland
-http://bymovistar.es:8080/manuel/1234/200492
-#EXTINF:-1,UK: BBC Parliament
-http://bymovistar.es:8080/manuel/1234/200493
-#EXTINF:-1,UK: BBC Alba
-http://bymovistar.es:8080/manuel/1234/200494
-#EXTINF:-1,UK: CBeebies HD
-http://bymovistar.es:8080/manuel/1234/200495
-#EXTINF:-1,UK: CBBC
-http://bymovistar.es:8080/manuel/1234/200496
-#EXTINF:-1,UK: BBC News HD
-http://bymovistar.es:8080/manuel/1234/200497
-#EXTINF:-1,UK: BBC World News
-http://bymovistar.es:8080/manuel/1234/200498
-#EXTINF:-1,UK: Itv 1
-http://bymovistar.es:8080/manuel/1234/200499
-#EXTINF:-1,UK: Itv 2
-http://bymovistar.es:8080/manuel/1234/200500
-#EXTINF:-1,UK: Itv 3
-http://bymovistar.es:8080/manuel/1234/200501
-#EXTINF:-1,UK: Itv 4
-http://bymovistar.es:8080/manuel/1234/200502
-#EXTINF:-1,UK: Channel 4 HD
-http://bymovistar.es:8080/manuel/1234/200503
-#EXTINF:-1,UK: Channel 5 HD
-http://bymovistar.es:8080/manuel/1234/200504
-#EXTINF:-1,UK: Sky Sport Main Events
-http://bymovistar.es:8080/manuel/1234/200505
-#EXTINF:-1,UK: Sky Sport Cricket
-http://bymovistar.es:8080/manuel/1234/200506
-#EXTINF:-1,UK: Sky Sport Action
-http://bymovistar.es:8080/manuel/1234/200507
-#EXTINF:-1,UK: Sky Sport Golf
-http://bymovistar.es:8080/manuel/1234/200508
-#EXTINF:-1,UK: Sky Sport PL
-http://bymovistar.es:8080/manuel/1234/200509
-#EXTINF:-1,UK: Sky Sport F1
-http://bymovistar.es:8080/manuel/1234/200510
-#EXTINF:-1,UK: Sky Sport News
-http://bymovistar.es:8080/manuel/1234/200511
-#EXTINF:-1,UK: Sky Sport Main Events HD
-http://bymovistar.es:8080/manuel/1234/200512
-#EXTINF:-1,UK: Sky Sport Cricket HD
-http://bymovistar.es:8080/manuel/1234/200513
-#EXTINF:-1,UK: Sky Sport Action HD
-http://bymovistar.es:8080/manuel/1234/200514
-#EXTINF:-1,UK: Sky Sport Golf HD
-http://bymovistar.es:8080/manuel/1234/200515
-#EXTINF:-1,UK: Sky Sport Premier League HD
-http://bymovistar.es:8080/manuel/1234/200516
-#EXTINF:-1,UK: Sky Sport Football HD
-http://bymovistar.es:8080/manuel/1234/200517
-#EXTINF:-1,UK: Sky Sport Arena HD
-http://bymovistar.es:8080/manuel/1234/200518
-#EXTINF:-1,UK: Sky Sport F1 HD
-http://bymovistar.es:8080/manuel/1234/200519
-#EXTINF:-1,UK: Sky Sports News HD
-http://bymovistar.es:8080/manuel/1234/200520
-#EXTINF:-1,UK: Sky Sports MIX
-http://bymovistar.es:8080/manuel/1234/200521
-#EXTINF:-1,UK: BT Sports 1 HD
-http://bymovistar.es:8080/manuel/1234/200522
-#EXTINF:-1,UK: BT Sports 2 HD
-http://bymovistar.es:8080/manuel/1234/200523
-#EXTINF:-1,UK: BT Sports 3 HD
-http://bymovistar.es:8080/manuel/1234/200524
-#EXTINF:-1,UK: Eir Sport 1 HD
-http://bymovistar.es:8080/manuel/1234/200525
-#EXTINF:-1,UK: BT Sport 1
-http://bymovistar.es:8080/manuel/1234/200526
-#EXTINF:-1,UK: BT Sport 2
-http://bymovistar.es:8080/manuel/1234/200527
-#EXTINF:-1,UK: BT Sport 3
-http://bymovistar.es:8080/manuel/1234/200528
-#EXTINF:-1,UK: BT Sport ESPN HD
-http://bymovistar.es:8080/manuel/1234/200529
-#EXTINF:-1,UK: BT Sport Extra
-http://bymovistar.es:8080/manuel/1234/200530
-#EXTINF:-1,UK: BT Sport Mosaic
-http://bymovistar.es:8080/manuel/1234/200531
-#EXTINF:-1,UK: BT Sport Extra 1
-http://bymovistar.es:8080/manuel/1234/200532
-#EXTINF:-1,UK: BT Sport Extra 2
-http://bymovistar.es:8080/manuel/1234/200533
-#EXTINF:-1,UK: BT Sport Extra 3
-http://bymovistar.es:8080/manuel/1234/200534
-#EXTINF:-1,UK: BT Sport Extra 4
-http://bymovistar.es:8080/manuel/1234/200535
 #EXTINF:-1,UK: Box Nation HD
-http://bymovistar.es:8080/manuel/1234/200536
-#EXTINF:-1,UK: EuroSport 1 HD
-http://bymovistar.es:8080/manuel/1234/200537
-#EXTINF:-1,UK: EuroSport 2
-http://bymovistar.es:8080/manuel/1234/200538
-#EXTINF:-1,UK: Eir Sport 1
-http://bymovistar.es:8080/manuel/1234/200539
-#EXTINF:-1,UK: Eir Sport 2
-http://bymovistar.es:8080/manuel/1234/200540
-#EXTINF:-1,UK: Chelsea TV HD
-http://bymovistar.es:8080/manuel/1234/200541
-#EXTINF:-1,UK: Racing HD
-http://bymovistar.es:8080/manuel/1234/200542
+http://ingrid.ltd:25461/Melon3175/Melon7531/12355
+#EXTINF:-1,UK: BT SPORT 1
+http://ingrid.ltd:25461/Melon3175/Melon7531/3399
+#EXTINF:-1,UK: BT SPORT 2
+http://ingrid.ltd:25461/Melon3175/Melon7531/3398
+#EXTINF:-1,UK: BT SPORT 3
+http://ingrid.ltd:25461/Melon3175/Melon7531/3397
+#EXTINF:-1,UK: BT SPORT ESPN
+http://ingrid.ltd:25461/Melon3175/Melon7531/3396
+#EXTINF:-1,UK: BT Sport Extra 1
+http://ingrid.ltd:25461/Melon3175/Melon7531/42109
+#EXTINF:-1,UK: BT Sport Extra 2
+http://ingrid.ltd:25461/Melon3175/Melon7531/42110
+#EXTINF:-1,UK: eir Sport 2 FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/5313
+#EXTINF:-1,UK: Eurosport 1
+http://ingrid.ltd:25461/Melon3175/Melon7531/42101
+#EXTINF:-1,UK: Eurosport 2
+http://ingrid.ltd:25461/Melon3175/Melon7531/42102
+#EXTINF:-1,UK: Eurosport 4k
+http://ingrid.ltd:25461/Melon3175/Melon7531/41411
+#EXTINF:-1,UK: RACING HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/23486
+#EXTINF:-1,UK: Sky Sports Action FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/25176
+#EXTINF:-1,UK: Sky Sports Arena FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/25175
+#EXTINF:-1,UK: Sky Sports Arena HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/7949
+#EXTINF:-1,UK: Sky Sports Box Office HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/25161
+#EXTINF:-1,UK: Sky Sports Golf HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/25174
+#EXTINF:-1,UK: Sky Sports Cricket HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/7947
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/41545
+#EXTINF:-1,UK: Sky Sports Football FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/25172
+#EXTINF:-1,UK: Sky Sports Football HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/7951
+#EXTINF:-1,UK: Sky Sports Golf FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/25171
+#EXTINF:-1,UK: Sky Sports Main Event FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/25170
+#EXTINF:-1,UK: Sky Sports Mix FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/25169
+#EXTINF:-1,UK: Sky Sports News FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/25168
+#EXTINF:-1,UK: FrontRunner
+http://ingrid.ltd:25461/Melon3175/Melon7531/23497
 #EXTINF:-1,UK: At The Races
-http://bymovistar.es:8080/manuel/1234/200543
-#EXTINF:-1,UK: MUTV HD
-http://bymovistar.es:8080/manuel/1234/200544
-#EXTINF:-1,UK: MUTV
-http://bymovistar.es:8080/manuel/1234/200545
-#EXTINF:-1,UK: 3E
-http://bymovistar.es:8080/manuel/1234/200546
-#EXTINF:-1,UK: 4Music
-http://bymovistar.es:8080/manuel/1234/200547
-#EXTINF:-1,UK: 4seven
-http://bymovistar.es:8080/manuel/1234/200548
-#EXTINF:-1,UK: 5 Star
-http://bymovistar.es:8080/manuel/1234/200549
-#EXTINF:-1,UK: 5 Usa
-http://bymovistar.es:8080/manuel/1234/200550
-#EXTINF:-1,UK: Alibi
-http://bymovistar.es:8080/manuel/1234/200551
-#EXTINF:-1,UK: AMC From BT
-http://bymovistar.es:8080/manuel/1234/200552
-#EXTINF:-1,UK: Animal Planet
-http://bymovistar.es:8080/manuel/1234/200553
-#EXTINF:-1,UK: baby tv
-http://bymovistar.es:8080/manuel/1234/200554
-#EXTINF:-1,UK: BET
-http://bymovistar.es:8080/manuel/1234/200555
-#EXTINF:-1,UK: Bike
-http://bymovistar.es:8080/manuel/1234/200556
-#EXTINF:-1,UK: Blaze
-http://bymovistar.es:8080/manuel/1234/200557
-#EXTINF:-1,UK: Bloomberg
-http://bymovistar.es:8080/manuel/1234/200558
-#EXTINF:-1,UK: Boomerang
-http://bymovistar.es:8080/manuel/1234/200559
-#EXTINF:-1,UK: C ITV
-http://bymovistar.es:8080/manuel/1234/200560
-#EXTINF:-1,UK: Cartoonito
-http://bymovistar.es:8080/manuel/1234/200562
-#EXTINF:-1,UK: CBS Action
-http://bymovistar.es:8080/manuel/1234/200563
-#EXTINF:-1,UK: CBS Justice
-http://bymovistar.es:8080/manuel/1234/200564
-#EXTINF:-1,UK: CBS Reality
-http://bymovistar.es:8080/manuel/1234/200565
-#EXTINF:-1,UK: Challenge
-http://bymovistar.es:8080/manuel/1234/200566
-#EXTINF:-1,UK: Chart Show Hits UK
-http://bymovistar.es:8080/manuel/1234/200567
-#EXTINF:-1,UK: BOX Hits
-http://bymovistar.es:8080/manuel/1234/200568
-#EXTINF:-1,UK: CNBC News
-http://bymovistar.es:8080/manuel/1234/200569
-#EXTINF:-1,UK: CNN HD
-http://bymovistar.es:8080/manuel/1234/200570
-#EXTINF:-1,UK: Comedy Central Extra
-http://bymovistar.es:8080/manuel/1234/200571
-#EXTINF:-1,UK: Comedy Central HD
-http://bymovistar.es:8080/manuel/1234/200572
-#EXTINF:-1,UK: Crime & Investigation HD
-http://bymovistar.es:8080/manuel/1234/200573
-#EXTINF:-1,UK: Dave HD
-http://bymovistar.es:8080/manuel/1234/200574
-#EXTINF:-1,UK: Discovery
-http://bymovistar.es:8080/manuel/1234/200575
-#EXTINF:-1,UK: Discovery History
-http://bymovistar.es:8080/manuel/1234/200576
-#EXTINF:-1,UK: Discovery Science
-http://bymovistar.es:8080/manuel/1234/200577
-#EXTINF:-1,UK: Discovery Turbo
-http://bymovistar.es:8080/manuel/1234/200578
-#EXTINF:-1,UK: Discovery Shed
-http://bymovistar.es:8080/manuel/1234/200579
-#EXTINF:-1,UK: DISNEY HD
-http://bymovistar.es:8080/manuel/1234/200580
-#EXTINF:-1,UK: Disney XD
-http://bymovistar.es:8080/manuel/1234/200581
-#EXTINF:-1,UK: DMAX HD
-http://bymovistar.es:8080/manuel/1234/200582
-#EXTINF:-1,UK: Drama
-http://bymovistar.es:8080/manuel/1234/200583
-#EXTINF:-1,UK: E!
-http://bymovistar.es:8080/manuel/1234/200584
-#EXTINF:-1,UK: E4 HD
-http://bymovistar.es:8080/manuel/1234/200585
-#EXTINF:-1,UK: E4
-http://bymovistar.es:8080/manuel/1234/200586
-#EXTINF:-1,UK: EDEN HD
-http://bymovistar.es:8080/manuel/1234/200587
-#EXTINF:-1,UK: Film 4 HD
-http://bymovistar.es:8080/manuel/1234/200588
-#EXTINF:-1,UK: Film4 HD
-http://bymovistar.es:8080/manuel/1234/200589
-#EXTINF:-1,UK: Fine Living Network
-http://bymovistar.es:8080/manuel/1234/200590
-#EXTINF:-1,UK: Five
-http://bymovistar.es:8080/manuel/1234/200591
-#EXTINF:-1,UK: Food Network
-http://bymovistar.es:8080/manuel/1234/200592
-#EXTINF:-1,UK: Fox
-http://bymovistar.es:8080/manuel/1234/200593
-#EXTINF:-1,UK: Fox News HD
-http://bymovistar.es:8080/manuel/1234/200594
-#EXTINF:-1,UK: France 24
-http://bymovistar.es:8080/manuel/1234/200595
-#EXTINF:-1,UK: Free Sports
-http://bymovistar.es:8080/manuel/1234/200596
-#EXTINF:-1,UK: Gold
-http://bymovistar.es:8080/manuel/1234/200597
-#EXTINF:-1,UK: Good Food
-http://bymovistar.es:8080/manuel/1234/200598
-#EXTINF:-1,UK: H2
-http://bymovistar.es:8080/manuel/1234/200599
-#EXTINF:-1,UK: Heart
-http://bymovistar.es:8080/manuel/1234/200600
-#EXTINF:-1,UK: History HD
-http://bymovistar.es:8080/manuel/1234/200601
-#EXTINF:-1,UK: Home
-http://bymovistar.es:8080/manuel/1234/200602
-#EXTINF:-1,UK: Home Health
-http://bymovistar.es:8080/manuel/1234/200603
-#EXTINF:-1,UK: Horror Channel
-http://bymovistar.es:8080/manuel/1234/200604
-#EXTINF:-1,UK: Horse and Country
-http://bymovistar.es:8080/manuel/1234/200605
-#EXTINF:-1,UK: Investigation Discovery
-http://bymovistar.es:8080/manuel/1234/200606
-#EXTINF:-1,UK: ITV Box Office PPV
-http://bymovistar.es:8080/manuel/1234/200607
-#EXTINF:-1,UK: ITVBE
-http://bymovistar.es:8080/manuel/1234/200608
-#EXTINF:-1,UK: Kerrang TV
-http://bymovistar.es:8080/manuel/1234/200609
-#EXTINF:-1,UK: Life Time HD
-http://bymovistar.es:8080/manuel/1234/200610
-#EXTINF:-1,UK: London Live
-http://bymovistar.es:8080/manuel/1234/200611
-#EXTINF:-1,UK: Magic TV
-http://bymovistar.es:8080/manuel/1234/200612
-#EXTINF:-1,UK: More 4
-http://bymovistar.es:8080/manuel/1234/200613
-#EXTINF:-1,UK: More 4 HD
-http://bymovistar.es:8080/manuel/1234/200614
-#EXTINF:-1,UK: Motors
-http://bymovistar.es:8080/manuel/1234/200615
-#EXTINF:-1,UK: Movies4Men
-http://bymovistar.es:8080/manuel/1234/200616
-#EXTINF:-1,UK: MTV HD
-http://bymovistar.es:8080/manuel/1234/200617
-#EXTINF:-1,UK: MTV
-http://bymovistar.es:8080/manuel/1234/200618
-#EXTINF:-1,UK: MTV Base
-http://bymovistar.es:8080/manuel/1234/200619
-#EXTINF:-1,UK: MTV Classic
-http://bymovistar.es:8080/manuel/1234/200620
-#EXTINF:-1,UK: Club MTV
-http://bymovistar.es:8080/manuel/1234/200621
-#EXTINF:-1,UK: MTV Hits
-http://bymovistar.es:8080/manuel/1234/200622
-#EXTINF:-1,UK: MTV Dance
-http://bymovistar.es:8080/manuel/1234/200623
-#EXTINF:-1,UK: MTV OMG
-http://bymovistar.es:8080/manuel/1234/200624
-#EXTINF:-1,UK: MTV Music
-http://bymovistar.es:8080/manuel/1234/200625
-#EXTINF:-1,UK: MTV Rocks
-http://bymovistar.es:8080/manuel/1234/200626
-#EXTINF:-1,UK: Nat Geo
-http://bymovistar.es:8080/manuel/1234/200627
-#EXTINF:-1,UK: Nat Geo Wild
-http://bymovistar.es:8080/manuel/1234/200628
-#EXTINF:-1,UK: Nick Jnr Too
-http://bymovistar.es:8080/manuel/1234/200629
-#EXTINF:-1,UK: NICK JUNIOR
-http://bymovistar.es:8080/manuel/1234/200630
-#EXTINF:-1,UK: NICK TOONS
-http://bymovistar.es:8080/manuel/1234/200631
-#EXTINF:-1,UK: Nickelodeon
-http://bymovistar.es:8080/manuel/1234/200632
-#EXTINF:-1,UK: Nollywood
-http://bymovistar.es:8080/manuel/1234/200633
-#EXTINF:-1,UK: Now 80s
-http://bymovistar.es:8080/manuel/1234/200634
-#EXTINF:-1,UK: Now 90s
-http://bymovistar.es:8080/manuel/1234/200635
-#EXTINF:-1,UK: PBS America
-http://bymovistar.es:8080/manuel/1234/200636
-#EXTINF:-1,UK: PICK
-http://bymovistar.es:8080/manuel/1234/200637
-#EXTINF:-1,UK: POP
-http://bymovistar.es:8080/manuel/1234/200638
-#EXTINF:-1,UK: Quest
-http://bymovistar.es:8080/manuel/1234/200639
-#EXTINF:-1,UK: Quest Red
-http://bymovistar.es:8080/manuel/1234/200640
-#EXTINF:-1,UK: Real Lives
-http://bymovistar.es:8080/manuel/1234/200641
-#EXTINF:-1,UK: Really
-http://bymovistar.es:8080/manuel/1234/200642
-#EXTINF:-1,UK: ROK TV
-http://bymovistar.es:8080/manuel/1234/200643
-#EXTINF:-1,UK: RT Documentary HD
-http://bymovistar.es:8080/manuel/1234/200644
-#EXTINF:-1,UK: RTE 1 HD
-http://bymovistar.es:8080/manuel/1234/200645
-#EXTINF:-1,UK: RTE 2 HD
-http://bymovistar.es:8080/manuel/1234/200646
-#EXTINF:-1,UK: RTE News Now
-http://bymovistar.es:8080/manuel/1234/200647
-#EXTINF:-1,UK: Rte One
-http://bymovistar.es:8080/manuel/1234/200648
-#EXTINF:-1,UK: Rte two
-http://bymovistar.es:8080/manuel/1234/200649
-#EXTINF:-1,UK: RTEjr
-http://bymovistar.es:8080/manuel/1234/200650
-#EXTINF:-1,UK: S4C
-http://bymovistar.es:8080/manuel/1234/200651
-#EXTINF:-1,UK: SKY 1 HD
-http://bymovistar.es:8080/manuel/1234/200652
-#EXTINF:-1,UK: Sky Arts
-http://bymovistar.es:8080/manuel/1234/200653
+http://ingrid.ltd:25461/Melon3175/Melon7531/23496
 #EXTINF:-1,UK: Sky Atlantic
-http://bymovistar.es:8080/manuel/1234/200654
-#EXTINF:-1,UK: Sky Living
-http://bymovistar.es:8080/manuel/1234/200655
-#EXTINF:-1,UK: Sky Movies Action & Adv
-http://bymovistar.es:8080/manuel/1234/200656
-#EXTINF:-1,UK: Sky Movies Comedy
-http://bymovistar.es:8080/manuel/1234/200657
-#EXTINF:-1,UK: Sky Movies Drama
-http://bymovistar.es:8080/manuel/1234/200658
-#EXTINF:-1,UK: Sky Movies Family
-http://bymovistar.es:8080/manuel/1234/200659
-#EXTINF:-1,UK: Sky Movies Modern-Geant
-http://bymovistar.es:8080/manuel/1234/200660
-#EXTINF:-1,UK: Sky Movies Premiere
-http://bymovistar.es:8080/manuel/1234/200661
-#EXTINF:-1,UK: Sky Movies Sci-Fi
-http://bymovistar.es:8080/manuel/1234/200662
-#EXTINF:-1,UK: Sky Movies Select
-http://bymovistar.es:8080/manuel/1234/200663
-#EXTINF:-1,UK: Sky Movies Showcase
-http://bymovistar.es:8080/manuel/1234/200664
-#EXTINF:-1,UK: Sky Movies Thriller
-http://bymovistar.es:8080/manuel/1234/200665
+http://ingrid.ltd:25461/Melon3175/Melon7531/42117
+#EXTINF:-1,UK: Sky Cinema Action & Adventure
+http://ingrid.ltd:25461/Melon3175/Melon7531/42111
+#EXTINF:-1,UK: Sky Cinema Comedy
+http://ingrid.ltd:25461/Melon3175/Melon7531/42118
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller
+http://ingrid.ltd:25461/Melon3175/Melon7531/22962
+#EXTINF:-1,UK: Sky Cinema Disney
+http://ingrid.ltd:25461/Melon3175/Melon7531/42113
+#EXTINF:-1,UK: Sky Cinema Drama & Romance
+http://ingrid.ltd:25461/Melon3175/Melon7531/42112
+#EXTINF:-1,UK: Sky Cinema Greats
+http://ingrid.ltd:25461/Melon3175/Melon7531/42116
+#EXTINF:-1,UK: Sky Cinema Hits
+http://ingrid.ltd:25461/Melon3175/Melon7531/42115
+#EXTINF:-1,UK: Sky Cinema Premiere
+http://ingrid.ltd:25461/Melon3175/Melon7531/42114
+#EXTINF:-1,UK: Sky Cinema Premiere +1
+http://ingrid.ltd:25461/Melon3175/Melon7531/42122
+#EXTINF:-1,UK: Sky Cinema SciFi & Horror
+http://ingrid.ltd:25461/Melon3175/Melon7531/42121
+#EXTINF:-1,UK: Sky Cinema Select
+http://ingrid.ltd:25461/Melon3175/Melon7531/42120
+#EXTINF:-1,UK: Sky Cinema Superheroes
+http://ingrid.ltd:25461/Melon3175/Melon7531/42119
+#EXTINF:-1,UK: Boomerang
+http://ingrid.ltd:25461/Melon3175/Melon7531/3176
+#EXTINF:-1,UK: Cbeebies HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3131
+#EXTINF:-1,UK: Disney Channel FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3410
+#EXTINF:-1,UK: Disney Jr.
+http://ingrid.ltd:25461/Melon3175/Melon7531/3194
+#EXTINF:-1,UK: Disney XD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3168
+#EXTINF:-1,UK: Nick Jr
+http://ingrid.ltd:25461/Melon3175/Melon7531/3380
+#EXTINF:-1,UK: Nick Jr
+http://ingrid.ltd:25461/Melon3175/Melon7531/3378
+#EXTINF:-1,UK: Nickelodeon
+http://ingrid.ltd:25461/Melon3175/Melon7531/3384
+#EXTINF:-1,UK: Nicktoons
+http://ingrid.ltd:25461/Melon3175/Melon7531/3434
+#EXTINF:-1,UK: RTE jr
+http://ingrid.ltd:25461/Melon3175/Melon7531/3148
+#EXTINF:-1,UK: RTE News
+http://ingrid.ltd:25461/Melon3175/Melon7531/3147
 #EXTINF:-1,UK: Sky News
-http://bymovistar.es:8080/manuel/1234/200666
-#EXTINF:-1,UK: Sky One
-http://bymovistar.es:8080/manuel/1234/200667
-#EXTINF:-1,UK: Sky Two
-http://bymovistar.es:8080/manuel/1234/200668
-#EXTINF:-1,UK: Sky Witness
-http://bymovistar.es:8080/manuel/1234/200669
-#EXTINF:-1,UK: Sony Channel
-http://bymovistar.es:8080/manuel/1234/200670
-#EXTINF:-1,UK: Sony Entertainment (SET)
-http://bymovistar.es:8080/manuel/1234/200671
-#EXTINF:-1,UK: spike
-http://bymovistar.es:8080/manuel/1234/200672
-#EXTINF:-1,UK: Starz TV
-http://bymovistar.es:8080/manuel/1234/200673
-#EXTINF:-1,UK: Syfy
-http://bymovistar.es:8080/manuel/1234/200674
+http://ingrid.ltd:25461/Melon3175/Melon7531/3437
+#EXTINF:-1,UK: Sky News (Backup)
+http://ingrid.ltd:25461/Melon3175/Melon7531/3141
+#EXTINF:-1,UK: ALIBI HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3452
+#EXTINF:-1,UK: Baby TV
+http://ingrid.ltd:25461/Melon3175/Melon7531/3188
+#EXTINF:-1,UK: BBC 1 FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/39727
+#EXTINF:-1,UK: BBC 2 FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/39726
+#EXTINF:-1,UK: BBC 4 HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3447
+#EXTINF:-1,UK: BBC 4 FHD /CBEEBIES
+http://ingrid.ltd:25461/Melon3175/Melon7531/39724
+#EXTINF:-1,UK: BBC NEWS FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/39723
+#EXTINF:-1,UK: BET HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3185
+#EXTINF:-1,UK: Blaze
+http://ingrid.ltd:25461/Melon3175/Melon7531/3177
+#EXTINF:-1,UK: CBBC HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3174
+#EXTINF:-1,UK: CBS Action
+http://ingrid.ltd:25461/Melon3175/Melon7531/3191
+#EXTINF:-1,UK: CBS Drama
+http://ingrid.ltd:25461/Melon3175/Melon7531/3444
+#EXTINF:-1,UK: CBS Reality
+http://ingrid.ltd:25461/Melon3175/Melon7531/3425
+#EXTINF:-1,UK: Challenge
+http://ingrid.ltd:25461/Melon3175/Melon7531/3443
+#EXTINF:-1,UK: Channel 4 HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3190
+#EXTINF:-1,UK: CHANNEL 4 FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/39721
+#EXTINF:-1,UK: Channel 5 HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3388
+#EXTINF:-1,UK: CHANNEL 5 FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/39720
+#EXTINF:-1,UK: Comedy Central FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3428
+#EXTINF:-1,UK: Crime & Investigation
+http://ingrid.ltd:25461/Melon3175/Melon7531/3196
+#EXTINF:-1,UK: Dave TV
+http://ingrid.ltd:25461/Melon3175/Melon7531/42048
+#EXTINF:-1,UK: Daystar FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/42371
+#EXTINF:-1,UK: Discovery HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/41570
+#EXTINF:-1,UK: Discovery History
+http://ingrid.ltd:25461/Melon3175/Melon7531/41571
+#EXTINF:-1,UK: Discovery Science
+http://ingrid.ltd:25461/Melon3175/Melon7531/41572
+#EXTINF:-1,UK: Discovery Shed
+http://ingrid.ltd:25461/Melon3175/Melon7531/41578
+#EXTINF:-1,UK: Discovery Turbo
+http://ingrid.ltd:25461/Melon3175/Melon7531/41577
+#EXTINF:-1,UK: Drama
+http://ingrid.ltd:25461/Melon3175/Melon7531/3442
+#EXTINF:-1,UK: DMAX
+http://ingrid.ltd:25461/Melon3175/Melon7531/3195
+#EXTINF:-1,UK: E! Entertainment
+http://ingrid.ltd:25461/Melon3175/Melon7531/3200
+#EXTINF:-1,UK: E4
+http://ingrid.ltd:25461/Melon3175/Melon7531/42366
+#EXTINF:-1,UK: Eden FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/42373
+#EXTINF:-1,UK: Food Network
+http://ingrid.ltd:25461/Melon3175/Melon7531/3368
+#EXTINF:-1,UK: Fox FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/42365
+#EXTINF:-1,UK: GOLD FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3416
+#EXTINF:-1,UK: Good Food
+http://ingrid.ltd:25461/Melon3175/Melon7531/42370
+#EXTINF:-1,UK: H2 HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3165
+#EXTINF:-1,UK: History HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3164
+#EXTINF:-1,UK: Home & Health
+http://ingrid.ltd:25461/Melon3175/Melon7531/3163
+#EXTINF:-1,UK: Love Nature FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/42372
+#EXTINF:-1,UK: ITV 1 HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3207
+#EXTINF:-1,UK: ITV 1 FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/39718
+#EXTINF:-1,UK: ITV 2 HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3206
+#EXTINF:-1,UK: ITV 2 FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/39717
+#EXTINF:-1,UK: ITV 3 HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3205
+#EXTINF:-1,UK: ITV 3 FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/39716
+#EXTINF:-1,UK: ITV 4 HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3204
+#EXTINF:-1,UK: ITV 4 FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/39715
+#EXTINF:-1,UK: ITV BE HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3203
+#EXTINF:-1,UK: ITV BE FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/39719
+#EXTINF:-1,UK: More4 HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3382
+#EXTINF:-1,UK: Movies4men
+http://ingrid.ltd:25461/Melon3175/Melon7531/3422
+#EXTINF:-1,UK: Movies 24
+http://ingrid.ltd:25461/Melon3175/Melon7531/3381
+#EXTINF:-1,UK: MTV BASE
+http://ingrid.ltd:25461/Melon3175/Melon7531/3158
+#EXTINF:-1,UK: MTV CLASSIC
+http://ingrid.ltd:25461/Melon3175/Melon7531/3157
+#EXTINF:-1,UK: MTV DANCE
+http://ingrid.ltd:25461/Melon3175/Melon7531/3156
+#EXTINF:-1,UK: MTV Hits
+http://ingrid.ltd:25461/Melon3175/Melon7531/3372
+#EXTINF:-1,UK: MTV MUSIC
+http://ingrid.ltd:25461/Melon3175/Melon7531/3155
+#EXTINF:-1,UK: MTV ROCKS
+http://ingrid.ltd:25461/Melon3175/Melon7531/3154
+#EXTINF:-1,UK: National Geographic HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3433
+#EXTINF:-1,UK: National Geographic Wild HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3377
+#EXTINF:-1,UK: Pick TV
+http://ingrid.ltd:25461/Melon3175/Melon7531/3387
+#EXTINF:-1,UK: Quest HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3385
+#EXTINF:-1,UK: QVC
+http://ingrid.ltd:25461/Melon3175/Melon7531/36329
+#EXTINF:-1,UK: QVC Plus
+http://ingrid.ltd:25461/Melon3175/Melon7531/36613
+#EXTINF:-1,UK: QVC Style
+http://ingrid.ltd:25461/Melon3175/Melon7531/36614
+#EXTINF:-1,UK: Really
+http://ingrid.ltd:25461/Melon3175/Melon7531/3389
+#EXTINF:-1,UK: RTE ONE HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3435
+#EXTINF:-1,UK : RTE NEWS
+http://ingrid.ltd:25461/Melon3175/Melon7531/39730
+#EXTINF:-1,UK: RTE TWO HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3436
+#EXTINF:-1,UK: Smithsonian FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/42369
+#EXTINF:-1,UK: Sky Atlantic FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3390
+#EXTINF:-1,UK: Sky Cinema SciFi & Horror
+http://ingrid.ltd:25461/Melon3175/Melon7531/3431
+#EXTINF:-1,UK: Sky Witness FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/22830
+#EXTINF:-1,UK: SONY Movies
+http://ingrid.ltd:25461/Melon3175/Melon7531/3421
 #EXTINF:-1,UK: STV HD
-http://bymovistar.es:8080/manuel/1234/200675
-#EXTINF:-1,UK: TCM HD
-http://bymovistar.es:8080/manuel/1234/200676
+http://ingrid.ltd:25461/Melon3175/Melon7531/3138
+#EXTINF:-1,UK: SyFy HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3411
+#EXTINF:-1,UK: S4C HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3146
 #EXTINF:-1,UK: TG4
-http://bymovistar.es:8080/manuel/1234/200677
-#EXTINF:-1,UK: The Vault
-http://bymovistar.es:8080/manuel/1234/200678
+http://ingrid.ltd:25461/Melon3175/Melon7531/3412
 #EXTINF:-1,UK: Tiny Pop
-http://bymovistar.es:8080/manuel/1234/200679
+http://ingrid.ltd:25461/Melon3175/Melon7531/3137
 #EXTINF:-1,UK: TLC
-http://bymovistar.es:8080/manuel/1234/200680
-#EXTINF:-1,UK: Total Country
-http://bymovistar.es:8080/manuel/1234/200681
+http://ingrid.ltd:25461/Melon3175/Melon7531/3413
 #EXTINF:-1,UK: Travel Channel
-http://bymovistar.es:8080/manuel/1234/200682
-#EXTINF:-1,UK: Talking Pictures HD
-http://bymovistar.es:8080/manuel/1234/200683
-#EXTINF:-1,UK: True Ent
-http://bymovistar.es:8080/manuel/1234/200684
-#EXTINF:-1,UK: True Movies 1
-http://bymovistar.es:8080/manuel/1234/200685
-#EXTINF:-1,UK: True TV
-http://bymovistar.es:8080/manuel/1234/200686
-#EXTINF:-1,UK: TV3 IR HD
-http://bymovistar.es:8080/manuel/1234/200687
-#EXTINF:-1,UK: TV5
-http://bymovistar.es:8080/manuel/1234/200688
-#EXTINF:-1,UK: UFC fight night Pass HD
-http://bymovistar.es:8080/manuel/1234/200689
-#EXTINF:-1,UK: UFC Fight PASS
-http://bymovistar.es:8080/manuel/1234/200690
-#EXTINF:-1,UK: Universal Channel HD
-http://bymovistar.es:8080/manuel/1234/200691
-#EXTINF:-1,UK: UTV Ireland
-http://bymovistar.es:8080/manuel/1234/200692
-#EXTINF:-1,UK: VH1 Classic
-http://bymovistar.es:8080/manuel/1234/200693
-#EXTINF:-1,UK: Viceland HD
-http://bymovistar.es:8080/manuel/1234/200694
-#EXTINF:-1,UK: VIVA
-http://bymovistar.es:8080/manuel/1234/200695
-#EXTINF:-1,UK: W  1
-http://bymovistar.es:8080/manuel/1234/200696
-#EXTINF:-1,UK: Watch
-http://bymovistar.es:8080/manuel/1234/200697
-#EXTINF:-1,UK: Yesterday HD
-http://bymovistar.es:8080/manuel/1234/200698
-#EXTINF:-1,UK: LFC TV
-http://bymovistar.es:8080/manuel/1234/200699
-#EXTINF:-1,UK: Star Bharat
-http://bymovistar.es:8080/manuel/1234/200700
-#EXTINF:-1,UK: Colors Europe
-http://bymovistar.es:8080/manuel/1234/200701
-#EXTINF:-1,UK: Colors
-http://bymovistar.es:8080/manuel/1234/200702
-#EXTINF:-1,UK: B4U PLUS
-http://bymovistar.es:8080/manuel/1234/200703
-#EXTINF:-1,UK: B4U Music
-http://bymovistar.es:8080/manuel/1234/200704
-#EXTINF:-1,UK: B4U Movies
-http://bymovistar.es:8080/manuel/1234/200705
-#EXTINF:-1,UK: And TV
-http://bymovistar.es:8080/manuel/1234/200706
-#EXTINF:-1,UK: ABP News
-http://bymovistar.es:8080/manuel/1234/200707
-#EXTINF:-1,UK: Aaj Tak
-http://bymovistar.es:8080/manuel/1234/200708
-#EXTINF:-1,UK: Zing
-http://bymovistar.es:8080/manuel/1234/200709
-#EXTINF:-1,UK: Zee TV
-http://bymovistar.es:8080/manuel/1234/200710
-#EXTINF:-1,UK: Zee Punjabi
-http://bymovistar.es:8080/manuel/1234/200711
-#EXTINF:-1,UK: Star Plus
-http://bymovistar.es:8080/manuel/1234/200713
-#EXTINF:-1,UK: Star Jalsha
-http://bymovistar.es:8080/manuel/1234/200714
-#EXTINF:-1,UK: Star Gold
-http://bymovistar.es:8080/manuel/1234/200715
-#EXTINF:-1,UK: SET Max
-http://bymovistar.es:8080/manuel/1234/200716
-#EXTINF:-1,UK: Sab TV (SET)
-http://bymovistar.es:8080/manuel/1234/200717
-#EXTINF:-1,UK: Rishtey
-http://bymovistar.es:8080/manuel/1234/200718
-#EXTINF:-1,UK: Al Jazeera English FHD
-http://bymovistar.es:8080/manuel/1234/200719
-#EXTINF:-1,UK: SKY SPORT RACING
-http://bymovistar.es:8080/manuel/1234/200720
-#EXTINF:-1,UK: BBC ONE
-http://bymovistar.es:8080/manuel/1234/200721
+http://ingrid.ltd:25461/Melon3175/Melon7531/3136
+#EXTINF:-1,UK: TV3
+http://ingrid.ltd:25461/Melon3175/Melon7531/3189
+#EXTINF:-1,UK: UTV FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/42368
+#EXTINF:-1,UK: VH1
+http://ingrid.ltd:25461/Melon3175/Melon7531/3417
+#EXTINF:-1,UK: W
+http://ingrid.ltd:25461/Melon3175/Melon7531/42367
+#EXTINF:-1,UK: Yesterday
+http://ingrid.ltd:25461/Melon3175/Melon7531/3439
+#EXTINF:-1,UK: ZEE TV HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3182
+#EXTINF:-1,UK: 4 Seven HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3454
+#EXTINF:-1,UK: 5Star HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3453
+#EXTINF:-1,UK: 3E HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3181
+#EXTINF:-1,UK: 5USA HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3448
+#EXTINF:-1,UK: 4Music
+http://ingrid.ltd:25461/Melon3175/Melon7531/3180
+#EXTINF:-1,UK : EIR SPORTS 2
+http://ingrid.ltd:25461/Melon3175/Melon7531/39731
+#EXTINF:-1,UK: Freesports
+http://ingrid.ltd:25461/Melon3175/Melon7531/22915
+#EXTINF:-1,UK: TSN 1 HD (3pm kick offs)
+http://ingrid.ltd:25461/Melon3175/Melon7531/22989
+#EXTINF:-1,UK: TSN 2 HD (3pm kick offs)
+http://ingrid.ltd:25461/Melon3175/Melon7531/22988
+#EXTINF:-1,UK: TSN 3 HD (3pm kick offs)
+http://ingrid.ltd:25461/Melon3175/Melon7531/22987
+#EXTINF:-1,UK: TSN 4 HD (3pm kick offs)
+http://ingrid.ltd:25461/Melon3175/Melon7531/22986
+#EXTINF:-1,UK: TSN 5 HD (3pm kick offs)
+http://ingrid.ltd:25461/Melon3175/Melon7531/22985
+#EXTINF:-1,UK: Sky Sports Premier League FHD
+http://ingrid.ltd:25461/Melon3175/Melon7531/22992
+#EXTINF:-1,UK: Chelsea FC TV HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3552
+#EXTINF:-1,UK: Liverpool  FC TV HD
+http://ingrid.ltd:25461/Melon3175/Melon7531/3371
+#EXTINF:-1,UK: LFC TV 1080
+http://ingrid.ltd:25461/Melon3175/Melon7531/22993
+#EXTINF:-1,UK: LFC TV 1080
+http://ingrid.ltd:25461/Melon3175/Melon7531/3551
+#EXTINF:-1,UK: MUTV 
+http://ingrid.ltd:25461/Melon3175/Melon7531/3383
