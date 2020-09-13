@@ -1391,9 +1391,640 @@ http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/58804
 http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/58805
 #EXTINF:-1,TR: A HABER HD x265
 http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/58803
-#EXTINF:-1,TR: TRT SPOR HD x265
-http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/58965
-#EXTINF:-1,TR: A SPOR HD x265
-http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/58966
-#EXTINF:-1,TR: BeIN SPORTS HD 1 UHD X265
-http://edge.19741977.network:8080/7Qul5XtAwp/DSomofNGJN/46827
+#EXTM3U
+#EXTINF:-1,TR:SHOW HD 1080
+http://bymovistar.es:8080/manuel/1234/201060
+#EXTINF:-1,TR:TV8 HD 1080
+http://bymovistar.es:8080/manuel/1234/201062
+#EXTINF:-1,TR:TV8 5 HD 1080
+http://bymovistar.es:8080/manuel/1234/201064
+#EXTINF:-1,TR:KANAL 7 HD 1080
+http://bymovistar.es:8080/manuel/1234/201065
+#EXTINF:-1,TR:FOX TV HD 1080
+http://bymovistar.es:8080/manuel/1234/201066
+#EXTINF:-1,TR:BEYAZ TV HD 1080
+http://bymovistar.es:8080/manuel/1234/201069
+#EXTINF:-1,TR:TRT 2 HD
+http://bymovistar.es:8080/manuel/1234/201071
+#EXTINF:-1,TR:TV 100 1080
+http://bymovistar.es:8080/manuel/1234/201073
+#EXTINF:-1,TR:VATAN TV
+http://bymovistar.es:8080/manuel/1234/201078
+#EXTINF:-1,TR:KANAL B
+http://bymovistar.es:8080/manuel/1234/201079
+#EXTINF:-1,TR:CEM TV
+http://bymovistar.es:8080/manuel/1234/201080
+#EXTINF:-1,TR:CAN TV HD
+http://bymovistar.es:8080/manuel/1234/201081
+#EXTINF:-1,TR:YOL TV
+http://bymovistar.es:8080/manuel/1234/201082
+#EXTINF:-1,TR:RUMELI TV
+http://bymovistar.es:8080/manuel/1234/201083
+#EXTINF:-1,TR:TEK RUMELI TV
+http://bymovistar.es:8080/manuel/1234/201084
+#EXTINF:-1,TR:AKILLI TV
+http://bymovistar.es:8080/manuel/1234/201085
+#EXTINF:-1,TR:MELTEM TV
+http://bymovistar.es:8080/manuel/1234/201086
+#EXTINF:-1,TR:TTEK RUMELI TV HD+
+http://bymovistar.es:8080/manuel/1234/201087
+#EXTINF:-1,TR:KOY TV
+http://bymovistar.es:8080/manuel/1234/201088
+#EXTINF:-1,TR:AKIT  TV HD
+http://bymovistar.es:8080/manuel/1234/201089
+#EXTINF:-1,TR:TELE 1
+http://bymovistar.es:8080/manuel/1234/201090
+#EXTINF:-1,TR:HALK TV
+http://bymovistar.es:8080/manuel/1234/201091
+#EXTINF:-1,TR:ULUSAL KANAL
+http://bymovistar.es:8080/manuel/1234/201092
+#EXTINF:-1,TR:beIN SPORTS 1 1080p
+http://bymovistar.es:8080/manuel/1234/201094
+#EXTINF:-1,TR:beIN SPORTS 1 720p
+http://bymovistar.es:8080/manuel/1234/201099
+#EXTINF:-1,TR:BEIN SPORTS 1 50 fps
+http://bymovistar.es:8080/manuel/1234/201100
+#EXTINF:-1,TR: BEIN SPORTS 1 BK
+http://bymovistar.es:8080/manuel/1234/201101
+#EXTINF:-1,TR:Bein sport 720
+http://bymovistar.es:8080/manuel/1234/201102
+#EXTINF:-1,TR:beIN SPORTS MAX 2
+http://bymovistar.es:8080/manuel/1234/201107
+#EXTINF:-1,TR:beIN SPORTS Max 1
+http://bymovistar.es:8080/manuel/1234/201108
+#EXTINF:-1,TR:beIN SPORTS HABER
+http://bymovistar.es:8080/manuel/1234/201109
+#EXTINF:-1,TR:beIN SPORTS 4
+http://bymovistar.es:8080/manuel/1234/201110
+#EXTINF:-1,TR:beIN SPORTS 3
+http://bymovistar.es:8080/manuel/1234/201111
+#EXTINF:-1,TR:beIN SPORTS 2
+http://bymovistar.es:8080/manuel/1234/201112
+#EXTINF:-1,TR:TIVIBUSPOR 1
+http://bymovistar.es:8080/manuel/1234/201113
+#EXTINF:-1,TR:TIVIBUSPOR 2
+http://bymovistar.es:8080/manuel/1234/201114
+#EXTINF:-1,TR:TIVIBUSPOR 3
+http://bymovistar.es:8080/manuel/1234/201115
+#EXTINF:-1,TR:SMART SPOR
+http://bymovistar.es:8080/manuel/1234/201116
+#EXTINF:-1,TR:S SPORT
+http://bymovistar.es:8080/manuel/1234/201117
+#EXTINF:-1,TR:FB TV HD
+http://bymovistar.es:8080/manuel/1234/201119
+#EXTINF:-1,TR:EUROSPORT 1
+http://bymovistar.es:8080/manuel/1234/201120
+#EXTINF:-1,TR:TRT SPOR HD
+http://bymovistar.es:8080/manuel/1234/201121
+#EXTINF:-1,TR: A SPOR HD
+http://bymovistar.es:8080/manuel/1234/201123
+#EXTINF:-1,TR:VIASAT HISTORY  TR.
+http://bymovistar.es:8080/manuel/1234/201125
+#EXTINF:-1,TR:FOX CRIME
+http://bymovistar.es:8080/manuel/1234/201126
+#EXTINF:-1,TR:DISCOVERY CHANNEL HD
+http://bymovistar.es:8080/manuel/1234/201127
+#EXTINF:-1,TR:NATIONAL GEOGRAPHIC
+http://bymovistar.es:8080/manuel/1234/201128
+#EXTINF:-1,TR:NATIONAL GEOGRAPHIC WILD
+http://bymovistar.es:8080/manuel/1234/201129
+#EXTINF:-1,TR:NATIONAL GEOGRAPHIC PEOPLE
+http://bymovistar.es:8080/manuel/1234/201130
+#EXTINF:-1,TR:DISCOVERY SIENCE
+http://bymovistar.es:8080/manuel/1234/201131
+#EXTINF:-1,TR:ANIMAL PLANET
+http://bymovistar.es:8080/manuel/1234/201132
+#EXTINF:-1,TR:DISCOVERY ID
+http://bymovistar.es:8080/manuel/1234/201134
+#EXTINF:-1,TR:DA VINCI LEARNING
+http://bymovistar.es:8080/manuel/1234/201135
+#EXTINF:-1,TR:YABAN TV
+http://bymovistar.es:8080/manuel/1234/201136
+#EXTINF:-1,TR:beIN GURME
+http://bymovistar.es:8080/manuel/1234/201137
+#EXTINF:-1,TR: BBC EARTH
+http://bymovistar.es:8080/manuel/1234/201138
+#EXTINF:-1,TR:DISCOVERY CHANNEL
+http://bymovistar.es:8080/manuel/1234/201139
+#EXTINF:-1,TR:DMAX
+http://bymovistar.es:8080/manuel/1234/201140
+#EXTINF:-1,TR: TRT BELGESEL
+http://bymovistar.es:8080/manuel/1234/201141
+#EXTINF:-1,TR:SINEMA TV YERLI
+http://bymovistar.es:8080/manuel/1234/201142
+#EXTINF:-1,TR:SINEMA TV AKSIYON
+http://bymovistar.es:8080/manuel/1234/201143
+#EXTINF:-1,TR:SINEMA TV
+http://bymovistar.es:8080/manuel/1234/201144
+#EXTINF:-1,TR:MOVIESMART TURK
+http://bymovistar.es:8080/manuel/1234/201145
+#EXTINF:-1,TR:MOVIESMART PREMIUM 2
+http://bymovistar.es:8080/manuel/1234/201146
+#EXTINF:-1,TR:MOVIESMART PREMIUM
+http://bymovistar.es:8080/manuel/1234/201147
+#EXTINF:-1,TR:MOVIESMART PLATIN 2
+http://bymovistar.es:8080/manuel/1234/201148
+#EXTINF:-1,TR:MOVIESMART PLATIN
+http://bymovistar.es:8080/manuel/1234/201149
+#EXTINF:-1,TR:MOVIESMART FEST
+http://bymovistar.es:8080/manuel/1234/201150
+#EXTINF:-1,TR:MOVIESMART CLASSIC
+http://bymovistar.es:8080/manuel/1234/201151
+#EXTINF:-1,TR:FX
+http://bymovistar.es:8080/manuel/1234/201152
+#EXTINF:-1,TR:DIZI SMART PREMIUM
+http://bymovistar.es:8080/manuel/1234/201153
+#EXTINF:-1,TR:beIN SERIES VICE
+http://bymovistar.es:8080/manuel/1234/201154
+#EXTINF:-1,TR:beIN SERIES SCI-FI 1
+http://bymovistar.es:8080/manuel/1234/201155
+#EXTINF:-1,TR:beIN SERIES DRAMA
+http://bymovistar.es:8080/manuel/1234/201156
+#EXTINF:-1,TR:beIN SERIES COMEDY
+http://bymovistar.es:8080/manuel/1234/201157
+#EXTINF:-1,TR: beIN MOVIES TURK
+http://bymovistar.es:8080/manuel/1234/201158
+#EXTINF:-1,TR: beIN MOVIES STARS
+http://bymovistar.es:8080/manuel/1234/201159
+#EXTINF:-1,TR:beIN MOVIES PREMIER 2
+http://bymovistar.es:8080/manuel/1234/201160
+#EXTINF:-1,TR:beIN MOVIES PREMIER
+http://bymovistar.es:8080/manuel/1234/201161
+#EXTINF:-1,TR:beIN MOVIES FAMILY
+http://bymovistar.es:8080/manuel/1234/201162
+#EXTINF:-1,TR: beIN MOVIES ACTION
+http://bymovistar.es:8080/manuel/1234/201163
+#EXTINF:-1,TR:TLC HD 1080
+http://bymovistar.es:8080/manuel/1234/201164
+#EXTINF:-1,TR:A HABER HD 1080
+http://bymovistar.es:8080/manuel/1234/201165
+#EXTINF:-1,TR:TRT HABER HD 720
+http://bymovistar.es:8080/manuel/1234/201166
+#EXTINF:-1,TR:BLOOMBERGHT HD 1080
+http://bymovistar.es:8080/manuel/1234/201168
+#EXTINF:-1,TR:360 HD 1080
+http://bymovistar.es:8080/manuel/1234/201169
+#EXTINF:-1,TR: HABER TURK
+http://bymovistar.es:8080/manuel/1234/201170
+#EXTINF:-1,TR: ULKE TV HD
+http://bymovistar.es:8080/manuel/1234/201171
+#EXTINF:-1,TR:KRAL TV 720
+http://bymovistar.es:8080/manuel/1234/201172
+#EXTINF:-1,TR:KRAL POP 720
+http://bymovistar.es:8080/manuel/1234/201173
+#EXTINF:-1,TR:MAVI KARADENIZ
+http://bymovistar.es:8080/manuel/1234/201174
+#EXTINF:-1,TR:CAY TV
+http://bymovistar.es:8080/manuel/1234/201175
+#EXTINF:-1,TR:DREAM TÃœRK
+http://bymovistar.es:8080/manuel/1234/201176
+#EXTINF:-1,TR:minikaCOCUK
+http://bymovistar.es:8080/manuel/1234/201177
+#EXTINF:-1,TR: minikaGO
+http://bymovistar.es:8080/manuel/1234/201178
+#EXTINF:-1,TR: MINIBOX SHE-RA
+http://bymovistar.es:8080/manuel/1234/201179
+#EXTINF:-1,TR: MINIBOX SEVIMLI DOSTLAR
+http://bymovistar.es:8080/manuel/1234/201180
+#EXTINF:-1,TR: MINIBOX RAFADAN TAYFA
+http://bymovistar.es:8080/manuel/1234/201181
+#EXTINF:-1,TR: MINIBOX PIJAMASKELILER
+http://bymovistar.es:8080/manuel/1234/201182
+#EXTINF:-1,TR: MINIBOX PEPE
+http://bymovistar.es:8080/manuel/1234/201183
+#EXTINF:-1,TR: MINIBOX NILOYA
+http://bymovistar.es:8080/manuel/1234/201184
+#EXTINF:-1,TR: MINIBOX MASHA ILE KOCA AYI
+http://bymovistar.es:8080/manuel/1234/201185
+#EXTINF:-1,TR: MINIBOX LIMON ILE ZEYTIN
+http://bymovistar.es:8080/manuel/1234/201186
+#EXTINF:-1,TR: MINIBOX KUZUCUK
+http://bymovistar.es:8080/manuel/1234/201187
+#EXTINF:-1,TR: MINIBOX KUKULI
+http://bymovistar.es:8080/manuel/1234/201188
+#EXTINF:-1,TR: MINIBOX KRAL SAKIR
+http://bymovistar.es:8080/manuel/1234/201189
+#EXTINF:-1,TR: MINIBOX CANIM KARDESIM
+http://bymovistar.es:8080/manuel/1234/201190
+#EXTINF:-1,TR: beIN Box Office 1
+http://bymovistar.es:8080/manuel/1234/201191
+#EXTINF:-1,TR: beIN Box Office 2
+http://bymovistar.es:8080/manuel/1234/201192
+#EXTINF:-1,TR: beIN Box Office 3
+http://bymovistar.es:8080/manuel/1234/201193
+#EXTINF:-1,TR: beIN Box Office 4
+http://bymovistar.es:8080/manuel/1234/201194
+#EXTINF:-1,TR: beIN Box Office 5
+http://bymovistar.es:8080/manuel/1234/201195
+#EXTINF:-1,TR: beIN Box Office 6
+http://bymovistar.es:8080/manuel/1234/201196
+#EXTINF:-1,TR: beIN Box Office 7
+http://bymovistar.es:8080/manuel/1234/201197
+#EXTINF:-1,TR: beIN Box Office 8
+http://bymovistar.es:8080/manuel/1234/201198
+#EXTINF:-1,TR: beIN Box Office 9
+http://bymovistar.es:8080/manuel/1234/201199
+#EXTINF:-1,TR: beIN Box Office 10
+http://bymovistar.es:8080/manuel/1234/201200
+#EXTINF:-1,TR: beIN Box Office 11
+http://bymovistar.es:8080/manuel/1234/201201
+#EXTINF:-1,TR: beIN Box Office 12
+http://bymovistar.es:8080/manuel/1234/201202
+#EXTINF:-1,TR: beIN Box Office 13
+http://bymovistar.es:8080/manuel/1234/201203
+#EXTINF:-1,TR: beIN Box Office 14
+http://bymovistar.es:8080/manuel/1234/201204
+#EXTINF:-1,TR: beIN Box Office 15
+http://bymovistar.es:8080/manuel/1234/201205
+#EXTINF:-1,TR: beIN Box Office 16
+http://bymovistar.es:8080/manuel/1234/201206
+#EXTINF:-1,TR: beIN Box Office 17
+http://bymovistar.es:8080/manuel/1234/201207
+#EXTINF:-1,TR: beIN Box Office 18
+http://bymovistar.es:8080/manuel/1234/201208
+#EXTINF:-1,TR: beIN Box Office 19
+http://bymovistar.es:8080/manuel/1234/201209
+#EXTINF:-1,TR: beIN Box Office 20
+http://bymovistar.es:8080/manuel/1234/201210
+#EXTINF:-1,TR: Marvel Studios INFO
+http://bymovistar.es:8080/manuel/1234/201211
+#EXTINF:-1,TR: Marvel Studios 1
+http://bymovistar.es:8080/manuel/1234/201212
+#EXTINF:-1,TR: Marvel Studios 2
+http://bymovistar.es:8080/manuel/1234/201213
+#EXTINF:-1,TR: Marvel Studios 3
+http://bymovistar.es:8080/manuel/1234/201214
+#EXTINF:-1,TR: Marvel Studios 4
+http://bymovistar.es:8080/manuel/1234/201215
+#EXTINF:-1,TR: Marvel Studios 5
+http://bymovistar.es:8080/manuel/1234/201216
+#EXTINF:-1,TR: Marvel Studios 6
+http://bymovistar.es:8080/manuel/1234/201217
+#EXTINF:-1,TR: Marvel Studios 7
+http://bymovistar.es:8080/manuel/1234/201218
+#EXTINF:-1,TR: Marvel Studios 8
+http://bymovistar.es:8080/manuel/1234/201219
+#EXTINF:-1,TR: Marvel Studios 9
+http://bymovistar.es:8080/manuel/1234/201220
+#EXTINF:-1,TR: Marvel Studios 10
+http://bymovistar.es:8080/manuel/1234/201221
+#EXTINF:-1,TR:UCAN KUS TV
+http://bymovistar.es:8080/manuel/1234/201222
+#EXTINF:-1,TR:BEIN SPORT HABER HDi
+http://bymovistar.es:8080/manuel/1234/199093
+#EXTINF:-1,TR:BEiN SPORT HABER HD
+http://bymovistar.es:8080/manuel/1234/199094
+#EXTINF:-1,TR:BEIN SPORT 1 (Mobil)
+http://bymovistar.es:8080/manuel/1234/199095
+#EXTINF:-1,TR:BEiN SPORT-1 SD
+http://bymovistar.es:8080/manuel/1234/199096
+#EXTINF:-1,TR:BEIN SPORTS 1 HD
+http://bymovistar.es:8080/manuel/1234/199097
+#EXTINF:-1,TR:BEIN SPORTS 1   HD
+http://bymovistar.es:8080/manuel/1234/199098
+#EXTINF:-1,TR:BEIN SPORTS 1 FHD
+http://bymovistar.es:8080/manuel/1234/199099
+#EXTINF:-1,TR:BEIN SPORTS 4 HD
+http://bymovistar.es:8080/manuel/1234/199100
+#EXTINF:-1,TR:BEiN SPORT-2 HDi
+http://bymovistar.es:8080/manuel/1234/199101
+#EXTINF:-1,TR:BEIN SPORTS 2 HD
+http://bymovistar.es:8080/manuel/1234/199102
+#EXTINF:-1,TR:BEIN SPORTS 2 FHD
+http://bymovistar.es:8080/manuel/1234/199103
+#EXTINF:-1,TR:BEiN SPORT-3 HDi
+http://bymovistar.es:8080/manuel/1234/199104
+#EXTINF:-1,TR:BEIN SPORTS 3 HD
+http://bymovistar.es:8080/manuel/1234/199105
+#EXTINF:-1,TR:BEIN SPORTS 3 FHD
+http://bymovistar.es:8080/manuel/1234/199106
+#EXTINF:-1,TR:BEiN SPORT-4 HDi
+http://bymovistar.es:8080/manuel/1234/199107
+#EXTINF:-1,TR:BEIN SPORTS 4 FHD
+http://bymovistar.es:8080/manuel/1234/199108
+#EXTINF:-1,TR:BEiN SPORT MAX-1 HDi
+http://bymovistar.es:8080/manuel/1234/199109
+#EXTINF:-1,TR:BEIN SPORTS MAX 1 HD
+http://bymovistar.es:8080/manuel/1234/199110
+#EXTINF:-1,TR:BEIN SPORTS MAX 1 FHD
+http://bymovistar.es:8080/manuel/1234/199111
+#EXTINF:-1,TR:BEiN SPORT MAX-2 HDi
+http://bymovistar.es:8080/manuel/1234/199112
+#EXTINF:-1,TR:BEIN SPORTS MAX 2 HD
+http://bymovistar.es:8080/manuel/1234/199113
+#EXTINF:-1,TR:BEIN SPORTS MAX 2 FHD
+http://bymovistar.es:8080/manuel/1234/199114
+#EXTINF:-1,TR:S-SPORT HDi
+http://bymovistar.es:8080/manuel/1234/199115
+#EXTINF:-1,TR:S-SPORT 1 FHD
+http://bymovistar.es:8080/manuel/1234/199116
+#EXTINF:-1,TR:TIVIBUSPOR-1 HDi
+http://bymovistar.es:8080/manuel/1234/199117
+#EXTINF:-1,TR:TiViBUSPOR 1 FHD
+http://bymovistar.es:8080/manuel/1234/199118
+#EXTINF:-1,TR:TIVIBUSPOR-2 HD
+http://bymovistar.es:8080/manuel/1234/199119
+#EXTINF:-1,TR:TiViBUSPOR 2 FHD
+http://bymovistar.es:8080/manuel/1234/199120
+#EXTINF:-1,TR:TIVIBUSPOR-3 HDi
+http://bymovistar.es:8080/manuel/1234/199121
+#EXTINF:-1,TR:TiViBUSPOR 3 FHD
+http://bymovistar.es:8080/manuel/1234/199122
+#EXTINF:-1,TR:SPOR SMART HDi
+http://bymovistar.es:8080/manuel/1234/199123
+#EXTINF:-1,TR:SPOR SMART FHD
+http://bymovistar.es:8080/manuel/1234/199124
+#EXTINF:-1,TR:NBA TV HDi
+http://bymovistar.es:8080/manuel/1234/199125
+#EXTINF:-1,TR:NBA TV FHD
+http://bymovistar.es:8080/manuel/1234/199126
+#EXTINF:-1,TR:iDMAN TV HDi
+http://bymovistar.es:8080/manuel/1234/199127
+#EXTINF:-1,TR:EUROSPORT1 HD
+http://bymovistar.es:8080/manuel/1234/199128
+#EXTINF:-1,TR:EUROSPORT2 HD
+http://bymovistar.es:8080/manuel/1234/199129
+#EXTINF:-1,TR:GSTV HD
+http://bymovistar.es:8080/manuel/1234/199130
+#EXTINF:-1,TR:FBTV HD
+http://bymovistar.es:8080/manuel/1234/199131
+#EXTINF:-1,TR:SPORTSTV HD
+http://bymovistar.es:8080/manuel/1234/199132
+#EXTINF:-1,TR:TJK TV HD
+http://bymovistar.es:8080/manuel/1234/199133
+#EXTINF:-1,TR:ASPOR HD
+http://bymovistar.es:8080/manuel/1234/199134
+#EXTINF:-1,TR:ASPOR FHD
+http://bymovistar.es:8080/manuel/1234/199135
+#EXTINF:-1,TR:TRTSPOR HD
+http://bymovistar.es:8080/manuel/1234/199136
+#EXTINF:-1,TR:TRT SPOR 2 HD
+http://bymovistar.es:8080/manuel/1234/199137
+#EXTINF:-1,TR:TRT SPOR FHD
+http://bymovistar.es:8080/manuel/1234/199138
+#EXTINF:-1,TR:TRT 4K
+http://bymovistar.es:8080/manuel/1234/199139
+#EXTINF:-1,TR:TRT1 HD
+http://bymovistar.es:8080/manuel/1234/199140
+#EXTINF:-1,TR:TRT 1 HDi
+http://bymovistar.es:8080/manuel/1234/199141
+#EXTINF:-1,TR:TRT 2 HD
+http://bymovistar.es:8080/manuel/1234/199142
+#EXTINF:-1,TR:TRT 2 FHD
+http://bymovistar.es:8080/manuel/1234/199143
+#EXTINF:-1,TR:ATV HDi
+http://bymovistar.es:8080/manuel/1234/199144
+#EXTINF:-1,TR:ATV FHD
+http://bymovistar.es:8080/manuel/1234/199145
+#EXTINF:-1,TR:TR- ATV
+http://bymovistar.es:8080/manuel/1234/199146
+#EXTINF:-1,TR:FOXTV HDi
+http://bymovistar.es:8080/manuel/1234/199147
+#EXTINF:-1,TR:FOX TV FHD
+http://bymovistar.es:8080/manuel/1234/199148
+#EXTINF:-1,TR:SHOWTV HDxi
+http://bymovistar.es:8080/manuel/1234/199149
+#EXTINF:-1,TR:TR- SHOW MAX
+http://bymovistar.es:8080/manuel/1234/199150
+#EXTINF:-1,TR:STARTV HDi
+http://bymovistar.es:8080/manuel/1234/199151
+#EXTINF:-1,TR:STAR TV FHD
+http://bymovistar.es:8080/manuel/1234/199152
+#EXTINF:-1,TR:TR- STAR EU
+http://bymovistar.es:8080/manuel/1234/199153
+#EXTINF:-1,TR:KANAL D HDi
+http://bymovistar.es:8080/manuel/1234/199154
+#EXTINF:-1,TR:KANAL D FHD
+http://bymovistar.es:8080/manuel/1234/199155
+#EXTINF:-1,TR:TR- KANAL D EU
+http://bymovistar.es:8080/manuel/1234/199156
+#EXTINF:-1,TR:TV8 HDi
+http://bymovistar.es:8080/manuel/1234/199157
+#EXTINF:-1,TR:TV 8 FHD
+http://bymovistar.es:8080/manuel/1234/199158
+#EXTINF:-1,TR:TV8.5 HDi
+http://bymovistar.es:8080/manuel/1234/199159
+#EXTINF:-1,TR:TV 8.5 FHD
+http://bymovistar.es:8080/manuel/1234/199160
+#EXTINF:-1,TR:A2 HDi
+http://bymovistar.es:8080/manuel/1234/199161
+#EXTINF:-1,TR:A2 FHD
+http://bymovistar.es:8080/manuel/1234/199162
+#EXTINF:-1,TR:BEYAZTV HDi
+http://bymovistar.es:8080/manuel/1234/199163
+#EXTINF:-1,TR:BEYAZ TV FHD
+http://bymovistar.es:8080/manuel/1234/199164
+#EXTINF:-1,TR:KANAL7 HDi
+http://bymovistar.es:8080/manuel/1234/199165
+#EXTINF:-1,TR:KANAL 7 FHD
+http://bymovistar.es:8080/manuel/1234/199166
+#EXTINF:-1,TR:24 KiTCHEN HD
+http://bymovistar.es:8080/manuel/1234/199167
+#EXTINF:-1,TR:BEIN GURME HDi
+http://bymovistar.es:8080/manuel/1234/199168
+#EXTINF:-1,TR:ViASAT HiSTORY HDi
+http://bymovistar.es:8080/manuel/1234/199169
+#EXTINF:-1,TR:FX HDi
+http://bymovistar.es:8080/manuel/1234/199170
+#EXTINF:-1,TR:YABAN TV HDi
+http://bymovistar.es:8080/manuel/1234/199171
+#EXTINF:-1,TR:TRT BELGESEL HDi
+http://bymovistar.es:8080/manuel/1234/199172
+#EXTINF:-1,TR:NAT GEO WİLD HDi
+http://bymovistar.es:8080/manuel/1234/199173
+#EXTINF:-1,TR:NATİONAL GEOGRAPHİC HDi
+http://bymovistar.es:8080/manuel/1234/199174
+#EXTINF:-1,TR:NATIONAL GEO PEOPLE HDi
+http://bymovistar.es:8080/manuel/1234/199175
+#EXTINF:-1,TR:DiSCOWERY CHANNEL HDi
+http://bymovistar.es:8080/manuel/1234/199176
+#EXTINF:-1,TR:DiSCOWERY SCiENCE HDi
+http://bymovistar.es:8080/manuel/1234/199177
+#EXTINF:-1,TR:Discowery IDX HDi
+http://bymovistar.es:8080/manuel/1234/199178
+#EXTINF:-1,TR:BBC Earth HDi
+http://bymovistar.es:8080/manuel/1234/199179
+#EXTINF:-1,TR:HİSTORY HDi
+http://bymovistar.es:8080/manuel/1234/199180
+#EXTINF:-1,TR:ANiMAL PLANET HDi
+http://bymovistar.es:8080/manuel/1234/199181
+#EXTINF:-1,TR:İZTV HDi
+http://bymovistar.es:8080/manuel/1234/199182
+#EXTINF:-1,TR:DMAX HDi
+http://bymovistar.es:8080/manuel/1234/199183
+#EXTINF:-1,TR:DMAX FHD
+http://bymovistar.es:8080/manuel/1234/199184
+#EXTINF:-1,TR:SKYTURK360 HDi
+http://bymovistar.es:8080/manuel/1234/199185
+#EXTINF:-1,TR:SKYTURK360 FHD
+http://bymovistar.es:8080/manuel/1234/199186
+#EXTINF:-1,TR:TEVE 2 HDi
+http://bymovistar.es:8080/manuel/1234/199187
+#EXTINF:-1,TR:TEVE 2 FHD
+http://bymovistar.es:8080/manuel/1234/199188
+#EXTINF:-1,TR:TELE 1 HDi
+http://bymovistar.es:8080/manuel/1234/199189
+#EXTINF:-1,TR:TV100 HDi
+http://bymovistar.es:8080/manuel/1234/199190
+#EXTINF:-1,TR:TLC HDi
+http://bymovistar.es:8080/manuel/1234/199191
+#EXTINF:-1,TR:TVNET HDi
+http://bymovistar.es:8080/manuel/1234/199192
+#EXTINF:-1,TR:ULKETV HDi
+http://bymovistar.es:8080/manuel/1234/199193
+#EXTINF:-1,TR:ÜLKE TV FHD
+http://bymovistar.es:8080/manuel/1234/199194
+#EXTINF:-1,TR:KRT TV HDi
+http://bymovistar.es:8080/manuel/1234/199195
+#EXTINF:-1,TR:TRT TURK HDi
+http://bymovistar.es:8080/manuel/1234/199196
+#EXTINF:-1,TR:TRT HABER HDi
+http://bymovistar.es:8080/manuel/1234/199197
+#EXTINF:-1,TR:TRT HABER FHD
+http://bymovistar.es:8080/manuel/1234/199198
+#EXTINF:-1,TR:EKOTURK HDi
+http://bymovistar.es:8080/manuel/1234/199199
+#EXTINF:-1,TR:BLOOMBERGHT HDi
+http://bymovistar.es:8080/manuel/1234/199200
+#EXTINF:-1,TR:BLOOMBERG HT FHD
+http://bymovistar.es:8080/manuel/1234/199201
+#EXTINF:-1,TR:A PARA HDi
+http://bymovistar.es:8080/manuel/1234/199202
+#EXTINF:-1,TR:APARA FHD
+http://bymovistar.es:8080/manuel/1234/199203
+#EXTINF:-1,TR:A HABER HDi
+http://bymovistar.es:8080/manuel/1234/199204
+#EXTINF:-1,TR:A HABER FHD
+http://bymovistar.es:8080/manuel/1234/199205
+#EXTINF:-1,TR:A NEWS FHD
+http://bymovistar.es:8080/manuel/1234/199206
+#EXTINF:-1,TR:GLOBAL HABER HDi
+http://bymovistar.es:8080/manuel/1234/199207
+#EXTINF:-1,TR:HABER GLOBAL FHD
+http://bymovistar.es:8080/manuel/1234/199208
+#EXTINF:-1,TR:CNN TURK HDi
+http://bymovistar.es:8080/manuel/1234/199209
+#EXTINF:-1,TR:CNN TURK FHD
+http://bymovistar.es:8080/manuel/1234/199210
+#EXTINF:-1,TR:HABERTURK HDi
+http://bymovistar.es:8080/manuel/1234/199211
+#EXTINF:-1,TR:HABER TURK FHD
+http://bymovistar.es:8080/manuel/1234/199212
+#EXTINF:-1,TR:NTV  HDi
+http://bymovistar.es:8080/manuel/1234/199213
+#EXTINF:-1,TR:NTV HABER FHD
+http://bymovistar.es:8080/manuel/1234/199214
+#EXTINF:-1,TR:TGRT HABER HDi
+http://bymovistar.es:8080/manuel/1234/199215
+#EXTINF:-1,TR:TGRT HABER FHD
+http://bymovistar.es:8080/manuel/1234/199216
+#EXTINF:-1,TR:KANAL 24 HDi
+http://bymovistar.es:8080/manuel/1234/199217
+#EXTINF:-1,TR:SMART COCUK HD
+http://bymovistar.es:8080/manuel/1234/199218
+#EXTINF:-1,TR:TRT ÇOCUK HD
+http://bymovistar.es:8080/manuel/1234/199219
+#EXTINF:-1,TR:NICKELODEON HD
+http://bymovistar.es:8080/manuel/1234/199220
+#EXTINF:-1,TR:NICK JR HD
+http://bymovistar.es:8080/manuel/1234/199221
+#EXTINF:-1,TR:DISNEY CHANNEL HD
+http://bymovistar.es:8080/manuel/1234/199222
+#EXTINF:-1,TR:DISNEY JR HD
+http://bymovistar.es:8080/manuel/1234/199223
+#EXTINF:-1,TR:DiSNEY XD HD
+http://bymovistar.es:8080/manuel/1234/199224
+#EXTINF:-1,TR:CBEEBiES HD
+http://bymovistar.es:8080/manuel/1234/199225
+#EXTINF:-1,TR:DA VINCİ KIDS HD
+http://bymovistar.es:8080/manuel/1234/199226
+#EXTINF:-1,TR:BABY TV HD
+http://bymovistar.es:8080/manuel/1234/199227
+#EXTINF:-1,TR:BOOMERANG HD
+http://bymovistar.es:8080/manuel/1234/199228
+#EXTINF:-1,TR:CARTOON NETWORK HD
+http://bymovistar.es:8080/manuel/1234/199229
+#EXTINF:-1,TR:MINICA GO HD
+http://bymovistar.es:8080/manuel/1234/199230
+#EXTINF:-1,TR:MINIKA COCUK HD
+http://bymovistar.es:8080/manuel/1234/199231
+#EXTINF:-1,TR:TRT MUZiK HDi
+http://bymovistar.es:8080/manuel/1234/199232
+#EXTINF:-1,TR:POWER TV HDi
+http://bymovistar.es:8080/manuel/1234/199233
+#EXTINF:-1,TR:POWER TURK HDi
+http://bymovistar.es:8080/manuel/1234/199234
+#EXTINF:-1,TR:NR1 HDi
+http://bymovistar.es:8080/manuel/1234/199235
+#EXTINF:-1,TR:NR1 TURK HDi
+http://bymovistar.es:8080/manuel/1234/199236
+#EXTINF:-1,TR:DREAM TV HDi
+http://bymovistar.es:8080/manuel/1234/199237
+#EXTINF:-1,TR:DREAM TURK HDi
+http://bymovistar.es:8080/manuel/1234/199238
+#EXTINF:-1,TR:KRAL TV HDi
+http://bymovistar.es:8080/manuel/1234/199239
+#EXTINF:-1,TR:HALK TV
+http://bymovistar.es:8080/manuel/1234/199240
+#EXTINF:-1,TR:TR- HALK TV SD
+http://bymovistar.es:8080/manuel/1234/199241
+#EXTINF:-1,TR: CEM TV
+http://bymovistar.es:8080/manuel/1234/199242
+#EXTINF:-1,TR: YOL TV HD
+http://bymovistar.es:8080/manuel/1234/199243
+#EXTINF:-1,TR: CAN TV HD
+http://bymovistar.es:8080/manuel/1234/199244
+#EXTINF:-1,TR: AKILLI TV
+http://bymovistar.es:8080/manuel/1234/199245
+#EXTINF:-1,TR: EGETURK TV
+http://bymovistar.es:8080/manuel/1234/199246
+#EXTINF:-1,TR: KANAL 7 AVRUPA
+http://bymovistar.es:8080/manuel/1234/199247
+#EXTINF:-1,TR: MAVI KARADENIZ
+http://bymovistar.es:8080/manuel/1234/199248
+#EXTINF:-1,TR: Koy TV
+http://bymovistar.es:8080/manuel/1234/199249
+#EXTINF:-1,TR: AKIT TV HD Plus
+http://bymovistar.es:8080/manuel/1234/199250
+#EXTINF:-1,TR: ARTI TV
+http://bymovistar.es:8080/manuel/1234/199251
+#EXTINF:-1,TR: BEREKET TV
+http://bymovistar.es:8080/manuel/1234/199252
+#EXTINF:-1,TR: TEK RUMELI TV
+http://bymovistar.es:8080/manuel/1234/199253
+#EXTINF:-1,TR: BURSA TV
+http://bymovistar.es:8080/manuel/1234/199254
+#EXTINF:-1,TR: CAY TV RIZE
+http://bymovistar.es:8080/manuel/1234/199255
+#EXTINF:-1,TR: KOZA TV ADANA
+http://bymovistar.es:8080/manuel/1234/199256
+#EXTINF:-1,TR: TRT ARABIC HD
+http://bymovistar.es:8080/manuel/1234/199257
+#EXTINF:-1,TR: DIYANET TV HD Plus
+http://bymovistar.es:8080/manuel/1234/199258
+#EXTINF:-1,TR: KABE TV HD
+http://bymovistar.es:8080/manuel/1234/199259
+#EXTINF:-1,TR: SEMERKAND TV HD
+http://bymovistar.es:8080/manuel/1234/199260
+#EXTINF:-1,TR: MEDINE TV
+http://bymovistar.es:8080/manuel/1234/199261
+#EXTINF:-1,TR: REHBER TV
+http://bymovistar.es:8080/manuel/1234/199262
+#EXTINF:-1,TR: DOST TV
+http://bymovistar.es:8080/manuel/1234/199263
+#EXTINF:-1,TR: TVT TV
+http://bymovistar.es:8080/manuel/1234/199264
+#EXTINF:-1,TR: HILAL TV
+http://bymovistar.es:8080/manuel/1234/199265
+#EXTINF:-1,TR: ES TV ESKISEHIR
+http://bymovistar.es:8080/manuel/1234/199266
+#EXTINF:-1,TR: LALEGUL TV
+http://bymovistar.es:8080/manuel/1234/199267
+#EXTINF:-1,TR: AL QURAN TV
+http://bymovistar.es:8080/manuel/1234/199268
+#EXTINF:-1,TR: BERAT TV
+http://bymovistar.es:8080/manuel/1234/199269
+#EXTINF:-1,TR: DIYAR TV
+http://bymovistar.es:8080/manuel/1234/199270
+#EXTINF:-1,TR: SAUDI SUNNAH
+http://bymovistar.es:8080/manuel/1234/199271
