@@ -1,23 +1,47 @@
 #EXTM3U
-#EXTINF:-1,unknown4
-http://prxy-wza-02.iptv-playoutcenter.de/nrt1/nrt1.stream_1/jwplayer.m3u8
-#EXTINF:-1,unknown5
-http://prxy-wza-02.iptv-playoutcenter.de/nrt2/nrt2.stream_1/playlist.m3u8
-#EXTINF:-1,unknown7
-http://prxy-wza-02.iptv-playoutcenter.de/nrtarabic/nrtarabic.stream_1/playlist.m3u8
-#EXTINF:-1,unknown8
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/playlist.m3u8
-#EXTINF:-1,unknown9
-http://51.254.209.160:1935/live/_definst_/livestream/playlist.m3u8
-#EXTINF:-1,unknown29
-http://kurd-live.com:1935/live/new/chunklist_w1304379760.m3u8
-#EXTINF:-1,unknown50
-http://63.237.48.28/ios/GEM_KURD/GEM_KURD.m3u8
-#EXTINF:-1,unknown55
-http://kurd-live.com:1935/live/utv/chunklist_w1553125784.m3u8
-#EXTINF:-1,unknown91
-http://95.170.220.243/live/disk1/Vin_TV/anevia1/Vin_TV-video=1892000-audio_AACL_eng_64000_34=64000.m3u8
-#EXTINF:-1,unknown101
-http://5.135.142.60:1935/tv10/xetero/playlist.m3u8
-#EXTINF:-1,unknown106
-http://live1.karwan.tv/zayalatv/live/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i7.pngguru.com/preview/380/459/713/algonquin-television-show-computer-icons-advertisement-film-download-television-icon.jpg", [color red]Choose a file IPTV[/color]
+httphost://$http-raw=$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", MUSIC
+httphost://$http-raw=http://linkprotect.xmtvplayer.com:8080/protect/pwAAAB%2bLCAAAAAAABAAFwcsOQ0AUANAPEhmUqS4sBlVi4aro0J2ZQSqeqWfj43uOXyeQMDIKL7uDA88je8CHrnxbULiNbF9SOk9I6pu9jtBhq6FbOgnpIW8xfFX7TQKad%2bTXDVDO3tUxtKmDaLOss91eLT2WweWx8JtgPDFTWVVwTa4MpZB1jLFsCo3LTMGmrlXcLMXtVEiZ%2bqsEgJDDLgSJSxZjYll%2fmLDBx6cAAAA%3d$http-refferer=http://linkprotect.xmtvplayer.com
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png",yeeah
+http://srv3.zcast.com.br/yeeaah/yeeaah/chunklist_w1186611669.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", SEXYKPOP TV
+https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", MTV USA
+httphost://$http-raw=http://yoursports.stream/ing/mtv$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", MTV YO
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", MTV POP
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", MTV PARTY
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", VIVA
+https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", 4funtv
+httphost://$http-raw=https://www.popler.tv/embed/player.php?user=4funtv$http-refferer=https://sportsworldnet.eu/
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", XITE
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", TV 538
+https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Ibiza global
+https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Sunburn
+https://vcndstv.teleosmedia.com/stream/dstv/sunburn/playlist.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Dancestar
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", TOP latino
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Carolina tv
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", musictop
+https://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Virgin TV
+http://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(ew)/stream01/streamPlaylist.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Monte Carlo
+http://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", 
+
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", 
+
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", 
