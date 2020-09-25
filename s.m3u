@@ -51,8 +51,6 @@ http://mfe.cliptv.az/dash/Match_Football_1_HD.ism/playlist.mpd
 http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd
 #EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",Матч! Футбол 3
 http://mfe.cliptv.az/dash/Match_Football_3_HD.ism/playlist.mpd
-#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Eleven Sports 1
-http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25661.m3u8
 #EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Eleven Sports 1 HD
 http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1874
 #EXTINF:-1 ,Eurosport 4K HD
