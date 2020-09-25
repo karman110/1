@@ -1,6 +1,12 @@
 #EXTM3U
 #EXTINF:-1 ,ONE GOLF HD
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
+#EXTINF:-1 ,CombatGo HD
+https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+#EXTINF:-1 ,Racing
+https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
+#EXTINF:-1 ,TVS BOXING HD
+https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Sport ",Olympic Channel 1
 https://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/OlympicChannel.png" group-title="Sport ",Olympic Channel 2
@@ -59,8 +65,6 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u
 http://45.58.62.92:8080
 #EXTINF:-1 ,Fox Sports News HD
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 ,Super Tennis HD
-http://188.35.9.11:21111/udp/161f
 #EXTINF:-1 ,Tennis Channel HD 1
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 #EXTINF:-1 ,Tennis Channel HD 2
@@ -69,38 +73,10 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 http://live02-cdn.tv.ti.ru:80/dtv/id1140_NBN_SG--MirBasketbola/03/plst.m3u8
 #EXTINF:-1 ,BOX NATION
 http://62.112.9.63:88/box_nation/index.m3u8?token=test
-#EXTINF:-1 ,DSports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 ,Extreme Sport
-http://hlstv.kem.211.ru/239.211.211.47/stream.m3u8
-#EXTINF:-1 ,M-1 Global
-http://live02-cdn.tv.ti.ru:80/dtv/id1068_NBN_SG--M1global/03/plst.m3u8
-#EXTINF:-1 ,MostVideo TV HD
-http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1 ,RMC SPORT 4 HD
-http://www.iptvgafsa.tn:8000/987654321/123456789/304
-#EXTINF:-1 ,Russian Extreme Ultra HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
 #EXTINF:-1 ,UFC ТВ HD
 http://live-ng-01.more.tv/hls/UFC/master.m3u8
-#EXTINF:-1 ,Бокс ТВ
-http://78.107.248.201:4022/udp/233.33.221.61:5050
-#EXTINF:-1 ,Бокс ТВ
-http://live02-cdn.tv.ti.ru:80/dtv/id1266_NBN_SG--BoksTV/03/plst.m3u8
-#EXTINF:-1 ,Матч! Боец
-http://persik.by/stream/6606/411484/595.m3u8
-#EXTINF:-1 ,Матч! Боец
-http://persik.by/stream/6606/411484/310.m3u8
-#EXTINF:-1 ,Матч! Боец
-http://hlstv.kem.211.ru/239.211.211.44/stream.m3u8
 #EXTINF:-1 ,Матч! Боец
 http://live02-cdn.tv.ti.ru:80/dtv/id1089_NBN_SG--MatchBoec/03/plst.m3u8
-#EXTINF:-1 ,TVS BOXING HD
-https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
-#EXTINF:-1 ,CombatGo HD
-https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
-#EXTINF:-1 ,Racing
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 ,Конный Мир
 http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,Rugby TV HD
