@@ -1,8 +1,23 @@
 #EXTM3U
 #EXTINF:-1 ,ONE GOLF HD
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 ,CombatGo HD
-https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
+http://mfe.cliptv.az/dash/Match_Football_1_HD.ism/playlist.mpd
+#EXTINF:0 tvg-country="AZ" tvg-logo=",Матч! Футбол 2
+http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd
+#EXTINF:0 tvg-country="AZ" tvg-logo=",Матч! Футбол 3
+http://mfe.cliptv.az/dash/Match_Football_3_HD.ism/playlist.mpd
+#EXTINF:0 tvg-country="BE" tvg-logo=",Eleven Sports 1 HD
+http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1874
+#EXTINF:-1 ,Eurosport 4K HD
+http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
+#EXTINF:-1 ,FOX SPORTS 5 Australia
+http://45.58.62.92:8080
+#EXTINF:-1 ,Fox Sports News HD
+https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
+#EXTINF:-1 ,Tennis Channel HD 1
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+#EXTINF:-1 ,Tennis Channel HD 2
+https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 ,Racing
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 ,TVS BOXING HD
@@ -48,23 +63,6 @@ http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
 #EXTINF:0 tvg-country="AZ" tvg-logo=",Матч! Боец
 http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
 #EXTINF:0 tvg-country="AZ" tvg-logo=",Матч! Футбол 1
-http://mfe.cliptv.az/dash/Match_Football_1_HD.ism/playlist.mpd
-#EXTINF:0 tvg-country="AZ" tvg-logo=",Матч! Футбол 2
-http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd
-#EXTINF:0 tvg-country="AZ" tvg-logo=",Матч! Футбол 3
-http://mfe.cliptv.az/dash/Match_Football_3_HD.ism/playlist.mpd
-#EXTINF:0 tvg-country="BE" tvg-logo=",Eleven Sports 1 HD
-http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1874
-#EXTINF:-1 ,Eurosport 4K HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
-#EXTINF:-1 ,FOX SPORTS 5 Australia
-http://45.58.62.92:8080
-#EXTINF:-1 ,Fox Sports News HD
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 ,Tennis Channel HD 1
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1 ,Tennis Channel HD 2
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
 #EXTINF:-1 ,Мир Баскетбола
 http://live02-cdn.tv.ti.ru:80/dtv/id1140_NBN_SG--MirBasketbola/03/plst.m3u8
 #EXTINF:-1 ,BOX NATION
@@ -100,3 +98,5 @@ http://fariszah.myq-see.com:8008/live/demo/demo/2316.ts
 https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8
 #EXTINF:0 tvg-country="BR;ES" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" ,Real Madrid TV
 https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
+#EXTINF:-1 ,CombatGo HD
+https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
