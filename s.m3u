@@ -60,27 +60,9 @@ http://mfe.cliptv.az/dash/Match_Football_3_HD.ism/playlist.mpd
 http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25661.m3u8
 #EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Eleven Sports 1 HD
 http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1874
-
 #EXTINF:-1 ,Eurosport 4K HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
-#EXTINF:-1 ,Extreme Sports TV HD
-http://188.35.9.11:21151/udp/189r
 #EXTINF:-1 ,FOX SPORTS 5 Australia
 http://45.58.62.92:8080
 #EXTINF:-1 ,Fox Sports News HD
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 ,NOVA Sport 1 HD HD
-http://188.35.9.11:21161/udp/220q
-#EXTINF:-1 ,Olympic Channel 4 HD
-http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
-#EXTINF:-1 ,Olympic Channel 5 HD
-http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
-#EXTINF:-1 ,Olympic Channel HD
-http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
-#EXTINF:-1 ,Olympic Channel HD
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 ,Olympic Channel HD
-http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
-#EXTINF:-1 ,Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
-
