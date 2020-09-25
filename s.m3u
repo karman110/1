@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,MOTORS TV
-http://45.58.62.92:8084
 #EXTINF:-1 ,ONE GOLF HD
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/k29sgDw.png" group-title="Sport ",Esporte Interativo Plus
@@ -111,18 +109,15 @@ https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
 #EXTINF:-1 ,Racing
 https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 ,Racing
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
 #EXTINF:-1 ,Конный Мир
 http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 ,Rugby TV HD
-#EXTM3U
+#EXTINF:-1 ,MOTORS TV
+http://45.58.62.92:8084
 #EXTINF:-1,SPORTS 1
 http://fariszah.myq-see.com:8008/live/demo/demo/2322.ts
 #EXTINF:-1,SPORTS 2
 http://fariszah.myq-see.com:8008/live/demo/demo/21549.ts
-#EXTINF:-1,SPORTS 3
-http://fariszah.myq-see.com:8008/live/demo/demo/21550.ts
 #EXTINF:-1,SPORTS 4
 http://fariszah.myq-see.com:8008/live/demo/demo/21551.ts
 #EXTINF:-1,SPORTS 5
