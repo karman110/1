@@ -362,4 +362,61 @@ http://45.58.62.92:8084
 #EXTINF:-1 ,ONE GOLF HD
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 ,Rugby TV HD
+#EXTM3U
+#EXTINF:-1,SPORTS 1
+http://fariszah.myq-see.com:8008/live/demo/demo/2322.ts
+#EXTINF:-1,SPORTS 2
+http://fariszah.myq-see.com:8008/live/demo/demo/21549.ts
+#EXTINF:-1,SPORTS 3
+http://fariszah.myq-see.com:8008/live/demo/demo/21550.ts
+#EXTINF:-1,SPORTS 4
+http://fariszah.myq-see.com:8008/live/demo/demo/21551.ts
+#EXTINF:-1,SPORTS 5
+http://fariszah.myq-see.com:8008/live/demo/demo/21552.ts
+#EXTINF:-1,SPORTS 6
+http://fariszah.myq-see.com:8008/live/demo/demo/21553.ts
+#EXTINF:-1,SPORTS 7
+http://fariszah.myq-see.com:8008/live/demo/demo/2308.ts
+#EXTINF:-1,SPORTS 8
+http://fariszah.myq-see.com:8008/live/demo/demo/2314.ts
+#EXTINF:-1,SPORTS 9
+http://fariszah.myq-see.com:8008/live/demo/demo/2315.ts
+#EXTINF:-1,SPORTS 10
+http://fariszah.myq-see.com:8008/live/demo/demo/2316.ts
+#EXTINF:-1,SPORTS 1 *
+http://fariszah.myq-see.com:8008/live/demo/demo/1941.ts
+#EXTINF:-1,SPORTS 2 *
+http://fariszah.myq-see.com:8008/live/demo/demo/1942.ts
+#EXTINF:-1,SPORTS 3 *
+http://fariszah.myq-see.com:8008/live/demo/demo/1943.ts
+#EXTINF:-1,SPORTS 4 *
+http://fariszah.myq-see.com:8008/live/demo/demo/1944.ts
+#EXTINF:-1,SPORTS 5 *
+http://fariszah.myq-see.com:8008/live/demo/demo/1945.ts
+#EXTINF:-1,SPORTS 6 *
+http://fariszah.myq-see.com:8008/live/demo/demo/1946.ts
+#EXTINF:-1,SPORTS 7 *
+http://fariszah.myq-see.com:8008/live/demo/demo/2261.ts
+#EXTINF:-1,SPORTS 1 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21566.ts
+#EXTINF:-1,SPORTS 2 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21567.ts
+#EXTINF:-1,SPORTS 3 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21568.ts
+#EXTINF:-1,SPORTS 4 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21576.ts
+#EXTINF:-1,SPORTS 5 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21577.ts
+#EXTINF:-1,SPORTS 6 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21578.ts
+#EXTINF:-1,SPORTS 7 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21579.ts
+#EXTINF:-1,SPORTS 8 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21580.ts
+#EXTINF:-1,SPORTS 9 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21581.ts
+#EXTINF:-1,SPORTS 10 SD
+http://fariszah.myq-see.com:8008/live/demo/demo/21582.ts
+#EXTINF:-1,WWE
+http://fariszah.myq-see.com:8008/live/demo/demo/1951.ts
 http://tv.cdn.xsg.ge/rtv/tracks-v1a1/index.m3u8
