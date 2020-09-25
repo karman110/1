@@ -112,33 +112,33 @@ http://iptv.tapesh.tv/tapesh/playlist.m3u8
 http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/persianbazar.png" tvg-country="IR" tvg-url=",Persian Bazar
 https://stream.persiantv1.com/ptv1/playlist1/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/OUu7eyJ.png" tvg-country="IR" tvg-url="" group-title="Persian",Persiana 2 CINEMA
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/OUu7eyJ.png" tvg-country="IR" tvg-url=",Persiana 2 CINEMA
 http://51.15.193.156/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/rioc5XV.jpg" tvg-country="FR" tvg-url="" group-title="Persian",Persiana 3 Junior
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/rioc5XV.jpg" tvg-country="FR" tvg-url=",Persiana 3 Junior
 http://51.158.74.129/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/rioc5XV.jpg" tvg-country="FR" tvg-url="" group-title="Persian",Persiana 4 Iranian
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/rioc5XV.jpg" tvg-country="FR" tvg-url=",Persiana 4 Iranian
 http://51.158.97.214/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/rioc5XV.jpg" tvg-country="FR" tvg-url="" group-title="Persian",Persiana 5 Documentary
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/rioc5XV.jpg" tvg-country="FR" tvg-url=",Persiana 5 Documentary
 http://163.172.174.60/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/rioc5XV.jpg" tvg-country="FR" tvg-url="" group-title="Persian",Persiana 6 Music
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/rioc5XV.jpg" tvg-country="FR" tvg-url=",Persiana 6 Music
 http://163.172.147.113/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/43gYR8Y.png" tvg-country="FR" tvg-url="" group-title="Persian",Poker TV Arabia
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/43gYR8Y.png" tvg-country="FR" tvg-url=",Poker TV Arabia
 http://51.15.193.127/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/TNQKahI.png" tvg-country="IR" tvg-url="" group-title="Persian",Press TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/TNQKahI.png" tvg-country="IR" tvg-url=",Press TV
 https://bozztv.com/36bay2/gin/giniko_presstv_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/NqTGH0Q.png" tvg-country="IR" tvg-url="" group-title="Persian",Radio Farda
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/NqTGH0Q.png" tvg-country="IR" tvg-url=",Radio Farda
 https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XTyMST.jpg" tvg-country="IR" tvg-url="" group-title="Persian",Radio Javan TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XTyMST.jpg" tvg-country="IR" tvg-url=",Radio Javan TV
 https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/s5yF9aU.jpg" tvg-country="IR" tvg-url="" group-title="Persian",Rangarang TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/s5yF9aU.jpg" tvg-country="IR" tvg-url=",Rangarang TV
 http://iptv.rangarang.us/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/river-icon.png" tvg-country="IR" tvg-url=",River
 https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/rubix-icon.png" tvg-country="IR" tvg-url=",Rubix
 https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/2Ka4Ins.png" tvg-country="IR" tvg-url="" group-title="Persian",Salamat Tube
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/2Ka4Ins.png" tvg-country="IR" tvg-url=",Salamat Tube
 http://51.158.116.146/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/YpBeTXf.png" tvg-country="IR" tvg-url="" group-title="Persian",Tin TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/YpBeTXf.png" tvg-country="IR" tvg-url=",Tin TV
 https://unirtmp.tulix.tv/tintv/tintv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/tin.jpg" tvg-country="IR" tvg-url=",TIN TV
 https://unirtmp.tulix.tv/tintv/tintv/playlist.m3u8
@@ -146,15 +146,15 @@ https://unirtmp.tulix.tv/tintv/tintv/playlist.m3u8
 https://5a3e964ed0b51.streamlock.net/w/azadah/chunklist_w1398305128.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.pinimg.com/736x/ed/16/6f/ed166f14a9bbebb09f4c8795eb1806ba.jpg" tvg-country="IR" tvg-url=",Valiasr TV
 https://ir3.live21.ir/hls2/valiasr.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/dSYJdEJ.png" tvg-country="IR" tvg-url="" group-title="Persian",Varzesh TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/dSYJdEJ.png" tvg-country="IR" tvg-url=",Varzesh TV
 http://51.158.66.44/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/a9QcLWY.png" tvg-country="IR" tvg-url="" group-title="Persian",Varzesh TV 2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/a9QcLWY.png" tvg-country="IR" tvg-url=",Varzesh TV 2
 http://51.158.176.190/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/mnAodqf.png" tvg-country="IR" tvg-url="" group-title="Persian",Varzesh TV 3
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/mnAodqf.png" tvg-country="IR" tvg-url=",Varzesh TV 3
 http://51.15.236.137/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/f1e6M2L.png" tvg-country="IR" tvg-url="" group-title="Persian",Varzesh TV 4
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/f1e6M2L.png" tvg-country="IR" tvg-url=",Varzesh TV 4
 http://163.172.138.186/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/7uEI6ck.png" tvg-country="IR" tvg-url="" group-title="Persian",VOA Persian
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/7uEI6ck.png" tvg-country="IR" tvg-url=",VOA Persian
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://yourtime.tv/img/utv-logo.png" tvg-country="IR" tvg-url="" group-title="Persian",YourTime TV
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://yourtime.tv/img/utv-logo.png" tvg-country="IR" tvg-url=",YourTime TV
 https://hls.yourtime.live/hls/stream.m3u8
