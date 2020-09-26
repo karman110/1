@@ -100,3 +100,9 @@ http://mfe.cliptv.az/dash/Match_Football_1_HD.ism/playlist.mpd
 #EXTINF:0 tvg-country="AZ" tvg-logo=",Матч! Футбол 2
 http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd
 #EXTINF:0 tvg-country="AZ" tvg-logo=",Матч! Футбол 3
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 3" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" , Sports 3
+http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dubai One" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" group-title=, One
+http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dubai Racing" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true", Racing
+http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/playlist.m3u8
