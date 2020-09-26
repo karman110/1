@@ -46,8 +46,6 @@ https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a6
 https://playoutengine.sinclairstoryline.com/playout/4997220f-71e2-4e7e-bcaa-e6476bb8a3dd/f.m3u8
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/qBdOZ1x.png" ,Dubai Sports 2
 http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2&checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" ,Sharjah Sport,Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:hlscat.com
 EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/djeM9yx.png" ,Flow Sports 1
 http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="AZ" tvg-logo=",Матч! Арена
