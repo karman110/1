@@ -1,987 +1,145 @@
 #EXTM3U
-#EXTINF:-1 ,ERT HD HD
-http://212.8.243.157:8089/erthd/video.m3u8?token=test
-#EXTINF:-1 ,EUROSPORT 1
-http://188.35.9.11:21111/udp/173e
-#EXTINF:-1 ,EUROSPORT 1
-http://51.15.215.116:8081/tv/eurosport-1/playlist.m3u8
-#EXTINF:-1 ,EUROSPORT 1
-http://163.172.179.78:8081/tv/eurosport-1/chunks.m3u8
-#EXTINF:-1 ,EUROSPORT 4K  /  -1
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-3600
-#EXTINF:-1 ,EUROSPORT 4K  /  -2
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-7200
-#EXTINF:-1 ,EUROSPORT 4K  /  -3
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-10800
-#EXTINF:-1 ,EUROSPORT 4K  /  -4
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-14400
-#EXTINF:-1 ,EUROSPORT 4K  /  -5
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-18000
-#EXTINF:-1 ,EUROSPORT 4K  /  -6
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-21600
-#EXTINF:-1 ,EUROSPORT 4K  /  -7
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-25200
-#EXTINF:-1 ,EUROSPORT 4K  /  -8
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-28800
-#EXTINF:-1 ,EUROSPORT 4K  /  -9
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-32400
-#EXTINF:-1 ,EUROSPORT 4K  / -10
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-36000
-#EXTINF:-1 ,EUROSPORT 4K  / -11
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-39600
-#EXTINF:-1 ,EUROSPORT 4K  / -12
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-43200
-#EXTINF:-1 ,EUROSPORT 4K  / -13
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-46800
-#EXTINF:-1 ,EUROSPORT 4K  / -14
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-50400
-#EXTINF:-1 ,EUROSPORT 4K  / -15
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-54000
-#EXTINF:-1 ,EUROSPORT 4K  / -16
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-57600
-#EXTINF:-1 ,EUROSPORT 4K  / -17
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-61200
-#EXTINF:-1 ,EUROSPORT 4K  / -18
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-64800
-#EXTINF:-1 ,EUROSPORT 4K  / -19
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-68400
-#EXTINF:-1 ,EUROSPORT 4K  / -20
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-72000
-#EXTINF:-1 ,EUROSPORT 4K  / -21
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-75600
-#EXTINF:-1 ,EUROSPORT 4K  / -22
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-79200
-#EXTINF:-1 ,EUROSPORT 4K  / -23
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-82800
-#EXTINF:-1 ,EUROSPORT 4K  / -24
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-86400
-#EXTINF:-1 ,EUROSPORT 4K  / -25
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-90000
-#EXTINF:-1 ,EUROSPORT 4K  / -26
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-93600
-#EXTINF:-1 ,EUROSPORT 4K  / -27
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-97200
-#EXTINF:-1 ,EUROSPORT 4K  / -28
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-100800
-#EXTINF:-1 ,EUROSPORT 4K  / -29
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-104400
-#EXTINF:-1 ,EUROSPORT 4K  / -30
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-108000
-#EXTINF:-1 ,EUROSPORT 4K  / -31
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-111600
-#EXTINF:-1 ,EUROSPORT 4K  / -32
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-115200
-#EXTINF:-1 ,EUROSPORT 4K  / -33
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-118800
-#EXTINF:-1 ,EUROSPORT 4K  / -34
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-122400
-#EXTINF:-1 ,EUROSPORT 4K  / -35
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-126000
-#EXTINF:-1 ,EUROSPORT 4K  / -36
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-129600
-#EXTINF:-1 ,EUROSPORT 4K  / -37
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-133200
-#EXTINF:-1 ,EUROSPORT 4K  / -38
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-136800
-#EXTINF:-1 ,EUROSPORT 4K  / -39
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-140400
-#EXTINF:-1 ,EUROSPORT 4K  / -40
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-144000
-#EXTINF:-1 ,EUROSPORT 4K  / -41
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-147600
-#EXTINF:-1 ,EUROSPORT 4K  / -42
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-151200
-#EXTINF:-1 ,EUROSPORT 4K  / -43
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-154800
-#EXTINF:-1 ,EUROSPORT 4K  / -44
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-158400
-#EXTINF:-1 ,EUROSPORT 4K  / -45
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-162000
-#EXTINF:-1 ,EUROSPORT 4K  / -46
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-165600
-#EXTINF:-1 ,EUROSPORT 4K  / -47
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-169200
-#EXTINF:-1 ,EUROSPORT 4K  / -48
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-172800
-#EXTINF:-1 ,EUROSPORT 4K  / -49
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-176400
-#EXTINF:-1 ,EUROSPORT 4K  / -50
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8?version=2&offset=-180000
-#EXTINF:-1 ,Edge Sport
-https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 ,Eurosport 1 HD
-http://live-ng-01.more.tv/hls/Eurosport_Rus_HD/master.m3u8
-#EXTINF:-1 ,Eurosport 1 HD
-http://live02-cdn.tv.ti.ru:80/dtv/id219_NBN_SG--EuroSportHD/04/plst.m3u8
-#EXTINF:-1 ,Eurosport 1 HD HD
-http://srb.00387.info/SR:EuroSport1HD/index.m3u8?token=test
-#EXTINF:-1 ,Eurosport 1 HD
-http://188.35.9.11:21081/udp/098t
-#EXTINF:-1 ,Eurosport 2 HD
-http://188.35.9.14:21151/udp/192c
-#EXTINF:-1 ,Eurosport 2 HD
-http://live02-cdn.tv.ti.ru:80/dtv/id340_NBN_SG--Eurosport2HD/04/plst.m3u8
-#EXTINF:-1 ,Eurosport 2
-http://163.172.179.78:8081/tv/eurosport-2/chunks.m3u8
-#EXTINF:-1 ,Eurosport 4K HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
-#EXTINF:-1 ,Extreme Sports TV HD
-http://188.35.9.11:21151/udp/189r
-#EXTINF:-1 ,FOX SPORTS 5 Australia
-http://45.58.62.92:8080
-#EXTINF:-1 ,Fox Sports News HD
-https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master1280x720.m3u8
-#EXTINF:-1 ,NOVA Sport 1 HD HD
-http://188.35.9.11:21161/udp/220q
-#EXTINF:-1 ,Olympic Channel 4 HD
-http://ott-live.olympicchannel.com/out/u/OC4_1.m3u8
-#EXTINF:-1 ,Olympic Channel 5 HD
-http://ott-live.olympicchannel.com/out/u/OC5_1.m3u8
-#EXTINF:-1 ,Olympic Channel HD
-http://ott-live.olympicchannel.com/out/u/OC2_1.m3u8
-#EXTINF:-1 ,Olympic Channel HD
-http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8
-#EXTINF:-1 ,Olympic Channel HD
-http://ott-live.olympicchannel.com/out/u/OC3_1.m3u8
-#EXTINF:-1 ,Olympic Channel
-http://ott-live.olympicchannel.com/out/u/OC1_3.m3u8
-#EXTINF:-1 ,PTV Sports HD
-http://95.211.211.168/live/ptvsports2002/playlist.m3u8
-#EXTINF:-1 ,t.me/tvlab Polsat Sport HD
-http://188.35.9.8:21161/udp/172r
-#EXTINF:-1 ,RTSH Sport
-http://79.106.48.2/live/rtsh_sport_ott_p3/playlist.m3u8
-#EXTINF:-1 ,SPORT 2 HD
-http://srb.00387.info/GER:SKYSPORT2UHD/index.m3u8?token=test
-#EXTINF:-1 ,Sport 1 Украина international
-http://persik.by/stream/6606/411484/270.m3u8
-#EXTINF:-1 ,Sportklub HD HD
-http://188.35.9.8:21161/udp/170z
-#EXTINF:-1 ,Turkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8
-#EXTINF:-1 ,VIASAT SPORT
-http://persik.tv/stream/3602/287583/10249.m3u8
-#EXTINF:-1 ,Viasat Sport
-http://109.239.208.82:80/viasatshd/index.m3u8
-#EXTINF:-1 ,tsn1 HD
-http://62.112.9.63:88/tsn1/index.m3u8?token=test
-#EXTINF:-1 ,tsn2 HD
-http://62.112.9.63:88/tsn2/index.m3u8?token=test
-#EXTINF:-1 ,tsn3 HD
-http://62.112.9.63:88/tsn3/index.m3u8?token=test
-#EXTINF:-1 ,tsn4
-http://62.112.9.63:88/tsn4/index.m3u8?token=test
-#EXTINF:-1 ,tsn5 HD
-http://62.112.9.63:88/tsn5/index.m3u8?token=test
-#EXTINF:-1 ,Астрахань.Ru Sport
-http://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
-#EXTINF:-1 ,Беларусь 5 HD
-http://persik.by/stream/6606/411484/10408.m3u8
-#EXTINF:-1 ,Беларусь 5
-http://persik.by/stream/6606/411484/932.m3u8
-#EXTINF:-1 ,Беларусь 5
-http://persik.tv/stream/6299/10/10300.m3u8
-#EXTINF:-1 ,МАТЧ! HD
-http://77.89.204.107:8000/play/a04l/copy/index.m3u8
-#EXTINF:-1 ,МАТЧ!
-http://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2
-#EXTINF:-1 ,МАТЧ! АРЕНА
-http://178.217.72.66/225.201.2.4/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Матч! HD
-http://hlstv.kem.211.ru/239.211.200.22/stream.m3u8
-#EXTINF:-1 ,Матч!
-http://persik.tv/stream/6299/10/276.m3u8
-#EXTINF:-1 ,Матч!
-http://persik.by/stream/6606/411484/276.m3u8
-#EXTINF:-1 ,Матч!
-http://persik.by/stream/6606/411484/1077.m3u8
-#EXTINF:-1 ,Матч!
-http://iptv.ktkru.ru:8003/index.m3u8
-#EXTINF:-1 ,Матч!
-http://217.25.226.215:4022/udp/235.1.10.3:10000
-#EXTINF:-1 ,Матч!
-http://hlstv.kem.211.ru/239.211.211.27/stream.m3u8
-#EXTINF:-1 ,Матч!
-http://live02-cdn.tv.ti.ru:80/dtv/id166_NBN_SG--Rossia2/03/plst.m3u8
-#EXTINF:-1 ,Матч! Арена
-http://persik.by/stream/6606/411484/261.m3u8
-#EXTINF:-1 ,Матч! Арена
-http://persik.by/stream/6606/411484/724.m3u8
-#EXTINF:-1 ,Матч! Арена
-http://hlstv.kem.211.ru/239.211.211.35/stream.m3u8
-#EXTINF:-1 ,Матч! Игра HD
-http://hlstv.kem.211.ru/239.211.200.11/stream.m3u8
-#EXTINF:-1 ,Матч! Игра
-http://persik.by/stream/6606/411484/10270.m3u8
-#EXTINF:-1 ,Матч! Игра
-http://persik.tv/stream/6299/10/10270.m3u8
-#EXTINF:-1 ,Матч! Наш Спорт
-http://hlstv.kem.211.ru/239.211.211.63/stream.m3u8
-#EXTINF:-1 ,Матч! Наш Спорт
-http://188.35.9.5:10007/stolen/124n/parasite.install
-#EXTINF:-1 ,Матч! Наш Спорт
-http://live02-cdn.tv.ti.ru:80/dtv/id475_NBN_SG--telekanalsport/03/plst.m3u8
-#EXTINF:-1 ,Спорт 1
-http://persik.tv/stream/6299/10/270.m3u8
-#EXTINF:-1 ,Спорт 2
-http://persik.by/stream/6606/411484/309.m3u8
-#EXTINF:-1 ,Спорт 2
-http://persik.tv/stream/6299/10/309.m3u8
-#EXTINF:-1 ,Спорт 2 Украина
-http://persik.by/stream/6606/411484/91.m3u8
-#EXTINF:-1 ,Спорт 2 Украина
-http://persik.by/stream/6606/411484/144.m3u8
-#EXTINF:-1 ,Старт HD HD
-http://live03-cdn.tv.ti.ru/dtv/id1303_NBN_SG--StartHD_wflite/04/plst.m3u8
-#EXTINF:-1 ,GOL TV
-http://trinity-lh.akamaihd.net/i/GolTVModel4A_d@422865/index_500_av-p.m3u8
-#EXTINF:-1 ,Real Madrid HD
-http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-b.m3u8?sd=10&rebase=on
-#EXTINF:-1 ,МАТЧ! ПРЕМЬЕР
-http://dmitry-tv.my1.ru/his/01/CH_MATCHPREMIER.m3u8
-#EXTINF:-1 ,МАТЧ! ФУТБОЛ 1 HD
-http://188.35.9.11:2010
-#EXTINF:-1 ,МАТЧ! ФУТБОЛ 1
-http://178.217.72.66/225.201.2.53/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,МАТЧ! ФУТБОЛ 1
-http://188.35.9.11:2025
-#EXTINF:-1 ,МАТЧ! ФУТБОЛ 2
-http://178.217.72.66:80/225.201.2.100/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,МАТЧ! ФУТБОЛ 3
-http://178.217.72.66:80/225.201.2.102/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Матч! Премьер HD
-http://hlstv.kem.211.ru/239.211.200.170/stream.m3u8
-#EXTINF:-1 ,Матч! Премьер HD
-http://persik.by/stream/6606/411484/10294.m3u8
-#EXTINF:-1 ,Матч! Премьер
-http://persik.tv/stream/6299/10/10264.m3u8
-#EXTINF:-1 ,Матч! Премьер
-http://persik.by/stream/6606/411484/284.m3u8
-#EXTINF:-1 ,Матч! Премьер
-http://persik.by/stream/6606/411484/10264.m3u8
-#EXTINF:-1 ,Матч! Премьер
-http://hlstv.kem.211.ru/239.211.211.170/stream.m3u8
-#EXTINF:-1 ,Матч! Футбол 1 HD
-http://hlstv.kem.211.ru/239.211.200.171/stream.m3u8
-#EXTINF:-1 ,Матч! Футбол 1 HD
-http://persik.by/stream/6606/411484/10266.m3u8
-#EXTINF:-1 ,Матч! Футбол 1 HD
-http://persik.tv/stream/6299/10/10266.m3u8
-#EXTINF:-1 ,Матч! Футбол 1 HD
-http://live02-cdn.tv.ti.ru:80/dtv/id472_NBN_SG--NTVFutbol1/04/plst.m3u8
-#EXTINF:-1 ,Матч! Футбол 1
-http://persik.tv/stream/6299/10/346.m3u8
-#EXTINF:-1 ,Матч! Футбол 1
-http://188.35.9.11:2025?checkedby:iptvcat.com
-#EXTINF:-1 ,Матч! Футбол 2 HD
-http://hlstv.kem.211.ru/239.211.200.172/stream.m3u8
-#EXTINF:-1 ,Матч! Футбол 2 HD
-http://persik.tv/stream/6299/10/10267.m3u8
-#EXTINF:-1 ,Матч! Футбол 2 HD
-http://persik.by/stream/6606/411484/10267.m3u8
-#EXTINF:-1 ,Матч! Футбол 2 HD
-http://live02-cdn.tv.ti.ru:80/dtv/id473_NBN_SG--NTVFootball2/04/plst.m3u8
-#EXTINF:-1 ,Матч! Футбол 3 HD
-http://hlstv.kem.211.ru/239.211.200.173/stream.m3u8
-#EXTINF:-1 ,Матч! Футбол 3 HD
-http://persik.by/stream/6606/411484/10268.m3u8
-#EXTINF:-1 ,Матч! Футбол 3 HD
-http://persik.tv/stream/6299/10/10268.m3u8
-#EXTINF:-1 ,Матч! Футбол 3 HD
-http://live02-cdn.tv.ti.ru:80/dtv/id471_NBN_SG--NTV_Futbol_3/04/plst.m3u8
-#EXTINF:-1 ,Матч! Футбол 3
-http://persik.by/stream/6606/411484/10218.m3u8
-#EXTINF:-1 ,ФУТБОЛ 0027
-http://persik.tv/stream/6299/10/440.m3u8
-#EXTINF:-1 ,ФУТБОЛ 0025
-http://178.57.121.38:8080/football/index.m3u8
-#EXTINF:-1 ,Футбол HD 0028
-http://93.94.155.151/footballhd/mono.m3u8
-#EXTINF:-1 ,Футбол
-http://persik.by/stream/6606/411484/440.m3u8
-#EXTINF:-1 ,Футбол
-http://hlstv.kem.211.ru/239.211.211.108/stream.m3u8
-#EXTINF:-1 ,КХЛ HD HD
-http://hlstv.kem.211.ru/239.211.200.12/stream.m3u8
-#EXTINF:-1 ,КХЛ HD HD
-http://persik.by/stream/6606/411484/10242.m3u8
-#EXTINF:-1 ,КХЛ ТВ HD
-http://persik.by/stream/6606/411484/604.m3u8
-#EXTINF:-1 ,КХЛ ТВ
-http://persik.by/stream/6606/411484/485.m3u8
-#EXTINF:-1 ,КХЛ ТВ
-http://hlstv.kem.211.ru/239.211.211.48/stream.m3u8
-#EXTINF:-1 ,Super Tennis HD
-http://188.35.9.11:21111/udp/161f
-#EXTINF:-1 ,Tennis Channel HD 1
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
-#EXTINF:-1 ,Tennis Channel HD 2
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8
-#EXTINF:-1 ,Мир Баскетбола
-http://live02-cdn.tv.ti.ru:80/dtv/id1140_NBN_SG--MirBasketbola/03/plst.m3u8
-#EXTINF:-1 ,BOX NATION
-http://62.112.9.63:88/box_nation/index.m3u8?token=test
-#EXTINF:-1 ,DSports
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD_800.m3u8
-#EXTINF:-1 ,Extreme Sport
-http://hlstv.kem.211.ru/239.211.211.47/stream.m3u8
-#EXTINF:-1 ,M-1 Global
-http://live02-cdn.tv.ti.ru:80/dtv/id1068_NBN_SG--M1global/03/plst.m3u8
-#EXTINF:-1 ,MostVideo TV HD
-http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1 ,RMC SPORT 4 HD
-http://www.iptvgafsa.tn:8000/987654321/123456789/304
-#EXTINF:-1 ,Russian Extreme Ultra HD
-http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
-#EXTINF:-1 ,UFC ТВ HD
-http://live-ng-01.more.tv/hls/UFC/master.m3u8
-#EXTINF:-1 ,Бокс ТВ
-http://78.107.248.201:4022/udp/233.33.221.61:5050
-#EXTINF:-1 ,Бокс ТВ
-http://live02-cdn.tv.ti.ru:80/dtv/id1266_NBN_SG--BoksTV/03/plst.m3u8
-#EXTINF:-1 ,Матч! Боец
-http://persik.by/stream/6606/411484/595.m3u8
-#EXTINF:-1 ,Матч! Боец
-http://persik.by/stream/6606/411484/310.m3u8
-#EXTINF:-1 ,Матч! Боец
-http://hlstv.kem.211.ru/239.211.211.44/stream.m3u8
-#EXTINF:-1 ,Матч! Боец
-http://live02-cdn.tv.ti.ru:80/dtv/id1089_NBN_SG--MatchBoec/03/plst.m3u8
-#EXTINF:-1 ,TVS BOXING HD
-https://nrpus.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
-#EXTINF:-1 ,CombatGo HD
-https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
-#EXTINF:-1 ,Racing
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
-#EXTINF:-1 ,Racing
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/628.m3u8
-#EXTINF:-1 ,Конный Мир
-http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 ,MOTORS TV
-http://45.58.62.92:8084
-#EXTINF:-1 ,ONE GOLF HD
-http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-#EXTINF:-1 ,Rugby TV HD
-#EXTM3U
-#EXTINF:-1,SPORTS 1
-http://fariszah.myq-see.com:8008/live/demo/demo/2322.ts
-#EXTINF:-1,SPORTS 2
-http://fariszah.myq-see.com:8008/live/demo/demo/21549.ts
-#EXTINF:-1,SPORTS 3
-http://fariszah.myq-see.com:8008/live/demo/demo/21550.ts
-#EXTINF:-1,SPORTS 4
-http://fariszah.myq-see.com:8008/live/demo/demo/21551.ts
-#EXTINF:-1,SPORTS 5
-http://fariszah.myq-see.com:8008/live/demo/demo/21552.ts
-#EXTINF:-1,SPORTS 6
-http://fariszah.myq-see.com:8008/live/demo/demo/21553.ts
-#EXTINF:-1,SPORTS 7
-http://fariszah.myq-see.com:8008/live/demo/demo/2308.ts
-#EXTINF:-1,SPORTS 8
-http://fariszah.myq-see.com:8008/live/demo/demo/2314.ts
-#EXTINF:-1,SPORTS 9
-http://fariszah.myq-see.com:8008/live/demo/demo/2315.ts
-#EXTINF:-1,SPORTS 10
-http://fariszah.myq-see.com:8008/live/demo/demo/2316.ts
-#EXTINF:-1,SPORTS 1 *
-http://fariszah.myq-see.com:8008/live/demo/demo/1941.ts
-#EXTINF:-1,SPORTS 2 *
-http://fariszah.myq-see.com:8008/live/demo/demo/1942.ts
-#EXTINF:-1,SPORTS 3 *
-http://fariszah.myq-see.com:8008/live/demo/demo/1943.ts
-#EXTINF:-1,SPORTS 4 *
-http://fariszah.myq-see.com:8008/live/demo/demo/1944.ts
-#EXTINF:-1,SPORTS 5 *
-http://fariszah.myq-see.com:8008/live/demo/demo/1945.ts
-#EXTINF:-1,SPORTS 6 *
-http://fariszah.myq-see.com:8008/live/demo/demo/1946.ts
-#EXTINF:-1,SPORTS 7 *
-http://fariszah.myq-see.com:8008/live/demo/demo/2261.ts
-#EXTINF:-1,SPORTS 1 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21566.ts
-#EXTINF:-1,SPORTS 2 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21567.ts
-#EXTINF:-1,SPORTS 3 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21568.ts
-#EXTINF:-1,SPORTS 4 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21576.ts
-#EXTINF:-1,SPORTS 5 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21577.ts
-#EXTINF:-1,SPORTS 6 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21578.ts
-#EXTINF:-1,SPORTS 7 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21579.ts
-#EXTINF:-1,SPORTS 8 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21580.ts
-#EXTINF:-1,SPORTS 9 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21581.ts
-#EXTINF:-1,SPORTS 10 SD
-http://fariszah.myq-see.com:8008/live/demo/demo/21582.ts
-#EXTINF:-1,WWE
-http://fariszah.myq-see.com:8008/live/demo/demo/1951.ts
-http://tv.cdn.xsg.ge/rtv/tracks-v1a1/index.m3u8
-#EXTM3U
-#PLAYLIST
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",Матч! Арена
-http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",Матч! Боец
-http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",Матч! Футбол 1
-http://mfe.cliptv.az/dash/Match_Football_1_HD.ism/playlist.mpd
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",Матч! Футбол 2
-http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",Матч! Футбол 3
-http://mfe.cliptv.az/dash/Match_Football_3_HD.ism/playlist.mpd
-#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Eleven Sports 1
-http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25661.m3u8
-#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Eleven Sports 1 HD
-http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1874
-#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Eleven Sports 2 HD
-http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1875
-#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Voo Sport 1 4K
-http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25655.m3u8
-#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Voo Sport 1 FHD
-http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1896
-#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Voo Sport 1 HD
-http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25659.m3u8
-#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Voo Sport World 1
-http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25658.m3u8
-#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Voo Sport World 1 4K
-http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25654.m3u8
-#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Voo Sport World 1 FHD
-http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1898
-#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Voo Sport World 2 4K
-http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25653.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41351
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS FHD H265
-http://p2prime.xyz:80/tvbox04/ucm352/14098
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS FHD²
-http://p2prime.xyz:80/tvbox04/ucm352/8968
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111090
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS HD
-http://topiptv.net:5890/london/london123/76751
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110287
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS HD²
-http://p2prime.xyz:80/tvbox04/ucm352/8969
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS HD¹
-http://p2prime.xyz:80/tvbox04/ucm352/14099
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS SD²
-http://p2prime.xyz:80/tvbox04/ucm352/8330
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Band Sports
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/5603.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Band Sports FHD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111089
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Band Sports Full HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9129.m3u8
-#EXTINF:0 tvg-country="BR;ES" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="Sport;Undefined",Brasil IPTV_83,Real Madrid TV (English)
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN
-http://ingrid.ltd:25461/Melon3175/Melon7531/41326
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN
-http://tv.iptv5latino.cl:8000/live/roberto2/roberto/15735.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN
-http://randomserver.site:2086/live/crystal/12345/92702.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/7357
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN
-http://randomserver.site:2086/crystal/12345/92702
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN
-http://randomserver.site:2086/live/Bria/Bria/92702.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN  BRASIL HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111166
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN  HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/17063
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN  HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110313
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9313.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 FHD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/33425
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 FHD H265
-http://p2prime.xyz:80/tvbox04/ucm352/14102
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 FHD dual audio
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111167
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 FHD²
-http://p2prime.xyz:80/tvbox04/ucm352/8957
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 Full HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9133.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111168
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/5670.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 HD
-http://topiptv.net:5890/london/london123/76775
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110314
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 HD²
-http://p2prime.xyz:80/tvbox04/ucm352/8338
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 HD¹
-http://p2prime.xyz:80/tvbox04/ucm352/14106
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 SD²
-http://p2prime.xyz:80/tvbox04/ucm352/8339
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 SD¹
-http://p2prime.xyz:80/tvbox04/ucm352/26413
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 4K
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111170
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 4K
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9250.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL
-http://ingrid.ltd:25461/Melon3175/Melon7531/41325
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL
-http://randomserver.site:2086/live/Bria/Bria/92701.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL
-http://randomserver.site:2086/live/crystal/12345/92701.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL FHD H265
-http://p2prime.xyz:80/tvbox04/ucm352/14103
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL FHD²
-http://p2prime.xyz:80/tvbox04/ucm352/8960
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110315
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL HD²
-http://p2prime.xyz:80/tvbox04/ucm352/8961
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL HD¹
-http://p2prime.xyz:80/tvbox04/ucm352/14107
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL SD²
-http://p2prime.xyz:80/tvbox04/ucm352/8962
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Brasil
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9297.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Brasil
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/5328
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Brasil HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/5644.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN EXTRA FHD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111173
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN EXTRA FHD H265
-http://p2prime.xyz:80/tvbox04/ucm352/14104
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN EXTRA FHD²
-http://p2prime.xyz:80/tvbox04/ucm352/8956
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN EXTRA HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111174
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN EXTRA HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110316
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN EXTRA HD²
-http://p2prime.xyz:80/tvbox04/ucm352/8963
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN EXTRA HD¹
-http://p2prime.xyz:80/tvbox04/ucm352/14108
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN EXTRA SD¹
-http://p2prime.xyz:80/tvbox04/ucm352/26412
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Extra HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9357.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN FHD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111175
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN FHD H265
-http://p2prime.xyz:80/tvbox04/ucm352/14101
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN FHD²
-http://p2prime.xyz:80/tvbox04/ucm352/8964
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Full HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9226.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111176
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/5645.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/5327
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110317
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN HD²
-http://p2prime.xyz:80/tvbox04/ucm352/8958
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN HD¹
-http://p2prime.xyz:80/tvbox04/ucm352/14105
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN SD²
-http://p2prime.xyz:80/tvbox04/ucm352/8965
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN SD¹
-http://p2prime.xyz:80/tvbox04/ucm352/26417
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN2
-http://ingrid.ltd:25461/Melon3175/Melon7531/41324
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPORTE INTERATIVO HD¹
-http://p2prime.xyz:80/tvbox04/ucm352/36296
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Esporte Interativo Ao Vivo
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9429.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/k29sgDw.png" group-title="Sport",Esporte Interativo Plus
-https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41317
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 1
-http://randomserver.site:2086/crystal/12345/92696
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 1
-http://randomserver.site:2086/live/Bria/Bria/92696.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 1
-http://randomserver.site:2086/live/crystal/12345/92696.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 1
-http://tv.iptv5latino.cl:8000/live/roberto2/roberto/14787.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 2
-http://randomserver.site:2086/crystal/12345/92695
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 2
-http://ingrid.ltd:25461/Melon3175/Melon7531/41316
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 2
-http://randomserver.site:2086/live/Bria/Bria/92695.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 2
-http://randomserver.site:2086/live/crystal/12345/92695.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 2 4K dual audio
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111202
-#EXTM3U
-#PLAYLIST
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",Матч! Арена
-http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",Матч! Боец
-http://mfe.cliptv.az/dash/Matc_Boec_SD.ism/playlist.mpd
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",Матч! Футбол 1
-http://mfe.cliptv.az/dash/Match_Football_1_HD.ism/playlist.mpd
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",Матч! Футбол 2
-http://mfe.cliptv.az/dash/Match_Football_2_HD.ism/playlist.mpd
-#EXTINF:0 tvg-country="AZ" tvg-logo="" group-title="Sport",Матч! Футбол 3
-http://mfe.cliptv.az/dash/Match_Football_3_HD.ism/playlist.mpd
-#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Eleven Sports 1
-http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25661.m3u8
-#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Eleven Sports 1 HD
-http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1874
-#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Eleven Sports 2 HD
-http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1875
-#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Voo Sport 1 4K
-http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25655.m3u8
-#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Voo Sport 1 FHD
-http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1896
-#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Voo Sport 1 HD
-http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25659.m3u8
-#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Voo Sport World 1
-http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25658.m3u8
-#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Voo Sport World 1 4K
-http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25654.m3u8
-#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Voo Sport World 1 FHD
-http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1898
-#EXTINF:0 tvg-country="BE" tvg-logo="" group-title="Sport",Voo Sport World 2 4K
-http://red.ipfox.org:8080/live/tigerag_IFrghX/pMFrDC0M/25653.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41351
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS FHD H265
-http://p2prime.xyz:80/tvbox04/ucm352/14098
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS FHD²
-http://p2prime.xyz:80/tvbox04/ucm352/8968
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111090
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS HD
-http://topiptv.net:5890/london/london123/76751
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110287
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS HD²
-http://p2prime.xyz:80/tvbox04/ucm352/8969
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS HD¹
-http://p2prime.xyz:80/tvbox04/ucm352/14099
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",BAND SPORTS SD²
-http://p2prime.xyz:80/tvbox04/ucm352/8330
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Band Sports
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/5603.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Band Sports FHD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111089
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Band Sports Full HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9129.m3u8
-#EXTINF:0 tvg-country="BR;ES" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" group-title="Sport;Undefined",Brasil IPTV_83,Real Madrid TV (English)
-https://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/master.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN
-http://ingrid.ltd:25461/Melon3175/Melon7531/41326
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN
-http://tv.iptv5latino.cl:8000/live/roberto2/roberto/15735.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN
-http://randomserver.site:2086/live/crystal/12345/92702.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/7357
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN
-http://randomserver.site:2086/crystal/12345/92702
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN
-http://randomserver.site:2086/live/Bria/Bria/92702.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN  BRASIL HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111166
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN  HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/17063
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN  HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110313
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9313.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 FHD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/33425
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 FHD H265
-http://p2prime.xyz:80/tvbox04/ucm352/14102
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 FHD dual audio
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111167
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 FHD²
-http://p2prime.xyz:80/tvbox04/ucm352/8957
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 Full HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9133.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111168
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/5670.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 HD
-http://topiptv.net:5890/london/london123/76775
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110314
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 HD²
-http://p2prime.xyz:80/tvbox04/ucm352/8338
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 HD¹
-http://p2prime.xyz:80/tvbox04/ucm352/14106
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 SD²
-http://p2prime.xyz:80/tvbox04/ucm352/8339
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 2 SD¹
-http://p2prime.xyz:80/tvbox04/ucm352/26413
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 4K
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111170
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN 4K
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9250.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL
-http://ingrid.ltd:25461/Melon3175/Melon7531/41325
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL
-http://randomserver.site:2086/live/Bria/Bria/92701.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL
-http://randomserver.site:2086/live/crystal/12345/92701.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL FHD H265
-http://p2prime.xyz:80/tvbox04/ucm352/14103
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL FHD²
-http://p2prime.xyz:80/tvbox04/ucm352/8960
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110315
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL HD²
-http://p2prime.xyz:80/tvbox04/ucm352/8961
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL HD¹
-http://p2prime.xyz:80/tvbox04/ucm352/14107
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN BRASIL SD²
-http://p2prime.xyz:80/tvbox04/ucm352/8962
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Brasil
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9297.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Brasil
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/5328
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Brasil HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/5644.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN EXTRA FHD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111173
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN EXTRA FHD H265
-http://p2prime.xyz:80/tvbox04/ucm352/14104
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN EXTRA FHD²
-http://p2prime.xyz:80/tvbox04/ucm352/8956
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN EXTRA HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111174
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN EXTRA HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110316
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN EXTRA HD²
-http://p2prime.xyz:80/tvbox04/ucm352/8963
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN EXTRA HD¹
-http://p2prime.xyz:80/tvbox04/ucm352/14108
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN EXTRA SD¹
-http://p2prime.xyz:80/tvbox04/ucm352/26412
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Extra HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9357.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN FHD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111175
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN FHD H265
-http://p2prime.xyz:80/tvbox04/ucm352/14101
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN FHD²
-http://p2prime.xyz:80/tvbox04/ucm352/8964
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN Full HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9226.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111176
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN HD
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/5645.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN HD
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/5327
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN HD backup
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/110317
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN HD²
-http://p2prime.xyz:80/tvbox04/ucm352/8958
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN HD¹
-http://p2prime.xyz:80/tvbox04/ucm352/14105
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN SD²
-http://p2prime.xyz:80/tvbox04/ucm352/8965
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN SD¹
-http://p2prime.xyz:80/tvbox04/ucm352/26417
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPN2
-http://ingrid.ltd:25461/Melon3175/Melon7531/41324
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",ESPORTE INTERATIVO HD¹
-http://p2prime.xyz:80/tvbox04/ucm352/36296
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",Esporte Interativo Ao Vivo
-http://iptv.deluxeplay.live:80/live/E0KEkrd46/q7bFf1Y50/9429.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="https://i.imgur.com/k29sgDw.png" group-title="Sport",Esporte Interativo Plus
-https://us-b4-p-e-ft6.cdn.mdstrm.com/live-stream/5bfc4171cb01650d5908a91a/playout/index-f2-v1-a1.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS
-http://ingrid.ltd:25461/Melon3175/Melon7531/41317
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 1
-http://randomserver.site:2086/crystal/12345/92696
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 1
-http://randomserver.site:2086/live/Bria/Bria/92696.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 1
-http://randomserver.site:2086/live/crystal/12345/92696.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 1
-http://tv.iptv5latino.cl:8000/live/roberto2/roberto/14787.ts
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 2
-http://randomserver.site:2086/crystal/12345/92695
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 2
-http://ingrid.ltd:25461/Melon3175/Melon7531/41316
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 2
-http://randomserver.site:2086/live/Bria/Bria/92695.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 2
-http://randomserver.site:2086/live/crystal/12345/92695.m3u8
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Sport",FOX SPORTS 2 4K dual audio
-http://31.220.1.50:7899/nelson_sousa1/6QzXACjNtA/111202
-#EXTM3U
-#EXTINF:-1,SPORT 4K 1
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/286
-#EXTINF:-1,SPORT 4K 2
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/287
-#EXTINF:-1,SPORT 4K 3
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/288
-#EXTINF:-1,SPORT 4K 4
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/289
-#EXTINF:-1,SPORT 4K 5
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/290
-#EXTINF:-1,SPORT 4K 6
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/291
-#EXTINF:-1,SPORT 4K 7
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/292
-#EXTINF:-1,SPORT 4K 8
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/293
-#EXTINF:-1,SPORT 4K 9
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/294
-#EXTINF:-1,SPORT 4K 10
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/295
-#EXTINF:-1,SPORTS 1 FHD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/296
-#EXTINF:-1,SPORTS 2 FHD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/297
-#EXTINF:-1,SPORTS 3 FHD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/298
-#EXTINF:-1,SPORTS 4 FHD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/299
-#EXTINF:-1,SPORTS 5 FHD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/300
-#EXTINF:-1,SPORTS 6 FHD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/301
-#EXTINF:-1,SPORTS 7 FHD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/302
-#EXTINF:-1,SPORTS 8 FHD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/303
-#EXTINF:-1,SPORTS 9 FHD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/304
-#EXTINF:-1,SPORTS 10 FHD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/305
-#EXTINF:-1,SPORT 1 HD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/306
-#EXTINF:-1,SPORT 2 HD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/307
-#EXTINF:-1,SPORT 3 HD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/308
-#EXTINF:-1,SPORT 4 HD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/309
-#EXTINF:-1,SPORT 5 HD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/310
-#EXTINF:-1,SPORT 6 HD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/311
-#EXTINF:-1,SPORT 7 HD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/312
-#EXTINF:-1,SPORT 8 HD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/313
-#EXTINF:-1,SPORT 9 HD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/314
-#EXTINF:-1,SPORT 10 HD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/315
-#EXTINF:-1,SPORTS_1_HVCE
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/316
-#EXTINF:-1,SPORTS_2_HVCE
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/317
-#EXTINF:-1,SPORTS_3_HVCE
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/318
-#EXTINF:-1,SPORTS_4_HVCE
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/319
-#EXTINF:-1,SPORTS_5_HVCE
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/320
-#EXTINF:-1,SPORTS_6_HD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/321
-#EXTINF:-1,SPORTS_7_HVCE
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/322
-#EXTINF:-1,SPORTS_8_HVCE
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/323
-#EXTINF:-1,SPORTS_9_HVCE
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/324
-#EXTINF:-1,SPORTS_10_HVCE
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/325
-#EXTINF:-1,SPORTS SD1
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/326
-#EXTINF:-1,SPORTS SD2
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/327
-#EXTINF:-1,SPORTS SD3
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/328
-#EXTINF:-1,SPORTS SD4
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/329
-#EXTINF:-1,SPORTS SD5
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/330
-#EXTINF:-1,SPORTS SD6
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/331
-#EXTINF:-1,SPORTS SD7
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/332
-#EXTINF:-1,SPORTS SD8
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/333
-#EXTINF:-1,SPORTS SD9
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/334
-#EXTINF:-1,SPORTS SD10
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/335
-#EXTINF:-1,SPORTS 1 SD 2 MEGA
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/336
-#EXTINF:-1,SPORTS 2 SD 2 MEGA
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/337
-#EXTINF:-1,SPORTS 3 SD 2 MEGA
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/338
-#EXTINF:-1,SPORTS 4 SD 2 MEGA
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/339
-#EXTINF:-1,SPORTS 5 SD 2 MEGA
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/340
-#EXTINF:-1,SPORTS 6 SD 2 MEGA
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/341
-#EXTINF:-1,SPORTS 7 SD 2 MEGA
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/342
-#EXTINF:-1,SPORTS 8 SD 2 MEGA
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/343
-#EXTINF:-1,SPORTS 9 SD 2 MEGA
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/344
-#EXTINF:-1,SPORTS 10 SD 2 MEGA
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/345
-#EXTINF:-1,SPORTS LOW 1
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/346
-#EXTINF:-1,SPORTS LOW 2
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/347
-#EXTINF:-1,SPORTS LOW 3
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/348
-#EXTINF:-1,SPORTS LOW 4
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/349
-#EXTINF:-1,SPORTS LOW 5
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/350
-#EXTINF:-1,SPORTS LOW 6
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/351
-#EXTINF:-1,SPORTS LOW 7
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/352
-#EXTINF:-1,SPORTS LOW 8
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/353
-#EXTINF:-1,SPORTS LOW 9
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/354
-#EXTINF:-1,SPORTS LOW 10
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/355
-#EXTINF:-1,SPORT 1 HD FR
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/366
-#EXTINF:-1,SPORT 2 HD FR
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/367
-#EXTINF:-1,SPORT 3 HD FR
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/368
-#EXTINF:-1,SPORT MAX 4 HD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/369
-#EXTINF:-1,SPORT MAX 5 HD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/370
-#EXTINF:-1,SPORT MAX 6 HD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/371
-#EXTINF:-1,SPORT MAX 7 HD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/372
-#EXTINF:-1,SPORT MAX 8 HD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/373
-#EXTINF:-1,SPORT MAX 9 HD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/374
-#EXTINF:-1,SPORT MAX 10 HD
-http://62.210.168.203:25461/serverpc/0rqMcUrUMW/375
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/BUZZR.png" ,Buzzr | HD
+https://buzzrota-web.amagi.tv/playlist.m3u8?Entertainment
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ChargeTV.png" Charge! (Geo-USA)
+https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CometTV.png" ,Comet TV (Geo-USA)
+http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8?tc=1&exp=1614631202&rn=2057716804&ct=c&cid=3e45c6b5354a40f787e0b2aadb0f5d6a&ad=comet&repl=aboi&ad.adUnit=%2FCOMET%2FLivestream_midroll&ad._debug=comet_vmap&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=b2edfb477155d2588a66e0aecdbebff5a23c90a96e55c831def9a1434a51913b
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/KidsClick.png" ,Kids Click TV (Geo-USA)
+https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/TBD.png" ,TBD Channel
+http://content.uplynk.com/channel/1831163f97674328ad9f4b4814ed39c5.m3u8?tc=1&exp=1614631202&rn=614441536&ct=c&cid=1831163f97674328ad9f4b4814ed39c5&ad=comet&ad.adUnit=%2FTBD%2FLivestream_midroll&ad._debug=TBDNET_ssai_livestream_midroll&ad.ad_rule=1&ad.pmad=12&ad.output=xml_vmap1&sig=5d194a4e4c5a4d59023d6a39a2ba5ba82dcd817b615e9f82115c41d9b26ffd0a
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ZLiving_512x512.png?raw=true" ,Z Living
+https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Folk-TV_NEW_720x720.png?raw=true" ,Folk TV
+http://584b0aa350b92.streamlock.net:1935/folk-tv/myStream.sdp/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ClassicArtsShowcase.png" ,Classic Arts Showcase
+https://classicarts.global.ssl.fastly.net/live/cas/master_3000k.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WorldHarvestTelevision_290x290.png?raw=true" ,WHT | World Harvest Television
+https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Dabl_400x400.png" ,Dabl (Geo-USA)
+https://cbsta49f-dabl68fc.global.ssl.fastly.net/out/v1/dfecb53fbf434b6bbbfd91d8a2549381/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/LawAndCrime_340x340.png" ,Law & Crime Trial Network
+https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/CourtTV_450x450.png" ,Court TV | HD
+https://content.uplynk.com/channel/6c0bd0f94b1d4526a98676e9699a10ef.m3u8?v=2&ad=web&m.sound=normal&pos=midroll&expand=ad_live&m.sound=normal&m.playback=autoplay
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/YouTooAmerica_225x225.png?raw=true" ,YouToo America
+https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" ,PBS | WPSU | Source 1
+https://ssc2.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" ,PBS | WPSU | Source 2
+https://ssc3.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_720max/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" ,PBS | WPSU | HD
+https://ssc4.wpsu.psu.edu/WPSU_LLStream/ngrp:WPSU1_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS.png?raw=true" ,PBS | Maryland Public TV
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" ,PBS Kids | KET
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8?DVR
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" ,PBS Kids (Geo-USA) East
+https://live-cdn.pbskids.org/out/u/est.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/PBS-Kids_625x625.png?raw=true" ,PBS Kids (Geo-USA) Hawaii
+https://live-cdn.pbskids.org/out/u/hast.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/nosey_485x485.png?raw=true" ,nosey | Jerry Springer
+https://e2277a5e6b8841faba29afa6e2e8ec47.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse-node04_powr_com_5eb1e7f848f1ff2e1d2555a2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/nosey_485x485.png?raw=true" ,nosey | Maury
+https://960ac46899d84782b7ce1a025be6d43b.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse-node04_powr_com_5eb1e88458ad7801fa2cfc2e/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/nosey_485x485.png?raw=true" ,nosey | Steve Wilkos
+https://19bbd5efd739418f81cc5457a9b5372c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse-node04_powr_com_5eb1e84c95ee0253b97679d7/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/nosey_485x485.png?raw=true" ,nosey | Divorce Court
+https://fafc1fa4b5594245ac9c53c3d765e4f2.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse-node04_powr_com_5eb1e76d1474f9020c06f9ee/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/nosey_485x485.png?raw=true" ,nosey | Judge Karen's Court
+https://80461fbcb4e841eb9d7f7ae76f05483d.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse-node04_powr_com_5eb1e7261474f9020c06f9ec/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ThePreviewChannel_220x220.png?raw=true",The Preview Channel
+https://hls.xumo.com/channel-hls/v1/bmneuerw7j9k5lfc/9999330/master.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ElectricEnt_480x480.png" ,Electric Now | HD
+https://1cfc2538e92a49b6aca3ccd424b3d474.mediatailor.us-west-2.amazonaws.com/v1/master/2aa80169619e70d2ce8badd72baf024f656bee6b/ElecNowVeset/prod/elec/linear_channel/ottera_cdn.m3u8?&ads.device_manufacturer=&ads.device_model=&ads.device_type=desktop&ads.partner=internal&ads.device_id=06b83095fc1867c979e49ea7318a5abb&ads.device_width=1280&ads.device_height=720
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheAsylum_350x350.png?raw=true" ,The Asylum Movie Channel
+https://dai1.xumo.com/7a884267de5c44a9/9999406/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/TheArchive_300x300.png?raw=true" ,The Archive
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=74&live=1&app_bundle=&did=&app_domain=app.plex.tv&app_name=plex&h=1080&w=1920&content_title=z1MCPUpbxYcHru-5hdyq&content_series=5eea605674085f0040ddc7a0&custom4=plex&gdpr=0&device_make=&device_model=Windows+hosted&coppa=0&us_privacy=1---
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/FilmDetective_400x400.png" ,The Film Detective | HD
+https://a.jsrdn.com/broadcast/9Kl3dcb5l/c.m3u8?MoviesPlus
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/LoneStar_v2_250x250.png?raw=true" ,Lone Star
+https://a.jsrdn.com/broadcast/5oWx2VgEmK/+0000/c.m3u8?MoviesPlus
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/XumoFreeWesterns.png?raw=true" ,Xumo Free Westerns
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u8?p=roku&rdid=6d139079-f288-57b6-9e26-5e3801ae96af&coppa=false&is_roku_lat=1&platform=web&content=6b71b3f003f15cd99996f63578a7f0e2&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=us&bmodel=ROKU_BIZ_MODEL&tags=ROKU_CONTENT_TAGS&studio_id=xumo&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS&is_lat=1&channel_id=151908
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ShoutFactoryTV_300x300.png?raw=true",Shout! Factory TV | HD
+https://shoutfactorytv-xumo.amagi.tv/ssai/amagi_hls_data_xumo1212A-shoutfactory/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" ,Dust | Channel 1
+https://dust.sinclair.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Dust_670x670.png?raw=true" ,Dust | Channel 2
+https://dai1.xumo.com/8d9puiojemjm1t9c/9999432/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MagellanTVNow_503x503.png?raw=true" ,Magellan TV Now | HD
+https://96f6ab4a7f3c434699b8502a36d670fc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MagellanTV/playlist.m3u8?ads.wurl_channel=304&ads.wurl_name=MagellanTV&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=vX2gxiT5Q_vtARVYwbZa&ads.plex_id=5f5132e262fe160040f26bf2&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.135+Safari%2F537.36+OPR%2F70.0.3728.178&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/RetroCrush_576x576.png?raw=true",RetroCrush TV
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8?ads.wurl_channel=491&ads.wurl_name=RetroCrush&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c442a&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/MidnightPulp_200x200.png?raw=true" ,Midnight Pulp TV
+https://369f2966f62841f4affe37d0b330a13c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MidnightPulp/playlist.m3u8?ads.wurl_channel=263&ads.wurl_name=MidnightPulp&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5ef4e1b40d9ad000423c4427&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.89+Safari%2F537.36+OPR%2F70.0.3728.71&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Runtime_120x120.png?raw=true" ,RunTime Free Movies
+https://ammoruntime-plex.amagi.tv/hls/amagi_hls_data_plexAAAAA-runtime-plex/CDN/playlist.m3u8?us_privacy=1---&did=&dnt=1&X-Plex-Token=vX2gxiT5Q_vtARVYwbZa&channelId=5f47b0b87cb6a400422f9146
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Free-Movies_300x300.png?raw=true" ,FilmRise | Free Movies
+https://dai1.xumo.com/7a884267de5c44a9/9999404/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Classic-TV_300x300.png?raw=true" ,FilmRise | Classic TV
+https://dai1.xumo.com/9fe012a9926c4e91/9999400/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Family_355x355.png?raw=true" | FilmRise Family
+https://dai1.xumo.com/9fe012a9926c4e91/9999402/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_Sci-Fi_355x355.png?raw=true" ,FilmRise | FilmRise Sci-Fi
+https://dai1.xumo.com/7a884267de5c44a9/9999437/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise-Action_442x442.png?raw=true" ,FilmRise | FilmRise Action
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8?p=roku&rdid=85a1184d-06da-5f54-9850-8046b71fea91&coppa=false&is_roku_lat=1&platform=web&content=e6f1b98acc5b5727ace239b9e4065c9b&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=CHANNEL_STORE_CODE&bmodel=ROKU_BIZ_MODEL&tags=ROKU_CONTENT_TAGS&studio_id=ROKU_ADS_PROVIDER_ID&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_512x512.png?raw=true" group-title="FilmRise Digital Networks",FilmRise | Gordon Ramsay
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8?p=roku&rdid=6d139079-f288-57b6-9e26-5e3801ae96af&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=385e1e1953f4512aacd8ffc73b76cc32&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_UnsolvedMys_900x900.png?raw=true",FilmRise | Unsolved Mysteries
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8?p=roku&rdid=6d139079-f288-57b6-9e26-5e3801ae96af&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=be4b0ce90fd4581c9d40f93434439d48&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_ForensicFiles_398x398.png?raw=true" ,FilmRise | Forensic Files
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuforensicfiles/CDN/master.m3u8?p=roku&rdid=6d139079-f288-57b6-9e26-5e3801ae96af&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=1bf2b193d75955de8a860bd6e7835745&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" ,FilmRise Movies on Redbox
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefreemovies/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" ,FilmRise Family on Redbox
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisefamily/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" ,FilmRise Sci-Fi on Redbox
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmrisescifi/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Redbox_512x512.png?raw=true" ,FilmRise Classic TV on Redbox
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmriseclassictv/CDN/playlist.m3u8?p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows
+
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ConTV_NEW_640x640.png?raw=true" ,Cinedigm | CONtv Channel
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo123-contv/CDN/master.m3u8?Cinedigm
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ConTVAnime_302x302.png?raw=true" ,Cinedigm | CONtv Anime
+https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/playlist.m3u8?Cinedigm
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/DoveChannel.png" ,Cinedigm | Dove Channel
+https://dove-distro.cinedigm.com/playlist720p.m3u8?Cinedigm
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/WhistleTV_350x350.png?raw=true",Cinedigm | Whistle TV
+https://a.jsrdn.com/broadcast/3edff5tr2sv/c.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/Docurama_670x670.png",Cinedigm | Docurama
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-docuramaA/CDN/master.m3u8?Cinedigm
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/BobRossChannel_275x275.png?raw=true" ,Cinedigm | The Bob Ross Channel
+https://bobross-us-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-roku-bobross/CDN/playlist.m3u8?rdid=6d139079-f288-57b6-9e26-5e3801ae96af&coppa=false&is_lat=1&content=766565528976583c95f05af483f23092&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&is_roku_lat=1
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/CombatGo_240x240.png?raw=true" ,Cinedigm | Combat Go
+https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo-host-combatgoA/CDN/master.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ComedyDynamics_640x640.png?raw=true" ,Cinedigm | Comedy Dynamics
+https://a.jsrdn.com/broadcast/5Gt2c8lsw/c.m3u8?Cinedigm
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Bambu_300x300.png?raw=true",Cinedigm | Bambu
+https://a.jsrdn.com/broadcast/g44kshi9X/c.m3u8?Cinedigm
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/247RetroTV.png" ,247 Retro TV
+http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HollywoodClassics_v2_290x290.png?raw=true" ,Hollywood Classics
+https://fef5003bb7e7447ab21a2c3fd81e3b74.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_HollywoodClassics/playlist.m3u8?ads.wurl_channel=532&ads.wurl_name=HollywoodClassics&ads.us_privacy=1---&ads.psid=&ads.targetopt=1&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.plex_id=5f0ff265d71dcb00449ec02d&ads.ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F84.0.4147.105+Safari%2F537.36+OPR%2F70.0.3728.95&ads.app_bundle=&ads.app_store_url=&ads.gdpr=0&ads.consent=0
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/AmericanHorrors.png" ,American Horrors
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_AmClassicNetwork.png" ,American Classic Network
+https://nimble.dashstreams.net/onestudio/americanclassictv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_ClassicTV4U.png" ,Classic TV 4U
+https://nimble.dashstreams.net/onestudio/classictv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_SpydarTV.png",Spydar TV
+https://nimble.dashstreams.net/onestudio/spydar/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/NostTV_Westerns4U.png",Westerns 4U
+https://nimble.dashstreams.net/onestudio/western4u/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/SciFi4U_576x576.png?raw=true",Sci-Fi 4U
+https://nimble.dashstreams.net/onestudio/SciFiTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HorifiedTV_898x898.png?raw=true",Horrified TV
+https://nimble.dashstreams.net/onestudio/horrified/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/NostTV_Movies_400x400.png?raw=true",It's At The Movies
