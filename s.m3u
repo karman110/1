@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,ONE GOLF HD
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
-http://mfe.cliptv.az/dash/Match_Football_3_HD.ism/playlist.mpd
-#EXTINF:0 tvg-country="BE" tvg-logo=",Eleven Sports 1 HD
 http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1874
 #EXTINF:-1 ,Eurosport 4K HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/bw6000000/variant.m3u8
