@@ -60,7 +60,7 @@ https://dai1.xumo.com/9fe012a9926c4e91/9999402/master.m3u8
 https://dai1.xumo.com/7a884267de5c44a9/9999437/master.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise-Action_442x442.png?raw=true" ,FilmRise | FilmRise Action
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8?p=roku&rdid=85a1184d-06da-5f54-9850-8046b71fea91&coppa=false&is_roku_lat=1&platform=web&content=e6f1b98acc5b5727ace239b9e4065c9b&genre=ROKU_ADS_CONTENT_GENRE&content_type=livefeed&content_rating=ROKU_ADS_CONTENT_RATING&channelStore=CHANNEL_STORE_CODE&bmodel=ROKU_BIZ_MODEL&tags=ROKU_CONTENT_TAGS&studio_id=ROKU_ADS_PROVIDER_ID&pod_min=OTT_POD_MIN&pod_max=OTT_POD_MAX&pod_ads=OTT_POD_ADS
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_512x512.png?raw=true" group-title="FilmRise Digital Networks",FilmRise | Gordon Ramsay
+#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_512x512.png?raw=true" ,FilmRise | Gordon Ramsay
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecooking/CDN/playlist.m3u8?p=roku&rdid=6d139079-f288-57b6-9e26-5e3801ae96af&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=385e1e1953f4512aacd8ffc73b76cc32&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FilmRise_UnsolvedMys_900x900.png?raw=true",FilmRise | Unsolved Mysteries
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8?p=roku&rdid=6d139079-f288-57b6-9e26-5e3801ae96af&coppa=false&is_lat=1&is_roku_lat=1&content_type=livefeed&content=be4b0ce90fd4581c9d40f93434439d48&genre=ROKU_ADS_CONTENT_GENRE&platform=web&content_rating=ROKU_ADS_CONTENT_RATING&channel_id=ROKU_CHANNEL_ID
@@ -91,7 +91,6 @@ https://bobross-us-roku.cinedigm.com/midroll/amagi_hls_data_xumo-host-roku-bobro
 https://a.jsrdn.com/broadcast/5Gt2c8lsw/c.m3u8?Cinedigm
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Bambu_300x300.png?raw=true",Cinedigm | Bambu
 https://a.jsrdn.com/broadcast/g44kshi9X/c.m3u8?Cinedigm
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/247RetroTV.png" ,247 Retro TV
 http://hlsdpi-cdn-chqtx02.totalstream.net/dpilive/247retro/ret/dai/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/HollywoodClassics_v2_290x290.png?raw=true" ,Hollywood Classics
