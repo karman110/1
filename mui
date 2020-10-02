@@ -12,7 +12,7 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w796472816.m3u8
  
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e7lLlLn.png" group-title="AFGHANISTAN",Ava Music
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e7lLlLn.png" ,Ava Music
 http://51.15.236.137/hls/stream.m3u8
 
 
