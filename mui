@@ -1,95 +1,35 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="http://iconbug.com/data/7f/256/ffe3a2ec7be0015d10a0b0706b4fd120.png" group-title="LABEL",~ Afghanistan TV ~
-http://www.lengua.com/anthems/Afghanistan.mp3
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rXPD6Ef.png" group-title="AFGHANISTAN",1TV
-http://173.208.166.179/1tv-live-ca7a6c5bloody79c-der-da-spy-zoy-ye-kona-warkareya-dawusa_bastard/tracks-v1a1/mono.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cbijANA.png" group-title="AFGHANISTAN",Afghan Javan TV (CA)
-http://o2nbyj76y53k-hls-live.5centscdn.com/459/459_push_211/test2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2QKhRK.png" group-title="AFGHANISTAN",Ariana TV Int'l
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k2QKhRK.png" ,Ariana TV Int'l
 https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2QKhRK.png" group-title="AFGHANISTAN",Ariana TV National
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k2QKhRK.png" ,Ariana TV National
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2QKhRK.png" group-title="AFGHANISTAN",Ariana TV USA
-http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8?fluxustv.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/agwQIkl.png" group-title="AFGHANISTAN",Ariana News
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/agwQIkl.png" ,Ariana News
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w796472816.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c4qfAf1.png" group-title="AFGHANISTAN",Arezo TV (Opt-1)
-http://173.208.166.179/afg_ar_tv_789-456-dont_copy_my_links-mother-fucker-kona-werakawa/tracks-v1a1/mono.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c4qfAf1.png" group-title="AFGHANISTAN",Arezo TV (Opt-2)
-http://173.208.166.179/mitra_tv_live-4a64668668a3b6599d1_asdf-9f7896449d697f-fuck-off/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e7lLlLn.png" group-title="AFGHANISTAN",Ava Music
 http://51.15.236.137/hls/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XbNHtA7.png" group-title="AFGHANISTAN",Bahar TV
-http://iptv.bahartv-af.com/bahartv/playlist1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/KNDWK1M.png" group-title="AFGHANISTAN",Hewad TV
-http://173.208.166.179/hewad_tv_live-741zxc_dala-fuckoff-kona-werkawa_ghjkl_hj963klj123/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nZMhKGG.png" group-title="AFGHANISTAN",Iman TV
-http://52.88.26.55:1935/imantv/imantv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/hxT2CHm.png" group-title="AFGHANISTAN",Kabul TV
-http://1-fss27-s0.streamhoster.com/lv_kabultv/_definst_/kabultvus/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4X2Px8w.png" group-title="AFGHANISTAN",Kayhan TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4X2Px8w.png" ,Kayhan TV
 https://playout395.livestreamingcdn.com/live/Stream1/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/upo8p71.png" group-title="AFGHANISTAN",Khurshid TV (Opt-1)
-http://173.208.166.179/hewad_tv_live-741zxc_dala-fuckoff-kona-werkawa_ghjkl_hj963klj123/tracks-v1a1/mono.m3u8?fluxustv.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/upo8p71.png" group-title="AFGHANISTAN",Khurshid TV (Opt-2)
-http://173.208.166.179/khurshid_tv_live-motherkhata-a28b7_789abc_636wwwww4e888555-dont-copy/tracks-v1a1/mono.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mH1wV8R.png" group-title="AFGHANISTAN",Lemar TV
-http://173.208.166.179/lemar_tv_live-kona-warkawa-koni-lanati-ma-use-kawa-bastard-Dozd_zxcv55/tracks-v1a1/mono.m3u8?fluxustv.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fMgC3r2.png" group-title="AFGHANISTAN",Pamir TV
-http://live.pamir.tv/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aeiWcYV.png" group-title="AFGHANISTAN",Payam-E-Afghan
-http://g5nl6xx5lpq6-hls-live.5centscdn.com/602/live12345/payameafghantv.stream/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XwNm3i6.png" group-title="AFGHANISTAN",RTA
-http://173.208.166.179/rta_tv_live-789jkl456hgf_789_defgh/tracks-v1a1/mono.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VSqdZ8D.png" group-title="AFGHANISTAN",RTA Sport (New!)
-http://212.47.252.54/hls/stream.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0kccir.png" group-title="AFGHANISTAN",Shamshad TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/h0kccir.png" ,Shamshad TV
 http://109.123.70.27:1935/shamshadtelevision/shamshadtelevision/chunklist.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ybT2Qvr.png" group-title="AFGHANISTAN",Tolo News
-http://173.208.166.179/tolo_news_live-1c104a79_dawus-khairatkhor_bastard-off_a3b65f99f6e409555/tracks-v1a1/mono.m3u8?fluxustv.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/86mvHop.png" group-title="AFGHANISTAN",Tolo TV
-http://74.91.29.218:8081/Afghantvchannels/Tolo-TV-2-FUCKYOU-FUCKOFF/chunks.m3u8?fluxustv.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c909MTK.png" group-title="AFGHANISTAN",Tuti TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/c909MTK.png" ,Tuti TV
 https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/chunklist.m3u8?fluxustv.m3u8
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ngjqje6.png" group-title="AFGHANISTAN",Watan-E-Maa TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ngjqje6.png" ,Watan-E-Maa TV
 http://cdn24.live247stream.com/watanemaa/tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/umiOui9.png" group-title="AFGHANISTAN",Zan TV
-http://173.208.166.179/zan_tv_live_456qwer586_stop_tyui123ikm159-fuck-off/tracks-v1a1/mono.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/lIXXgfM.png" group-title="AFGHANISTAN",Zarin TV
-https://5c21f7ec1999d.streamlock.net/8176/8176/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iMRSOFm.png" group-title="AFGHANISTAN",Zhwandoon TV
-http://173.208.166.179/zhwandoon_tv_live-ca76ca2c8763_bastard-koni-dozd-lanati-kona-warkawa-c2df49a4/tracks-v1a1/mono.m3u8
-
 
 
 #EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/XpR1VvZ.png" ,Kayhan TV
