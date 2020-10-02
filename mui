@@ -16,5 +16,3 @@ http://109.123.70.27:1935/shamshadtelevision/shamshadtelevision/chunklist.m3u8
 https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/chunklist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ngjqje6.png" ,Watan-E-Maa TV
 http://cdn24.live247stream.com/watanemaa/tv/playlist.m3u8
-#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" ,AF | Ariana News,Ariana News
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist.m3u8?checkedby:hlscat.com
