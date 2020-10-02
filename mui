@@ -20,8 +20,6 @@ http://cdn24.live247stream.com/watanemaa/tv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/OifwcrE.png" tvg-country="PK" tvg-url="" group-title="Urdu",92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/OifwcrE.png" tvg-country="PK" tvg-url="" group-title="Urdu",92 News
-http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" tvg-country="PK" tvg-url="" group-title="Urdu",92 News UK
 https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" tvg-country="UK" tvg-url="" group-title="Urdu",92 News UK
@@ -88,9 +86,6 @@ http://www.lengua.com/anthems/Pakistan.mp3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hwqJRrT.png" group-title="PAKISTAN",92 News (Opt-1)
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hwqJRrT.png" group-title="PAKISTAN",92 News (Opt-2)
-http://92news.vdn.dstreamone.net/92newshd/92hd_160p/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QEOWyUl.png" group-title="PAKISTAN",ARY Digital
 http://158.69.229.29:8081/digital_abr/streamabr/digital/livestream_720p/chunks.m3u8
 
@@ -148,9 +143,6 @@ https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mrUAPtg.png" group-title="PAKISTAN",Khyber News
 http://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wKRCk7K.png" group-title="PAKISTAN",Lahore News (Opt-1)
-http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wKRCk7K.png" group-title="PAKISTAN",Lahore News (Opt-2)
 http://mlive.lahorenews.tv/lahorelive/lnews_1/chunklist_DVR.m3u8
 
@@ -177,9 +169,6 @@ http://dcunilive15-lh.akamaihd.net/i/dclive_1@27006/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wKvdqI1.png" group-title="PAKISTAN",Subrang TV (US) (Opt-1)
 http://cdn61.liveonlineservices.com/hls/subrang.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wKvdqI1.png" group-title="PAKISTAN",Subrang TV (US) (Opt-2)
-https://cdn20.liveonlineservices.com/hls/subrang.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="PAKISTAN",Tag TV (Opt-1)
 http://cdn11.live247stream.com/tag/tv/playlist.m3u8
