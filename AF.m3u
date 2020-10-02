@@ -1,0 +1,49 @@
+#EXTM3U
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Undefined",AF | Ariana News,Ariana News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Undefined",AF | Ariana TV,Ariana TV
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Undefined",AF | Ariana TV US,Ariana TV US
+http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Sport",Ads sport cricket,RTA Sport (New!)
+http://212.47.252.54/hls/stream.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="News",Ariana News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="News",Ariana News
+https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w796472816.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Undefined",Ariana TV
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Undefined",Ariana TV
+https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/playlist.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Undefined",Ariana TV,Ariana TV USA
+http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist_w1314452267.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/k2QKhRK.png" group-title="Undefined",Ariana TV Int'l
+https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/k2QKhRK.png" group-title="Undefined",Ariana TV National
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Undefined",B-ONE [RDC]
+http://directstreaming.eu:80/B-ONE/index.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Undefined",B-ONE [RDC]
+http://163.172.213.41:8081/play/B-one/playlist.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Undefined",DIGITAL-CONGO [RDC]
+http://cms-streamaniak.top:80/DIGITAL-CONGO/index.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Undefined",DIGITAL-CONGO [RDC]
+http://163.172.213.41:8081/play/Digital/playlist.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/4X2Px8w.png" group-title="Undefined",Kayhan TV
+https://playout395.livestreamingcdn.com/live/Stream1/chunklist.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/XpR1VvZ.png" group-title="Undefined",Kayhan TV
+http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Undefined",MIKUBA TV [KOLWEZI -RDC]
+http://163.172.213.41:8081/TV/MIKUBA/playlist.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Undefined",MOLIERE CANAL RDC]
+http://163.172.213.41:8081/MOLIERE/CANAL/playlist.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Undefined",RTGA [RDC]
+http://cms-streamaniak.top:80/RTGA/index.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Undefined",RTGA [RDC]
+http://163.172.213.41:8081/play/Rtga/playlist.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Undefined",RTNC1 [RDC]
+http://163.172.213.41:8081/play/Rtnc1/playlist.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="Undefined",TELE 50 [RDC]
+http://directstreaming.eu:80/TELE50/index.m3u8
+#EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/SZWyE76.jpg" group-title="Undefined",Wesalhaq TV
+rtmp://live.noorlive.com:1935/wesal/wesal1
