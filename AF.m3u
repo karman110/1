@@ -1,4 +1,66 @@
 #EXTM3U
+#EXTINF:-1,Tolo HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665368
+#EXTINF:-1,Tolo News HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665369
+#EXTINF:-1,Lemar HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665370
+#EXTINF:-1,ATN TV AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665371
+#EXTINF:-1,ATN News AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665372
+#EXTINF:-1,1TV HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665377
+#EXTINF:-1,RTA TV AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/666417
+#EXTINF:-1,Tamadon HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665383
+#EXTINF:-1,Shamshad AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665382
+#EXTINF:-1,ASR TV HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665387
+#EXTINF:-1,AMC TV AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665381
+#EXTINF:-1,Ariana TV AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/3654
+#EXTINF:-1,Khurshid AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665376
+#EXTINF:-1,Noor TV Afghan AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/11251
+#EXTINF:-1,Arezo TV HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/666434
+#EXTINF:-1,Ayeneh TV HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665375
+#EXTINF:-1,Mitra TV HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/11246
+#EXTINF:-1,Watan-e-Ma AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/3645
+#EXTINF:-1,Dunya Naw AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/11253
+#EXTINF:-1,Tuti TV AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/11245
+#EXTINF:-1,AVA Music HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665380
+#EXTINF:-1,Kabul Tv AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/36969
+#EXTINF:-1,Zhwandoon HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665378
+#EXTINF:-1,Kayhan TV HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665379
+#EXTINF:-1,Payam E Afghan HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665386
+#EXTINF:-1,Pamir TV AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/670509
+#EXTINF:-1,RTA Sport AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/672080
+#EXTINF:-1,Zan TV HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/678831
+#EXTINF:-1,11TV AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/672081
+#EXTINF:-1,Kayhan Televsion Afghan HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/681601
+#EXTINF:-1,Afghanistan TV HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/681602
 #EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/x8mlbJM.jpg" group-title="Undefined",AF | Ariana News,Ariana News
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist.m3u8
 #EXTINF:0 tvg-country="AF" tvg-logo="https://i.imgur.com/8VbuI9n.png" group-title="Undefined",AF | Ariana TV,Ariana TV
