@@ -1,33 +1,63 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png",yeeah
-http://srv3.zcast.com.br/yeeaah/yeeaah/chunklist_w1186611669.m3u8
-#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", SEXYKPOP TV
-https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/.m3u8
-#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", MTV YO
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
-#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", MTV POP
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
-#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", MTV PARTY
-https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
-#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", VIVA
-https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
-#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", XITE
-https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/.m3u8
-#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", TV 538
-https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/playlist.m3u8
-#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Ibiza global
-https://ibgrtv.streaming-pro.com/hls/ibgrlive.m3u8
-#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Sunburn
-https://vcndstv.teleosmedia.com/stream/dstv/sunburn/playlist.m3u8
-#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Dancestar
-https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", TOP latino
-https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
-#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Carolina tv
-http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", musictop
-https://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
-#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Virgin TV
-http://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(ew)/stream01/streamPlaylist.m3u8
-#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Monte Carlo
-http://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
+#EXTINF:-1,Tolo HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665368
+#EXTINF:-1,Tolo News HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665369
+#EXTINF:-1,Lemar HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665370
+#EXTINF:-1,ATN TV AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665371
+#EXTINF:-1,ATN News AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665372
+#EXTINF:-1,1TV HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665377
+#EXTINF:-1,RTA TV AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/666417
+#EXTINF:-1,Tamadon HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665383
+#EXTINF:-1,Shamshad AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665382
+#EXTINF:-1,ASR TV HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665387
+#EXTINF:-1,AMC TV AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665381
+#EXTINF:-1,Ariana TV AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/3654
+#EXTINF:-1,Khurshid AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665376
+#EXTINF:-1,Noor TV Afghan AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/11251
+#EXTINF:-1,Arezo TV HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/666434
+#EXTINF:-1,Ayeneh TV HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665375
+#EXTINF:-1,Mitra TV HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/11246
+#EXTINF:-1,Watan-e-Ma AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/3645
+#EXTINF:-1,Dunya Naw AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/11253
+#EXTINF:-1,Tuti TV AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/11245
+#EXTINF:-1,AVA Music HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665380
+#EXTINF:-1,Kabul Tv AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/36969
+#EXTINF:-1,Zhwandoon HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665378
+#EXTINF:-1,Kayhan TV HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665379
+#EXTINF:-1,Payam E Afghan HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/665386
+#EXTINF:-1,Pamir TV AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/670509
+#EXTINF:-1,RTA Sport AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/672080
+#EXTINF:-1,Zan TV HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/678831
+#EXTINF:-1,11TV AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/672081
+#EXTINF:-1,Kayhan Televsion Afghan HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/681601
+#EXTINF:-1,Afghanistan TV HD AFG
+http://fo.trillada.com:8080/LivioColdebella/kw140e0j5o/681602
