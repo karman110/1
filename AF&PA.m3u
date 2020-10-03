@@ -14,8 +14,6 @@ https://playout395.livestreamingcdn.com/live/Stream1/chunklist.m3u8
 http://109.123.70.27:1935/shamshadtelevision/shamshadtelevision/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/c909MTK.png" ,Tuti TV
 https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/chunklist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ngjqje6.png" ,Watan-E-Maa TV
-http://cdn24.live247stream.com/watanemaa/tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NQ2aC6.png" group-title="PAKISTAN",Khyber Middle East
 https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
 
