@@ -1,2389 +1,561 @@
 #EXTM3U
-#EXTINF:-1,US: A&E FHD
-http://landiptv.live:8080/anar/anar19/134478
-#EXTINF:-1,US: A&E FHD [VIP]
-http://landiptv.live:8080/anar/anar19/197939
-#EXTINF:-1,US: ABC (NY) FHD
-http://landiptv.live:8080/anar/anar19/77174
-#EXTINF:-1,US: ABC (West) HD
-http://landiptv.live:8080/anar/anar19/76806
-#EXTINF:-1,US: ABC Atlanta WSB
-http://landiptv.live:8080/anar/anar19/199203
-#EXTINF:-1,US: ABC Boston
-http://landiptv.live:8080/anar/anar19/149859
-#EXTINF:-1,US: ABC Chicago WLS
-http://landiptv.live:8080/anar/anar19/199204
-#EXTINF:-1,US: ABC Cleveland WEWS
-http://landiptv.live:8080/anar/anar19/199205
-#EXTINF:-1,US: ABC Connecticut
-http://landiptv.live:8080/anar/anar19/149787
-#EXTINF:-1,US: ABC Detroit
-http://landiptv.live:8080/anar/anar19/149861
-#EXTINF:-1,US: ABC Nashville WKRN
-http://landiptv.live:8080/anar/anar19/199207
-#EXTINF:-1,US: ABC NEWS HD
-http://landiptv.live:8080/anar/anar19/155497
-#EXTINF:-1,US: ABC Sacramento KXTV
-http://landiptv.live:8080/anar/anar19/199208
-#EXTINF:-1,US: ABC St Louis
-http://landiptv.live:8080/anar/anar19/149884
-#EXTINF:-1,US: ABC WCVB BOS
-http://landiptv.live:8080/anar/anar19/164243
-#EXTINF:-1,US: Action Max FHD
-http://landiptv.live:8080/anar/anar19/75136
-#EXTINF:-1,US: AFN Movies HD
-http://landiptv.live:8080/anar/anar19/155607
-#EXTINF:-1,US: AFN Sports 2
-http://landiptv.live:8080/anar/anar19/74881
-#EXTINF:-1,US: Aljazeera Live
-http://landiptv.live:8080/anar/anar19/105830
-#EXTINF:-1,US: AMC HD
-http://landiptv.live:8080/anar/anar19/146071
-#EXTINF:-1,US: American Hero Channel HD
-http://landiptv.live:8080/anar/anar19/95145
-#EXTINF:-1,US: American Heroes Network
-http://landiptv.live:8080/anar/anar19/105985
-#EXTINF:-1,US: AMG TV
-http://landiptv.live:8080/anar/anar19/152973
-#EXTINF:-1,US: ANIMAL PLANET FHD
-http://landiptv.live:8080/anar/anar19/115745
-#EXTINF:-1,US: ANTENNA TV
-http://landiptv.live:8080/anar/anar19/77173
-#EXTINF:-1,US: BBC America FHD
-http://landiptv.live:8080/anar/anar19/76453
-#EXTINF:-1,US: BET HER FHD
-http://landiptv.live:8080/anar/anar19/66173
-#EXTINF:-1,US: BIG TEN NETWORK HD
-http://landiptv.live:8080/anar/anar19/155520
-#EXTINF:-1,US: Bloomberg HD
-http://landiptv.live:8080/anar/anar19/155485
-#EXTINF:-1,US: Boomerang HD
-http://landiptv.live:8080/anar/anar19/152981
-#EXTINF:-1,US: BUZZER
-http://landiptv.live:8080/anar/anar19/152984
-#EXTINF:-1,US: BYU Sports TV HD
-http://landiptv.live:8080/anar/anar19/76569
-#EXTINF:-1,US: C SPAN 2 HD
-http://landiptv.live:8080/anar/anar19/74923
-#EXTINF:-1,US: C-SPAN
-http://landiptv.live:8080/anar/anar19/199131
-#EXTINF:-1,US: CBN HD
-http://landiptv.live:8080/anar/anar19/91675
-#EXTINF:-1,US: CBS (New York FHD)
-http://landiptv.live:8080/anar/anar19/77153
-#EXTINF:-1,US: CBS (NY) FHD
-http://landiptv.live:8080/anar/anar19/105861
-#EXTINF:-1,US: CBS 47
-http://landiptv.live:8080/anar/anar19/105894
-#EXTINF:-1,US: CBS FHD
-http://landiptv.live:8080/anar/anar19/146349
-#EXTINF:-1,US: CBS SPORTS HD
-http://landiptv.live:8080/anar/anar19/138287
-#EXTINF:-1,US: CBS Sports Network HD
-http://landiptv.live:8080/anar/anar19/155524
-#EXTINF:-1,US: CBS WBZ BOS
-http://landiptv.live:8080/anar/anar19/164250
-#EXTINF:-1,US: CBS West HD
-http://landiptv.live:8080/anar/anar19/159955
-#EXTINF:-1,US: CC
-http://landiptv.live:8080/anar/anar19/159960
-#EXTINF:-1,US: Cinemax FHD
-http://landiptv.live:8080/anar/anar19/74917
-#EXTINF:-1,US: CMT HD
-http://landiptv.live:8080/anar/anar19/152999
-#EXTINF:-1,US: CNBC HD
-http://landiptv.live:8080/anar/anar19/153001
-#EXTINF:-1,US: Comedy Central East
-http://landiptv.live:8080/anar/anar19/199231
-#EXTINF:-1,US: COOKING CHANNEL FHD
-http://landiptv.live:8080/anar/anar19/76547
-#EXTINF:-1,US: COUNTRY MUSIC TV HD
-http://landiptv.live:8080/anar/anar19/121270
-#EXTINF:-1,US: COZI TV HD
-http://landiptv.live:8080/anar/anar19/76546
-#EXTINF:-1,US: Crime & Investigation HD
-http://landiptv.live:8080/anar/anar19/77057
-#EXTINF:-1,US: CW 11 HD
-http://landiptv.live:8080/anar/anar19/151548
-#EXTINF:-1,US: CW Network FHD
-http://landiptv.live:8080/anar/anar19/145662
-#EXTINF:-1,US: Day Star HD
-http://landiptv.live:8080/anar/anar19/199109
-#EXTINF:-1,US: DC Eagle Cam
-http://landiptv.live:8080/anar/anar19/105850
-#EXTINF:-1,US: Destination America FHD
-http://landiptv.live:8080/anar/anar19/75908
-#EXTINF:-1,US: DIRTY30
-http://landiptv.live:8080/anar/anar19/75807
-#EXTINF:-1,US: Discovery Channel FHD
-http://landiptv.live:8080/anar/anar19/101345
-#EXTINF:-1,US: Discovery FAMILY HD
-http://landiptv.live:8080/anar/anar19/77148
-#EXTINF:-1,US: Discovery LIFE HD
-http://landiptv.live:8080/anar/anar19/77142
-#EXTINF:-1,US: Discovery SCIENCE HD
-http://landiptv.live:8080/anar/anar19/155465
-#EXTINF:-1,US: Discovery VELOCITY HD
-http://landiptv.live:8080/anar/anar19/74864
-#EXTINF:-1,US: Disney Channel FHD
-http://landiptv.live:8080/anar/anar19/149953
-#EXTINF:-1,US: Disney Junior Pacific
-http://landiptv.live:8080/anar/anar19/149955
-#EXTINF:-1,US: DISNEY XD FHD
-http://landiptv.live:8080/anar/anar19/78346
-#EXTINF:-1,US: DIY Network FHD
-http://landiptv.live:8080/anar/anar19/151559
-#EXTINF:-1,US: Dog TV
-http://landiptv.live:8080/anar/anar19/199110
-#EXTINF:-1,US: escape
-http://landiptv.live:8080/anar/anar19/159993
-#EXTINF:-1,US: ESPN 2 FHD
-http://landiptv.live:8080/anar/anar19/60410
-#EXTINF:-1,US: ESPN FHD
-http://landiptv.live:8080/anar/anar19/74887
-#EXTINF:-1,US: FOX 05 HD
-http://landiptv.live:8080/anar/anar19/160002
-#EXTINF:-1,US: Fox 10 News
-http://landiptv.live:8080/anar/anar19/105871
-#EXTINF:-1,US: FOX 23 (Oklahoma)
-http://landiptv.live:8080/anar/anar19/103730
-#EXTINF:-1,US: FOX 25 BOSTON HD
-http://landiptv.live:8080/anar/anar19/156744
-#EXTINF:-1,US: FOX 43 HD
-http://landiptv.live:8080/anar/anar19/76443
-#EXTINF:-1,US: FOX 50
-http://landiptv.live:8080/anar/anar19/77109
-#EXTINF:-1,US: FOX Atlanta WAGA
-http://landiptv.live:8080/anar/anar19/199221
-#EXTINF:-1,US: FOX BUSINESS HD
-http://landiptv.live:8080/anar/anar19/77094
-#EXTINF:-1,US: Fox Deportes HD
-http://landiptv.live:8080/anar/anar19/156204
-#EXTINF:-1,US: FOX Los Angeles KTTV
-http://landiptv.live:8080/anar/anar19/199224
-#EXTINF:-1,US: Fox News Channel
-http://landiptv.live:8080/anar/anar19/156772
-#EXTINF:-1,US: FOX Sacramento KTXL
-http://landiptv.live:8080/anar/anar19/199225
-#EXTINF:-1,US: Fox Soccer Plus HD
-http://landiptv.live:8080/anar/anar19/152484
-#EXTINF:-1,US: FOX SPORTS (Arizona) HD
-http://landiptv.live:8080/anar/anar19/152488
-#EXTINF:-1,US: FOX SPORTS (College Central) HD
-http://landiptv.live:8080/anar/anar19/78324
-#EXTINF:-1,US: FOX SPORTS (Detroit) HD
-http://landiptv.live:8080/anar/anar19/152493
-#EXTINF:-1,US: FOX SPORTS (Florida) HD
-http://landiptv.live:8080/anar/anar19/152494
-#EXTINF:-1,US: FOX SPORTS (North) HD
-http://landiptv.live:8080/anar/anar19/152498
-#EXTINF:-1,US: FOX SPORTS (South East) HD
-http://landiptv.live:8080/anar/anar19/152505
-#EXTINF:-1,US: FOX SPORTS (South) HD
-http://landiptv.live:8080/anar/anar19/152504
-#EXTINF:-1,US: FOX SPORTS (Sun) HD
-http://landiptv.live:8080/anar/anar19/152507
-#EXTINF:-1,US: FOX SPORTS (West) HD
-http://landiptv.live:8080/anar/anar19/152508
-#EXTINF:-1,US: FOX SPORTS 1 HD
-http://landiptv.live:8080/anar/anar19/98284
-#EXTINF:-1,US: FOX SPORTS 2 HD
-http://landiptv.live:8080/anar/anar19/74831
-#EXTINF:-1,US: FOX SPORTS College Atlantic HD
-http://landiptv.live:8080/anar/anar19/160004
-#EXTINF:-1,US: FOX SPORTS College Pacific HD
-http://landiptv.live:8080/anar/anar19/91533
-#EXTINF:-1,US: FOX SPORTS OHIO HD
-http://landiptv.live:8080/anar/anar19/152499
-#EXTINF:-1,US: FOX SPORTS SAN DIEGO HD
-http://landiptv.live:8080/anar/anar19/152503
-#EXTINF:-1,US: FOX SPORTS South West HD
-http://landiptv.live:8080/anar/anar19/152506
-#EXTINF:-1,US: FOX SPORTS WISCONSIN HD
-http://landiptv.live:8080/anar/anar19/152510
-#EXTINF:-1,US: FOX WBFF BAL HD
-http://landiptv.live:8080/anar/anar19/138434
-#EXTINF:-1,US: FOX WesT HD
-http://landiptv.live:8080/anar/anar19/159998
-#EXTINF:-1,US: FOX WFXT BOS HD
-http://landiptv.live:8080/anar/anar19/138437
-#EXTINF:-1,US: FREEFORM HD
-http://landiptv.live:8080/anar/anar19/76523
-#EXTINF:-1,US: FUSE HD
-http://landiptv.live:8080/anar/anar19/77126
-#EXTINF:-1,US: FUSION HD
-http://landiptv.live:8080/anar/anar19/77127
-#EXTINF:-1,US: FX HD
-http://landiptv.live:8080/anar/anar19/160014
-#EXTINF:-1,US: FXM HD
-http://landiptv.live:8080/anar/anar19/76787
-#EXTINF:-1,US: FYI HD
-http://landiptv.live:8080/anar/anar19/103744
-#EXTINF:-1,US: GameShow Network HD
-http://landiptv.live:8080/anar/anar19/77095
-#EXTINF:-1,US: GET TV
-http://landiptv.live:8080/anar/anar19/160021
-#EXTINF:-1,US: GOLF CHANNEL
-http://landiptv.live:8080/anar/anar19/95151
-#EXTINF:-1,US: Grit HD
-http://landiptv.live:8080/anar/anar19/76439
-#EXTINF:-1,US: GSN FHD
-http://landiptv.live:8080/anar/anar19/105896
-#EXTINF:-1,US: Hallmark Channel FHD
-http://landiptv.live:8080/anar/anar19/103751
-#EXTINF:-1,US: HALLMARK DRAMA HD
-http://landiptv.live:8080/anar/anar19/111964
-#EXTINF:-1,US: HALLMARK MOVIES & MYSTERIES HD
-http://landiptv.live:8080/anar/anar19/77089
-#EXTINF:-1,US: HBO FHD
-http://landiptv.live:8080/anar/anar19/78351
-#EXTINF:-1,US: HEROS & ICONS
-http://landiptv.live:8080/anar/anar19/77177
-#EXTINF:-1,US: HGTV FHD [VIP]
-http://landiptv.live:8080/anar/anar19/197940
-#EXTINF:-1,US: HISTORY Channel 2 FHD
-http://landiptv.live:8080/anar/anar19/77116
-#EXTINF:-1,US: HISTORY CHANNEL FHD
-http://landiptv.live:8080/anar/anar19/92801
-#EXTINF:-1,US: HLN HD
-http://landiptv.live:8080/anar/anar19/75879
-#EXTINF:-1,US: HSN HD
-http://landiptv.live:8080/anar/anar19/77175
-#EXTINF:-1,US: IFC HD
-http://landiptv.live:8080/anar/anar19/103760
-#EXTINF:-1,US: INFOWARS
-http://landiptv.live:8080/anar/anar19/176341
-#EXTINF:-1,US: Investigation Discovery FHD
-http://landiptv.live:8080/anar/anar19/95501
-#EXTINF:-1,US: ION FHD
-http://landiptv.live:8080/anar/anar19/84845
-#EXTINF:-1,US: JBTV Music
-http://landiptv.live:8080/anar/anar19/87758
-#EXTINF:-1,US: LAFF TV
-http://landiptv.live:8080/anar/anar19/164257
-#EXTINF:-1,US: LIFETIME MOVIES HD
-http://landiptv.live:8080/anar/anar19/76502
-#EXTINF:-1,US: Longhorn Network HD
-http://landiptv.live:8080/anar/anar19/126128
-#EXTINF:-1,US: MCM
-http://landiptv.live:8080/anar/anar19/160046
-#EXTINF:-1,US: Me TV HD
-http://landiptv.live:8080/anar/anar19/96267
-#EXTINF:-1,US: MLB 01
-http://landiptv.live:8080/anar/anar19/199278
-#EXTINF:-1,US: MLB 02
-http://landiptv.live:8080/anar/anar19/199279
-#EXTINF:-1,US: MLB 03
-http://landiptv.live:8080/anar/anar19/128128
-#EXTINF:-1,US: MLB 04
-http://landiptv.live:8080/anar/anar19/199280
-#EXTINF:-1,US: MLB 05
-http://landiptv.live:8080/anar/anar19/199281
-#EXTINF:-1,US: MLB 06
-http://landiptv.live:8080/anar/anar19/199282
-#EXTINF:-1,US: MLB 07
-http://landiptv.live:8080/anar/anar19/199283
-#EXTINF:-1,US: MLB 08
-http://landiptv.live:8080/anar/anar19/199284
-#EXTINF:-1,US: MLB 09
-http://landiptv.live:8080/anar/anar19/199285
-#EXTINF:-1,US: MLB 10
-http://landiptv.live:8080/anar/anar19/134304
-#EXTINF:-1,US: MLB 11
-http://landiptv.live:8080/anar/anar19/128131
-#EXTINF:-1,US: MLB 12
-http://landiptv.live:8080/anar/anar19/199286
-#EXTINF:-1,US: MLB 13
-http://landiptv.live:8080/anar/anar19/199287
-#EXTINF:-1,US: MLB 14
-http://landiptv.live:8080/anar/anar19/199269
-#EXTINF:-1,US: MLB 15
-http://landiptv.live:8080/anar/anar19/128134
-#EXTINF:-1,US: MLB 16
-http://landiptv.live:8080/anar/anar19/108340
-#EXTINF:-1,US: MLB 17
-http://landiptv.live:8080/anar/anar19/108339
-#EXTINF:-1,US: MLB 18
-http://landiptv.live:8080/anar/anar19/208100
-#EXTINF:-1,US: MLB 721 HD
-http://landiptv.live:8080/anar/anar19/103515
-#EXTINF:-1,US: MLB 722 HD
-http://landiptv.live:8080/anar/anar19/103516
-#EXTINF:-1,US: MLB 723 HD
-http://landiptv.live:8080/anar/anar19/103517
-#EXTINF:-1,US: MLB 724 HD
-http://landiptv.live:8080/anar/anar19/111528
-#EXTINF:-1,US: MLB 726 HD
-http://landiptv.live:8080/anar/anar19/111530
-#EXTINF:-1,US: MLB 729 HD
-http://landiptv.live:8080/anar/anar19/111533
-#EXTINF:-1,US: MLB 732 HD
-http://landiptv.live:8080/anar/anar19/111536
-#EXTINF:-1,US: MLB 734 HD
-http://landiptv.live:8080/anar/anar19/111538
-#EXTINF:-1,US: MLB 736 HD
-http://landiptv.live:8080/anar/anar19/111540
-#EXTINF:-1,US: MLB 738 HD
-http://landiptv.live:8080/anar/anar19/111542
-#EXTINF:-1,US: MLB 740 HD
-http://landiptv.live:8080/anar/anar19/111544
-#EXTINF:-1,US: MLB 742 HD
-http://landiptv.live:8080/anar/anar19/111546
-#EXTINF:-1,US: MLB 744 HD
-http://landiptv.live:8080/anar/anar19/111548
-#EXTINF:-1,US: MSG HD
-http://landiptv.live:8080/anar/anar19/78314
-#EXTINF:-1,US: MSNBC FHD
-http://landiptv.live:8080/anar/anar19/155631
-#EXTINF:-1,US: MTV 2 HD
-http://landiptv.live:8080/anar/anar19/92477
-#EXTINF:-1,US: MTV Base HD
-http://landiptv.live:8080/anar/anar19/160052
-#EXTINF:-1,US: MTV Classic
-http://landiptv.live:8080/anar/anar19/160053
-#EXTINF:-1,US: MTV EAST HD
-http://landiptv.live:8080/anar/anar19/105910
-#EXTINF:-1,US: MTV Hits HD
-http://landiptv.live:8080/anar/anar19/160055
-#EXTINF:-1,US: MTV LIVE HD
-http://landiptv.live:8080/anar/anar19/103785
-#EXTINF:-1,US: MTV Music
-http://landiptv.live:8080/anar/anar19/160056
-#EXTINF:-1,US: Music Choice - 90s
-http://landiptv.live:8080/anar/anar19/108907
-#EXTINF:-1,US: Music Choice - Alternative
-http://landiptv.live:8080/anar/anar19/91486
-#EXTINF:-1,US: Music Choice - Brit Hits
-http://landiptv.live:8080/anar/anar19/148598
-#EXTINF:-1,US: Music Choice - Contemporary Christian
-http://landiptv.live:8080/anar/anar19/148599
-#EXTINF:-1,US: Music Choice - Dance & EDM
-http://landiptv.live:8080/anar/anar19/91484
-#EXTINF:-1,US: Music Choice - Hip-Hop & R&B
-http://landiptv.live:8080/anar/anar19/91483
-#EXTINF:-1,US: Music Choice - Indie
-http://landiptv.live:8080/anar/anar19/91481
-#EXTINF:-1,US: Music Choice - Kids Only
-http://landiptv.live:8080/anar/anar19/148603
-#EXTINF:-1,US: Music Choice - Metal
-http://landiptv.live:8080/anar/anar19/109428
-#EXTINF:-1,US: Music Choice - Pop & Country
-http://landiptv.live:8080/anar/anar19/91478
-#EXTINF:-1,US: Music Choice - Pop Hits
-http://landiptv.live:8080/anar/anar19/91476
-#EXTINF:-1,US: Music Choice - R&B Soul
-http://landiptv.live:8080/anar/anar19/91475
-#EXTINF:-1,US: Music Choice - Rap
-http://landiptv.live:8080/anar/anar19/91474
-#EXTINF:-1,US: Music Choice - Rap 2K
-http://landiptv.live:8080/anar/anar19/91472
-#EXTINF:-1,US: Music Choice - Teen Beats
-http://landiptv.live:8080/anar/anar19/91471
-#EXTINF:-1,US: Music Choice - Throwback Jams
-http://landiptv.live:8080/anar/anar19/91470
-#EXTINF:-1,US: Music Choice - Todays Country
-http://landiptv.live:8080/anar/anar19/91469
-#EXTINF:-1,US: Music Choice - Toddler Tunes
-http://landiptv.live:8080/anar/anar19/148616
-#EXTINF:-1,US: Music Choice - Tropicales
-http://landiptv.live:8080/anar/anar19/108914
-#EXTINF:-1,US: Music Choice - URBAN
-http://landiptv.live:8080/anar/anar19/151275
-#EXTINF:-1,US: MY 9 HD
-http://landiptv.live:8080/anar/anar19/92807
-#EXTINF:-1,US: My 30 Nashville WUXP
-http://landiptv.live:8080/anar/anar19/199226
-#EXTINF:-1,US: NAT GEO HD
-http://landiptv.live:8080/anar/anar19/95432
-#EXTINF:-1,US: NAT GEO Wild 2 HD
-http://landiptv.live:8080/anar/anar19/160058
-#EXTINF:-1,US: NAT GEO Wild HD
-http://landiptv.live:8080/anar/anar19/135408
-#EXTINF:-1,US: NBA 05
-http://landiptv.live:8080/anar/anar19/148625
-#EXTINF:-1,US: NBA 06
-http://landiptv.live:8080/anar/anar19/148626
-#EXTINF:-1,US: NBA 07
-http://landiptv.live:8080/anar/anar19/148627
-#EXTINF:-1,US: NBA 08
-http://landiptv.live:8080/anar/anar19/148628
-#EXTINF:-1,US: NBA 09
-http://landiptv.live:8080/anar/anar19/148629
-#EXTINF:-1,US: NBA 10
-http://landiptv.live:8080/anar/anar19/92995
-#EXTINF:-1,US: NBA 11
-http://landiptv.live:8080/anar/anar19/91277
-#EXTINF:-1,US: NBA 12
-http://landiptv.live:8080/anar/anar19/124570
-#EXTINF:-1,US: NBA 13
-http://landiptv.live:8080/anar/anar19/208098
-#EXTINF:-1,US: NBA 14
-http://landiptv.live:8080/anar/anar19/208099
-#EXTINF:-1,US: NBA 750
-http://landiptv.live:8080/anar/anar19/103544
-#EXTINF:-1,US: NBA 751
-http://landiptv.live:8080/anar/anar19/103545
-#EXTINF:-1,US: NBA 752
-http://landiptv.live:8080/anar/anar19/103546
-#EXTINF:-1,US: NBA 753
-http://landiptv.live:8080/anar/anar19/103547
-#EXTINF:-1,US: NBA HD
-http://landiptv.live:8080/anar/anar19/155378
-#EXTINF:-1,US: NBA League Pass Live 750 HD
-http://landiptv.live:8080/anar/anar19/160073
-#EXTINF:-1,US: NBA League Pass Live 751 HD
-http://landiptv.live:8080/anar/anar19/160074
-#EXTINF:-1,US: NBA League Pass Live 752 HD
-http://landiptv.live:8080/anar/anar19/160075
-#EXTINF:-1,US: NBA League Pass Live 753 HD
-http://landiptv.live:8080/anar/anar19/160076
-#EXTINF:-1,US: NBA League Pass Live 754 HD
-http://landiptv.live:8080/anar/anar19/160077
-#EXTINF:-1,US: NBA League Pass Live 755 HD
-http://landiptv.live:8080/anar/anar19/160078
-#EXTINF:-1,US: NBA League Pass Live 756 HD
-http://landiptv.live:8080/anar/anar19/160079
-#EXTINF:-1,US: NBA League Pass Live 757 HD
-http://landiptv.live:8080/anar/anar19/160080
-#EXTINF:-1,US: NBA League Pass Live 758 HD
-http://landiptv.live:8080/anar/anar19/160081
-#EXTINF:-1,US: NBA League Pass Live 759 HD
-http://landiptv.live:8080/anar/anar19/160082
-#EXTINF:-1,US: NBA League Pass Live 760 HD
-http://landiptv.live:8080/anar/anar19/160083
-#EXTINF:-1,US: NBA League Pass Live 761 HD
-http://landiptv.live:8080/anar/anar19/160084
-#EXTINF:-1,US: NBA League Pass Live 762 HD
-http://landiptv.live:8080/anar/anar19/160085
-#EXTINF:-1,US: NBA League Pass Live 763 HD
-http://landiptv.live:8080/anar/anar19/160086
-#EXTINF:-1,US: NBA League Pass Live 764 HD
-http://landiptv.live:8080/anar/anar19/160087
-#EXTINF:-1,US: NBA League Pass Live 765 HD
-http://landiptv.live:8080/anar/anar19/160088
-#EXTINF:-1,US: NBA League Pass Live 766 HD
-http://landiptv.live:8080/anar/anar19/160089
-#EXTINF:-1,US: NBA League Pass Live 767 HD
-http://landiptv.live:8080/anar/anar19/160090
-#EXTINF:-1,US: NBA League Pass Live 768 HD
-http://landiptv.live:8080/anar/anar19/160091
-#EXTINF:-1,US: NBA PASS 1
-http://landiptv.live:8080/anar/anar19/92815
-#EXTINF:-1,US: NBA PASS 2
-http://landiptv.live:8080/anar/anar19/92819
-#EXTINF:-1,US: NBA PASS 3
-http://landiptv.live:8080/anar/anar19/92820
-#EXTINF:-1,US: NBA PASS 4
-http://landiptv.live:8080/anar/anar19/92821
-#EXTINF:-1,US: NBA PASS 5
-http://landiptv.live:8080/anar/anar19/92822
-#EXTINF:-1,US: NBA PASS 6
-http://landiptv.live:8080/anar/anar19/92823
-#EXTINF:-1,US: NBA PASS 7
-http://landiptv.live:8080/anar/anar19/92824
-#EXTINF:-1,US: NBA PASS 8
-http://landiptv.live:8080/anar/anar19/92825
-#EXTINF:-1,US: NBA PASS 9
-http://landiptv.live:8080/anar/anar19/92826
-#EXTINF:-1,US: NBA PASS 10
-http://landiptv.live:8080/anar/anar19/92816
-#EXTINF:-1,US: NBA PASS 11
-http://landiptv.live:8080/anar/anar19/92817
-#EXTINF:-1,US: NBA PASS 12
-http://landiptv.live:8080/anar/anar19/92818
-#EXTINF:-1,US: NBA PASS 13
-http://landiptv.live:8080/anar/anar19/176362
-#EXTINF:-1,US: NBA PASS 14
-http://landiptv.live:8080/anar/anar19/176363
-#EXTINF:-1,US: NBA Tv US HD
-http://landiptv.live:8080/anar/anar19/128739
-#EXTINF:-1,US: NBC 4 FHD
-http://landiptv.live:8080/anar/anar19/77172
-#EXTINF:-1,US: NBC 5
-http://landiptv.live:8080/anar/anar19/111181
-#EXTINF:-1,US: NBC 5 News (Chicago)
-http://landiptv.live:8080/anar/anar19/105914
-#EXTINF:-1,US: NBC 10 (East)
-http://landiptv.live:8080/anar/anar19/77086
-#EXTINF:-1,US: NBC 10 News (Philadelphia)
-http://landiptv.live:8080/anar/anar19/105912
-#EXTINF:-1,US: NBC Atlanta WXIA
-http://landiptv.live:8080/anar/anar19/199215
-#EXTINF:-1,US: NBC Cleveland WKYC
-http://landiptv.live:8080/anar/anar19/199216
-#EXTINF:-1,US: NBC EPL 1
-http://landiptv.live:8080/anar/anar19/211593
-#EXTINF:-1,US: NBC EPL 2
-http://landiptv.live:8080/anar/anar19/211594
-#EXTINF:-1,US: NBC EPL 4
-http://landiptv.live:8080/anar/anar19/211596
-#EXTINF:-1,US: NBC EPL 5
-http://landiptv.live:8080/anar/anar19/211592
-#EXTINF:-1,US: NBC KNBC LOS ANGELES
-http://landiptv.live:8080/anar/anar19/164245
-#EXTINF:-1,US: NBC Los Angeles KNBC
-http://landiptv.live:8080/anar/anar19/199217
-#EXTINF:-1,US: NBC Nashville WSMV
-http://landiptv.live:8080/anar/anar19/199218
-#EXTINF:-1,US: NBC News
-http://landiptv.live:8080/anar/anar19/105959
-#EXTINF:-1,US: NBC PITTS
-http://landiptv.live:8080/anar/anar19/160062
-#EXTINF:-1,US: NBC Sacramento KCRA
-http://landiptv.live:8080/anar/anar19/199219
-#EXTINF:-1,US: NBC Sports (Philadelphia) HD
-http://landiptv.live:8080/anar/anar19/118620
-#EXTINF:-1,US: NBC Sports Bay Area HD
-http://landiptv.live:8080/anar/anar19/157698
-#EXTINF:-1,US: NBC Sports Boston HD
-http://landiptv.live:8080/anar/anar19/157699
-#EXTINF:-1,US: NBC Sports HD
-http://landiptv.live:8080/anar/anar19/75133
-#EXTINF:-1,US: NBC Sports Northwest HD
-http://landiptv.live:8080/anar/anar19/157702
-#EXTINF:-1,US: NBC St Louis KSDK
-http://landiptv.live:8080/anar/anar19/199220
-#EXTINF:-1,US: NBC UNIVERSO
-http://landiptv.live:8080/anar/anar19/92809
-#EXTINF:-1,US: NBC Upstate NY HD
-http://landiptv.live:8080/anar/anar19/160060
-#EXTINF:-1,US: NBC WBTS BOS
-http://landiptv.live:8080/anar/anar19/164246
-#EXTINF:-1,US: NBC WEST HD
-http://landiptv.live:8080/anar/anar19/103659
-#EXTINF:-1,US: NBC WKTV UTICA NY
-http://landiptv.live:8080/anar/anar19/164248
-#EXTINF:-1,US: NBC WNEU BOS
-http://landiptv.live:8080/anar/anar19/164247
-#EXTINF:-1,US: NBCSN (Bay Area) HD
-http://landiptv.live:8080/anar/anar19/74820
-#EXTINF:-1,US: NBCSN (Boston) HD
-http://landiptv.live:8080/anar/anar19/74821
-#EXTINF:-1,US: NBCSN (Chicago) HD
-http://landiptv.live:8080/anar/anar19/74823
-#EXTINF:-1,US: NBCSN (North West) HD
-http://landiptv.live:8080/anar/anar19/74824
-#EXTINF:-1,US: NBCSN (Philly) HD
-http://landiptv.live:8080/anar/anar19/74825
-#EXTINF:-1,US: NBCSN HD
-http://landiptv.live:8080/anar/anar19/137888
-#EXTINF:-1,US: NBCSN WASHINGTON HD
-http://landiptv.live:8080/anar/anar19/129343
-#EXTINF:-1,US: NCAA Longhorn Network
-http://landiptv.live:8080/anar/anar19/199143
-#EXTINF:-1,US: NCAA PAC-12 (Arizona)
-http://landiptv.live:8080/anar/anar19/199148
-#EXTINF:-1,US: NCAA PAC-12 (Bay Area)
-http://landiptv.live:8080/anar/anar19/199149
-#EXTINF:-1,US: NCAA PAC-12 (Mountain)
-http://landiptv.live:8080/anar/anar19/199151
-#EXTINF:-1,US: NCAA PAC-12 (Oregon)
-http://landiptv.live:8080/anar/anar19/199153
-#EXTINF:-1,US: NCAA PAC-12 (Washington)
-http://landiptv.live:8080/anar/anar19/199154
-#EXTINF:-1,US: NESN HD
-http://landiptv.live:8080/anar/anar19/91536
-#EXTINF:-1,US: NETWORK HD
-http://landiptv.live:8080/anar/anar19/156808
-#EXTINF:-1,US: Newsmax
-http://landiptv.live:8080/anar/anar19/91542
-#EXTINF:-1,US: NFL 02
-http://landiptv.live:8080/anar/anar19/129228
-#EXTINF:-1,US: NFL 03
-http://landiptv.live:8080/anar/anar19/129229
-#EXTINF:-1,US: NFL 04
-http://landiptv.live:8080/anar/anar19/129230
-#EXTINF:-1,US: NFL 05
-http://landiptv.live:8080/anar/anar19/129231
-#EXTINF:-1,US: NFL 06
-http://landiptv.live:8080/anar/anar19/129232
-#EXTINF:-1,US: NFL 07
-http://landiptv.live:8080/anar/anar19/129233
-#EXTINF:-1,US: NFL 08
-http://landiptv.live:8080/anar/anar19/129234
-#EXTINF:-1,US: NFL 09
-http://landiptv.live:8080/anar/anar19/129235
-#EXTINF:-1,US: NFL 10 HD
-http://landiptv.live:8080/anar/anar19/91722
-#EXTINF:-1,US: NFL 11 HD
-http://landiptv.live:8080/anar/anar19/91723
-#EXTINF:-1,US: NFL 12
-http://landiptv.live:8080/anar/anar19/148631
-#EXTINF:-1,US: NFL 13
-http://landiptv.live:8080/anar/anar19/148632
-#EXTINF:-1,US: NFL Arena 01
-http://landiptv.live:8080/anar/anar19/176375
-#EXTINF:-1,US: NFL Network FHD
-http://landiptv.live:8080/anar/anar19/67029
-#EXTINF:-1,US: NFL NOW HD
-http://landiptv.live:8080/anar/anar19/78381
-#EXTINF:-1,US: NFL SUNDAY TICKET 705
-http://landiptv.live:8080/anar/anar19/91557
-#EXTINF:-1,US: NFL SUNDAY TICKET 706
-http://landiptv.live:8080/anar/anar19/91558
-#EXTINF:-1,US: NFL SUNDAY TICKET 707
-http://landiptv.live:8080/anar/anar19/91559
-#EXTINF:-1,US: NFL SUNDAY TICKET 708
-http://landiptv.live:8080/anar/anar19/91560
-#EXTINF:-1,US: NFL SUNDAY TICKET 709
-http://landiptv.live:8080/anar/anar19/91561
-#EXTINF:-1,US: NFL SUNDAY TICKET 710
-http://landiptv.live:8080/anar/anar19/91562
-#EXTINF:-1,US: NFL SUNDAY TICKET 711
-http://landiptv.live:8080/anar/anar19/91563
-#EXTINF:-1,US: NFL SUNDAY TICKET 712
-http://landiptv.live:8080/anar/anar19/91564
-#EXTINF:-1,US: NFL SUNDAY TICKET 713
-http://landiptv.live:8080/anar/anar19/91565
-#EXTINF:-1,US: NFL SUNDAY TICKET 714
-http://landiptv.live:8080/anar/anar19/91566
-#EXTINF:-1,US: NFL SUNDAY TICKET 715
-http://landiptv.live:8080/anar/anar19/91567
-#EXTINF:-1,US: NFL SUNDAY TICKET 716
-http://landiptv.live:8080/anar/anar19/91568
-#EXTINF:-1,US: NFL SUNDAY TICKET 717
-http://landiptv.live:8080/anar/anar19/91569
-#EXTINF:-1,US: NHL 01
-http://landiptv.live:8080/anar/anar19/148633
-#EXTINF:-1,US: NHL 06
-http://landiptv.live:8080/anar/anar19/148638
-#EXTINF:-1,US: NHL 08
-http://landiptv.live:8080/anar/anar19/148640
-#EXTINF:-1,US: NHL 09
-http://landiptv.live:8080/anar/anar19/148641
-#EXTINF:-1,US: NHL 10
-http://landiptv.live:8080/anar/anar19/116606
-#EXTINF:-1,US: NHL 11
-http://landiptv.live:8080/anar/anar19/91296
-#EXTINF:-1,US: NHL 12
-http://landiptv.live:8080/anar/anar19/116607
-#EXTINF:-1,US: NHL 13
-http://landiptv.live:8080/anar/anar19/116608
-#EXTINF:-1,US: NHL 14
-http://landiptv.live:8080/anar/anar19/91299
-#EXTINF:-1,US: NHL 15
-http://landiptv.live:8080/anar/anar19/148642
-#EXTINF:-1,US: NHL 770
-http://landiptv.live:8080/anar/anar19/91543
-#EXTINF:-1,US: NHL 771
-http://landiptv.live:8080/anar/anar19/91544
-#EXTINF:-1,US: NHL 772
-http://landiptv.live:8080/anar/anar19/91545
-#EXTINF:-1,US: NHL 773
-http://landiptv.live:8080/anar/anar19/91546
-#EXTINF:-1,US: NHL 774
-http://landiptv.live:8080/anar/anar19/91547
-#EXTINF:-1,US: NHL 775
-http://landiptv.live:8080/anar/anar19/91548
-#EXTINF:-1,US: NHL 776
-http://landiptv.live:8080/anar/anar19/91549
-#EXTINF:-1,US: NHL 777
-http://landiptv.live:8080/anar/anar19/91550
-#EXTINF:-1,US: NHL 779
-http://landiptv.live:8080/anar/anar19/91552
-#EXTINF:-1,US: NHL 780
-http://landiptv.live:8080/anar/anar19/91553
-#EXTINF:-1,US: NHL 781
-http://landiptv.live:8080/anar/anar19/91554
-#EXTINF:-1,US: NHL 782
-http://landiptv.live:8080/anar/anar19/91555
-#EXTINF:-1,US: NHL Centre Ice 769
-http://landiptv.live:8080/anar/anar19/160189
-#EXTINF:-1,US: NHL Centre Ice 770
-http://landiptv.live:8080/anar/anar19/160190
-#EXTINF:-1,US: NHL Centre Ice 771
-http://landiptv.live:8080/anar/anar19/160191
-#EXTINF:-1,US: NHL Centre Ice 772
-http://landiptv.live:8080/anar/anar19/160192
-#EXTINF:-1,US: NHL Centre Ice 774
-http://landiptv.live:8080/anar/anar19/160194
-#EXTINF:-1,US: NHL Centre Ice 775
-http://landiptv.live:8080/anar/anar19/160195
-#EXTINF:-1,US: NHL Centre Ice 777
-http://landiptv.live:8080/anar/anar19/160197
-#EXTINF:-1,US: NHL Centre Ice 778
-http://landiptv.live:8080/anar/anar19/160198
-#EXTINF:-1,US: NHL Centre Ice 780
-http://landiptv.live:8080/anar/anar19/160200
-#EXTINF:-1,US: NHL PASS 01
-http://landiptv.live:8080/anar/anar19/176364
-#EXTINF:-1,US: NHL PASS 02
-http://landiptv.live:8080/anar/anar19/176365
-#EXTINF:-1,US: NHL PASS 03
-http://landiptv.live:8080/anar/anar19/176366
-#EXTINF:-1,US: NHL PASS 04
-http://landiptv.live:8080/anar/anar19/176367
-#EXTINF:-1,US: NHL PASS 05
-http://landiptv.live:8080/anar/anar19/176368
-#EXTINF:-1,US: NHL PASS 06
-http://landiptv.live:8080/anar/anar19/176369
-#EXTINF:-1,US: NHL PASS 09
-http://landiptv.live:8080/anar/anar19/176370
-#EXTINF:-1,US: NHL PASS 11
-http://landiptv.live:8080/anar/anar19/176371
-#EXTINF:-1,US: NHL PASS 12
-http://landiptv.live:8080/anar/anar19/176372
-#EXTINF:-1,US: NHL PASS 13
-http://landiptv.live:8080/anar/anar19/176373
-#EXTINF:-1,US: NHL PASS 14
-http://landiptv.live:8080/anar/anar19/176374
-#EXTINF:-1,US: NHL PASS HD 07
-http://landiptv.live:8080/anar/anar19/176348
-#EXTINF:-1,US: NHL PASS HD 08
-http://landiptv.live:8080/anar/anar19/176349
-#EXTINF:-1,US: NHL PASS HD 10
-http://landiptv.live:8080/anar/anar19/92849
-#EXTINF:-1,US: NICKELODEON 2
-http://landiptv.live:8080/anar/anar19/160109
-#EXTINF:-1,US: nickelodeon Junior
-http://landiptv.live:8080/anar/anar19/76491
-#EXTINF:-1,US: NYC New York Charging Bull
-http://landiptv.live:8080/anar/anar19/129241
-#EXTINF:-1,US: NYC New York Columbus Circle
-http://landiptv.live:8080/anar/anar19/129242
-#EXTINF:-1,US: ONE AMERICA NEWS
-http://landiptv.live:8080/anar/anar19/176344
-#EXTINF:-1,US: Outdoor Channel HD
-http://landiptv.live:8080/anar/anar19/77144
-#EXTINF:-1,US: OUTSIDE TV HD
-http://landiptv.live:8080/anar/anar19/121406
-#EXTINF:-1,US: OVATION
-http://landiptv.live:8080/anar/anar19/118621
-#EXTINF:-1,US: OWN FHD
-http://landiptv.live:8080/anar/anar19/76434
-#EXTINF:-1,US: Oxygen HD
-http://landiptv.live:8080/anar/anar19/155547
-#EXTINF:-1,US: PAC-12 (Los Angeles) FHD
-http://landiptv.live:8080/anar/anar19/76431
-#EXTINF:-1,US: PAC-12 (NATIONAL) HD
-http://landiptv.live:8080/anar/anar19/101372
-#EXTINF:-1,US: PAC-12 (Washington) HD
-http://landiptv.live:8080/anar/anar19/95558
-#EXTINF:-1,US: PBS KIDS HD
-http://landiptv.live:8080/anar/anar19/77179
-#EXTINF:-1,US: POP HD
-http://landiptv.live:8080/anar/anar19/77134
-#EXTINF:-1,US: PResS TV
-http://landiptv.live:8080/anar/anar19/160122
-#EXTINF:-1,US: PURSUIT CHANNEL
-http://landiptv.live:8080/anar/anar19/77118
-#EXTINF:-1,US: QVC HD
-http://landiptv.live:8080/anar/anar19/74952
-#EXTINF:-1,US: QVC PLUS HD
-http://landiptv.live:8080/anar/anar19/160125
-#EXTINF:-1,US: RED BULL TV FHD
-http://landiptv.live:8080/anar/anar19/76487
-#EXTINF:-1,US: Reelz Channel HD
-http://landiptv.live:8080/anar/anar19/158647
-#EXTINF:-1,US: REVOLT HD
-http://landiptv.live:8080/anar/anar19/156797
-#EXTINF:-1,US: REVOLT HD [VIP]
-http://landiptv.live:8080/anar/anar19/197938
-#EXTINF:-1,US: Showcase HD
-http://landiptv.live:8080/anar/anar19/76485
-#EXTINF:-1,US: SHOWTIME EXTREME FHD
-http://landiptv.live:8080/anar/anar19/75137
-#EXTINF:-1,US: Showtime Next HD
-http://landiptv.live:8080/anar/anar19/99887
-#EXTINF:-1,US: SMITHSONIAN CHANNEL HD
-http://landiptv.live:8080/anar/anar19/121410
-#EXTINF:-1,US: SNY HD
-http://landiptv.live:8080/anar/anar19/98319
-#EXTINF:-1,US: SPIKE/PARAMOUNT HD
-http://landiptv.live:8080/anar/anar19/74845
-#EXTINF:-1,US: Starz Encore FHD
-http://landiptv.live:8080/anar/anar19/74914
-#EXTINF:-1,US: Sundance HD
-http://landiptv.live:8080/anar/anar19/155408
-#EXTINF:-1,US: Syfy HD
-http://landiptv.live:8080/anar/anar19/155668
-#EXTINF:-1,US: TBN HD
-http://landiptv.live:8080/anar/anar19/92812
-#EXTINF:-1,US: TBs HD
-http://landiptv.live:8080/anar/anar19/76423
-#EXTINF:-1,US: TCM HD
-http://landiptv.live:8080/anar/anar19/77075
-#EXTINF:-1,US: TEEN NICK
-http://landiptv.live:8080/anar/anar19/92813
-#EXTINF:-1,US: Telemundo HD
-http://landiptv.live:8080/anar/anar19/77152
-#EXTINF:-1,US: The Cowboy Channel (RFD-TV)
-http://landiptv.live:8080/anar/anar19/105862
-#EXTINF:-1,US: The Sportsman Channel HD
-http://landiptv.live:8080/anar/anar19/108925
-#EXTINF:-1,US: THE WORD NETWORK HD
-http://landiptv.live:8080/anar/anar19/103616
-#EXTINF:-1,US: TRU TV HD [VIP]
-http://landiptv.live:8080/anar/anar19/197943
-#EXTINF:-1,US: TV LAND Classic HD [VIP]
-http://landiptv.live:8080/anar/anar19/197941
-#EXTINF:-1,US: TV LAND HD [VIP]
-http://landiptv.live:8080/anar/anar19/197942
-#EXTINF:-1,US: TV ONE FHD
-http://landiptv.live:8080/anar/anar19/77160
-#EXTINF:-1,US: TVG HORSE RACING
-http://landiptv.live:8080/anar/anar19/176347
-#EXTINF:-1,US: UFC TV
-http://landiptv.live:8080/anar/anar19/199265
-#EXTINF:-1,US: UNIMAS HD
-http://landiptv.live:8080/anar/anar19/77180
-#EXTINF:-1,US: UNIVERSAL HD
-http://landiptv.live:8080/anar/anar19/77099
-#EXTINF:-1,US: UNIVERSAL KIDS HD
-http://landiptv.live:8080/anar/anar19/77136
-#EXTINF:-1,US: USA Network HD
-http://landiptv.live:8080/anar/anar19/199240
-#EXTINF:-1,US: VH1 FHD
-http://landiptv.live:8080/anar/anar19/78295
-#EXTINF:-1,US: VH1 FHD [VIP]
-http://landiptv.live:8080/anar/anar19/197937
-#EXTINF:-1,US: Viceland FHD
-http://landiptv.live:8080/anar/anar19/151752
-#EXTINF:-1,US: Voice of America
-http://landiptv.live:8080/anar/anar19/105944
-#EXTINF:-1,US: WCCB News Rising
-http://landiptv.live:8080/anar/anar19/92989
-#EXTINF:-1,US: WE TV HD
-http://landiptv.live:8080/anar/anar19/77145
-#EXTINF:-1,US: WGCUO
-http://landiptv.live:8080/anar/anar19/77072
-#EXTINF:-1,US: WGN 9 NEWS (Chicago)
-http://landiptv.live:8080/anar/anar19/176279
-#EXTINF:-1,US: WGN America HD
-http://landiptv.live:8080/anar/anar19/76763
-#EXTINF:-1,US: WORLD FISHING NETWORK HD
-http://landiptv.live:8080/anar/anar19/92814
-#EXTINF:-1,US: WPIX 11 (NY)
-http://landiptv.live:8080/anar/anar19/77171
-#EXTINF:-1,US: WXCW
-http://landiptv.live:8080/anar/anar19/76540
-#EXTINF:-1,US: Yes Network HD
-http://landiptv.live:8080/anar/anar19/76762
-#EXTINF:-1,US: 5 Star Max HD
-http://landiptv.live:8080/anar/anar19/156230
-#EXTINF:-1,US: 5 USA
-http://landiptv.live:8080/anar/anar19/101419
-#EXTINF:-1,US: ABC (East) HD
-http://landiptv.live:8080/anar/anar19/77093
-#EXTINF:-1,US: ABC 2 (Atlanta) HD
-http://landiptv.live:8080/anar/anar19/121166
-#EXTINF:-1,US: ABC 2 (Baltimore) HD
-http://landiptv.live:8080/anar/anar19/120133
-#EXTINF:-1,US: ABC 2 WSB Atlanta HD
-http://landiptv.live:8080/anar/anar19/155512
-#EXTINF:-1,US: ABC 4 SEATTLE
-http://landiptv.live:8080/anar/anar19/156724
-#EXTINF:-1,US: ABC 5 WCVB Boston HD
-http://landiptv.live:8080/anar/anar19/211265
-#EXTINF:-1,US: ABC 6 HD
-http://landiptv.live:8080/anar/anar19/109405
-#EXTINF:-1,US: ABC 6 WPVI Philadelphia HD
-http://landiptv.live:8080/anar/anar19/211266
-#EXTINF:-1,US: ABC 7 (Chicago) HD
-http://landiptv.live:8080/anar/anar19/121299
-#EXTINF:-1,US: ABC 7 (Los Angeles) HD
-http://landiptv.live:8080/anar/anar19/121300
-#EXTINF:-1,US: ABC 7 DENVER
-http://landiptv.live:8080/anar/anar19/156728
-#EXTINF:-1,US: ABC 7 KABC LA HD
-http://landiptv.live:8080/anar/anar19/211269
-#EXTINF:-1,US: ABC 7 KABC Los Angeles HD
-http://landiptv.live:8080/anar/anar19/211267
-#EXTINF:-1,US: ABC 7 KABC New York HD
-http://landiptv.live:8080/anar/anar19/211268
-#EXTINF:-1,US: ABC 7 KGO San Francisco HD
-http://landiptv.live:8080/anar/anar19/211270
-#EXTINF:-1,US: ABC 7 WLS Chicago HD
-http://landiptv.live:8080/anar/anar19/211271
-#EXTINF:-1,US: ABC 7 WWSB FL Sarasota HD
-http://landiptv.live:8080/anar/anar19/91524
-#EXTINF:-1,US: ABC 8 WFAA Dallas HD
-http://landiptv.live:8080/anar/anar19/211272
-#EXTINF:-1,US: abc 9
-http://landiptv.live:8080/anar/anar19/107928
-#EXTINF:-1,US: ABC 9 WFTV Orlando HD
-http://landiptv.live:8080/anar/anar19/211273
-#EXTINF:-1,US: ABC 10 MIAMI
-http://landiptv.live:8080/anar/anar19/134536
-#EXTINF:-1,US: ABC 10 SAN DIEGO
-http://landiptv.live:8080/anar/anar19/156722
-#EXTINF:-1,US: ABC 10 WPLG Miami HD
-http://landiptv.live:8080/anar/anar19/211264
-#EXTINF:-1,US: ABC 12 (Milwaukee) HD
-http://landiptv.live:8080/anar/anar19/120129
-#EXTINF:-1,US: ABC 13 (Houston) HD
-http://landiptv.live:8080/anar/anar19/120131
-#EXTINF:-1,US: ABC 15 PHOENIX
-http://landiptv.live:8080/anar/anar19/156723
-#EXTINF:-1,US: ABC 28 KAMC TX Lubbock
-http://landiptv.live:8080/anar/anar19/91523
-#EXTINF:-1,US: ABC 28 TAMPA
-http://landiptv.live:8080/anar/anar19/156736
-#EXTINF:-1,US: ABC ATLANTA HD
-http://landiptv.live:8080/anar/anar19/134535
-#EXTINF:-1,US: ABC Baltimore
-http://landiptv.live:8080/anar/anar19/149858
-#EXTINF:-1,US: ABC Dallas
-http://landiptv.live:8080/anar/anar19/149788
-#EXTINF:-1,US: ABC Denver
-http://landiptv.live:8080/anar/anar19/149789
-#EXTINF:-1,US: ABC Durham
-http://landiptv.live:8080/anar/anar19/149862
-#EXTINF:-1,US: ABC Fresno
-http://landiptv.live:8080/anar/anar19/149863
-#EXTINF:-1,US: ABC HD
-http://landiptv.live:8080/anar/anar19/149786
-#EXTINF:-1,US: ABC Houston
-http://landiptv.live:8080/anar/anar19/149864
-#EXTINF:-1,US: ABC INDIANA
-http://landiptv.live:8080/anar/anar19/159914
-#EXTINF:-1,US: ABC Kansas City
-http://landiptv.live:8080/anar/anar19/149866
-#EXTINF:-1,US: ABC Los Angeles FHD
-http://landiptv.live:8080/anar/anar19/108903
-#EXTINF:-1,US: ABC Miami
-http://landiptv.live:8080/anar/anar19/149868
-#EXTINF:-1,US: ABC Milwaukee
-http://landiptv.live:8080/anar/anar19/149869
-#EXTINF:-1,US: ABC Nashville
-http://landiptv.live:8080/anar/anar19/149870
-#EXTINF:-1,US: ABC New York
-http://landiptv.live:8080/anar/anar19/149871
-#EXTINF:-1,US: ABC Orlando
-http://landiptv.live:8080/anar/anar19/149872
-#EXTINF:-1,US: ABC Phoenix
-http://landiptv.live:8080/anar/anar19/149874
-#EXTINF:-1,US: ABC PITTSBURG
-http://landiptv.live:8080/anar/anar19/159921
-#EXTINF:-1,US: ABC Portland
-http://landiptv.live:8080/anar/anar19/149876
-#EXTINF:-1,US: ABC Sacramento
-http://landiptv.live:8080/anar/anar19/149877
-#EXTINF:-1,US: ABC Saint Paul
-http://landiptv.live:8080/anar/anar19/149878
-#EXTINF:-1,US: ABC Salt lake city
-http://landiptv.live:8080/anar/anar19/149879
-#EXTINF:-1,US: ABC San Antonio
-http://landiptv.live:8080/anar/anar19/149880
-#EXTINF:-1,US: ABC San Francisco
-http://landiptv.live:8080/anar/anar19/149882
-#EXTINF:-1,US: ABC SEATLE
-http://landiptv.live:8080/anar/anar19/159927
-#EXTINF:-1,US: ABC Spark
-http://landiptv.live:8080/anar/anar19/87742
-#EXTINF:-1,US: AFN Prime Atlantic HD
-http://landiptv.live:8080/anar/anar19/74939
-#EXTINF:-1,US: AFN PRIME PACIFIC HD
-http://landiptv.live:8080/anar/anar19/74938
-#EXTINF:-1,US: AFN SPECTRUM HD
-http://landiptv.live:8080/anar/anar19/76585
-#EXTINF:-1,US: AFN Sports 1
-http://landiptv.live:8080/anar/anar19/99610
-#EXTINF:-1,US: AHL Game 1 HD
-http://landiptv.live:8080/anar/anar19/211274
-#EXTINF:-1,US: AHL Game 2 HD
-http://landiptv.live:8080/anar/anar19/211281
-#EXTINF:-1,US: AHL Game 3 HD
-http://landiptv.live:8080/anar/anar19/211282
-#EXTINF:-1,US: AHL Game 4 HD
-http://landiptv.live:8080/anar/anar19/211283
-#EXTINF:-1,US: AHL Game 5 HD
-http://landiptv.live:8080/anar/anar19/211284
-#EXTINF:-1,US: AKC TV HD
-http://landiptv.live:8080/anar/anar19/211289
-#EXTINF:-1,US: Amazing Discoveries HD
-http://landiptv.live:8080/anar/anar19/98282
-#EXTINF:-1,US: American Heroes Channel HD
-http://landiptv.live:8080/anar/anar19/211290
-#EXTINF:-1,US: Atlanta Channel HD
-http://landiptv.live:8080/anar/anar19/152975
-#EXTINF:-1,US: ATXN
-http://landiptv.live:8080/anar/anar19/103896
-#EXTINF:-1,US: BABY TV HD
-http://landiptv.live:8080/anar/anar19/121304
-#EXTINF:-1,US: BABYFIRST TV
-http://landiptv.live:8080/anar/anar19/208105
-#EXTINF:-1,US: BBC 1 HD
-http://landiptv.live:8080/anar/anar19/107778
-#EXTINF:-1,US: BBC WORLD NEWS
-http://landiptv.live:8080/anar/anar19/74929
-#EXTINF:-1,US: beIN Sports HD
-http://landiptv.live:8080/anar/anar19/95148
-#EXTINF:-1,US: BET FHD
-http://landiptv.live:8080/anar/anar19/74943
-#EXTINF:-1,US: BNN HD
-http://landiptv.live:8080/anar/anar19/138282
-#EXTINF:-1,US: BOSTON BRUINS
-http://landiptv.live:8080/anar/anar19/156749
-#EXTINF:-1,US: Boston City TV
-http://landiptv.live:8080/anar/anar19/109691
-#EXTINF:-1,US: Bounce TV
-http://landiptv.live:8080/anar/anar19/211294
-#EXTINF:-1,US: Box Office Movies HD
-http://landiptv.live:8080/anar/anar19/74905
-#EXTINF:-1,US: Bravo FHD
-http://landiptv.live:8080/anar/anar19/95147
-#EXTINF:-1,US: BRAVO ORG HD
-http://landiptv.live:8080/anar/anar19/121308
-#EXTINF:-1,US: BT Sport 3
-http://landiptv.live:8080/anar/anar19/210137
-#EXTINF:-1,US: BTN BIG HD
-http://landiptv.live:8080/anar/anar19/149894
-#EXTINF:-1,US: BTN Sport HD
-http://landiptv.live:8080/anar/anar19/75821
-#EXTINF:-1,US: BYU TV HD
-http://landiptv.live:8080/anar/anar19/108529
-#EXTINF:-1,US: C SPAN 1 HD
-http://landiptv.live:8080/anar/anar19/74922
-#EXTINF:-1,US: C SPAN 3 HD
-http://landiptv.live:8080/anar/anar19/74924
-#EXTINF:-1,US: C Toon Kids FHD
-http://landiptv.live:8080/anar/anar19/74900
-#EXTINF:-1,US: Cartoon Network HD
-http://landiptv.live:8080/anar/anar19/75228
-#EXTINF:-1,US: CBN NEWS HD
-http://landiptv.live:8080/anar/anar19/76783
-#EXTINF:-1,US: CBS (ATLANTA HD)
-http://landiptv.live:8080/anar/anar19/149897
-#EXTINF:-1,US: CBS (Baltimore)
-http://landiptv.live:8080/anar/anar19/149898
-#EXTINF:-1,US: CBS (Boston)
-http://landiptv.live:8080/anar/anar19/149899
-#EXTINF:-1,US: CBS (Charlotte)
-http://landiptv.live:8080/anar/anar19/149900
-#EXTINF:-1,US: CBS (Chicago)
-http://landiptv.live:8080/anar/anar19/149901
-#EXTINF:-1,US: CBS (Cleveland)
-http://landiptv.live:8080/anar/anar19/149902
-#EXTINF:-1,US: CBS (Columbus)
-http://landiptv.live:8080/anar/anar19/149903
-#EXTINF:-1,US: CBS (CONNECTICUT)
-http://landiptv.live:8080/anar/anar19/156738
-#EXTINF:-1,US: CBS (Dallas)
-http://landiptv.live:8080/anar/anar19/149904
-#EXTINF:-1,US: CBS (Detroit)
-http://landiptv.live:8080/anar/anar19/149906
-#EXTINF:-1,US: CBS (Greensboro)
-http://landiptv.live:8080/anar/anar19/149907
-#EXTINF:-1,US: CBS (Hartford)
-http://landiptv.live:8080/anar/anar19/149908
-#EXTINF:-1,US: CBS (Houston)
-http://landiptv.live:8080/anar/anar19/149909
-#EXTINF:-1,US: CBS (Jacksonville)
-http://landiptv.live:8080/anar/anar19/149910
-#EXTINF:-1,US: CBS (Kansas City)
-http://landiptv.live:8080/anar/anar19/149911
-#EXTINF:-1,US: CBS (Los Angeles FHD)
-http://landiptv.live:8080/anar/anar19/102056
-#EXTINF:-1,US: CBS (Miami)
-http://landiptv.live:8080/anar/anar19/149913
-#EXTINF:-1,US: CBS (Milwaukee)
-http://landiptv.live:8080/anar/anar19/149914
-#EXTINF:-1,US: CBS (Minneapolis)
-http://landiptv.live:8080/anar/anar19/149915
-#EXTINF:-1,US: CBS (Nashville)
-http://landiptv.live:8080/anar/anar19/149916
-#EXTINF:-1,US: CBS (New Orleans)
-http://landiptv.live:8080/anar/anar19/149917
-#EXTINF:-1,US: CBS (Orlando)
-http://landiptv.live:8080/anar/anar19/149919
-#EXTINF:-1,US: CBS (Philadelphia)
-http://landiptv.live:8080/anar/anar19/149920
-#EXTINF:-1,US: CBS (Phoenix)
-http://landiptv.live:8080/anar/anar19/149921
-#EXTINF:-1,US: CBS (Pittsburgh)
-http://landiptv.live:8080/anar/anar19/149922
-#EXTINF:-1,US: CBS (San Antonio)
-http://landiptv.live:8080/anar/anar19/149924
-#EXTINF:-1,US: CBS (San Francisco)
-http://landiptv.live:8080/anar/anar19/149926
-#EXTINF:-1,US: CBS (Tampas)
-http://landiptv.live:8080/anar/anar19/149930
-#EXTINF:-1,US: CBS (Washington)
-http://landiptv.live:8080/anar/anar19/149931
-#EXTINF:-1,US: CBS (WKMG Orlando HD)
-http://landiptv.live:8080/anar/anar19/211311
-#EXTINF:-1,US: CBS 2 (Chicago)
-http://landiptv.live:8080/anar/anar19/134522
-#EXTINF:-1,US: CBS 2 (Greensboro)
-http://landiptv.live:8080/anar/anar19/213533
-#EXTINF:-1,US: CBS 2 (Los Angeles)
-http://landiptv.live:8080/anar/anar19/134507
-#EXTINF:-1,US: CBS 2 (PITTSBURGH) HD
-http://landiptv.live:8080/anar/anar19/156742
-#EXTINF:-1,US: CBS 2 (WBM Chicago) HD
-http://landiptv.live:8080/anar/anar19/155526
-#EXTINF:-1,US: CBS 2 HD
-http://landiptv.live:8080/anar/anar19/135122
-#EXTINF:-1,US: CBS 3 (PHILADELPHIA)
-http://landiptv.live:8080/anar/anar19/156743
-#EXTINF:-1,US: CBS 4 (DENVER) HD
-http://landiptv.live:8080/anar/anar19/156729
-#EXTINF:-1,US: CBS 4 (Miami) HD
-http://landiptv.live:8080/anar/anar19/120119
-#EXTINF:-1,US: CBS 4 (ST LOUIS) HD
-http://landiptv.live:8080/anar/anar19/156730
-#EXTINF:-1,US: CBS 4 (St. Louis)
-http://landiptv.live:8080/anar/anar19/213534
-#EXTINF:-1,US: CBS 4 (WBZ Boston) HD
-http://landiptv.live:8080/anar/anar19/211304
-#EXTINF:-1,US: CBS 4 (WFOR Miami) HD
-http://landiptv.live:8080/anar/anar19/211305
-#EXTINF:-1,US: CBS 5 (PHOENIX)
-http://landiptv.live:8080/anar/anar19/156731
-#EXTINF:-1,US: CBS 5 KENS (San Antonio) HD
-http://landiptv.live:8080/anar/anar19/211307
-#EXTINF:-1,US: CBS 5 KPIX (San Francisco) HD
-http://landiptv.live:8080/anar/anar19/211308
-#EXTINF:-1,US: CBS 7 (Seattle, WA)
-http://landiptv.live:8080/anar/anar19/125698
-#EXTINF:-1,US: CBS 9 D.C
-http://landiptv.live:8080/anar/anar19/156740
-#EXTINF:-1,US: CBS 11 (Dallas) HD
-http://landiptv.live:8080/anar/anar19/120116
-#EXTINF:-1,US: CBS 12 (CINCINNATI) HD
-http://landiptv.live:8080/anar/anar19/156739
-#EXTINF:-1,US: CBS 13 (Baltimore) HD
-http://landiptv.live:8080/anar/anar19/120117
-#EXTINF:-1,US: CBS 2/9 (Los Angeles)
-http://landiptv.live:8080/anar/anar19/213532
-#EXTINF:-1,US: CBS 46 (WGCL Atlanta HD)
-http://landiptv.live:8080/anar/anar19/211306
-#EXTINF:-1,US: CBS 47 (JACKSONVILLE)
-http://landiptv.live:8080/anar/anar19/156741
-#EXTINF:-1,US: CBS 62 (DETROIT) HD
-http://landiptv.live:8080/anar/anar19/134524
-#EXTINF:-1,US: CBS ACTION
-http://landiptv.live:8080/anar/anar19/92444
-#EXTINF:-1,US: CBS DRAMA
-http://landiptv.live:8080/anar/anar19/87736
-#EXTINF:-1,US: CBS East HD
-http://landiptv.live:8080/anar/anar19/211302
-#EXTINF:-1,US: CBS NEWS HD
-http://landiptv.live:8080/anar/anar19/208222
-#EXTINF:-1,US: CBS Philly HD
-http://landiptv.live:8080/anar/anar19/211309
-#EXTINF:-1,US: CBS Reality HD
-http://landiptv.live:8080/anar/anar19/92445
-#EXTINF:-1,US: CBS Sacramento
-http://landiptv.live:8080/anar/anar19/149923
-#EXTINF:-1,US: CBS Sports CBSSN HD
-http://landiptv.live:8080/anar/anar19/211310
-#EXTINF:-1,US: CBSN HD
-http://landiptv.live:8080/anar/anar19/76561
-#EXTINF:-1,US: CBSN News HD
-http://landiptv.live:8080/anar/anar19/74839
-#EXTINF:-1,US: CIENEMAX MOREMAX HD
-http://landiptv.live:8080/anar/anar19/156787
-#EXTINF:-1,US: Cine Sony
-http://landiptv.live:8080/anar/anar19/149932
-#EXTINF:-1,US: Cinema 01 PPV
-http://landiptv.live:8080/anar/anar19/84375
-#EXTINF:-1,US: Cinema 02 PPV
-http://landiptv.live:8080/anar/anar19/77658
-#EXTINF:-1,US: Cinema 03 PPV
-http://landiptv.live:8080/anar/anar19/77657
-#EXTINF:-1,US: Cinema 04 PPV
-http://landiptv.live:8080/anar/anar19/77656
-#EXTINF:-1,US: Cinema 05 PPV
-http://landiptv.live:8080/anar/anar19/77655
-#EXTINF:-1,US: Cinema 06 PPV
-http://landiptv.live:8080/anar/anar19/84376
-#EXTINF:-1,US: Cinema 07 PPV
-http://landiptv.live:8080/anar/anar19/77653
-#EXTINF:-1,US: Cinema 08 PPV
-http://landiptv.live:8080/anar/anar19/77652
-#EXTINF:-1,US: Cinema 09 PPV
-http://landiptv.live:8080/anar/anar19/77651
-#EXTINF:-1,US: Cinema 10 PPV
-http://landiptv.live:8080/anar/anar19/77650
-#EXTINF:-1,US: Cinema 11 PPV
-http://landiptv.live:8080/anar/anar19/77649
-#EXTINF:-1,US: Cinema 12 PPV
-http://landiptv.live:8080/anar/anar19/77648
-#EXTINF:-1,US: Cinema 13 PPV
-http://landiptv.live:8080/anar/anar19/77647
-#EXTINF:-1,US: Cinema 14 PPV
-http://landiptv.live:8080/anar/anar19/77646
-#EXTINF:-1,US: Cinema 15 PPV
-http://landiptv.live:8080/anar/anar19/77645
-#EXTINF:-1,US: Cinema 16 PPV
-http://landiptv.live:8080/anar/anar19/77644
-#EXTINF:-1,US: Cinema 17 PPV
-http://landiptv.live:8080/anar/anar19/77643
-#EXTINF:-1,US: Cinema 18 PPV
-http://landiptv.live:8080/anar/anar19/77642
-#EXTINF:-1,US: Cinema 19 PPV
-http://landiptv.live:8080/anar/anar19/77641
-#EXTINF:-1,US: Cinema 20 PPV
-http://landiptv.live:8080/anar/anar19/77640
-#EXTINF:-1,US: Cinema 21 PPV
-http://landiptv.live:8080/anar/anar19/77639
-#EXTINF:-1,US: Cinema 22 PPV
-http://landiptv.live:8080/anar/anar19/77638
-#EXTINF:-1,US: Cinema 23 PPV
-http://landiptv.live:8080/anar/anar19/77637
-#EXTINF:-1,US: Cinema 24 PPV
-http://landiptv.live:8080/anar/anar19/77636
-#EXTINF:-1,US: Cinema 26 PPV
-http://landiptv.live:8080/anar/anar19/77634
-#EXTINF:-1,US: Cinema 27 PPV
-http://landiptv.live:8080/anar/anar19/102055
-#EXTINF:-1,US: Cinema 28 PPV
-http://landiptv.live:8080/anar/anar19/77632
-#EXTINF:-1,US: Cinema 29 PPV
-http://landiptv.live:8080/anar/anar19/77631
-#EXTINF:-1,US: Cinema 30 PPV
-http://landiptv.live:8080/anar/anar19/77630
-#EXTINF:-1,US: Cinema 32 PPV
-http://landiptv.live:8080/anar/anar19/77628
-#EXTINF:-1,US: Cinema 33 PPV
-http://landiptv.live:8080/anar/anar19/77627
-#EXTINF:-1,US: Cinema 35 PPV
-http://landiptv.live:8080/anar/anar19/77625
-#EXTINF:-1,US: Cinema 36 PPV
-http://landiptv.live:8080/anar/anar19/77624
-#EXTINF:-1,US: Cinema 37 PPV
-http://landiptv.live:8080/anar/anar19/77623
-#EXTINF:-1,US: Cinema 38 PPV
-http://landiptv.live:8080/anar/anar19/77622
-#EXTINF:-1,US: Cinema 39 PPV
-http://landiptv.live:8080/anar/anar19/77621
-#EXTINF:-1,US: Cinema 40 PPV
-http://landiptv.live:8080/anar/anar19/77620
-#EXTINF:-1,US: CINEMAX 5 STAR MAX HD
-http://landiptv.live:8080/anar/anar19/74927
-#EXTINF:-1,US: Cinemax Action 2 HD
-http://landiptv.live:8080/anar/anar19/77698
-#EXTINF:-1,US: CINEMAX ACTION FHD
-http://landiptv.live:8080/anar/anar19/65085
-#EXTINF:-1,US: Cinemax Action Max HD
-http://landiptv.live:8080/anar/anar19/159963
-#EXTINF:-1,US: CINEMAX ACTOIN EAST
-http://landiptv.live:8080/anar/anar19/76560
-#EXTINF:-1,US: Cinemax East HD
-http://landiptv.live:8080/anar/anar19/211314
-#EXTINF:-1,US: CINEMAX MOREMAX FHD
-http://landiptv.live:8080/anar/anar19/74853
-#EXTINF:-1,US: CINEMAX OUTER MAX FHD
-http://landiptv.live:8080/anar/anar19/77166
-#EXTINF:-1,US: CINEMAX THRILLER FHD
-http://landiptv.live:8080/anar/anar19/103708
-#EXTINF:-1,US: Cinemax West FHD
-http://landiptv.live:8080/anar/anar19/102021
-#EXTINF:-1,US: CMT Country Music Television HD
-http://landiptv.live:8080/anar/anar19/211316
-#EXTINF:-1,US: CNBS HD
-http://landiptv.live:8080/anar/anar19/99867
-#EXTINF:-1,US: CNN en Español
-http://landiptv.live:8080/anar/anar19/149939
-#EXTINF:-1,US: CNN HD
-http://landiptv.live:8080/anar/anar19/149938
-#EXTINF:-1,US: Comedy Central HD
-http://landiptv.live:8080/anar/anar19/155529
-#EXTINF:-1,US: CP24
-http://landiptv.live:8080/anar/anar19/103915
-#EXTINF:-1,US: Crime & Investigation Network HD
-http://landiptv.live:8080/anar/anar19/211317
-#EXTINF:-1,US: Crime Investigation Discovery FHD
-http://landiptv.live:8080/anar/anar19/176227
-#EXTINF:-1,US: CTV 2 TV
-http://landiptv.live:8080/anar/anar19/107930
-#EXTINF:-1,US: CW
-http://landiptv.live:8080/anar/anar19/199587
-#EXTINF:-1,US: Discovery Showcase
-http://landiptv.live:8080/anar/anar19/76450
-#EXTINF:-1,US: Discovery TLC
-http://landiptv.live:8080/anar/anar19/149950
-#EXTINF:-1,US: District Knowledge Network
-http://landiptv.live:8080/anar/anar19/91529
-#EXTINF:-1,US: District of Columbia Network
-http://landiptv.live:8080/anar/anar19/91530
-#EXTINF:-1,US: DTX HD
-http://landiptv.live:8080/anar/anar19/122167
-#EXTINF:-1,US: DW
-http://landiptv.live:8080/anar/anar19/155509
-#EXTINF:-1,US: E! HD
-http://landiptv.live:8080/anar/anar19/103720
-#EXTINF:-1,US: EL Rey Network FHD
-http://landiptv.live:8080/anar/anar19/77120
-#EXTINF:-1,US: Eleven Sports 1 HD
-http://landiptv.live:8080/anar/anar19/137860
-#EXTINF:-1,US: Eleven Sports 2 HD
-http://landiptv.live:8080/anar/anar19/137861
-#EXTINF:-1,US: ELEVEN SPORTS HD
-http://landiptv.live:8080/anar/anar19/77121
-#EXTINF:-1,US: Entertainment Tonight HD
-http://landiptv.live:8080/anar/anar19/211326
-#EXTINF:-1,US: EPIX FHD
-http://landiptv.live:8080/anar/anar19/77168
-#EXTINF:-1,US: EPIX HITS HD
-http://landiptv.live:8080/anar/anar19/117780
-#EXTINF:-1,US: ESPN 3 FHD
-http://landiptv.live:8080/anar/anar19/76533
-#EXTINF:-1,US: ESPN Bases Loaded
-http://landiptv.live:8080/anar/anar19/149963
-#EXTINF:-1,US: ESPN COLLEGE EXTRA 1 HD
-http://landiptv.live:8080/anar/anar19/121328
-#EXTINF:-1,US: ESPN COLLEGE EXTRA 2 HD
-http://landiptv.live:8080/anar/anar19/121329
-#EXTINF:-1,US: ESPN COLLEGE EXTRA 3 HD
-http://landiptv.live:8080/anar/anar19/121330
-#EXTINF:-1,US: ESPN COLLEGE EXTRA 4
-http://landiptv.live:8080/anar/anar19/213528
-#EXTINF:-1,US: ESPN COLLEGE EXTRA 5 HD
-http://landiptv.live:8080/anar/anar19/121332
-#EXTINF:-1,US: ESPN COLLEGE EXTRA 6 HD
-http://landiptv.live:8080/anar/anar19/121333
-#EXTINF:-1,US: ESPN Deportes HD
-http://landiptv.live:8080/anar/anar19/155532
-#EXTINF:-1,US: ESPN Network HD
-http://landiptv.live:8080/anar/anar19/97652
-#EXTINF:-1,US: ESPN News HD
-http://landiptv.live:8080/anar/anar19/65083
-#EXTINF:-1,US: ESPN Plus
-http://landiptv.live:8080/anar/anar19/122172
-#EXTINF:-1,US: ESPN PLUS 01 HD
-http://landiptv.live:8080/anar/anar19/123281
-#EXTINF:-1,US: ESPN PLUS 03 HD
-http://landiptv.live:8080/anar/anar19/123283
-#EXTINF:-1,US: ESPN PLUS 04 HD
-http://landiptv.live:8080/anar/anar19/123284
-#EXTINF:-1,US: ESPN PLUS 05 HD
-http://landiptv.live:8080/anar/anar19/123285
-#EXTINF:-1,US: ESPN PLUS 06 HD
-http://landiptv.live:8080/anar/anar19/123286
-#EXTINF:-1,US: ESPN PLUS 07 HD
-http://landiptv.live:8080/anar/anar19/123287
-#EXTINF:-1,US: ESPN PLUS 08 HD
-http://landiptv.live:8080/anar/anar19/123288
-#EXTINF:-1,US: ESPN PLUS 09 HD
-http://landiptv.live:8080/anar/anar19/123289
-#EXTINF:-1,US: ESPN PLUS 10 HD
-http://landiptv.live:8080/anar/anar19/123290
-#EXTINF:-1,US: ESPN PLUS 11 HD
-http://landiptv.live:8080/anar/anar19/123291
-#EXTINF:-1,US: ESPN PLUS 12 HD
-http://landiptv.live:8080/anar/anar19/123292
-#EXTINF:-1,US: ESPN PLUS 13 HD
-http://landiptv.live:8080/anar/anar19/123293
-#EXTINF:-1,US: ESPN PLUS 14 HD
-http://landiptv.live:8080/anar/anar19/123294
-#EXTINF:-1,US: ESPN PLUS 16 HD
-http://landiptv.live:8080/anar/anar19/123296
-#EXTINF:-1,US: ESPN PLUS 17 HD
-http://landiptv.live:8080/anar/anar19/123297
-#EXTINF:-1,US: ESPN PLUS 18 HD
-http://landiptv.live:8080/anar/anar19/123298
-#EXTINF:-1,US: ESPN PLUS 19 HD
-http://landiptv.live:8080/anar/anar19/123299
-#EXTINF:-1,US: ESPN PLUS 20 HD
-http://landiptv.live:8080/anar/anar19/123300
-#EXTINF:-1,US: ESPN U HD
-http://landiptv.live:8080/anar/anar19/75113
-#EXTINF:-1,US: ET Live HD
-http://landiptv.live:8080/anar/anar19/211330
-#EXTINF:-1,US: EWTN
-http://landiptv.live:8080/anar/anar19/199229
-#EXTINF:-1,US: FAMILY GUY
-http://landiptv.live:8080/anar/anar19/101284
-#EXTINF:-1,US: Fashion One HD
-http://landiptv.live:8080/anar/anar19/211331
-#EXTINF:-1,US: FIGHT Channel HD
-http://landiptv.live:8080/anar/anar19/98273
-#EXTINF:-1,US: FIGHT SPORT 1 HD
-http://landiptv.live:8080/anar/anar19/74913
-#EXTINF:-1,US: Fine Living
-http://landiptv.live:8080/anar/anar19/98305
-#EXTINF:-1,US: Food Network FHD
-http://landiptv.live:8080/anar/anar19/74859
-#EXTINF:-1,US: FOX 2 HD
-http://landiptv.live:8080/anar/anar19/149985
-#EXTINF:-1,US: FOX 2 KTVU San Francisco CA HD
-http://landiptv.live:8080/anar/anar19/211335
-#EXTINF:-1,US: FOX 4 Kansas City
-http://landiptv.live:8080/anar/anar19/149991
-#EXTINF:-1,US: FOX 4 KDFW Dallas HD
-http://landiptv.live:8080/anar/anar19/211339
-#EXTINF:-1,US: Fox 5 HD
-http://landiptv.live:8080/anar/anar19/77157
-#EXTINF:-1,US: Fox 5 News
-http://landiptv.live:8080/anar/anar19/208224
-#EXTINF:-1,US: Fox 5 WNYW NY HD
-http://landiptv.live:8080/anar/anar19/211342
-#EXTINF:-1,US: FOX 7 (Miami)
-http://landiptv.live:8080/anar/anar19/134553
-#EXTINF:-1,US: FOX 8
-http://landiptv.live:8080/anar/anar19/149977
-#EXTINF:-1,US: FOX 8 NEW ORLEANS HD
-http://landiptv.live:8080/anar/anar19/134555
-#EXTINF:-1,US: FOX 11 KTTV Los Angeles HD
-http://landiptv.live:8080/anar/anar19/211333
-#EXTINF:-1,US: FOX 13
-http://landiptv.live:8080/anar/anar19/150013
-#EXTINF:-1,US: FOX 13 SEATTLE HD
-http://landiptv.live:8080/anar/anar19/134511
-#EXTINF:-1,US: FOX 17 MEMPHIS
-http://landiptv.live:8080/anar/anar19/134554
-#EXTINF:-1,US: FOX 19 WXIX Cincinnati HD
-http://landiptv.live:8080/anar/anar19/211334
-#EXTINF:-1,US: Fox 25 WFXT Boston HD
-http://landiptv.live:8080/anar/anar19/211336
-#EXTINF:-1,US: FOX 26 HOUSTON HD
-http://landiptv.live:8080/anar/anar19/134526
-#EXTINF:-1,US: FOX 29 HD
-http://landiptv.live:8080/anar/anar19/122143
-#EXTINF:-1,US: FOX 30 Jacksonville
-http://landiptv.live:8080/anar/anar19/149990
-#EXTINF:-1,US: FOX 31 Denver
-http://landiptv.live:8080/anar/anar19/149983
-#EXTINF:-1,US: FOX 32 CHICAGO HD
-http://landiptv.live:8080/anar/anar19/134527
-#EXTINF:-1,US: FOX 35 WOFL Orlando HD
-http://landiptv.live:8080/anar/anar19/211338
-#EXTINF:-1,US: FOX 46
-http://landiptv.live:8080/anar/anar19/149972
-#EXTINF:-1,US: FOX 59 Indianapolis
-http://landiptv.live:8080/anar/anar19/149989
-#EXTINF:-1,US: FOX Austin
-http://landiptv.live:8080/anar/anar19/149970
-#EXTINF:-1,US: FOX Baltimore
-http://landiptv.live:8080/anar/anar19/149971
-#EXTINF:-1,US: FOX Boston
-http://landiptv.live:8080/anar/anar19/149973
-#EXTINF:-1,US: FOX Buffalo
-http://landiptv.live:8080/anar/anar19/149974
-#EXTINF:-1,US: FOX Business Network
-http://landiptv.live:8080/anar/anar19/211733
-#EXTINF:-1,US: FOX Chicago
-http://landiptv.live:8080/anar/anar19/149976
-#EXTINF:-1,US: FOX COLLEGE PACIFIC HD
-http://landiptv.live:8080/anar/anar19/156701
-#EXTINF:-1,US: FOX COLLEGE SPORTS ATLANTIC HD
-http://landiptv.live:8080/anar/anar19/103734
-#EXTINF:-1,US: FOX COLLEGE SPORTS CENTRAL HD
-http://landiptv.live:8080/anar/anar19/103735
-#EXTINF:-1,US: FOX Columbus
-http://landiptv.live:8080/anar/anar19/149981
-#EXTINF:-1,US: FOX Dallas
-http://landiptv.live:8080/anar/anar19/149982
-#EXTINF:-1,US: FOX Green Bay
-http://landiptv.live:8080/anar/anar19/149986
-#EXTINF:-1,US: FOX Hartford
-http://landiptv.live:8080/anar/anar19/149987
-#EXTINF:-1,US: FOX Los Angeles
-http://landiptv.live:8080/anar/anar19/149992
-#EXTINF:-1,US: FOX Miami
-http://landiptv.live:8080/anar/anar19/149993
-#EXTINF:-1,US: FOX Milwaukee
-http://landiptv.live:8080/anar/anar19/149994
-#EXTINF:-1,US: FOX Minneapolis
-http://landiptv.live:8080/anar/anar19/149995
-#EXTINF:-1,US: FOX New Orleans
-http://landiptv.live:8080/anar/anar19/149997
-#EXTINF:-1,US: FOX New York
-http://landiptv.live:8080/anar/anar19/149998
-#EXTINF:-1,US: FOX Ocala
-http://landiptv.live:8080/anar/anar19/150000
-#EXTINF:-1,US: FOX Philadelphia
-http://landiptv.live:8080/anar/anar19/150002
-#EXTINF:-1,US: FOX Phoenix
-http://landiptv.live:8080/anar/anar19/150003
-#EXTINF:-1,US: FOX Pittsburgh
-http://landiptv.live:8080/anar/anar19/150004
-#EXTINF:-1,US: FOX Sacramento
-http://landiptv.live:8080/anar/anar19/150005
-#EXTINF:-1,US: FOX Salt Lake City
-http://landiptv.live:8080/anar/anar19/150006
-#EXTINF:-1,US: FOX San Antonio
-http://landiptv.live:8080/anar/anar19/150007
-#EXTINF:-1,US: FOX San Diego
-http://landiptv.live:8080/anar/anar19/150008
-#EXTINF:-1,US: FOX San Francisco
-http://landiptv.live:8080/anar/anar19/150009
-#EXTINF:-1,US: FOX Seattle
-http://landiptv.live:8080/anar/anar19/150010
-#EXTINF:-1,US: FOX SOCCER SUN FHD
-http://landiptv.live:8080/anar/anar19/74908
-#EXTINF:-1,US: FOX SPORTS (Mid West) HD
-http://landiptv.live:8080/anar/anar19/78327
-#EXTINF:-1,US: FOX SPORTS (South West) Plus
-http://landiptv.live:8080/anar/anar19/126088
-#EXTINF:-1,US: FOX SPORTS 1 FHD
-http://landiptv.live:8080/anar/anar19/199142
-#EXTINF:-1,US: FOX SPORTS Carolina HD
-http://landiptv.live:8080/anar/anar19/152490
-#EXTINF:-1,US: FOX SPORTS Cincinnati HD
-http://landiptv.live:8080/anar/anar19/197394
-#EXTINF:-1,US: FOX SPORTS DEPORTES HD
-http://landiptv.live:8080/anar/anar19/121350
-#EXTINF:-1,US: FOX SPORTS Plus HD
-http://landiptv.live:8080/anar/anar19/211351
-#EXTINF:-1,US: FOX SPORTS PRIME TICKET HD
-http://landiptv.live:8080/anar/anar19/152502
-#EXTINF:-1,US: FOX SPORTS Racing HD
-http://landiptv.live:8080/anar/anar19/155535
-#EXTINF:-1,US: FOX St Louis
-http://landiptv.live:8080/anar/anar19/150012
-#EXTINF:-1,US: FOX Washington
-http://landiptv.live:8080/anar/anar19/150014
-#EXTINF:-1,US: Free Speech TV
-http://landiptv.live:8080/anar/anar19/103923
-#EXTINF:-1,US: FREEFORM WEST HD
-http://landiptv.live:8080/anar/anar19/156773
-#EXTINF:-1,US: FrontDoor HD
-http://landiptv.live:8080/anar/anar19/211357
-#EXTINF:-1,US: FS 1
-http://landiptv.live:8080/anar/anar19/150016
-#EXTINF:-1,US: FS 2
-http://landiptv.live:8080/anar/anar19/150017
-#EXTINF:-1,US: FUEL HD
-http://landiptv.live:8080/anar/anar19/98307
-#EXTINF:-1,US: FX WEST HD
-http://landiptv.live:8080/anar/anar19/156775
-#EXTINF:-1,US: FXX FHD
-http://landiptv.live:8080/anar/anar19/150021
-#EXTINF:-1,US: FXX WEST HD
-http://landiptv.live:8080/anar/anar19/138299
-#EXTINF:-1,US: GALAVISION
-http://landiptv.live:8080/anar/anar19/77150
-#EXTINF:-1,US: Global TV Toronto
-http://landiptv.live:8080/anar/anar19/115237
-#EXTINF:-1,US: Gnix Sports TV
-http://landiptv.live:8080/anar/anar19/150022
-#EXTINF:-1,US: GOL TV HD
-http://landiptv.live:8080/anar/anar19/175565
-#EXTINF:-1,US: GSN Game Show Network HD
-http://landiptv.live:8080/anar/anar19/211360
-#EXTINF:-1,US: H2 HD
-http://landiptv.live:8080/anar/anar19/87704
-#EXTINF:-1,US: Hallmark Movies
-http://landiptv.live:8080/anar/anar19/94890
-#EXTINF:-1,US: Hallmark Movies And Mysteries HD
-http://landiptv.live:8080/anar/anar19/211362
-#EXTINF:-1,US: HBO (East) HD
-http://landiptv.live:8080/anar/anar19/75881
-#EXTINF:-1,US: HBO 2 EAST HD
-http://landiptv.live:8080/anar/anar19/105899
-#EXTINF:-1,US: HBO 2 FHD
-http://landiptv.live:8080/anar/anar19/77694
-#EXTINF:-1,US: HBO 2 West FHD
-http://landiptv.live:8080/anar/anar19/77693
-#EXTINF:-1,US: HBO Comedy HD
-http://landiptv.live:8080/anar/anar19/148295
-#EXTINF:-1,US: HBO Family FHD
-http://landiptv.live:8080/anar/anar19/156782
-#EXTINF:-1,US: HBO Plus West HD
-http://landiptv.live:8080/anar/anar19/84377
-#EXTINF:-1,US: HBO Signature East HD
-http://landiptv.live:8080/anar/anar19/211366
-#EXTINF:-1,US: HBO Signature FHD
-http://landiptv.live:8080/anar/anar19/156783
-#EXTINF:-1,US: HBO Zone FHD
-http://landiptv.live:8080/anar/anar19/103755
-#EXTINF:-1,US: HGTV FHD
-http://landiptv.live:8080/anar/anar19/103756
-#EXTINF:-1,US: HIFI HD
-http://landiptv.live:8080/anar/anar19/76512
-#EXTINF:-1,US: Hollywood HD
-http://landiptv.live:8080/anar/anar19/99886
-#EXTINF:-1,US: Home&Health
-http://landiptv.live:8080/anar/anar19/122178
-#EXTINF:-1,US: ID Fashion HD
-http://landiptv.live:8080/anar/anar19/211371
-#EXTINF:-1,US: iFollow 1
-http://landiptv.live:8080/anar/anar19/146247
-#EXTINF:-1,US: iFollow 2
-http://landiptv.live:8080/anar/anar19/146248
-#EXTINF:-1,US: iFollow 3
-http://landiptv.live:8080/anar/anar19/146249
-#EXTINF:-1,US: iFollow 4
-http://landiptv.live:8080/anar/anar19/146250
-#EXTINF:-1,US: iFollow 5
-http://landiptv.live:8080/anar/anar19/146251
-#EXTINF:-1,US: iFollow 6
-http://landiptv.live:8080/anar/anar19/211764
-#EXTINF:-1,US: iFollow 7
-http://landiptv.live:8080/anar/anar19/211765
-#EXTINF:-1,US: iFollow 8
-http://landiptv.live:8080/anar/anar19/211766
-#EXTINF:-1,US: iFollow 9
-http://landiptv.live:8080/anar/anar19/211767
-#EXTINF:-1,US: iFollow 10
-http://landiptv.live:8080/anar/anar19/211768
-#EXTINF:-1,US: iFollow 11
-http://landiptv.live:8080/anar/anar19/211769
-#EXTINF:-1,US: iFollow 12
-http://landiptv.live:8080/anar/anar19/146258
-#EXTINF:-1,US: iFollow 13
-http://landiptv.live:8080/anar/anar19/146259
-#EXTINF:-1,US: iFollow 14 HD
-http://landiptv.live:8080/anar/anar19/150640
-#EXTINF:-1,US: iFollow 15 HD
-http://landiptv.live:8080/anar/anar19/150641
-#EXTINF:-1,US: iFollow 16 HD
-http://landiptv.live:8080/anar/anar19/150642
-#EXTINF:-1,US: iFollow 17 HD
-http://landiptv.live:8080/anar/anar19/150643
-#EXTINF:-1,US: iFollow 18 HD
-http://landiptv.live:8080/anar/anar19/150644
-#EXTINF:-1,US: iFollow 19
-http://landiptv.live:8080/anar/anar19/146265
-#EXTINF:-1,US: iFollow 20
-http://landiptv.live:8080/anar/anar19/146266
-#EXTINF:-1,US: Indie Plex HD
-http://landiptv.live:8080/anar/anar19/77690
-#EXTINF:-1,US: Key TV HD
-http://landiptv.live:8080/anar/anar19/91538
-#EXTINF:-1,US: KIDS READING TV
-http://landiptv.live:8080/anar/anar19/74949
-#EXTINF:-1,US: KNTV TV NBC BAY AREA
-http://landiptv.live:8080/anar/anar19/92967
-#EXTINF:-1,US: KNVN ACTION NEWS CHICO
-http://landiptv.live:8080/anar/anar19/92968
-#EXTINF:-1,US: KOKI Fox 23
-http://landiptv.live:8080/anar/anar19/208241
-#EXTINF:-1,US: KPNX 12 NEWS PHOENIX
-http://landiptv.live:8080/anar/anar19/92972
-#EXTINF:-1,US: KTVB CHANNEL 7 BOISE
-http://landiptv.live:8080/anar/anar19/92974
-#EXTINF:-1,US: KTVU News
-http://landiptv.live:8080/anar/anar19/103943
-#EXTINF:-1,US: KTVU PLUS HD
-http://landiptv.live:8080/anar/anar19/121375
-#EXTINF:-1,US: Lifetime HD
-http://landiptv.live:8080/anar/anar19/199610
-#EXTINF:-1,US: Lifetime Movie Network HD
-http://landiptv.live:8080/anar/anar19/98308
-#EXTINF:-1,US: Live Events PPV 2 FHD
-http://landiptv.live:8080/anar/anar19/213664
-#EXTINF:-1,US: LMN HD
-http://landiptv.live:8080/anar/anar19/211373
-#EXTINF:-1,US: MAVS TV HD
-http://landiptv.live:8080/anar/anar19/105908
-#EXTINF:-1,US: Max West
-http://landiptv.live:8080/anar/anar19/109706
-#EXTINF:-1,US: MGM HD
-http://landiptv.live:8080/anar/anar19/111180
-#EXTINF:-1,US: MLB 725 HD
-http://landiptv.live:8080/anar/anar19/111529
-#EXTINF:-1,US: MLB 727 HD
-http://landiptv.live:8080/anar/anar19/111531
-#EXTINF:-1,US: MLB 728 HD
-http://landiptv.live:8080/anar/anar19/111532
-#EXTINF:-1,US: MLB 730 HD
-http://landiptv.live:8080/anar/anar19/111534
-#EXTINF:-1,US: MLB Extra Innings 720
-http://landiptv.live:8080/anar/anar19/128750
-#EXTINF:-1,US: MLB Extra Innings 721 HD
-http://landiptv.live:8080/anar/anar19/91681
-#EXTINF:-1,US: MLB Extra Innings 722 HD
-http://landiptv.live:8080/anar/anar19/91682
-#EXTINF:-1,US: MLB Extra Innings 723 HD
-http://landiptv.live:8080/anar/anar19/91683
-#EXTINF:-1,US: MLB Extra Innings 724 HD
-http://landiptv.live:8080/anar/anar19/91684
-#EXTINF:-1,US: MLB Extra Innings 725 HD
-http://landiptv.live:8080/anar/anar19/91685
-#EXTINF:-1,US: MLB Extra Innings 726 HD
-http://landiptv.live:8080/anar/anar19/91686
-#EXTINF:-1,US: MLB Extra Innings 727 HD
-http://landiptv.live:8080/anar/anar19/91687
-#EXTINF:-1,US: MLB Extra Innings 728 HD
-http://landiptv.live:8080/anar/anar19/91688
-#EXTINF:-1,US: MLB Extra Innings 729 HD
-http://landiptv.live:8080/anar/anar19/91689
-#EXTINF:-1,US: MLB Extra Innings 730 HD
-http://landiptv.live:8080/anar/anar19/91690
-#EXTINF:-1,US: MLB Extra Innings 731 HD
-http://landiptv.live:8080/anar/anar19/91691
-#EXTINF:-1,US: MLB Extra Innings 732 HD
-http://landiptv.live:8080/anar/anar19/91692
-#EXTINF:-1,US: MLB Extra Innings 733 HD
-http://landiptv.live:8080/anar/anar19/91693
-#EXTINF:-1,US: MLB Extra Innings 734 HD
-http://landiptv.live:8080/anar/anar19/91694
-#EXTINF:-1,US: MLB Extra Innings 735 HD
-http://landiptv.live:8080/anar/anar19/91695
-#EXTINF:-1,US: MLB Extra Innings 736 HD
-http://landiptv.live:8080/anar/anar19/91696
-#EXTINF:-1,US: MLB Extra Innings 737 HD
-http://landiptv.live:8080/anar/anar19/91697
-#EXTINF:-1,US: MLB Extra Innings 738 HD
-http://landiptv.live:8080/anar/anar19/91698
-#EXTINF:-1,US: MLB Extra Innings 739 HD
-http://landiptv.live:8080/anar/anar19/91699
-#EXTINF:-1,US: MLB Extra Innings 740 HD
-http://landiptv.live:8080/anar/anar19/91700
-#EXTINF:-1,US: MLB Extra Innings 741 HD
-http://landiptv.live:8080/anar/anar19/91701
-#EXTINF:-1,US: MLB Extra Innings 742 HD
-http://landiptv.live:8080/anar/anar19/91702
-#EXTINF:-1,US: MLB Extra Innings 743 HD
-http://landiptv.live:8080/anar/anar19/91703
-#EXTINF:-1,US: MLB Extra Innings 744 HD
-http://landiptv.live:8080/anar/anar19/91704
-#EXTINF:-1,US: MLB Extra Innings 745 HD
-http://landiptv.live:8080/anar/anar19/91705
-#EXTINF:-1,US: MLB Extra Innings 746 HD
-http://landiptv.live:8080/anar/anar19/91706
-#EXTINF:-1,US: MLB Extra Innings 747 HD
-http://landiptv.live:8080/anar/anar19/91707
-#EXTINF:-1,US: MLB Extra Innings 748 HD
-http://landiptv.live:8080/anar/anar19/91708
-#EXTINF:-1,US: MLB Extra Innings 749 HD
-http://landiptv.live:8080/anar/anar19/91709
-#EXTINF:-1,US: MLB Live HD
-http://landiptv.live:8080/anar/anar19/77079
-#EXTINF:-1,US: MLB NETWORK HD
-http://landiptv.live:8080/anar/anar19/102968
-#EXTINF:-1,US: MLB Strike One
-http://landiptv.live:8080/anar/anar19/124656
-#EXTINF:-1,US: MODERN FAMILY
-http://landiptv.live:8080/anar/anar19/101287
-#EXTINF:-1,US: More Max HD
-http://landiptv.live:8080/anar/anar19/151303
-#EXTINF:-1,US: Movie Max FHD
-http://landiptv.live:8080/anar/anar19/77688
-#EXTINF:-1,US: Movie Plex FHD
-http://landiptv.live:8080/anar/anar19/77687
-#EXTINF:-1,US: MTV FHD
-http://landiptv.live:8080/anar/anar19/156788
-#EXTINF:-1,US: MTV Rocks
-http://landiptv.live:8080/anar/anar19/155483
-#EXTINF:-1,US: Music Choice
-http://landiptv.live:8080/anar/anar19/91485
-#EXTINF:-1,US: MUSIC CHOICE - OCKO GOLD
-http://landiptv.live:8080/anar/anar19/123473
-#EXTINF:-1,US: My 24
-http://landiptv.live:8080/anar/anar19/150035
-#EXTINF:-1,US: My Cuisine
-http://landiptv.live:8080/anar/anar19/65624
-#EXTINF:-1,US: My Jam TV HD
-http://landiptv.live:8080/anar/anar19/211409
-#EXTINF:-1,US: NBA 1
-http://landiptv.live:8080/anar/anar19/92994
-#EXTINF:-1,US: NBA 2
-http://landiptv.live:8080/anar/anar19/91278
-#EXTINF:-1,US: NBA 3
-http://landiptv.live:8080/anar/anar19/91279
-#EXTINF:-1,US: NBA 4
-http://landiptv.live:8080/anar/anar19/91280
-#EXTINF:-1,US: NBA 5
-http://landiptv.live:8080/anar/anar19/91281
-#EXTINF:-1,US: NBA 6
-http://landiptv.live:8080/anar/anar19/91282
-#EXTINF:-1,US: NBA 7
-http://landiptv.live:8080/anar/anar19/91283
-#EXTINF:-1,US: NBA 8
-http://landiptv.live:8080/anar/anar19/91284
-#EXTINF:-1,US: NBA 9
-http://landiptv.live:8080/anar/anar19/91285
-#EXTINF:-1,US: NBA 14 WEST
-http://landiptv.live:8080/anar/anar19/211755
-#EXTINF:-1,US: NBA League Pass Live 769 HD
-http://landiptv.live:8080/anar/anar19/160092
-#EXTINF:-1,US: NBC (East) FHD
-http://landiptv.live:8080/anar/anar19/76778
-#EXTINF:-1,US: NBC - Big 5 Networks FHD
-http://landiptv.live:8080/anar/anar19/91540
-#EXTINF:-1,US: NBC 2 WESH Orlando HD
-http://landiptv.live:8080/anar/anar19/211414
-#EXTINF:-1,US: NBC 4 (Los Angeles) HD
-http://landiptv.live:8080/anar/anar19/127548
-#EXTINF:-1,US: NBC 4 KNBC Los Angeles HD
-http://landiptv.live:8080/anar/anar19/211415
-#EXTINF:-1,US: NBC 4 NEW YORK HD
-http://landiptv.live:8080/anar/anar19/156747
-#EXTINF:-1,US: NBC 4 News (KNBC-TV)
-http://landiptv.live:8080/anar/anar19/123272
-#EXTINF:-1,US: NBC 4 WNBC New York HD
-http://landiptv.live:8080/anar/anar19/211416
-#EXTINF:-1,US: NBC 5 (CHICAGO) HD
-http://landiptv.live:8080/anar/anar19/134531
-#EXTINF:-1,US: NBC 5 (Dallas) HD
-http://landiptv.live:8080/anar/anar19/134532
-#EXTINF:-1,US: NBC 5 News
-http://landiptv.live:8080/anar/anar19/208228
-#EXTINF:-1,US: NBC 5 WLWT Cincinnati HD
-http://landiptv.live:8080/anar/anar19/211417
-#EXTINF:-1,US: NBC 5 WMAQ Chicago HD
-http://landiptv.live:8080/anar/anar19/211418
-#EXTINF:-1,US: NBC 6 (Miami) HD
-http://landiptv.live:8080/anar/anar19/134560
-#EXTINF:-1,US: NBC 6 WTVJ Miami HD
-http://landiptv.live:8080/anar/anar19/211419
-#EXTINF:-1,US: NBC 7 (San Diego) HD
-http://landiptv.live:8080/anar/anar19/121234
-#EXTINF:-1,US: NBC 10 (Boston) HD
-http://landiptv.live:8080/anar/anar19/127526
-#EXTINF:-1,US: NBC 10 WBTS HD Boston
-http://landiptv.live:8080/anar/anar19/211412
-#EXTINF:-1,US: NBC 11 KNTV San Francisco HD
-http://landiptv.live:8080/anar/anar19/211413
-#EXTINF:-1,US: NBC 11 NEWS (BAY AREA)
-http://landiptv.live:8080/anar/anar19/95141
-#EXTINF:-1,US: NBC 12 News (WWBT-TV)
-http://landiptv.live:8080/anar/anar19/110848
-#EXTINF:-1,US: NBC 29 (WVIR-TV)
-http://landiptv.live:8080/anar/anar19/92976
-#EXTINF:-1,US: NBC ATLANTA HD
-http://landiptv.live:8080/anar/anar19/124615
-#EXTINF:-1,US: NBC Baltimore
-http://landiptv.live:8080/anar/anar19/124616
-#EXTINF:-1,US: NBC Boston
-http://landiptv.live:8080/anar/anar19/124617
-#EXTINF:-1,US: NBC Buffalo
-http://landiptv.live:8080/anar/anar19/124618
-#EXTINF:-1,US: NBC Charlotte
-http://landiptv.live:8080/anar/anar19/124619
-#EXTINF:-1,US: NBC Chicago
-http://landiptv.live:8080/anar/anar19/124620
-#EXTINF:-1,US: NBC Cincinnati
-http://landiptv.live:8080/anar/anar19/124621
-#EXTINF:-1,US: NBC Cleveland
-http://landiptv.live:8080/anar/anar19/124622
-#EXTINF:-1,US: NBC CONNECTICUT
-http://landiptv.live:8080/anar/anar19/156746
-#EXTINF:-1,US: NBC Dallas
-http://landiptv.live:8080/anar/anar19/124623
-#EXTINF:-1,US: NBC Denver
-http://landiptv.live:8080/anar/anar19/124624
-#EXTINF:-1,US: NBC Detroit
-http://landiptv.live:8080/anar/anar19/124625
-#EXTINF:-1,US: NBC Gold 1 HD
-http://landiptv.live:8080/anar/anar19/211467
-#EXTINF:-1,US: NBC Gold 2 HD
-http://landiptv.live:8080/anar/anar19/211469
-#EXTINF:-1,US: NBC Gold 3 HD
-http://landiptv.live:8080/anar/anar19/92829
-#EXTINF:-1,US: NBC Gold 4 HD
-http://landiptv.live:8080/anar/anar19/148618
-#EXTINF:-1,US: NBC GOLD 5 HD
-http://landiptv.live:8080/anar/anar19/92831
-#EXTINF:-1,US: NBC GOLD 6 HD
-http://landiptv.live:8080/anar/anar19/148619
-#EXTINF:-1,US: NBC GOLD 7 HD
-http://landiptv.live:8080/anar/anar19/148620
-#EXTINF:-1,US: NBC Gold 8 HD
-http://landiptv.live:8080/anar/anar19/211472
-#EXTINF:-1,US: NBC Gold 9 HD
-http://landiptv.live:8080/anar/anar19/211473
-#EXTINF:-1,US: NBC Gold 10 HD
-http://landiptv.live:8080/anar/anar19/211468
-#EXTINF:-1,US: NBC GOLD GOAL RUSH (match time)
-http://landiptv.live:8080/anar/anar19/160095
-#EXTINF:-1,US: NBC Gold Mosiac HD
-http://landiptv.live:8080/anar/anar19/211420
-#EXTINF:-1,US: NBC GOLD Premier League 1 (match time)
-http://landiptv.live:8080/anar/anar19/160096
-#EXTINF:-1,US: NBC GOLD Premier League 2 (match time)
-http://landiptv.live:8080/anar/anar19/160097
-#EXTINF:-1,US: NBC GOLD Premier League 3 (match time)
-http://landiptv.live:8080/anar/anar19/160098
-#EXTINF:-1,US: NBC GOLD Premier League 4 (match time)
-http://landiptv.live:8080/anar/anar19/160099
-#EXTINF:-1,US: NBC GOLD Premier League 5 (match time)
-http://landiptv.live:8080/anar/anar19/160100
-#EXTINF:-1,US: NBC Gold Rush HD
-http://landiptv.live:8080/anar/anar19/211421
-#EXTINF:-1,US: NBC Golf Channel
-http://landiptv.live:8080/anar/anar19/152512
-#EXTINF:-1,US: NBC Green Bay
-http://landiptv.live:8080/anar/anar19/124626
-#EXTINF:-1,US: NBC Hartford
-http://landiptv.live:8080/anar/anar19/124627
-#EXTINF:-1,US: NBC HD
-http://landiptv.live:8080/anar/anar19/74836
-#EXTINF:-1,US: NBC Houston
-http://landiptv.live:8080/anar/anar19/124628
-#EXTINF:-1,US: NBC Indianapolis
-http://landiptv.live:8080/anar/anar19/124629
-#EXTINF:-1,US: NBC Jacksonville
-http://landiptv.live:8080/anar/anar19/124630
-#EXTINF:-1,US: NBC K5 SEATTLE
-http://landiptv.live:8080/anar/anar19/156727
-#EXTINF:-1,US: NBC Kansas City
-http://landiptv.live:8080/anar/anar19/124631
-#EXTINF:-1,US: NBC Los Angeles FHD
-http://landiptv.live:8080/anar/anar19/102057
-#EXTINF:-1,US: NBC MEMPHIS
-http://landiptv.live:8080/anar/anar19/134561
-#EXTINF:-1,US: NBC Miami
-http://landiptv.live:8080/anar/anar19/124633
-#EXTINF:-1,US: NBC Milwaukee
-http://landiptv.live:8080/anar/anar19/124634
-#EXTINF:-1,US: NBC Minneapolis
-http://landiptv.live:8080/anar/anar19/124635
-#EXTINF:-1,US: NBC Nashville
-http://landiptv.live:8080/anar/anar19/124636
-#EXTINF:-1,US: NBC New Orleans
-http://landiptv.live:8080/anar/anar19/124637
-#EXTINF:-1,US: NBC New York
-http://landiptv.live:8080/anar/anar19/124638
-#EXTINF:-1,US: NBC News Live HD
-http://landiptv.live:8080/anar/anar19/208227
-#EXTINF:-1,US: NBC Orlando
-http://landiptv.live:8080/anar/anar19/124639
-#EXTINF:-1,US: NBC Philadelphia
-http://landiptv.live:8080/anar/anar19/124640
-#EXTINF:-1,US: NBC Phoenix
-http://landiptv.live:8080/anar/anar19/124641
-#EXTINF:-1,US: NBC Pittsburgh
-http://landiptv.live:8080/anar/anar19/124642
-#EXTINF:-1,US: NBC Portland
-http://landiptv.live:8080/anar/anar19/124643
-#EXTINF:-1,US: NBC Raleigh
-http://landiptv.live:8080/anar/anar19/124644
-#EXTINF:-1,US: NBC Sacramento
-http://landiptv.live:8080/anar/anar19/124645
-#EXTINF:-1,US: NBC Salt Lake City
-http://landiptv.live:8080/anar/anar19/124646
-#EXTINF:-1,US: NBC San Diego
-http://landiptv.live:8080/anar/anar19/124647
-#EXTINF:-1,US: NBC San Francisco
-http://landiptv.live:8080/anar/anar19/124648
-#EXTINF:-1,US: NBC Seattle
-http://landiptv.live:8080/anar/anar19/124649
-#EXTINF:-1,US: NBC Sport Network
-http://landiptv.live:8080/anar/anar19/208244
-#EXTINF:-1,US: NBC Sports California HD
-http://landiptv.live:8080/anar/anar19/157700
-#EXTINF:-1,US: NBC Sports Chicago HD
-http://landiptv.live:8080/anar/anar19/157701
-#EXTINF:-1,US: NBC Sports Philadelphia Plus HD
-http://landiptv.live:8080/anar/anar19/211423
-#EXTINF:-1,US: NBC SPORTS PHILLY HD
-http://landiptv.live:8080/anar/anar19/84912
-#EXTINF:-1,US: NBC Sports Washington HD
-http://landiptv.live:8080/anar/anar19/211424
-#EXTINF:-1,US: NBC St Louis
-http://landiptv.live:8080/anar/anar19/124651
-#EXTINF:-1,US: NBC Telemundo
-http://landiptv.live:8080/anar/anar19/124652
-#EXTINF:-1,US: NBC5 News (WMAQ-TV)
-http://landiptv.live:8080/anar/anar19/76712
-#EXTINF:-1,US: NESN PLUS HD
-http://landiptv.live:8080/anar/anar19/137893
-#EXTINF:-1,US: Network Pacific
-http://landiptv.live:8080/anar/anar19/150074
-#EXTINF:-1,US: News 12
-http://landiptv.live:8080/anar/anar19/155574
-#EXTINF:-1,US: NEWS 12 (BROOKLYN) HD
-http://landiptv.live:8080/anar/anar19/78303
-#EXTINF:-1,US: NEWS 12 (Hudson Valley) HD
-http://landiptv.live:8080/anar/anar19/78304
-#EXTINF:-1,US: NEWS 12 (THE BRONX)
-http://landiptv.live:8080/anar/anar19/76807
-#EXTINF:-1,US: News 12 Bronx & Brooklyn HD
-http://landiptv.live:8080/anar/anar19/211425
-#EXTINF:-1,US: News 12 Hudson Valley & Westchester HD
-http://landiptv.live:8080/anar/anar19/211426
-#EXTINF:-1,US: News 12 Long Island HD
-http://landiptv.live:8080/anar/anar19/211427
-#EXTINF:-1,US: News 12 New Jersey HD
-http://landiptv.live:8080/anar/anar19/211428
-#EXTINF:-1,US: News Channel 12 KTVZ
-http://landiptv.live:8080/anar/anar19/92985
-#EXTINF:-1,US: News Channel 21
-http://landiptv.live:8080/anar/anar19/208229
-#EXTINF:-1,US: News4 (WRC-TV)
-http://landiptv.live:8080/anar/anar19/92983
-#EXTINF:-1,US: NFL 1
-http://landiptv.live:8080/anar/anar19/211756
-#EXTINF:-1,US: NFL 2
-http://landiptv.live:8080/anar/anar19/211757
-#EXTINF:-1,US: NFL 3
-http://landiptv.live:8080/anar/anar19/211758
-#EXTINF:-1,US: NFL 4 HD
-http://landiptv.live:8080/anar/anar19/211759
-#EXTINF:-1,US: NFL 5
-http://landiptv.live:8080/anar/anar19/125990
-#EXTINF:-1,US: NFL 6
-http://landiptv.live:8080/anar/anar19/125991
-#EXTINF:-1,US: NFL 7
-http://landiptv.live:8080/anar/anar19/125992
-#EXTINF:-1,US: NFL 8
-http://landiptv.live:8080/anar/anar19/211760
-#EXTINF:-1,US: NFL 9
-http://landiptv.live:8080/anar/anar19/211761
-#EXTINF:-1,US: NFL 14
-http://landiptv.live:8080/anar/anar19/124536
-#EXTINF:-1,US: NFL 15
-http://landiptv.live:8080/anar/anar19/124537
-#EXTINF:-1,US: NFL 16
-http://landiptv.live:8080/anar/anar19/124538
-#EXTINF:-1,US: NFL Arena 02
-http://landiptv.live:8080/anar/anar19/176376
-#EXTINF:-1,US: NFL Arena 03
-http://landiptv.live:8080/anar/anar19/176377
-#EXTINF:-1,US: NFL Arena 04
-http://landiptv.live:8080/anar/anar19/176378
-#EXTINF:-1,US: NFL Arena 05
-http://landiptv.live:8080/anar/anar19/176379
-#EXTINF:-1,US: NFL Arena 06
-http://landiptv.live:8080/anar/anar19/176380
-#EXTINF:-1,US: NFL Arena 07
-http://landiptv.live:8080/anar/anar19/176381
-#EXTINF:-1,US: NFL Arena 08
-http://landiptv.live:8080/anar/anar19/176382
-#EXTINF:-1,US: NFL Arena 09
-http://landiptv.live:8080/anar/anar19/176383
-#EXTINF:-1,US: NFL Arena 10
-http://landiptv.live:8080/anar/anar19/176384
-#EXTINF:-1,US: NFL Arena 11
-http://landiptv.live:8080/anar/anar19/176385
-#EXTINF:-1,US: NFL Arena 12
-http://landiptv.live:8080/anar/anar19/176386
-#EXTINF:-1,US: NFL Arena 13
-http://landiptv.live:8080/anar/anar19/176387
-#EXTINF:-1,US: NFL Arena 14
-http://landiptv.live:8080/anar/anar19/176388
-#EXTINF:-1,US: NFL Arena 15
-http://landiptv.live:8080/anar/anar19/176389
-#EXTINF:-1,US: NFL Arena 16
-http://landiptv.live:8080/anar/anar19/176390
-#EXTINF:-1,US: NFL Channel HD
-http://landiptv.live:8080/anar/anar19/92461
-#EXTINF:-1,US: NFL Gamepass 1
-http://landiptv.live:8080/anar/anar19/134279
-#EXTINF:-1,US: NFL GAMEPASS 2
-http://landiptv.live:8080/anar/anar19/134280
-#EXTINF:-1,US: NFL GAMEPASS 3
-http://landiptv.live:8080/anar/anar19/134281
-#EXTINF:-1,US: NFL GAMEPASS 4
-http://landiptv.live:8080/anar/anar19/134282
-#EXTINF:-1,US: NFL GAMEPASS 5
-http://landiptv.live:8080/anar/anar19/134283
-#EXTINF:-1,US: NFL GAMEPASS 6
-http://landiptv.live:8080/anar/anar19/134284
-#EXTINF:-1,US: NFL GAMEPASS 7
-http://landiptv.live:8080/anar/anar19/134285
-#EXTINF:-1,US: NFL GAMEPASS 8
-http://landiptv.live:8080/anar/anar19/134286
-#EXTINF:-1,US: NFL GAMEPASS 9
-http://landiptv.live:8080/anar/anar19/134287
-#EXTINF:-1,US: NFL GAMEPASS 10
-http://landiptv.live:8080/anar/anar19/134288
-#EXTINF:-1,US: NFL GAMEPASS 11
-http://landiptv.live:8080/anar/anar19/134289
-#EXTINF:-1,US: NFL GAMEPASS 12
-http://landiptv.live:8080/anar/anar19/134290
-#EXTINF:-1,US: NFL GAMEPASS 13
-http://landiptv.live:8080/anar/anar19/134291
-#EXTINF:-1,US: NFL Gamepass 14
-http://landiptv.live:8080/anar/anar19/134292
-#EXTINF:-1,US: NFL Mix HD
-http://landiptv.live:8080/anar/anar19/211430
-#EXTINF:-1,US: NFL RED ZONE HD
-http://landiptv.live:8080/anar/anar19/76679
-#EXTINF:-1,US: NFL SUNDAY TICKET 718
-http://landiptv.live:8080/anar/anar19/160186
-#EXTINF:-1,US: NFL SUNDAY TICKET 719
-http://landiptv.live:8080/anar/anar19/160187
-#EXTINF:-1,US: NFL SUNDAY TICKET 720
-http://landiptv.live:8080/anar/anar19/160188
-#EXTINF:-1,US: NHL 769
-http://landiptv.live:8080/anar/anar19/103563
-#EXTINF:-1,US: NHL 778
-http://landiptv.live:8080/anar/anar19/91551
-#EXTINF:-1,US: NHL 783
-http://landiptv.live:8080/anar/anar19/91556
-#EXTINF:-1,US: NHL 784
-http://landiptv.live:8080/anar/anar19/103564
-#EXTINF:-1,US: NHL 785
-http://landiptv.live:8080/anar/anar19/103565
-#EXTINF:-1,US: NHL 786
-http://landiptv.live:8080/anar/anar19/103566
-#EXTINF:-1,US: NHL 787
-http://landiptv.live:8080/anar/anar19/103567
-#EXTINF:-1,US: NHL 788
-http://landiptv.live:8080/anar/anar19/211433
-#EXTINF:-1,US: NHL Center Ice Plus 2
-http://landiptv.live:8080/anar/anar19/137795
-#EXTINF:-1,US: NHL Center Ice Plus 3
-http://landiptv.live:8080/anar/anar19/137796
-#EXTINF:-1,US: NHL Centre Ice 773
-http://landiptv.live:8080/anar/anar19/160193
-#EXTINF:-1,US: NHL Centre Ice 776
-http://landiptv.live:8080/anar/anar19/160196
-#EXTINF:-1,US: NHL Centre Ice 779
-http://landiptv.live:8080/anar/anar19/160199
-#EXTINF:-1,US: NHL Centre Ice 781
-http://landiptv.live:8080/anar/anar19/160201
-#EXTINF:-1,US: NHL Centre Ice 782
-http://landiptv.live:8080/anar/anar19/160202
-#EXTINF:-1,US: NHL Centre Ice 783
-http://landiptv.live:8080/anar/anar19/160203
-#EXTINF:-1,US: NHL Game 1
-http://landiptv.live:8080/anar/anar19/211740
-#EXTINF:-1,US: NHL Game 2
-http://landiptv.live:8080/anar/anar19/211741
-#EXTINF:-1,US: NHL Game 3
-http://landiptv.live:8080/anar/anar19/211742
-#EXTINF:-1,US: NHL Game 4
-http://landiptv.live:8080/anar/anar19/211743
-#EXTINF:-1,US: NHL Game 5
-http://landiptv.live:8080/anar/anar19/211744
-#EXTINF:-1,US: NHL Game 6
-http://landiptv.live:8080/anar/anar19/211745
-#EXTINF:-1,US: NHL Game 7
-http://landiptv.live:8080/anar/anar19/211746
-#EXTINF:-1,US: NHL Game 8
-http://landiptv.live:8080/anar/anar19/211747
-#EXTINF:-1,US: NHL Game 9
-http://landiptv.live:8080/anar/anar19/211748
-#EXTINF:-1,US: NHL Game 10
-http://landiptv.live:8080/anar/anar19/211749
-#EXTINF:-1,US: NHL Game 11
-http://landiptv.live:8080/anar/anar19/211750
-#EXTINF:-1,US: NHL Game 12
-http://landiptv.live:8080/anar/anar19/211751
-#EXTINF:-1,US: NHL Game 13
-http://landiptv.live:8080/anar/anar19/211752
-#EXTINF:-1,US: NHL Game 14
-http://landiptv.live:8080/anar/anar19/211753
-#EXTINF:-1,US: NHL Game 15
-http://landiptv.live:8080/anar/anar19/211754
-#EXTINF:-1,US: NHL NETWORK HD
-http://landiptv.live:8080/anar/anar19/101601
-#EXTINF:-1,US: NICK Kids HD
-http://landiptv.live:8080/anar/anar19/199614
-#EXTINF:-1,US: NICKELODEN HD
-http://landiptv.live:8080/anar/anar19/77070
-#EXTINF:-1,US: Nickelodeon Pacific
-http://landiptv.live:8080/anar/anar19/150044
-#EXTINF:-1,US: Nursery Rhymes (Baby Songs)
-http://landiptv.live:8080/anar/anar19/160204
-#EXTINF:-1,US: Nursery Rhymes Baby Songs
-http://landiptv.live:8080/anar/anar19/155487
-#EXTINF:-1,US: O.W.N HD oprah winfrey network
-http://landiptv.live:8080/anar/anar19/155575
-#EXTINF:-1,US: Oprah Winfrey Network
-http://landiptv.live:8080/anar/anar19/150045
-#EXTINF:-1,US: OuterMax FHD
-http://landiptv.live:8080/anar/anar19/77686
-#EXTINF:-1,US: PAC 12 Los Angeles HD
-http://landiptv.live:8080/anar/anar19/211437
-#EXTINF:-1,US: PAC-12 (Arizona) HD
-http://landiptv.live:8080/anar/anar19/95553
-#EXTINF:-1,US: PAC-12 (Bay Area) HD
-http://landiptv.live:8080/anar/anar19/95554
-#EXTINF:-1,US: PAC-12 (MOUTAIN) HD
-http://landiptv.live:8080/anar/anar19/156719
-#EXTINF:-1,US: PAC-12 (Oregon) HD
-http://landiptv.live:8080/anar/anar19/95557
-#EXTINF:-1,US: PAC-12 HD
-http://landiptv.live:8080/anar/anar19/77102
-#EXTINF:-1,US: PAG HD
-http://landiptv.live:8080/anar/anar19/109708
-#EXTINF:-1,US: PARAMOUNT NETWORK FHD
-http://landiptv.live:8080/anar/anar19/95136
-#EXTINF:-1,US: PBS HD
-http://landiptv.live:8080/anar/anar19/139039
-#EXTINF:-1,US: PPV Movie Kids
-http://landiptv.live:8080/anar/anar19/213761
-#EXTINF:-1,US: Prime Pacific
-http://landiptv.live:8080/anar/anar19/99882
-#EXTINF:-1,US: RetroPlex HD
-http://landiptv.live:8080/anar/anar19/77685
-#EXTINF:-1,US: RT America HD
-http://landiptv.live:8080/anar/anar19/76486
-#EXTINF:-1,US: SBG Stadium
-http://landiptv.live:8080/anar/anar19/150046
-#EXTINF:-1,US: SBG Stadium 2
-http://landiptv.live:8080/anar/anar19/150048
-#EXTINF:-1,US: Science Channel
-http://landiptv.live:8080/anar/anar19/160129
-#EXTINF:-1,US: SEC NETWORK HD
-http://landiptv.live:8080/anar/anar19/76773
-#EXTINF:-1,US: SHOWTIME (East) FHD
-http://landiptv.live:8080/anar/anar19/108583
-#EXTINF:-1,US: SHOWTIME (West) HD
-http://landiptv.live:8080/anar/anar19/77684
-#EXTINF:-1,US: Showtime 2 HD
-http://landiptv.live:8080/anar/anar19/76483
-#EXTINF:-1,US: Showtime Beyond HD
-http://landiptv.live:8080/anar/anar19/211442
-#EXTINF:-1,US: Showtime FHD
-http://landiptv.live:8080/anar/anar19/158598
-#EXTINF:-1,US: Showtime Pacific
-http://landiptv.live:8080/anar/anar19/150050
-#EXTINF:-1,US: SHOWTIME SHOWCASE FHD
-http://landiptv.live:8080/anar/anar19/74935
-#EXTINF:-1,US: Signature
-http://landiptv.live:8080/anar/anar19/75117
-#EXTINF:-1,US: Sky News America HD
-http://landiptv.live:8080/anar/anar19/211445
-#EXTINF:-1,US: SNY SportsNet New York HD
-http://landiptv.live:8080/anar/anar19/211446
-#EXTINF:-1,US: SONY MOVIE CHANNEL HD
-http://landiptv.live:8080/anar/anar19/117736
-#EXTINF:-1,US: Spike TV HD
-http://landiptv.live:8080/anar/anar19/199619
-#EXTINF:-1,US: Sports Net
-http://landiptv.live:8080/anar/anar19/104838
-#EXTINF:-1,US: Sprout kids
-http://landiptv.live:8080/anar/anar19/107247
-#EXTINF:-1,US: Starz Black HD
-http://landiptv.live:8080/anar/anar19/77683
-#EXTINF:-1,US: Starz Cinema East FHD
-http://landiptv.live:8080/anar/anar19/77682
-#EXTINF:-1,US: Starz Cinema FHD
-http://landiptv.live:8080/anar/anar19/76479
-#EXTINF:-1,US: Starz Cinema West FHD
-http://landiptv.live:8080/anar/anar19/77680
-#EXTINF:-1,US: Starz Comedy East HD
-http://landiptv.live:8080/anar/anar19/136566
-#EXTINF:-1,US: Starz Comedy FHD
-http://landiptv.live:8080/anar/anar19/75850
-#EXTINF:-1,US: Starz East HD
-http://landiptv.live:8080/anar/anar19/199243
-#EXTINF:-1,US: STARZ EDGE FHD
-http://landiptv.live:8080/anar/anar19/76478
-#EXTINF:-1,US: STARZ EDGE West HD
-http://landiptv.live:8080/anar/anar19/77676
-#EXTINF:-1,US: Starz Encore 2 HD
-http://landiptv.live:8080/anar/anar19/77675
-#EXTINF:-1,US: Starz Encore Action
-http://landiptv.live:8080/anar/anar19/77674
-#EXTINF:-1,US: Starz Encore Black HD
-http://landiptv.live:8080/anar/anar19/77673
-#EXTINF:-1,US: Starz Encore Classic FHD
-http://landiptv.live:8080/anar/anar19/77672
-#EXTINF:-1,US: Starz Encore EAST HD
-http://landiptv.live:8080/anar/anar19/199395
-#EXTINF:-1,US: Starz Encore Family FHD
-http://landiptv.live:8080/anar/anar19/84378
-#EXTINF:-1,US: Starz Encore Suspense HD
-http://landiptv.live:8080/anar/anar19/77668
-#EXTINF:-1,US: Starz Encore West FHD
-http://landiptv.live:8080/anar/anar19/77667
-#EXTINF:-1,US: Starz Encore Western FHD
-http://landiptv.live:8080/anar/anar19/77666
-#EXTINF:-1,US: Starz Family HD
-http://landiptv.live:8080/anar/anar19/77665
-#EXTINF:-1,US: Starz FHD
-http://landiptv.live:8080/anar/anar19/97659
-#EXTINF:-1,US: STARZ KIDS & FAMILY FHD
-http://landiptv.live:8080/anar/anar19/77158
-#EXTINF:-1,US: STARZ WEST HD
-http://landiptv.live:8080/anar/anar19/76476
-#EXTINF:-1,US: Straz Encore Family HD
-http://landiptv.live:8080/anar/anar19/136570
-#EXTINF:-1,US: Syfy Pacific
-http://landiptv.live:8080/anar/anar19/150055
-#EXTINF:-1,US: TELEMUNDO (Chicago) HD
-http://landiptv.live:8080/anar/anar19/124705
-#EXTINF:-1,US: TELEMUNDO (Las Vegas) HD
-http://landiptv.live:8080/anar/anar19/109784
-#EXTINF:-1,US: TELEMUNDO (Miami)
-http://landiptv.live:8080/anar/anar19/108427
-#EXTINF:-1,US: Telemundo 39 HD
-http://landiptv.live:8080/anar/anar19/211456
-#EXTINF:-1,US: Telemundo Boston
-http://landiptv.live:8080/anar/anar19/124704
-#EXTINF:-1,US: Telemundo Dallas
-http://landiptv.live:8080/anar/anar19/150060
-#EXTINF:-1,US: Telemundo Denver
-http://landiptv.live:8080/anar/anar19/124706
-#EXTINF:-1,US: Telemundo Fresno
-http://landiptv.live:8080/anar/anar19/124707
-#EXTINF:-1,US: Telemundo Harlingen
-http://landiptv.live:8080/anar/anar19/150061
-#EXTINF:-1,US: Telemundo Houston
-http://landiptv.live:8080/anar/anar19/150062
-#EXTINF:-1,US: TELEMUNDO Las Vegas HD
-http://landiptv.live:8080/anar/anar19/150063
-#EXTINF:-1,US: TELEMUNDO Los Angeles HD
-http://landiptv.live:8080/anar/anar19/150064
-#EXTINF:-1,US: TELEMUNDO New York HD
-http://landiptv.live:8080/anar/anar19/150065
-#EXTINF:-1,US: Telemundo Philadelphia
-http://landiptv.live:8080/anar/anar19/150066
-#EXTINF:-1,US: Telemundo Phoenix
-http://landiptv.live:8080/anar/anar19/109797
-#EXTINF:-1,US: Telemundo San Antonio
-http://landiptv.live:8080/anar/anar19/124709
-#EXTINF:-1,US: Telemundo San Francisco
-http://landiptv.live:8080/anar/anar19/124710
-#EXTINF:-1,US: Telemundo Tucson
-http://landiptv.live:8080/anar/anar19/124711
-#EXTINF:-1,US: Tennis Channel FHD
-http://landiptv.live:8080/anar/anar19/156720
-#EXTINF:-1,US: THE BLAZE HD
-http://landiptv.live:8080/anar/anar19/76422
-#EXTINF:-1,US: The Country Network
-http://landiptv.live:8080/anar/anar19/211458
-#EXTINF:-1,US: THE FLORIDA CHANNEL
-http://landiptv.live:8080/anar/anar19/155488
-#EXTINF:-1,US: The Golf Channel HD
-http://landiptv.live:8080/anar/anar19/150067
-#EXTINF:-1,US: THE JETSONS
-http://landiptv.live:8080/anar/anar19/101290
-#EXTINF:-1,US: THE PUNISHER
-http://landiptv.live:8080/anar/anar19/101291
-#EXTINF:-1,US: The Shopping Channel HD
-http://landiptv.live:8080/anar/anar19/211460
-#EXTINF:-1,US: THE WEATHER CHANNEL HD
-http://landiptv.live:8080/anar/anar19/74925
-#EXTINF:-1,US: THRILLER MAX HD
-http://landiptv.live:8080/anar/anar19/160153
-#EXTINF:-1,US: TLC HD
-http://landiptv.live:8080/anar/anar19/139442
-#EXTINF:-1,US: TNT (East) HD
-http://landiptv.live:8080/anar/anar19/108596
-#EXTINF:-1,US: Toon Kids HD
-http://landiptv.live:8080/anar/anar19/104106
-#EXTINF:-1,US: Toonami Aftermath
-http://landiptv.live:8080/anar/anar19/109714
-#EXTINF:-1,US: Travel Channel HD
-http://landiptv.live:8080/anar/anar19/74866
-#EXTINF:-1,US: TRT World HD
-http://landiptv.live:8080/anar/anar19/211462
-#EXTINF:-1,US: TRU TV HD
-http://landiptv.live:8080/anar/anar19/74937
-#EXTINF:-1,US: TV Land HD
-http://landiptv.live:8080/anar/anar19/76468
-#EXTINF:-1,US: UC TV
-http://landiptv.live:8080/anar/anar19/109716
-#EXTINF:-1,US: UFC NETWORK HD
-http://landiptv.live:8080/anar/anar19/102015
-#EXTINF:-1,US: Velocity FHD
-http://landiptv.live:8080/anar/anar19/151750
-#EXTINF:-1,US: Versus NBA
-http://landiptv.live:8080/anar/anar19/80020
-#EXTINF:-1,US: VH1 (West)
-http://landiptv.live:8080/anar/anar19/78294
-#EXTINF:-1,US: VH1 Classic
-http://landiptv.live:8080/anar/anar19/76464
-#EXTINF:-1,US: WCNC Breaking News
-http://landiptv.live:8080/anar/anar19/92990
-#EXTINF:-1,US: WEATHER CHANNEL HD
-http://landiptv.live:8080/anar/anar19/155634
-#EXTINF:-1,US: WEATHER NATION
-http://landiptv.live:8080/anar/anar19/92485
-#EXTINF:-1,US: WGN News Chicago
-http://landiptv.live:8080/anar/anar19/107945
-#EXTINF:-1,US: Wild HD
-http://landiptv.live:8080/anar/anar19/74861
-#EXTINF:-1,US: Willow HD
-http://landiptv.live:8080/anar/anar19/64306
-#EXTINF:-1,US: WPVI Channel 6 Action News Philadelphia HD
-http://landiptv.live:8080/anar/anar19/211465
-#EXTINF:-1,US: WSOC 9 News
-http://landiptv.live:8080/anar/anar19/208232
-#EXTINF:-1,US: WTTG-TV FOX 5 (WASHINGTON)
-http://landiptv.live:8080/anar/anar19/92970
-#EXTINF:-1,US: WUSA9 Breaking News
-http://landiptv.live:8080/anar/anar19/92991
-#EXTINF:-1,US: WWE HD
-http://landiptv.live:8080/anar/anar19/77082
-#EXTINF:-1,US: WWE Network HD NXT
-http://landiptv.live:8080/anar/anar19/155557
-#EXTINF:-1,US: WXXV 25 GULFPORT (MS)
-http://landiptv.live:8080/anar/anar19/123273
-#EXTINF:-1,US: XITE HD
-http://landiptv.live:8080/anar/anar19/121430
-#EXTINF:-1,US: Zone
-http://landiptv.live:8080/anar/anar19/75118
+#EXTINF:-1,UK: At The Races
+http://landiptv.live:8080/anar/anar19/208091
+#EXTINF:-1,UK: BBC News HD
+http://landiptv.live:8080/anar/anar19/65183
+#EXTINF:-1,UK: BE3 Ireland
+http://landiptv.live:8080/anar/anar19/199162
+#EXTINF:-1,UK: BT Sport 1 FHD
+http://landiptv.live:8080/anar/anar19/206466
+#EXTINF:-1,UK: BT Sport 2 FHD
+http://landiptv.live:8080/anar/anar19/92581
+#EXTINF:-1,UK: BT Sport 3 FHD
+http://landiptv.live:8080/anar/anar19/206465
+#EXTINF:-1,UK: CBBC HD
+http://landiptv.live:8080/anar/anar19/74569
+#EXTINF:-1,UK: Challenge HD
+http://landiptv.live:8080/anar/anar19/74722
+#EXTINF:-1,UK: Discovery SCIENCE HD
+http://landiptv.live:8080/anar/anar19/63598
+#EXTINF:-1,UK: DISNEY JUNIOR HD
+http://landiptv.live:8080/anar/anar19/65133
+#EXTINF:-1,UK: Eden
+http://landiptv.live:8080/anar/anar19/153935
+#EXTINF:-1,UK: EIR SPORTS 1 FHD
+http://landiptv.live:8080/anar/anar19/108416
+#EXTINF:-1,UK: Pick TV
+http://landiptv.live:8080/anar/anar19/91965
+#EXTINF:-1,UK: Sky Sports Golf FHD
+http://landiptv.live:8080/anar/anar19/74500
+#EXTINF:-1,UK: Sky Sports Main Event FHD
+http://landiptv.live:8080/anar/anar19/197944
+#EXTINF:-1,UK: Sky Sports Mix FHD
+http://landiptv.live:8080/anar/anar19/93462
+#EXTINF:-1,UK: Sky Sports Cricket HD
+http://landiptv.live:8080/anar/anar19/74772
+#EXTINF:-1,UK: Sky Sports F1 HD
+http://landiptv.live:8080/anar/anar19/92608
+#EXTINF:-1,UK: Sky Sports Football HD
+http://landiptv.live:8080/anar/anar19/74491
+#EXTINF:-1,UK: Sky Two
+http://landiptv.live:8080/anar/anar19/137146
+#EXTINF:-1,UK: Sky Witness HD
+http://landiptv.live:8080/anar/anar19/139625
+#EXTINF:-1,UK: 2 HD
+http://landiptv.live:8080/anar/anar19/65175
+#EXTINF:-1,UK: 4 MUSIC HD
+http://landiptv.live:8080/anar/anar19/74604
+#EXTINF:-1,UK: 4 Seven HD
+http://landiptv.live:8080/anar/anar19/74572
+#EXTINF:-1,UK: 5 SELECT HD
+http://landiptv.live:8080/anar/anar19/86300
+#EXTINF:-1,UK: 5 Spike HD
+http://landiptv.live:8080/anar/anar19/75683
+#EXTINF:-1,UK: 5 USA
+http://landiptv.live:8080/anar/anar19/198346
+#EXTINF:-1,UK: 92 NEWS
+http://landiptv.live:8080/anar/anar19/133394
+#EXTINF:-1,UK: ABC News HD
+http://landiptv.live:8080/anar/anar19/96992
+#EXTINF:-1,UK: ABN TV
+http://landiptv.live:8080/anar/anar19/133396
+#EXTINF:-1,UK: Alibi FHD
+http://landiptv.live:8080/anar/anar19/137150
+#EXTINF:-1,UK: ALJAZEERA HD
+http://landiptv.live:8080/anar/anar19/131284
+#EXTINF:-1,UK: AMC HD
+http://landiptv.live:8080/anar/anar19/63034
+#EXTINF:-1,UK: ANIMAL PLANET FHD
+http://landiptv.live:8080/anar/anar19/65023
+#EXTINF:-1,UK: Baby TV HD
+http://landiptv.live:8080/anar/anar19/65125
+#EXTINF:-1,UK: BBC 1 HD
+http://landiptv.live:8080/anar/anar19/86279
+#EXTINF:-1,UK: BBC 2 FHD
+http://landiptv.live:8080/anar/anar19/74074
+#EXTINF:-1,UK: BBC 3 HD
+http://landiptv.live:8080/anar/anar19/65184
+#EXTINF:-1,UK: BBC 4 HD
+http://landiptv.live:8080/anar/anar19/65182
+#EXTINF:-1,UK: BBC Alba HD
+http://landiptv.live:8080/anar/anar19/74735
+#EXTINF:-1,UK: BBC Earth
+http://landiptv.live:8080/anar/anar19/143751
+#EXTINF:-1,UK: BBC Entertainment HD
+http://landiptv.live:8080/anar/anar19/86281
+#EXTINF:-1,UK: BBC Parliament
+http://landiptv.live:8080/anar/anar19/137160
+#EXTINF:-1,UK: BBC TV
+http://landiptv.live:8080/anar/anar19/209079
+#EXTINF:-1,UK: Best Direct
+http://landiptv.live:8080/anar/anar19/139647
+#EXTINF:-1,UK: BET HD
+http://landiptv.live:8080/anar/anar19/74589
+#EXTINF:-1,UK: Bike Channel
+http://landiptv.live:8080/anar/anar19/99064
+#EXTINF:-1,UK: Blaze HD
+http://landiptv.live:8080/anar/anar19/75740
+#EXTINF:-1,UK: Bloomberg HD
+http://landiptv.live:8080/anar/anar19/74743
+#EXTINF:-1,UK: BOOMERANG FHD
+http://landiptv.live:8080/anar/anar19/65126
+#EXTINF:-1,UK: BOX HITS HD
+http://landiptv.live:8080/anar/anar19/65056
+#EXTINF:-1,UK: BOX NATION FHD
+http://landiptv.live:8080/anar/anar19/74518
+#EXTINF:-1,UK: BOX OFFICE 1 HD
+http://landiptv.live:8080/anar/anar19/74550
+#EXTINF:-1,UK: BOX OFFICE 2 HD
+http://landiptv.live:8080/anar/anar19/74551
+#EXTINF:-1,UK: BOX OFFICE 3 HD
+http://landiptv.live:8080/anar/anar19/74697
+#EXTINF:-1,UK: BOX OFFICE 4 HD
+http://landiptv.live:8080/anar/anar19/74552
+#EXTINF:-1,UK: BOX OFFICE 5 HD
+http://landiptv.live:8080/anar/anar19/159104
+#EXTINF:-1,UK: BOX OFFICE 6 HD
+http://landiptv.live:8080/anar/anar19/159105
+#EXTINF:-1,UK: BOX OFFICE 7 HD
+http://landiptv.live:8080/anar/anar19/159106
+#EXTINF:-1,UK: BOX OFFICE 8 HD
+http://landiptv.live:8080/anar/anar19/159107
+#EXTINF:-1,UK: BOX OFFICE 9 HD
+http://landiptv.live:8080/anar/anar19/159108
+#EXTINF:-1,UK: Box Office PPV LIVE DURING AVENTS 2
+http://landiptv.live:8080/anar/anar19/133300
+#EXTINF:-1,UK: Bravo HD
+http://landiptv.live:8080/anar/anar19/75739
+#EXTINF:-1,UK: British Muslim
+http://landiptv.live:8080/anar/anar19/139564
+#EXTINF:-1,UK: BT Sport 1 HD
+http://landiptv.live:8080/anar/anar19/92580
+#EXTINF:-1,UK: BT Sport 2 HD
+http://landiptv.live:8080/anar/anar19/206334
+#EXTINF:-1,UK: BT Sport 3 HD
+http://landiptv.live:8080/anar/anar19/93484
+#EXTINF:-1,UK: BT Sport ESPN FHD
+http://landiptv.live:8080/anar/anar19/107282
+#EXTINF:-1,UK: BT Sport ESPN HD
+http://landiptv.live:8080/anar/anar19/197895
+#EXTINF:-1,UK: BT Sport Extra 1
+http://landiptv.live:8080/anar/anar19/145466
+#EXTINF:-1,UK: BT Sport Extra 2
+http://landiptv.live:8080/anar/anar19/175406
+#EXTINF:-1,UK: BT Sport Extra 3
+http://landiptv.live:8080/anar/anar19/99947
+#EXTINF:-1,UK: BT Sport Extra 4
+http://landiptv.live:8080/anar/anar19/96511
+#EXTINF:-1,UK: BT Sport HD
+http://landiptv.live:8080/anar/anar19/209470
+#EXTINF:-1,UK: C ITV HD
+http://landiptv.live:8080/anar/anar19/74590
+#EXTINF:-1,UK: CARTOON NETWORK FHD
+http://landiptv.live:8080/anar/anar19/74786
+#EXTINF:-1,UK: Cartoonito HD
+http://landiptv.live:8080/anar/anar19/74593
+#EXTINF:-1,UK: CBeebies HD
+http://landiptv.live:8080/anar/anar19/94696
+#EXTINF:-1,UK: CBS Drama
+http://landiptv.live:8080/anar/anar19/155440
+#EXTINF:-1,UK: CBS justice
+http://landiptv.live:8080/anar/anar19/155441
+#EXTINF:-1,UK: CBS Reality
+http://landiptv.live:8080/anar/anar19/150861
+#EXTINF:-1,UK: Celtic TV
+http://landiptv.live:8080/anar/anar19/120675
+#EXTINF:-1,UK: CGTN News
+http://landiptv.live:8080/anar/anar19/137270
+#EXTINF:-1,UK: CHANNEL 4 FHD
+http://landiptv.live:8080/anar/anar19/74789
+#EXTINF:-1,UK: CHANNEL 5 FHD
+http://landiptv.live:8080/anar/anar19/74790
+#EXTINF:-1,UK: Channel 5 Star
+http://landiptv.live:8080/anar/anar19/134144
+#EXTINF:-1,UK: Channel AKAL
+http://landiptv.live:8080/anar/anar19/154650
+#EXTINF:-1,UK: CHELSEA TV HD
+http://landiptv.live:8080/anar/anar19/65020
+#EXTINF:-1,UK: Club MTV
+http://landiptv.live:8080/anar/anar19/139650
+#EXTINF:-1,UK: Clubland TV
+http://landiptv.live:8080/anar/anar19/139572
+#EXTINF:-1,UK: CNBC
+http://landiptv.live:8080/anar/anar19/104258
+#EXTINF:-1,UK: CNN News
+http://landiptv.live:8080/anar/anar19/159466
+#EXTINF:-1,UK: COMEDY CENTRAL FHD
+http://landiptv.live:8080/anar/anar19/65160
+#EXTINF:-1,UK: Crime & Investigation FHD
+http://landiptv.live:8080/anar/anar19/74596
+#EXTINF:-1,UK: DAVE FHD
+http://landiptv.live:8080/anar/anar19/92585
+#EXTINF:-1,UK: Discovery Channel HD
+http://landiptv.live:8080/anar/anar19/102159
+#EXTINF:-1,UK: Discovery H&H
+http://landiptv.live:8080/anar/anar19/159471
+#EXTINF:-1,UK: Discovery History
+http://landiptv.live:8080/anar/anar19/92587
+#EXTINF:-1,UK: Discovery Shed HD
+http://landiptv.live:8080/anar/anar19/74794
+#EXTINF:-1,UK: Discovery TURBO HD
+http://landiptv.live:8080/anar/anar19/137265
+#EXTINF:-1,UK: DISNEY CHANNEL FHD
+http://landiptv.live:8080/anar/anar19/74594
+#EXTINF:-1,UK: DISNEY XD HD
+http://landiptv.live:8080/anar/anar19/65134
+#EXTINF:-1,UK: DMAX HD
+http://landiptv.live:8080/anar/anar19/74573
+#EXTINF:-1,UK: Docubox HD
+http://landiptv.live:8080/anar/anar19/104278
+#EXTINF:-1,UK: Drama
+http://landiptv.live:8080/anar/anar19/74796
+#EXTINF:-1,UK: E! HD
+http://landiptv.live:8080/anar/anar19/65174
+#EXTINF:-1,UK: E4 FHD
+http://landiptv.live:8080/anar/anar19/74576
+#EXTINF:-1,UK: EIR SPORTS 1 HD
+http://landiptv.live:8080/anar/anar19/209485
+#EXTINF:-1,UK: EIR SPORTS 2 HD
+http://landiptv.live:8080/anar/anar19/209484
+#EXTINF:-1,UK: ELEVEN SPORTS 1 FHD
+http://landiptv.live:8080/anar/anar19/124390
+#EXTINF:-1,UK: ELEVEN SPORTS 2 FHD
+http://landiptv.live:8080/anar/anar19/137212
+#EXTINF:-1,UK: ESPN
+http://landiptv.live:8080/anar/anar19/99082
+#EXTINF:-1,UK: EURONEWS HD
+http://landiptv.live:8080/anar/anar19/74609
+#EXTINF:-1,UK: EUROSPORT 1 FHD
+http://landiptv.live:8080/anar/anar19/65014
+#EXTINF:-1,UK: EUROSPORT 2 FHD
+http://landiptv.live:8080/anar/anar19/93240
+#EXTINF:-1,UK: Fightbox HD
+http://landiptv.live:8080/anar/anar19/99955
+#EXTINF:-1,UK: Film 4 +1 HD
+http://landiptv.live:8080/anar/anar19/75673
+#EXTINF:-1,UK: Film 4 FHD
+http://landiptv.live:8080/anar/anar19/74759
+#EXTINF:-1,UK: Fine Living Network
+http://landiptv.live:8080/anar/anar19/86312
+#EXTINF:-1,UK: Food Network
+http://landiptv.live:8080/anar/anar19/75720
+#EXTINF:-1,UK: Forces TV HD
+http://landiptv.live:8080/anar/anar19/65584
+#EXTINF:-1,UK: FOX FHD
+http://landiptv.live:8080/anar/anar19/137173
+#EXTINF:-1,UK: Fox News HD
+http://landiptv.live:8080/anar/anar19/74608
+#EXTINF:-1,UK: FRANCE 24
+http://landiptv.live:8080/anar/anar19/209491
+#EXTINF:-1,UK: Free Sports TV
+http://landiptv.live:8080/anar/anar19/108660
+#EXTINF:-1,UK: Global HITS HD
+http://landiptv.live:8080/anar/anar19/65054
+#EXTINF:-1,UK: GOLD HD
+http://landiptv.live:8080/anar/anar19/63548
+#EXTINF:-1,UK: GOOD FOOD HD
+http://landiptv.live:8080/anar/anar19/65040
+#EXTINF:-1,UK: H2 HD
+http://landiptv.live:8080/anar/anar19/74597
+#EXTINF:-1,UK: HBO 1 HD
+http://landiptv.live:8080/anar/anar19/65138
+#EXTINF:-1,UK: HBO 2 HD
+http://landiptv.live:8080/anar/anar19/212642
+#EXTINF:-1,UK: HBO Comedy HD
+http://landiptv.live:8080/anar/anar19/65139
+#EXTINF:-1,UK: HBO HD
+http://landiptv.live:8080/anar/anar19/91383
+#EXTINF:-1,UK: High street TV 2
+http://landiptv.live:8080/anar/anar19/139663
+#EXTINF:-1,UK: High Street TV 4
+http://landiptv.live:8080/anar/anar19/139664
+#EXTINF:-1,UK: High street TV HD
+http://landiptv.live:8080/anar/anar19/65046
+#EXTINF:-1,UK: Hillsong
+http://landiptv.live:8080/anar/anar19/139665
+#EXTINF:-1,UK: HISTORY CHANNEL HD
+http://landiptv.live:8080/anar/anar19/74802
+#EXTINF:-1,UK: Home
+http://landiptv.live:8080/anar/anar19/75717
+#EXTINF:-1,UK: HORROR CHANNEL
+http://landiptv.live:8080/anar/anar19/153919
+#EXTINF:-1,UK: Horse Country
+http://landiptv.live:8080/anar/anar19/208308
+#EXTINF:-1,UK: HUM Europe
+http://landiptv.live:8080/anar/anar19/209487
+#EXTINF:-1,UK: HUM Masala
+http://landiptv.live:8080/anar/anar19/209486
+#EXTINF:-1,UK: Ideal Extra
+http://landiptv.live:8080/anar/anar19/139667
+#EXTINF:-1,UK: Ideal World
+http://landiptv.live:8080/anar/anar19/139668
+#EXTINF:-1,UK: Investigation Discovery FHD
+http://landiptv.live:8080/anar/anar19/65102
+#EXTINF:-1,UK: IR TG4
+http://landiptv.live:8080/anar/anar19/209482
+#EXTINF:-1,UK: Irish TV
+http://landiptv.live:8080/anar/anar19/99095
+#EXTINF:-1,UK: ISLAM CHANNEL
+http://landiptv.live:8080/anar/anar19/105062
+#EXTINF:-1,UK: ITV 1 FHD
+http://landiptv.live:8080/anar/anar19/92590
+#EXTINF:-1,UK: ITV 2 HD
+http://landiptv.live:8080/anar/anar19/92591
+#EXTINF:-1,UK: ITV 3 FHD
+http://landiptv.live:8080/anar/anar19/92592
+#EXTINF:-1,UK: ITV 4 FHD
+http://landiptv.live:8080/anar/anar19/92593
+#EXTINF:-1,UK: Kerrang
+http://landiptv.live:8080/anar/anar19/65051
+#EXTINF:-1,UK: KIDS DISNEY
+http://landiptv.live:8080/anar/anar19/213764
+#EXTINF:-1,UK: KISS
+http://landiptv.live:8080/anar/anar19/65058
+#EXTINF:-1,UK: LFC TV
+http://landiptv.live:8080/anar/anar19/209476
+#EXTINF:-1,UK: Lifetime HD
+http://landiptv.live:8080/anar/anar19/65161
+#EXTINF:-1,UK: Little be HD
+http://landiptv.live:8080/anar/anar19/65036
+#EXTINF:-1,UK: Liverpool FC HD
+http://landiptv.live:8080/anar/anar19/64983
+#EXTINF:-1,UK: Living
+http://landiptv.live:8080/anar/anar19/98217
+#EXTINF:-1,UK: London Live
+http://landiptv.live:8080/anar/anar19/139594
+#EXTINF:-1,UK: Madani Channel
+http://landiptv.live:8080/anar/anar19/139595
+#EXTINF:-1,UK: Magic TV
+http://landiptv.live:8080/anar/anar19/65050
+#EXTINF:-1,UK: Manchester United TV
+http://landiptv.live:8080/anar/anar19/214213
+#EXTINF:-1,UK: More 4 HD
+http://landiptv.live:8080/anar/anar19/150870
+#EXTINF:-1,UK: MotorSport HD
+http://landiptv.live:8080/anar/anar19/74600
+#EXTINF:-1,UK: MOVIES 4 MEN
+http://landiptv.live:8080/anar/anar19/65124
+#EXTINF:-1,UK: MOVIES 24
+http://landiptv.live:8080/anar/anar19/139597
+#EXTINF:-1,UK: MTV Base HD
+http://landiptv.live:8080/anar/anar19/65090
+#EXTINF:-1,UK: MTV Classic HD
+http://landiptv.live:8080/anar/anar19/154182
+#EXTINF:-1,UK: MTV Dance HD
+http://landiptv.live:8080/anar/anar19/100942
+#EXTINF:-1,UK: MTV HD
+http://landiptv.live:8080/anar/anar19/99105
+#EXTINF:-1,UK: MTV Hits
+http://landiptv.live:8080/anar/anar19/104291
+#EXTINF:-1,UK: MTV Music HD
+http://landiptv.live:8080/anar/anar19/65095
+#EXTINF:-1,UK: MTV ONE
+http://landiptv.live:8080/anar/anar19/159496
+#EXTINF:-1,UK: MTV Rocks HD
+http://landiptv.live:8080/anar/anar19/65099
+#EXTINF:-1,UK: MUTV HD
+http://landiptv.live:8080/anar/anar19/64982
+#EXTINF:-1,UK: My 5
+http://landiptv.live:8080/anar/anar19/74575
+#EXTINF:-1,UK: My TV
+http://landiptv.live:8080/anar/anar19/139681
+#EXTINF:-1,UK: NAT GEO WILD HD
+http://landiptv.live:8080/anar/anar19/74807
+#EXTINF:-1,UK: Nick Junior
+http://landiptv.live:8080/anar/anar19/65128
+#EXTINF:-1,UK: Nick Junior TOO
+http://landiptv.live:8080/anar/anar19/74592
+#EXTINF:-1,UK: Nick Toons HD
+http://landiptv.live:8080/anar/anar19/65129
+#EXTINF:-1,UK: Nickelodeon HD
+http://landiptv.live:8080/anar/anar19/74705
+#EXTINF:-1,UK: PBS America
+http://landiptv.live:8080/anar/anar19/75613
+#EXTINF:-1,UK: POP
+http://landiptv.live:8080/anar/anar19/75569
+#EXTINF:-1,UK: Pop Max
+http://landiptv.live:8080/anar/anar19/74706
+#EXTINF:-1,UK: Premiere Sports
+http://landiptv.live:8080/anar/anar19/91964
+#EXTINF:-1,UK: QUEST
+http://landiptv.live:8080/anar/anar19/93803
+#EXTINF:-1,UK: QUEST RED
+http://landiptv.live:8080/anar/anar19/74721
+#EXTINF:-1,UK: QVC Beauty HD
+http://landiptv.live:8080/anar/anar19/74950
+#EXTINF:-1,UK: QVC Style
+http://landiptv.live:8080/anar/anar19/86329
+#EXTINF:-1,UK: Racing HD
+http://landiptv.live:8080/anar/anar19/209466
+#EXTINF:-1,UK: RACING UK HD
+http://landiptv.live:8080/anar/anar19/65019
+#EXTINF:-1,UK: REAL LIVES
+http://landiptv.live:8080/anar/anar19/74582
+#EXTINF:-1,UK: Really
+http://landiptv.live:8080/anar/anar19/65037
+#EXTINF:-1,UK: Revelation
+http://landiptv.live:8080/anar/anar19/139690
+#EXTINF:-1,UK: RISHTEY EUROPE
+http://landiptv.live:8080/anar/anar19/209465
+#EXTINF:-1,UK: ROK TV
+http://landiptv.live:8080/anar/anar19/102185
+#EXTINF:-1,UK: RT News
+http://landiptv.live:8080/anar/anar19/213338
+#EXTINF:-1,UK: RTE 1 HD
+http://landiptv.live:8080/anar/anar19/65177
+#EXTINF:-1,UK: RTE 2 HD
+http://landiptv.live:8080/anar/anar19/65178
+#EXTINF:-1,UK: RTE Junior
+http://landiptv.live:8080/anar/anar19/65176
+#EXTINF:-1,UK: RTE NEWS
+http://landiptv.live:8080/anar/anar19/65179
+#EXTINF:-1,UK: S4C HD
+http://landiptv.live:8080/anar/anar19/74723
+#EXTINF:-1,UK: SAB TV
+http://landiptv.live:8080/anar/anar19/102186
+#EXTINF:-1,UK: Setanta +Sports
+http://landiptv.live:8080/anar/anar19/74761
+#EXTINF:-1,UK: Sky 1 FHD
+http://landiptv.live:8080/anar/anar19/74564
+#EXTINF:-1,UK: Sky 2 HD
+http://landiptv.live:8080/anar/anar19/99603
+#EXTINF:-1,UK: SKY ARTS 1 HD
+http://landiptv.live:8080/anar/anar19/65113
+#EXTINF:-1,UK: Sky Arts HD
+http://landiptv.live:8080/anar/anar19/134176
+#EXTINF:-1,UK: Sky Atlantic HD
+http://landiptv.live:8080/anar/anar19/175822
+#EXTINF:-1,UK: Sky Box Office
+http://landiptv.live:8080/anar/anar19/206500
+#EXTINF:-1,UK: SKY CIENMA ACTION HD
+http://landiptv.live:8080/anar/anar19/209453
+#EXTINF:-1,UK: SKY CIENMA COMEDY HD
+http://landiptv.live:8080/anar/anar19/209452
+#EXTINF:-1,UK: SKY CIENMA Family HD
+http://landiptv.live:8080/anar/anar19/209450
+#EXTINF:-1,UK: SKY CIENMA Greats HD
+http://landiptv.live:8080/anar/anar19/209449
+#EXTINF:-1,UK: SKY CIENMA HITS HD
+http://landiptv.live:8080/anar/anar19/209448
+#EXTINF:-1,UK: SKY CIENMA PREMIER HD
+http://landiptv.live:8080/anar/anar19/209447
+#EXTINF:-1,UK: SKY CIENMA SELECT HD
+http://landiptv.live:8080/anar/anar19/209446
+#EXTINF:-1,UK: Sky Cinema Action & Adventure HD
+http://landiptv.live:8080/anar/anar19/88315
+#EXTINF:-1,UK: Sky Cinema Comedy HD
+http://landiptv.live:8080/anar/anar19/213801
+#EXTINF:-1,UK: Sky Cinema Crime & Thriller FHD
+http://landiptv.live:8080/anar/anar19/65144
+#EXTINF:-1,UK: Sky Cinema Disney HD
+http://landiptv.live:8080/anar/anar19/98206
+#EXTINF:-1,UK: Sky Cinema Drama & Romance FHD
+http://landiptv.live:8080/anar/anar19/65146
+#EXTINF:-1,UK: Sky Cinema Family HD
+http://landiptv.live:8080/anar/anar19/213796
+#EXTINF:-1,UK: Sky Cinema Greats HD
+http://landiptv.live:8080/anar/anar19/213979
+#EXTINF:-1,UK: Sky Cinema Premier FHD
+http://landiptv.live:8080/anar/anar19/74535
+#EXTINF:-1,UK: Sky Cinema Sci-Fi&Horror FHD
+http://landiptv.live:8080/anar/anar19/74545
+#EXTINF:-1,UK: Sky Cinema Select FHD
+http://landiptv.live:8080/anar/anar19/65140
+#EXTINF:-1,UK: Sky Cinema Showcase HD
+http://landiptv.live:8080/anar/anar19/65151
+#EXTINF:-1,UK: Sky Cinema Thriller FHD
+http://landiptv.live:8080/anar/anar19/198397
+#EXTINF:-1,UK: SKY LIVING FHD
+http://landiptv.live:8080/anar/anar19/126445
+#EXTINF:-1,UK: Sky News HD
+http://landiptv.live:8080/anar/anar19/65042
+#EXTINF:-1,UK: Sky One
+http://landiptv.live:8080/anar/anar19/92607
+#EXTINF:-1,UK: Sky Sports Racing FHD
+http://landiptv.live:8080/anar/anar19/198820
+#EXTINF:-1,UK: Sky Sports ACTION HD
+http://landiptv.live:8080/anar/anar19/92609
+#EXTINF:-1,UK: Sky Sports Arena HD
+http://landiptv.live:8080/anar/anar19/74495
+#EXTINF:-1,UK: Sky Sports Box Office
+http://landiptv.live:8080/anar/anar19/133301
+#EXTINF:-1,UK: Sky Sports Golf HD
+http://landiptv.live:8080/anar/anar19/74770
+#EXTINF:-1,UK: Sky Sports MAIN EVENT HD
+http://landiptv.live:8080/anar/anar19/109959
+#EXTINF:-1,UK: Sky Sports Mix HD
+http://landiptv.live:8080/anar/anar19/98196
+#EXTINF:-1,UK: Sky Sports News HD
+http://landiptv.live:8080/anar/anar19/74481
+#EXTINF:-1,UK: Sky Sports The Open HD
+http://landiptv.live:8080/anar/anar19/211691
+#EXTINF:-1,UK: SKY THRILLER HD
+http://landiptv.live:8080/anar/anar19/212959
+#EXTINF:-1,UK: SkyCinema Premiere HD
+http://landiptv.live:8080/anar/anar19/213817
+#EXTINF:-1,UK: SONY Max
+http://landiptv.live:8080/anar/anar19/209462
+#EXTINF:-1,UK: Sony Movies
+http://landiptv.live:8080/anar/anar19/65106
+#EXTINF:-1,UK: Sony TV
+http://landiptv.live:8080/anar/anar19/208276
+#EXTINF:-1,UK: SPIKE
+http://landiptv.live:8080/anar/anar19/74588
+#EXTINF:-1,UK: STAR BHARAT
+http://landiptv.live:8080/anar/anar19/91458
+#EXTINF:-1,UK: STAR GOLD
+http://landiptv.live:8080/anar/anar19/159520
+#EXTINF:-1,UK: STAR PLUS
+http://landiptv.live:8080/anar/anar19/209461
+#EXTINF:-1,UK: Starz TV
+http://landiptv.live:8080/anar/anar19/65048
+#EXTINF:-1,UK: STV FHD
+http://landiptv.live:8080/anar/anar19/98263
+#EXTINF:-1,UK: SyFy FHD
+http://landiptv.live:8080/anar/anar19/65165
+#EXTINF:-1,UK: TBN UK
+http://landiptv.live:8080/anar/anar19/75692
+#EXTINF:-1,UK: TCM FHD
+http://landiptv.live:8080/anar/anar19/65162
+#EXTINF:-1,UK: The Box
+http://landiptv.live:8080/anar/anar19/65057
+#EXTINF:-1,UK: The Vault
+http://landiptv.live:8080/anar/anar19/65052
+#EXTINF:-1,UK: Tiny POP
+http://landiptv.live:8080/anar/anar19/74591
+#EXTINF:-1,UK: TLC HD
+http://landiptv.live:8080/anar/anar19/137193
+#EXTINF:-1,UK: Travel Channel
+http://landiptv.live:8080/anar/anar19/65045
+#EXTINF:-1,UK: TRUE CRIME
+http://landiptv.live:8080/anar/anar19/209112
+#EXTINF:-1,UK: True Movies 1 HD
+http://landiptv.live:8080/anar/anar19/66026
+#EXTINF:-1,UK: True Movies 2 HD
+http://landiptv.live:8080/anar/anar19/102209
+#EXTINF:-1,UK: TV One
+http://landiptv.live:8080/anar/anar19/139699
+#EXTINF:-1,UK: TV3 HD
+http://landiptv.live:8080/anar/anar19/99917
+#EXTINF:-1,UK: TV5 Monde
+http://landiptv.live:8080/anar/anar19/139701
+#EXTINF:-1,UK: Universal Channel HD
+http://landiptv.live:8080/anar/anar19/74574
+#EXTINF:-1,UK: UTV
+http://landiptv.live:8080/anar/anar19/208271
+#EXTINF:-1,UK: VENUS TV
+http://landiptv.live:8080/anar/anar19/137249
+#EXTINF:-1,UK: VH 1 CLASSIC
+http://landiptv.live:8080/anar/anar19/163362
+#EXTINF:-1,UK: VH1 HD
+http://landiptv.live:8080/anar/anar19/65097
+#EXTINF:-1,UK: Viceland HD
+http://landiptv.live:8080/anar/anar19/104929
+#EXTINF:-1,UK: Vintage TV
+http://landiptv.live:8080/anar/anar19/137278
+#EXTINF:-1,UK: VIVA HD
+http://landiptv.live:8080/anar/anar19/147221
+#EXTINF:-1,UK: Watch HD
+http://landiptv.live:8080/anar/anar19/65168
+#EXTINF:-1,UK: WWE Raw Network HD
+http://landiptv.live:8080/anar/anar19/93245
