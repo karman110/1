@@ -64,8 +64,6 @@ https://bozztv.com/36bay2/gin/giniko_iribofogh_900kb_36bay2/tracks-v1a1/mono.m3u
 https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="IRIB TV2 IR" tvg-name="IRIB TV2 IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/gEkSbEi.png" tvg-country="IR" tvg-url=",IRIB TV2
 https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/xAdm6cB.png" tvg-country="IR" tvg-url=",IRIB TV3
-https://livetv.persianleague.com/live/tv3/chunks.m3u8
 #EXTINF:-1 tvg-id="IRIB TV4 IR" tvg-name="IRIB TV4 IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/pTJEpeJ.png" tvg-country="IR" tvg-url=",IRIB TV4
 https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="IRIB TV5 IR" tvg-name="IRIB TV5 IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/qQBqGGf.png" tvg-country="IR" tvg-url=",IRIB TV5
@@ -80,8 +78,6 @@ https://live.kalemehtv.tv/live/ngrp:kalemeh_all/playlist.m3u8
 https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Mashhad_Metro_logo.png" tvg-country="IR" tvg-url=",Mashhad Live 1 (Azadi)
 https://tv.razavi.ir/hls/azadi_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Mashhad_Metro_logo.png" tvg-country="IR" tvg-url=",Mashhad Live 2 (Enghelab)
-https://tv.razavi.ir/hls/enghelab_2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/maxx-icon.png" tvg-country="IR" tvg-url=",Maxx
 http://d2e40kvaojifd6.cloudfront.net/stream/maxx/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://www.gemonline.tv/Assets/ChannelIcons/mifa-icon.png" tvg-country="IR" tvg-url=",Mifa
@@ -122,8 +118,6 @@ http://51.158.97.214/hls/stream.m3u8
 http://163.172.174.60/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/rioc5XV.jpg" tvg-country="FR" tvg-url=",Persiana 6 Music
 http://163.172.147.113/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/43gYR8Y.png" tvg-country="FR" tvg-url=",Poker TV Arabia
-http://51.15.193.127/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/TNQKahI.png" tvg-country="IR" tvg-url=",Press TV
 https://bozztv.com/36bay2/gin/giniko_presstv_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/NqTGH0Q.png" tvg-country="IR" tvg-url=",Radio Farda
@@ -138,8 +132,6 @@ https://d2e40kvaojifd6.cloudfront.net/stream/river/playlist.m3u8
 https://d2e40kvaojifd6.cloudfront.net/stream/rubix/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/2Ka4Ins.png" tvg-country="IR" tvg-url=",Salamat Tube
 http://51.158.116.146/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/YpBeTXf.png" tvg-country="IR" tvg-url=",Tin TV
-https://unirtmp.tulix.tv/tintv/tintv/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/tin.jpg" tvg-country="IR" tvg-url=",TIN TV
 https://unirtmp.tulix.tv/tintv/tintv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-tv-azadi-4338.jpg" tvg-country="IR" tvg-url=",TV Azadi
