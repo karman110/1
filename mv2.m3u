@@ -1,10 +1,10 @@
 #EXTM3U
 http://stream.srg-ssr.ch/m/rsc_de/mp3_128
-#EXTINF:-1 group-title="MOVIES",Annabelle: Creation (2017)
+#EXTINF:-1 ,Annabelle: Creation (2017)
 http://cdnvod.setv.ca/hls/Annabelle.2.Creation.2017.720p.BluRay.H264.AAC-RARBG.mp4/master.m3u8
-#EXTINF:-1 group-title="MOVIES",Godzilla: Planet of the Monsters (2017)*
+#EXTINF:-1 ,Godzilla: Planet of the Monsters (2017)*
 https://archive.org/download/GodzillaMonsterPlanet/Godzilla%20Monster%20Planet.mp4
-#EXTINF:-1 group-title="MOVIES",The Post (2017) (Geo)
+#EXTINF:-1 ,The Post (2017) (Geo)
 http://bobmovies.net/hl/The.Post.2017.TS.m3u8
 #EXTINF:-1 group-title="MOVIES",Wish Upon (2017)
 http://cdnvod.setv.ca/hls/Wish.Upon.2017.UNRATED.BDRip.x264-DRONES.mp4/master.m3u8
