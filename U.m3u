@@ -215,7 +215,6 @@ http://vcnxcorps.teleosmedia.com/stream/xcorps/xcorps/seglist_720p.m3u8
 https://gideommd.mmdlive.lldns.net/gideommd/d5b6a753f86e4e51b8e15c7d23887a4f/chunklist_b1128000.m3u8
 #EXTINF:-1 tvg-name="Z Living" tvg-id="Z Living" tvg-logo="https://i.imgur.com/c3Z5i2L.pnggru,Z Living
 https://y5w8j4a9.ssl.hwcdn.net/zlivingusa_r/index.m3u8
-#EXTM3U
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Loop_500x500.png?raw=true" ,Loop Media | 80's Party
 https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/master.m3u8
