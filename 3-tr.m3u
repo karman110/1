@@ -10,8 +10,6 @@ http://iptvmasterlink.dyndns.org:5566/Entry/showmax_yeni.m3u8
 https://tv-trt1.live.trt.com.tr/master_720.m3u8
 #EXTINF:-0,TRT AVAZ
 https://tv-trtavaz.live.trt.com.tr/master_720.m3u8
-#EXTINF:-0,Beyaz TV
-https://mn-nl.mncdn.com/blutv_beyaztv/smil:beyaztv_hd.smil/chunklist_b2064000.m3u8
 #EXTINF:-0,Euro D
 https://mn-nl.mncdn.com/blutv_eurod/eurod_sd.smil/playlist.m3u8
 #EXTINF:-0,TV8 INT
@@ -64,8 +62,6 @@ http://yayin.netradyom.com:1935/live/on4/chunklist.m3u8
 https://canli.ensonhaber.com/tr/benguturk/index.m3u8
 #EXTINF:-0,IBB TV 2
 http://wowza.istweb.tv:1935/dp/istanbul2/playlist.m3u8
-#EXTINF:-0,Meteroloji TV
-https://b01c02nl.mediatriple.net/videoonlylive/mtfgdbkwkjllolive/broadcast_5b1673b7c36b7.smil/chunklist.m3u8
 #EXTINF:-0,REHBER TV
 http://rehbertv.canliyayin.org/P871000884/rehbertv/chunklist.m3u8
 #EXTINF:-0,TRT WORLD
