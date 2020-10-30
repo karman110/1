@@ -213,8 +213,6 @@ http://tv.cdn.xsg.ge/rtv/tracks-v1a1/index.m3u8
 https://receiver.adjara.com/adjarasport_live/UFCTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FYFyrwt.png" ,AZ | CBC Sport
 http://streams2.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/H9TdbIR.png" ,KG | КТRК Sport
-http://onlinetv.ktrk.kg:1935/live/myStream4/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4FGVDqV.jpg" ,TM | Turkmenistan Sport
 http://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q7xHwxd.png" ,AL | SuperSport 1
@@ -251,19 +249,9 @@ https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zuohn3e.png" ,HK | Fox Sports 3 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ylvMXnY.jpg" ,HK | Star Sport
-rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MZ7jxoQ.png" ,MO | TDM Desporto
-https://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/87cdkWW.png" ,JP | Golf Network
-http://203.162.235.41:16924
-https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0Y1dUtF.png" ,KR | JTBC GOLF&SPORTS
 http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/knM3pJm.png" ,KR | JTBC Golf
-http://211.110.63.104/jtbcgolf1/_definst_/80D0E97E935E88BD50D6E3E5EC5CF058F97567AC9EA179FD666E04776398040B/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/djdariX.jpg" ,TW | Super Tennis
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png" ,AE | Abu Dhabi Sports
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9q8gFsq.png" ,AE | Abu Dhabi Sports 2
@@ -280,8 +268,6 @@ https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eytrf0Y.png" ,AE | Dubai Racing
 http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eytrf0Y.png" ,AE | Dubai Racing 3
-https://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F1RmiNq.jpg" ,AE | YAS
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2sdnhyi/master570.m3u8
