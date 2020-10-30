@@ -175,40 +175,18 @@ http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wBJI5Jw.png" ,UA | Sport 1 Ukraine
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xT6GB6v.png" ,UA | Most Video
-http://w4.mostvideo.tv/tv/ch1.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BXn2fyW.png" ,RU | Eurosport 1 Russia
-http://live-ng-01.more.tv/hls/Eurosport_Rus_HD/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/BXn2fyW.png" ,RU | Eurosport 1 Russia
-http://russia.livetv.az/russia/eurosport1/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/crqX8iA.png" ,RU | Viasat Sport
-http://live-ng-01.more.tv/hls/Viasat_Sport_HD/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/638xHmX.png" ,RU | Astrakhan Sport
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b5H991R.png" ,RU | UFC TV
 http://live-ng-01.more.tv/hls/UFC/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pUBX4sv.jpg" ,RU | M1
-http://russia.livetv.az/russia/m1/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N1cUf8C.png" ,RU | A21 Network Russian Motorsport Television
 http://v2.catcast.me/content/37909/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/387jXC7.jpg" ,LT | KOK Fights
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D3Pt9UL.png" ,KZ | Qazsport
-https://live-qazsport.cdnvideo.ru/qazsport_kz/qazsport/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mixRJCe.jpg" ,KZ | Setanta Кaz
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d17kd8G.jpg" ,GE | Setanta Georgia 1
-http://188.93.95.34:80/setanta_georgia/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/d17kd8G.jpg" ,GE | Setanta Georgia 2
-http://188.93.95.34:80/setanta_sports_plus_georgia/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jBYptPj.png" ,GE | Silk Universal
-http://188.93.95.34:80/silk/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mOkpenX.png" ,GE | Adjarasport 1
 https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mOkpenX.png" ,GE | Adjarasport 2
 https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bl2tLe4.png" ,GE | O2
 http://tv.cdn.xsg.ge/o2/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/85D9kPy.png" ,GE | Rugby TV
-http://tv.cdn.xsg.ge/rtv/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b5H991R.png" ,GE | UFC TV
 https://receiver.adjara.com/adjarasport_live/UFCTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FYFyrwt.png" ,AZ | CBC Sport
@@ -229,15 +207,11 @@ http://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VRoowjg.png" ,AL | SuperSport 7
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yQCzUi4.png" ,AL | RTSH Sport
-https://edge01eu.ekranet.com/rtshsport_240p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IQGjhj6.png" ,XK | Art Sports 1
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IjX5rdB.png" ,XK | Art Sports 2
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qiNdQeN.png" ,XK | Art Sports 3
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yc80JDo.jpg" ,CN | CCTV 5
-http://111.40.205.87/PLTV/88888888/224/3221225711/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j1KtJYZ.png" ,CN | CCTV 5+ 
 http://112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6VWliTG.jpg" ,CN | NewTV Super Sports
@@ -248,9 +222,6 @@ https://livecdn.fptplay.net/qnetlive/foxsports_2000.stream/chunklist.m3u8
 https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zuohn3e.png" ,HK | Fox Sports 3 Asia
 https://livecdn.fptplay.net/qnetlive/foxsports3_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ylvMXnY.jpg" ,HK | Star Sport
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0Y1dUtF.png" ,KR | JTBC GOLF&SPORTS
-http://211.110.63.104/jtbc3sports1/_definst_/D93A0F40B483D4887BF6CD4E1910ED7A17C34634DC35C714860FFC5944655BC6/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/knM3pJm.png" ,KR | JTBC Golf
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lKl2wZH.png" ,AE | Abu Dhabi Sports
 https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8
