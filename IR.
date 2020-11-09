@@ -1,5 +1,4 @@
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/HGmC8ea.png" tvg-country="IR" tvg-url=",24 Box TV
-http://51.158.190.97/hls/stream.m3u8
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/oeiaea6.png" tvg-country="IR" tvg-url=",Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="http://static.guim.co.uk/sys-images/Guardian/About/General/2012/3/14/1331728105752/bbc-persian-tv-007.jpg" tvg-country="IR" tvg-url=",BBC Persian
@@ -144,3 +143,5 @@ http://163.172.134.85/hls/stream.m3u8
 https://live2.parnian.tv/hls/live/play.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Mashhad_Metro_logo.png" tvg-country="IR" tvg-url=",Mashhad Live 1 (Azadi)
 https://tv.razavi.ir/hls/azadi_3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/HGmC8ea.png" tvg-country="IR" tvg-url=",24 Box TV
+http://51.158.190.97/hls/stream.m3u8
