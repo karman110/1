@@ -1,183 +1,59 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2QKhRK.png" ,Ariana TV Int'l
-https://d10rltuy0iweup.cloudfront.net/ATNINT/myStream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k2QKhRK.png" ,Ariana TV National
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/agwQIkl.png" ,Ariana News
-https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist_w796472816.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/e7lLlLn.png" ,Ava Music
-http://51.15.236.137/hls/stream.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4X2Px8w.png" ,Kayhan TV
-https://playout395.livestreamingcdn.com/live/Stream1/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0kccir.png" ,Shamshad TV
-http://109.123.70.27:1935/shamshadtelevision/shamshadtelevision/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/c909MTK.png" ,Tuti TV
-https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/chunklist.m3u8?fluxustv.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ngjqje6.png" ,Watan-E-Maa TV
-http://cdn24.live247stream.com/watanemaa/tv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/OifwcrE.png" tvg-country="PK" tvg-url="" group-title="Urdu",92 News
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" tvg-country="PK" tvg-url="" group-title="Urdu",92 News UK
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/SzaGz3D.jpg" tvg-country="UK" tvg-url="" group-title="Urdu",92 News UK
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/uh8HAPY.jpg" tvg-country="PK" tvg-url="" group-title="Urdu",AVT KHYBER
-https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/uh8HAPY.jpg" tvg-country="PK" tvg-url="" group-title="Urdu",AVT KHYBER
-https://dcunilive38-lh.akamaihd.net/i/dclive_1@692670/index_150_av-p.m3u8?usertoken=f098051a-28ab-489f-8bfb-26df191617ec-1537439983120tmp
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/bBqJrfl.jpg" tvg-country="PK" tvg-url="" group-title="Urdu",Dunya News
-http://imob.dunyanews.tv/live/_definst_/dunyalive_1/chunklist_w1239250459.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/wY41F5k.png" tvg-country="PK" tvg-url="" group-title="Urdu",Express TV
-https://5d48372bad056.streamlock.net/expressdigital/livestream/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/kR1tW0o.jpg" tvg-country="PK" tvg-url="" group-title="Urdu",Geo Kahani
-http://streamer64.eboundservices.com/geo/geokahani_abr/geo/geokahani_master/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/DYp5ZUN.png" tvg-country="PK" tvg-url="" group-title="Urdu",Geo News
-http://stream.jeem.tv/geo/geonews/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="" tvg-country="PK" tvg-url="" group-title="Urdu",Geo Super
-https://jk3lz82elw79-hls-live.5centscdn.com/Geo/83ccf718ec6040646c295cb25dbef052.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/JoO8hEx.jpg" tvg-country="PK" tvg-url="" group-title="Urdu",Geo TV
-http://stream.jeem.tv/geo/geoentertainment/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/JoO8hEx.jpg" tvg-country="PK" tvg-url="" group-title="Urdu",Geo TV
-http://streamer64.eboundservices.com/geo/geoentertainment_abr/geo/geoentertainment_master/chunks.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" tvg-country="IQ" tvg-url="" group-title="Urdu",Imam Hussein TV 4 Urdu
-http://live.imamhossaintv.com/live/ih4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/ocyh4DD.jpg" tvg-country="IQ" tvg-url="" group-title="Urdu",Imam Hussein TV 4 Urdu
-https://ur.imamhusseintv.com/live/ih4.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/GYZGWFy.png" tvg-country="PK" tvg-url="" group-title="Urdu",Kay2 TV
-http://livecdnh1.tvanywhere.ae/hls/k2/04.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/GYZGWFy.png" tvg-country="PK" tvg-url="" group-title="Urdu",Kay2 TV
-http://livecdnh1.tvanywhere.ae/hls/k2/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/GYZGWFy.png" tvg-country="PK" tvg-url="" group-title="Urdu",Kay2 TV
-https://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/index_150_av-p.m3u8?sd=6&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/mqFWpXX.png" tvg-country="PK" tvg-url="" group-title="Urdu",Khyber Middle East TV
-https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/index_150_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/NL1cqS2.png" tvg-country="PK" tvg-url="" group-title="Urdu",Khyber News TV
-https://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/index_150_av-p.m3u8?sd=10&rebase=on
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/jYR0ACG.png" tvg-country="PK" tvg-url="" group-title="Urdu",Lahore News
-http://mlive.lahorenews.tv:1935/lahorelive/lnews_1/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/m8cS74j.png" tvg-country="PK" tvg-url="" group-title="Urdu",Minhaj TV
-http://api.new.livestream.com/accounts/547271/events/4237509/live.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/b3nn216.png" tvg-country="UK" tvg-url="" group-title="Urdu",MTA 1 Urdu
-https://ooyalahd2-f.akamaihd.net/i/mtaurdu_delivery@350117/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/SBUPUNm.png" tvg-country="PK" tvg-url="" group-title="Urdu",Nazrana TV
-http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/index_2128_av-p.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/SBUPUNm.png" tvg-country="PK" tvg-url="" group-title="Urdu",Nazrana TV
-http://linear08hun-lh.akamaihd.net/i/nazrana_1@673935/master.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/eNIZq3q.png" tvg-country="IR" tvg-url="" group-title="Urdu",Sahar Urdu
-https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/rO37XiD.png" tvg-country="PK" tvg-url="" group-title="Urdu",Shine Star
-http://golive64.christianworldmedia.com:1935/ShineStarTV/mp4:ShineStarTV/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/B5YD4pD.png" tvg-country="PK" tvg-url="" group-title="Urdu",Subrang TV (USA)
-http://cdn61.liveonlineservices.com/hls/subrang.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Urdu" tvg-logo="https://i.imgur.com/RtHeRwp.png" tvg-country="PK" tvg-url="" group-title="Urdu",Zindagi TV
-https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
-
-
-
-
-
-
-#EXTINF:-1 tvg-logo="http://www.pakistantv.tv/wp-content/uploads/2014/10/Pakistan-icon1.png" group-title="LABEL",~ Pakistan TV ~
-http://www.lengua.com/anthems/Pakistan.mp3
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hwqJRrT.png" group-title="PAKISTAN",92 News (Opt-1)
-http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/QEOWyUl.png" group-title="PAKISTAN",ARY Digital
-http://158.69.229.29:8081/digital_abr/streamabr/digital/livestream_720p/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/dZcfII0.png" group-title="PAKISTAN",ARY Zindagi
-http://149.202.205.24:1935/ARYZINDAGI/ngrp:myStream_all/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eBvf4zM.png" group-title="PAKISTAN",Canada One (CA)
-http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wyKc0nX.png" group-title="PAKISTAN",Dunya News (Opt-1)
-http://imob.dunyanews.tv:1935/live/smil:stream.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wyKc0nX.png" group-title="PAKISTAN",Dunya News (Opt-2)
-http://109.169.19.173:1935/live/dunyalive_1/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wyKc0nX.png" group-title="PAKISTAN",Dunya News (Opt-3)
-http://imob.dunyanews.tv/live/_definst_/dunyalive_1/FluxusTV.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PbDBky1.png" group-title="PAKISTAN",Eawaz TV (CA)
-https://streamer12.vdn.dstreamone.net/saazoawaz/saazoawaz/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ti3KObC.png" group-title="PAKISTAN",Express TV
-https://5a6ada4d8f439.streamlock.net/expressdigital/livestream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/sZqDIem.png" group-title="PAKISTAN",Eye 95 America (US)
-http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/a6styEc.png" group-title="PAKISTAN",Geo Kahani
-http://streamer64.eboundservices.com/geo/geokahani_abr/geo/geokahani_master/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/exS3g7u.png" group-title="PAKISTAN",Geo News
-http://stream.jeem.tv/geo/geonews/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D35nAb2.png" group-title="PAKISTAN",Geo Tez
-http://stream.jeem.tv/geo/geotezz/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K38brUq.png" group-title="PAKISTAN",Geo TV (Opt-1)
-http://stream.jeem.tv/geo/geoentertainment/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/K38brUq.png" group-title="PAKISTAN",Geo TV (Opt-2)
-http://streamer64.eboundservices.com/geo/geoentertainment_abr/geo/geoentertainment_master/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XXLQuHJ.png" group-title="PAKISTAN",Joomusic
-https://streamer12.vdn.dstreamone.net/joomusic/joomusic/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JHG5Qbw.png" group-title="PAKISTAN",Jwand TV
-http://dcunilive23-lh.akamaihd.net/i/dclive_1@48939/index_150_av-p.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k4RmfYW.png" group-title="PAKISTAN",Kay 2
-http://dcunilive36-lh.akamaihd.net/i/dclive_1@662109/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/7NQ2aC6.png" group-title="PAKISTAN",Khyber Middle East
-https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mrUAPtg.png" group-title="PAKISTAN",Khyber News
-http://dcunilive38-lh.akamaihd.net/i/dclive_1@692677/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wKRCk7K.png" group-title="PAKISTAN",Lahore News (Opt-2)
-http://mlive.lahorenews.tv/lahorelive/lnews_1/chunklist_DVR.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cSLi73Y.png" group-title="PAKISTAN",Prime Canada TV (CA)
-http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/6p6I1i0.png" group-title="PAKISTAN",PTV Home
-https://59aeddfe9f01c.streamlock.net/live/PTVhome/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w3aIlN4.png" group-title="PAKISTAN",PTV News
-http://67.231.248.131:1935/live/PTVnews/chunklist_w1281891626.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/DKmn8IY.png" group-title="PAKISTAN",PTV World
-https://59aeddfe9f01c.streamlock.net/live/8090/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VarElBN.png" group-title="PAKISTAN",Roze News
-http://cdn.ebound.tv/tv/roze/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/X7hm6yd.png" group-title="PAKISTAN",Sahar Urdu (IR)
-https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/039vs9H.png" group-title="PAKISTAN",Shrrang TV
-http://dcunilive15-lh.akamaihd.net/i/dclive_1@27006/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wKvdqI1.png" group-title="PAKISTAN",Subrang TV (US) (Opt-1)
-http://cdn61.liveonlineservices.com/hls/subrang.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="PAKISTAN",Tag TV (Opt-1)
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MMe4JMX.png" group-title="PAKISTAN",Tag TV (Opt-2)
-https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Tl7iOAc.png" group-title="PAKISTAN",Toronto 360 TV (CA)
-http://toronto3.live247stream.com/toronto360/tv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/w82VmmO.png" group-title="PAKISTAN",Urdu TV Toronto (CA)
-http://cdn4.live247stream.com/urdu/tv/playlist.m3u8
+#EXTINF:-1,AFG: AFG: Rah e Farda
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125415
+#EXTINF:-1,AFG: Afghan Theatre
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125416
+#EXTINF:-1,AFG: Afghanistan TV
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125417
+#EXTINF:-1,AFG: AMC TV
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125418
+#EXTINF:-1,AFG: AREZO HD
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125419
+#EXTINF:-1,AFG: Ariana News
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125420
+#EXTINF:-1,AFG: Ariana TV
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125421
+#EXTINF:-1,AFG: Ariana TV National
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125422
+#EXTINF:-1,AFG: ASR TV
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125423
+#EXTINF:-1,AFG: ATN NEWS TV
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125424
+#EXTINF:-1,AFG: Ayna TV
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125425
+#EXTINF:-1,AFG: HEWAD TV
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125426
+#EXTINF:-1,AFG: KAYHAN TV HD
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125427
+#EXTINF:-1,AFG: KHURSHID TV
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125428
+#EXTINF:-1,AFG: LEMAR TV HD
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125429
+#EXTINF:-1,AFG: NOOR TV
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125430
+#EXTINF:-1,AFG: OMID TV
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125431
+#EXTINF:-1,AFG: PAMIR TV FHD
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125432
+#EXTINF:-1,AFG: PAYAM E AFGHAN
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125433
+#EXTINF:-1,AFG: Rah e Farda
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125434
+#EXTINF:-1,AFG: Shamshad TV
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125435
+#EXTINF:-1,AFG: Srood
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125436
+#EXTINF:-1,AFG: Tamadon TV HD
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125437
+#EXTINF:-1,AFG: THEATRE TV HD
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125438
+#EXTINF:-1,AFG: TOLO HD
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125439
+#EXTINF:-1,AFG: TOLO NEWS HD
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125440
+#EXTINF:-1,AFG: Tuti TV
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125441
+#EXTINF:-1,AFG: WATAN TV
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125442
+#EXTINF:-1,AFG: ZHWNDOON TV
+http://hontxi.club:8080/jtest6221/VBKWNu3RMb/125443
