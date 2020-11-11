@@ -1,12 +1,12 @@
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kZRLpq1.png" ,CA | GEM TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kZRLpq1.png" , GEM TV
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D04QNLf.png" ,CA | GEM AZ
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D04QNLf.png" , GEM AZ
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_az/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJF9i6Q.png" ,CA | GEM Academy
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJF9i6Q.png" , GEM Academy
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mmAWhof.png" ,CA | GEM Arabia
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mmAWhof.png" , GEM Arabia
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HWUBmf1.png" ,CA | GEM Fit
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HWUBmf1.png" , GEM Fit
 https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist_960x540_2000k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vp7WmG3.png" ,CA | GEM 24B
 https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist_1920x1080_4500k.m3u8
