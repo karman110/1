@@ -10,11 +10,11 @@ https://edge-1192-ch-gv.filmon.com/live/3166.high.stream/playlist.m3u8
 http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master_Main1800.m3u8
 #EXTINF:-1 tvg-id="ITV 2" tvg-name="ITV2" tvg-logo="https://i.imgur.com/eZks811.png" group-title="",ITV2
 http://51.52.156.22:8888/http/005
-#EXTINF:-1 tvg-name="Sky 1" tvg-id="SKY1" group-title="UK" tvg-logo="https://i.imgur.com/QweV0BP.png",Sky 1
+#EXTINF:-1 tvg-name="Sky 1" tvg-id="SKY1" group-title="" tvg-logo="https://i.imgur.com/QweV0BP.png",Sky 1
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
-#EXTINF:-1 tvg-name="Sky 2" tvg-id="SKY 2" group-title="UK" tvg-logo="https://i.imgur.com/7MkX0Ct.png",Sky 2 Racing
+#EXTINF:-1 tvg-name="Sky 2" tvg-id="SKY 2" group-title="" tvg-logo="https://i.imgur.com/7MkX0Ct.png",Sky 2 Racing
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
-#EXTINF:-1 tvg-name="Sky News" tvg-id="SkyNews.uk" group-title="UK" tvg-logo="https://i.imgur.com/vfqWSHv.png",Sky News
+#EXTINF:-1 tvg-name="Sky News" tvg-id="SkyNews.uk" group-title="" tvg-logo="https://i.imgur.com/vfqWSHv.png",Sky News
 plugin://plugin.video.youtube/play/?video_id=9Auq9mYxFEE
 #EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News UK" tvg-logo="https://i.imgur.com/eNPIQ9f.png" group-title="",BBC News
 https://edge-1192-ch-gv.filmon.com/live/27.high.stream/playlist.m3u8
