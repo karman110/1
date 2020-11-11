@@ -1,4 +1,3 @@
-#EXTM3U
 #EXTINF:-1 tvg-name="ABC News" tvg-id="ABC Eastern US"  tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png",ABC News
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 tvg-name="ABC News International" tvg-id="ABC News International"  tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/abcnews.png",ABC News International
@@ -360,7 +359,6 @@ http://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(ew)/stream
 #EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Monte Carlo
 http://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
  
-	#EXTM3U
 	#EXTINF:-1 tvg-id="" tvg-name="Music Channel" tvg-language="Romanian" tvg-logo="https://i.imgur.com/PRgvj4c.png" tvg-country="RO" tvg-url=",1 Music Channel
 	https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
 	#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/gNWg9tl.png" tvg-country="US" tvg-url=",30A Music
