@@ -114,27 +114,35 @@ https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u
 http://163.172.134.85/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Mashhad_Metro_logo.png" tvg-country="IR" tvg-url=",Mashhad Live 1 (Azadi)
 https://tv.razavi.ir/hls/azadi_3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/HGmC8ea.png" tvg-country="IR" tvg-url=",24 Box TV
-http://51.158.190.97/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://www.mellitv.com/images/sitelogo.png" tvg-country="IR" tvg-url=",MTC
-http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/chunklist_w1877115045.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/97ATQV7.png" tvg-country="IR" tvg-url=",OX Film
-http://51.158.103.244/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://telegramindex.com/assets/telegram/chat/OXIRTV" tvg-country="IR" tvg-url=",Oxir TV
-http://212.47.226.211/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/cMhVIge.png" tvg-country="IR" tvg-url=",Persiana 1 FAMILY
-http://51.15.229.209/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/OUu7eyJ.png" tvg-country="IR" tvg-url=",Persiana 2 CINEMA
-http://51.15.193.156/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/rioc5XV.jpg" tvg-country="FR" tvg-url=",Persiana 3 Junior
-http://51.158.74.129/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/rioc5XV.jpg" tvg-country="FR" tvg-url=",Persiana 4 Iranian
-http://51.158.97.214/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/rioc5XV.jpg" tvg-country="FR" tvg-url=",Persiana 5 Documentary
-http://163.172.174.60/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/rioc5XV.jpg" tvg-country="FR" tvg-url=",Persiana 6 Music
-http://163.172.147.113/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/2Ka4Ins.png" tvg-country="IR" tvg-url=",Salamat Tube
-http://51.158.116.146/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Parnian TV" tvg-language="Persian" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ca-parnian-tv-9509.jpg" tvg-country="IR" tvg-url=",Parnian TV
 https://live2.parnian.tv/hls/live/play.m3u8
+
+
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", VIVA
+https://hls.myvideocontent.ru/hls2/vivarussia/index.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png",yeeah
+http://srv3.zcast.com.br/yeeaah/yeeaah/chunklist_w1186611669.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", POP TV
+https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", MTV YO
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", MTV POP
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS02/master.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", MTV PARTY
+https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", XITE
+https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", TV 538
+https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/playlist.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Sunburn
+https://vcndstv.teleosmedia.com/stream/dstv/sunburn/playlist.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Dancestar
+https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", TOP latino
+https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Carolina tv
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", musictop
+https://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
+#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Monte Carlo
+http://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
