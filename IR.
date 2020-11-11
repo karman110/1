@@ -142,7 +142,5 @@ https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Carolina tv
 http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
-#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", musictop
-https://live-edge01.telecentro.net.ar/live/musictop.smil/.m3u8
 #EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Monte Carlo
 http://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
