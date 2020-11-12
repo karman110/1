@@ -16,6 +16,15 @@ http://109.123.70.27:1935/shamshadtelevision/shamshadtelevision/chunklist.m3u8
 https://rrsatrtmp.tulix.tv/livecdn827/myStream.sdp/chunklist.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7NQ2aC6.png" group-title="PAKISTAN",Khyber Middle East
 https://dcunilive83-lh.akamaihd.net/i/dclive_1@16122/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/b3nn216.png" group-title="",MTA 1
+https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/index_3000_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/V6uUz9l.png" group-title="",MTA 2
+https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MTA 3" tvg-logo="https://i.imgur.com/C5nT9yi.png" group-title="",MTA 3
+https://ooyalahd2-f.akamaihd.net/i/mtach7_delivery@348438/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Noor TV" tvg-logo="https://i.imgur.com/oeV42l0.jpg" group-title="",Noor TV
+https://ls1.serverdump.com/stream3.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-name="Sahar Urdu" tvg-language="Urdu" tvg-logo="https://i.imgur.com/eNIZq3q.png" tvg-country="IR" tvg-url="" group-title="Urdu",Sahar Urdu
 https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
