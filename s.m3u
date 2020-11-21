@@ -32,8 +32,6 @@ https://stadium-ringofhonor-1.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.postimg.cc/DZrGJ8Bq/Real-Madrid.png" tvg-country="ES" tvg-url="" ,Real Madrid TV
 #EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FTFNext_576x576.png?raw=true" ,FTF Next | FTF (Geo-USA)
 https://1622862207.rsc.cdn77.org/FTF/FTF_SCTE_B.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/FTFNext_576x576.png?raw=true" ,FTF Next | LSN (Geo-USA)
-https://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/master.m3u8
 EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/djeM9yx.png" ,Flow Sports 1
 http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="English" tvg-logo="https://i.imgur.com/IpssJvp.png" tvg-country="US" tvg-url="" ,Olympic Channel (UHD)
@@ -43,8 +41,6 @@ https://partne.cdn.mangomolo.com/omsport/smil:omsport.stream.smil/playlist.m3u8
 #EXTINF:0 tvg-country="AZ" tvg-logo=",Матч! Арена
 http://mfe.cliptv.az/dash/Match_Arena_HD.ism/playlist.mpd
 #EXTINF:0 tvg-country="AZ" tvg-logo=",Матч! Футбол 1
-#EXTINF:-1 ,UFC ТВ HD
-http://live-ng-01.more.tv/hls/UFC/master.m3u8
 #EXTINF:-1 ,Матч! Боец
 http://live02-cdn.tv.ti.ru:80/dtv/id1089_NBN_SG--MatchBoec/03/plst.m3u8
 #EXTINF:0 tvg-country="BR;ES" tvg-logo="https://i.imgur.com/2M9WfqA.jpg" ,Real Madrid TV
@@ -97,12 +93,6 @@ https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 https://telecaribe-deportes.gcdn.anvato.net/hls/live/telecaribedeporteshd2/2196k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Turkmen" tvg-logo="" tvg-country="TM" tvg-url="" ,Türkmenistan Sport
 https://alpha.tv.online.tm/hls/ch004_720/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Varzesh TV 2" tvg-language="Persian" tvg-logo="https://i.imgur.com/a9QcLWY.png" tvg-country="IR" tvg-url="" ,Varzesh TV 2
-http://51.158.176.190/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Varzesh TV 3" tvg-language="Persian" tvg-logo="https://i.imgur.com/mnAodqf.png" tvg-country="IR" tvg-url="" ,Varzesh TV 3
-http://51.15.236.137/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Varzesh TV 4" tvg-language="Persian" tvg-logo="https://i.imgur.com/f1e6M2L.png" tvg-country="IR" tvg-url="" ,Varzesh TV 4
-http://163.172.138.186/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="RU" tvg-url="" ,Астрахань.Ru Sport
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="http://www.ktrk.kg/images/channels/nav/sport.png" tvg-country="KG" tvg-url="" ,КТРК Спорт
@@ -122,38 +112,23 @@ https://cdn1.mobiletv.bg/T9/ams_hd/ams_hd_794613_850k.m3u8
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist.m3u8
 #EXTINF:-1 tvg-name="Sports Tonight" tvg-id="FreeSports.uk" group-title="" tvg-logo="https://i.imgur.com/Nh4LyPv.png",Sports Tonight
 http://sports.ashttp9.visionip.tv/live/visiontvuk-sports-sportstonightlive-hsslive-25f-4x3-SD/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Lax Sports Network TV" tvg-logo="https://i.imgur.com/Lt9ZUYA.png”,Lax Sports Network TV
-http://snagfilms-lh.akamaihd.net/i/Laxsportsnetwork_1@322790/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qdEbn9i.png”,Rope 2 Rope
 https://nrpus.bozztv.com/36bay2/gusa-rope2rope/index.m3u8
 #EXTINF:-1 tvg-name="Stadium" tvg-id="Stadium” tvg-logo="https://i.imgur.com/n38w3FD.png",Stadium
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2OEI0Ec.png" ,BE | Play Sports 1 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KhIbxDG.png" ,BE | Play Sports 2 
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/0DtYOWC.png" ,BE | Play Sports 3
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gmvb6SP.png" ,BE | Play Sports 4
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wee5qUc.png" ,BE | Play Sports 5
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KkFQwju.png" ,BE | Play Sports 6
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J9qFIGb.png" ,BE | Play Sports 7
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/zE6rr85.png" ,BE | Play Sports 8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J1VuYAB.png" ,UA | Football 1 Ukraine
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/e7E9Of9.jpg" ,UA | Football 2 Ukraine
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wBJI5Jw.png" ,UA | Sport 1 Ukraine
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/638xHmX.png" ,RU | Astrakhan Sport
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b5H991R.png" ,RU | UFC TV
-http://live-ng-01.more.tv/hls/UFC/master.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/N1cUf8C.png" ,RU | A21 Network Rus
+#EXTINF:-1 tvg-logo="https://i.imgur.cm/b5H991R.png" ,RU | UFC TV
 #EXTINF:-1 tvg-logo="https://i.imgur.com/387jXC7.jpg" ,LT | KOK Fights
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
@@ -161,28 +136,17 @@ https://receiver.adjara.com/adjarasport_live/LiveTV/index.m3u8
 https://receiver.adjara.com/adjarasport_live/LiveTV2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b5H991R.png" ,GE | UFC TV
 https://receiver.adjara.com/adjarasport_live/UFCTV/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FYFyrwt.png" ,AZ | CBC Sport
-http://streams2.livetv.az/azerbaijan/cbc_sport_hd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4FGVDqV.jpg" ,TM | Turkmenistan Sport
 http://alpha.tv.online.tm/hls/ch004_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/q7xHwxd.png" ,AL | SuperSport 1
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/67VfW5z.png" ,AL | SuperSport 2
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rk7DOzh.png" ,AL | SuperSport 3
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tdN6jLe.png" ,AL | SuperSport 4
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nvjY7ue.png" ,AL | SuperSport 5
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qmo5C7Y.png" ,AL | SuperSport 6
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VRoowjg.png" ,AL | SuperSport 7
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IQGjhj6.png" ,XK | Art Sports 1
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IjX5rdB.png" ,XK | Art Sports 2
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qiNdQeN.png" ,XK | Art Sports 3
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j1KtJYZ.png" ,CN | CCTV 5+ 
 http://112.50.243.8/PLTV/88888888/224/3221225821/1.m3u8
@@ -204,9 +168,7 @@ https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8VqomZ5.png" ,AE | Abu Dhabi Sports 4
 https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7snS5Ki.png" ,AE | Abu Dhabi Sports 5
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/icskFzD.png" ,AE | Abu Dhabi Sports 6
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IaRaabJ.jpg" ,AE | Sharjah Sports
 https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eytrf0Y.png" ,AE | Dubai Racing
@@ -214,5 +176,3 @@ http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F1RmiNq.jpg" ,AE | YAS
 https://admdn1.cdn.mangomolo.com/yastv/smil:yastv.stream.smil/playlist.m3u8
 https://alkasmsl4.akamaized.net/hls/live/2003123/alkass2sdnhyi/master570.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FINO5gL.jpg" ,QA | Al Kass Sports Online
-https://alkasmsl4.akamaized.net/hls/live/2003123/alkassOnlespfwGsd/master570.m3u8
