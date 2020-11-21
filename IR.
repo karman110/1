@@ -1,45 +1,3 @@
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kZRLpq1.png" group-title="",CA | GEM TV
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D04QNLf.png" group-title="",CA | GEM AZ
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_az/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJF9i6Q.png" group-title="",CA | GEM Academy
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/mmAWhof.png" group-title="",CA | GEM Arabia
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HWUBmf1.png" group-title="",CA | GEM Fit
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/vp7WmG3.png" group-title="",CA | GEM 24B
-https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist_1920x1080_4500k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ByPLvtx.png" group-title="",CA | GEM Comedy
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/T2QBhOe.png" group-title="",CA | GEM Kids
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5GkZRmk.png" group-title="",CA | GEM Junior
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/onsdgcS.png" group-title="",CA | GEM Drama
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/J0gufsP.png" group-title="",CA | GEM Film
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_film/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MJIxU2f.png" group-title="",CA | GEM Life
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_life/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Hbm5VxM.png" group-title="",CA | GEM Food
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_food/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8OpKp6O.png" group-title="",CA | GEM Travel
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/cYnkBV8.png" group-title="",CA | GEM Nature
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/iLFNHYJ.png" group-title="",CA | Modern Economy
-https://d2e40kvaojifd6.cloudfront.net/stream/modern_economy/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0XZzmIJ.png" group-title="",CA | GEM Property
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ZGEUHXD.png" group-title="",CA | GEM Latino
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_latino/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FMOlV0J.png" group-title="",CA | GEM Series
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wItGfPe.png" group-title="",CA | GEM Classic
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist_960x540_2000k.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/o9juBI9.png" group-title="",CA | GEM Bollywood
-https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist_960x540_2000k.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/oeiaea6.png" tvg-country="IR" tvg-url=",Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="http://static.guim.co.uk/sys-images/Guardian/About/General/2012/3/14/1331728105752/bbc-persian-tv-007.jpg" tvg-country="IR" tvg-url=",BBC Persian
@@ -140,6 +98,48 @@ https://tv.razavi.ir/hls/azadi_3.m3u8
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Navahang TV" tvg-language="Persian" tvg-logo="http://www.navahang.com/apple-touch-icon.png" tvg-country="IR" tvg-url=",Navahang TV
 http://163.172.134.85/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kZRLpq1.png" group-title="",CA | GEM TV
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_tv/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D04QNLf.png" group-title="",CA | GEM AZ
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_az/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZJF9i6Q.png" group-title="",CA | GEM Academy
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_usa/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mmAWhof.png" group-title="",CA | GEM Arabia
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_arabia/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HWUBmf1.png" group-title="",CA | GEM Fit
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_fit/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vp7WmG3.png" group-title="",CA | GEM 24B
+https://d2e40kvaojifd6.cloudfront.net/stream/24b/playlist_1920x1080_4500k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ByPLvtx.png" group-title="",CA | GEM Comedy
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_comedy/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/T2QBhOe.png" group-title="",CA | GEM Kids
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_kids/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GkZRmk.png" group-title="",CA | GEM Junior
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_junior/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/onsdgcS.png" group-title="",CA | GEM Drama
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_drama/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J0gufsP.png" group-title="",CA | GEM Film
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_film/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MJIxU2f.png" group-title="",CA | GEM Life
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_life/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hbm5VxM.png" group-title="",CA | GEM Food
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_food/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8OpKp6O.png" group-title="",CA | GEM Travel
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_travel/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cYnkBV8.png" group-title="",CA | GEM Nature
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_nature/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iLFNHYJ.png" group-title="",CA | Modern Economy
+https://d2e40kvaojifd6.cloudfront.net/stream/modern_economy/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0XZzmIJ.png" group-title="",CA | GEM Property
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_property/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZGEUHXD.png" group-title="",CA | GEM Latino
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_latino/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FMOlV0J.png" group-title="",CA | GEM Series
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_series/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wItGfPe.png" group-title="",CA | GEM Classic
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_classic/playlist_960x540_2000k.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o9juBI9.png" group-title="",CA | GEM Bollywood
+https://d2e40kvaojifd6.cloudfront.net/stream/gem_bollywood/playlist_960x540_2000k.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uGKfZPF.png”,Chive TV
 http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Jis8xic.png" ,Hot Rock TV
