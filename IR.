@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/oeiaea6.png" tvg-country="IR" tvg-url=",Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="http://static.guim.co.uk/sys-images/Guardian/About/General/2012/3/14/1331728105752/bbc-persian-tv-007.jpg" tvg-country="IR" tvg-url=",BBC Persian
@@ -194,3 +195,12 @@ https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 http://rtmp.one.by:1200
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="BY" tvg-url=",Первый Музыкальный BY [FHD]
 http://rtmp.one.by:1300
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3rJRu2.jpg" group-title="Groot-Brittannië",UK | BBC Persian
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="http://static.guim.co.uk/sys-images/Guardian/About/General/2012/3/14/1331728105752/bbc-persian-tv-007.jpg" tvg-country="IR" tvg-url="" group-title="Persian",BBC Persian
+https://vs-dash-ww-live.bbcfmt.hs.llnwd.net/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/pc_hd_abr_v2_dash.mpd
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" tvg-country="UK" tvg-url="" group-title="Persian",BBC Persian
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3rJRu2.jpg" group-title="Groot-Brittannië",UK | BBC Persian
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/index.m3u8
