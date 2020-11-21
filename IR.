@@ -168,3 +168,29 @@ https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Monte Carlo
 http://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Hindi" tvg-logo="https://i.imgur.com/gIYOu4i.jpg" tvg-country="IN" tvg-url=",Jhanjar Music
+http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/BT6jnfv.jpg" tvg-country="SN" tvg-url=",Leeeko TV
+http://livetvsteam.com:1935/leeeko/leeeko/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://i.imgur.com/dKpLbh6.png" tvg-country="AR" tvg-url=",Music Top
+http://live-edge01.telecentro.net.ar:1935/live/msctphd-720/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/uisopuM.png" tvg-country="HT" tvg-url=",Nago TV
+http://haititivi.com:8088/haititv/tele6NY/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://i.imgur.com/pK2p5ey.png" tvg-country="GR" tvg-url=",NG
+http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://i.imgur.com/DfugVgy.png" tvg-country="IT" tvg-url=",Radio Piter Pan TV
+https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Radionorba TV IT" tvg-name="Radionorba TV IT" tvg-language="Italian" tvg-logo="http://guidatv.sky.it/app/guidatv/images/epgimages/channels/home/25780_home.png" tvg-country="IT" tvg-url=",Radionorba TV
+http://flash5.streaming.xdevel.com/radionorbatv/smil:radionorbatv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://3.bp.blogspot.com/-en8hZg-ydAg/XhM37CW34WI/AAAAAAAApbY/kkIzMk9g_IM8m0Mzn-DLoM-Bu4JKlaUawCLcBGAsYHQ/s320/Telemusica.png" tvg-country="UNSORTED" tvg-url=",Telemusica (Music)
+http://186.155.200.118:1935/live/telemusica_web/chunklist_w1469736820.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://dominicanchannels.com/wp-content/uploads/2019/05/TV-EXITOS-1.jpg" tvg-country="UNSORTED" tvg-url=",Tvexitos (RD)
+http://siglo21.dnsalias.com:8080/mylive/tvexitos/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="V2Beat TV" tvg-language="" tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=320&height=320" tvg-country="UNSORTED" tvg-url=",V2Beat TV
+https://abr.de1se01.v2beat.live/playlist.m3u8
+https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Czech" tvg-logo="" tvg-country="CZ" tvg-url=",Óčko
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="BY" tvg-url=",Первый Музыкальный BY
+http://rtmp.one.by:1200
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="BY" tvg-url=",Первый Музыкальный BY [FHD]
+http://rtmp.one.by:1300
