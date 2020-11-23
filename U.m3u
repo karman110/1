@@ -479,3 +479,410 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
 #EXTINF:-1 tvg-name="Tastytrade" tvg-id="Tastytrade" tvg-logo="https://tastytradepublicmedia.s3.amazonaws.com/assets/logos/tt-logo-original-05e5dd25021223dff0203915ecdc9375.png”,TastyTrade
 https://bcovlive-a.akamaihd.net/r8ceb94e3229b4c0bb2dd461dacb3ab07/us-east-1/6057994532001/playlist_dvr.m3u8
+
+
+
+
+
+
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ACTION
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6468?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ADDIK TV
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6467?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AHC
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6466?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",AMC
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6465?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",APTN
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6464?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ARTV
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6463?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ASSEMBLEE NATIONALE QUEBEC
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6462?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC CANADA
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6461?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BNN
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6460?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BOOK TV
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6459?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BRAVO
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6458?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CANAL D
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6457?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CASA
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6455?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC MONTREAL
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6454?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC OTTAWA
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6453?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC TORONTO
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6452?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CORONA VIRUS INFO
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6472?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TLC HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118528?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 4 FHD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118544?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Slice HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118457?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",RDS (FR)
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118440?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NAT GEO Wild HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118405?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NHL Network HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118415?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",OWN HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118424?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Much Music HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118401?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MAV TV
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118381?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",LIFETIME MOVIE NETWORK HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118378?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Investigation Discovery HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118372?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",LCN (FR)
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118376?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 2 HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118346?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118347?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HGTV HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118349?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",GLOBAL VANCOUVER HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118339?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",FOX SPORTS Racing
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118320?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DEJAVIEW HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118281?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Discovery Velocity HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118285?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Disney Channel HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118287?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DIY
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118294?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",E! FHD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118298?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CRAVE 1 HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118245?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CRAVE 2 HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118246?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CRAVE 4 HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118248?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV 2
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118250?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV COMEDY HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118255?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV HALIFAX
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118258?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV MONTREAL HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118260?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV OTTAWA
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118268?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CITY TV HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118231?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118206?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC CANADA HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118173?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",beIN Sports HD
+http://cloud.nicefhd.xyz:80/nathan01/nathan01/118177?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV OTTAWA
+http://rv.therevenge.co:80/691616211141151/691616211141151/81223?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CTV TORONTO
+http://rv.therevenge.co:80/691616211141151/691616211141151/81222?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISCOVERY SCIENCE
+http://rv.therevenge.co:80/691616211141151/691616211141151/81232?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HISTORY
+http://rv.therevenge.co:80/691616211141151/691616211141151/81229?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NAT GEO
+http://rv.therevenge.co:80/691616211141151/691616211141151/81228?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MTV
+http://rv.therevenge.co:80/691616211141151/691616211141151/81242?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MUSIQUE PLUS
+http://rv.therevenge.co:80/691616211141151/691616211141151/81243?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET PACIFIC
+http://rv.therevenge.co:80/691616211141151/691616211141151/81247?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",SPORTSNET EAST
+http://rv.therevenge.co:80/691616211141151/691616211141151/81250?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",BBC WORLD NEWS
+http://rv.therevenge.co:80/691616211141151/691616211141151/81258?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CNN
+http://rv.therevenge.co:80/691616211141151/691616211141151/81256?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CNN INTERNATIONAL
+http://rv.therevenge.co:80/691616211141151/691616211141151/81255?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DISNEY FRENCH
+http://rv.therevenge.co:80/691616211141151/691616211141151/81274?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TELE TOON EAST
+http://rv.therevenge.co:80/691616211141151/691616211141151/81271?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TELE TOON FRENCH
+http://rv.therevenge.co:80/691616211141151/691616211141151/81270?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TMN3E (CRAVE TV 3)
+http://rv.therevenge.co:80/691616211141151/691616211141151/81263?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TRAVEL + ESCAPE
+http://rv.therevenge.co:80/691616211141151/691616211141151/81260?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TREEHOUSE
+http://rv.therevenge.co:80/691616211141151/691616211141151/81269?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",YTV WEST
+http://rv.therevenge.co:80/691616211141151/691616211141151/81267?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MEDIASET ITALIA
+http://rv.therevenge.co:80/691616211141151/691616211141151/81279?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",WILD TV
+http://rv.therevenge.co:80/691616211141151/691616211141151/81285?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",YES TV
+http://rv.therevenge.co:80/691616211141151/691616211141151/81283?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ZESTE
+http://rv.therevenge.co:80/691616211141151/691616211141151/81280?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 3
+http://rv.therevenge.co:80/691616211141151/691616211141151/81300?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TVA GATINEAU
+http://rv.therevenge.co:80/691616211141151/691616211141151/81296?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TVA MONTREAL
+http://rv.therevenge.co:80/691616211141151/691616211141151/81295?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TMN 4
+http://rv.therevenge.co:80/691616211141151/691616211141151/81303?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TSN 1
+http://rv.therevenge.co:80/691616211141151/691616211141151/81302?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TMN 2
+http://rv.therevenge.co:80/691616211141151/691616211141151/81305?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TELE QUEBEC
+http://rv.therevenge.co:80/691616211141151/691616211141151/81311?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TFO
+http://rv.therevenge.co:80/691616211141151/691616211141151/81309?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TLC
+http://rv.therevenge.co:80/691616211141151/691616211141151/81307?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SILVER SCREEN CLASSICS
+http://rv.therevenge.co:80/691616211141151/691616211141151/81324?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SPACE
+http://rv.therevenge.co:80/691616211141151/691616211141151/81322?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",OUTTV
+http://rv.therevenge.co:80/691616211141151/691616211141151/81336?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",PRISE
+http://rv.therevenge.co:80/691616211141151/691616211141151/81332?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",RDS 2
+http://rv.therevenge.co:80/691616211141151/691616211141151/81329?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NTV
+http://rv.therevenge.co:80/691616211141151/691616211141151/81341?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",OLN
+http://rv.therevenge.co:80/691616211141151/691616211141151/81340?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",OMNI 2
+http://rv.therevenge.co:80/691616211141151/691616211141151/81338?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC EAST
+http://rv.therevenge.co:80/691616211141151/691616211141151/81345?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC WEST
+http://rv.therevenge.co:80/691616211141151/691616211141151/81344?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ICI VANCOUVER
+http://rv.therevenge.co:80/691616211141151/691616211141151/81360?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",KNOWLEDGE KIDS
+http://rv.therevenge.co:80/691616211141151/691616211141151/81358?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",LCN
+http://rv.therevenge.co:80/691616211141151/691616211141151/81356?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MOI CIE
+http://rv.therevenge.co:80/691616211141151/691616211141151/81348?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FTV
+http://rv.therevenge.co:80/691616211141151/691616211141151/81375?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",GAME TV
+http://rv.therevenge.co:80/691616211141151/691616211141151/81374?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",GLOBAL TORONTO
+http://rv.therevenge.co:80/691616211141151/691616211141151/81372?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",YOOPA
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6329?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",YTV
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6315?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",YTV WEST
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6314?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",Z TELE
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6328?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ZESTE
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6327?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",LIFETIME
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6402?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MAKEFUL
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6401?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MAVTV CANADA
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6400?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MAX
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6399?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",METEO
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6398?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MIRACLE
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6397?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MLB NETWORK
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6396?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MOI CIE
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6395?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",MTIME
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6394?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NBA TV
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6393?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC EAST
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6392?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NBC WEST
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6391?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",NFL NETWORK
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6390?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NICK
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6389?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",NTV
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6388?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",OLN
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6387?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",OMNI 1
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6386?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",OMNI 2
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6385?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ONE
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6384?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",OUTTV
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6383?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",OWN
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6382?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",PBS EAST
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6381?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",PEACH TREE
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6380?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",PRISE
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6379?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",RDI
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6378?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",RDS
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6377?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",RDS 2
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6376?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",RDS INFO
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6375?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SERIS
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6374?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SHOPPING
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6373?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SHOWCASE EAST
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6372?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SILVER SCREEN CLASSICS
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6371?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SLICE
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6370?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SPACE
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6369?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SPIKE TV / PARAMOUNT CANADA
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6368?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SUPER CHANNEL FUSE
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6367?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SUPER CHANNEL HEART & HOME
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6366?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SUPER CHANNEL VAULT
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6365?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SUPER ECRAN 1
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6364?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SUPER ECRAN 2
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6363?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SUPER ECRAN 3
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6362?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",SUPER ECRAN 4
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6361?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",TCM
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6360?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",GLOBAL VANCOUVER
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6418?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Sport",GOLF
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6417?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",GSN
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6416?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",GUSTO
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6415?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",H2 CANADA
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6414?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 1
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6413?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HBO 2
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6412?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HGTV
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6411?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HLN
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6410?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",HOPE TV
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6409?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ICI MONTREAL
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6408?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ICI VANCOUVER
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6407?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ID CANADA
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6406?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",KNOWLEDGE KIDS
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6405?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",KTLA
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6404?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",LCN
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6403?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CW 11
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6437?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DAYSTAR TV
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6436?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DEJAVIEW
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6435?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DIY
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6434?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",DTOUR
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6433?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",E! CANADA
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6432?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ENCORE 1 EAST
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6431?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ENCORE 2 EAST
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6430?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",EVASION
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6429?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FAMILY CHRGD
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6428?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FAMILY EAST
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6427?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FIGHT NETWORK
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6426?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FOX EAST
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6425?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FOX WEST
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6424?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FRISSON
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6423?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",FTV CANADA
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6422?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",GAME TV
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6421?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",GLOBAL HALIFAX
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6420?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",GLOBAL TORONTO
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6419?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBC VANCOUVER
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6451?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBS EAST
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6450?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CBS WEST
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6449?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CHCH
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6448?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CINEPOP
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6447?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CITY MONTREAL
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6446?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CITY TORONTO
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6445?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CITY VANCOUVER
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6444?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CMT CANADA
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6443?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",COTTAGE LIFE
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6442?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CP24
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6441?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CPAC
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6440?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CPAC FRENCH
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6439?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",CRIME INVEST
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6438?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",A&E
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6471?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC EAST
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6470?checkedby:hlscat.com
+#EXTINF:0 tvg-country="CA" tvg-logo="" group-title="Undefined",ABC WEST
+http://line.crystalott.net:80/6QYRLK6C68/PC36DNVSY6/6469?checkedby:hlscat.com
+
