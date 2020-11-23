@@ -1,5 +1,32 @@
 #EXTM3U
-#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SEX PRIVE
+http://rec2.distv.net:80/egidio/egidio/546?checkedby:hlscat.com
+#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SEX PRIVE
+http://rec2.distv.net:80/pablo/123/546?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/3930?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA FHD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/3929?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA FHD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/165034?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA HD
+http://rv.therevenge.co:80/0555141902/3893970296/79241?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA HD
+http://185.71.64.167:80/7654321/1234567/79356?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA HD
+http://rv.therevenge.co:80/0555141902/3893970296/79356?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA HD
+http://cloud.nicefhd.xyz:80/haosi039/4626df9n/165110?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA HD
+http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/221910?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA HD
+http://185.71.64.167:80/7654321/1234567/79241?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA HD
+http://tv.nousiptv.com:25462/tobias/123/3166?checkedby:hlscat.com
+#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",La Sexta HD ES
+http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4208?checkedby:hlscat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://yt3.ggpht.com/a-/AJLlDp0clHA3g9C5FCCH4qTsDEvVIj-BVy-1KSR92A=s900-mo-c-c0xffffffff-rj-k-no" group-title="Undefined",Sextavision Rancagua
+https://590c5dc5c3271.streamlock.net/carlos107/carlos107/playlist.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Setanta Sports +
 http://195.158.29.129/live_360/live.stream+_360p.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Setanta Sports HD
