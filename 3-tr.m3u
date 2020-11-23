@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jw4F8cY.jpg" group-title="Azerbeidzjan",AZ | ATV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jw4F8cY.jpg" group-title="",AZ | ATV
 https://streams.livetv.az/azerbaijan/atv_sd_stream4/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jw4F8cY.jpg" group-title="Azerbeidzjan",AZ | ATV [-2h]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jw4F8cY.jpg" group-title="",AZ | ATV [-2h]
 http://85.132.81.184:8080/atv-2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jw4F8cY.jpg" group-title="Azerbeidzjan",AZ | ATV [-4h]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jw4F8cY.jpg" group-title="",AZ | ATV [-4h]
 http://85.132.81.184:8080/atv-4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Iv3CZjg.jpg" group-title="",AZ | CBC
 http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/chunklist.m3u8
