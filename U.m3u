@@ -55,8 +55,6 @@ http://www.30a-tv.com/InvPit.m3u8
 http://broadcastny.yournewsnet.com:8081/master/newsnetweb/playlist.m3u8
 #EXTINF:-1 tvg-name="Newsmax TV" tvg-id="Newsmax” tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Newsmaxlogo.PNG/250px-Newsmaxlogo.PNG",Newsmax TV
 https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_1080.m3u8
-#EXTINF:-1 tvg-name="TULALIP TV" tvg-id="TULALIP” tvg-logo="https://www.tulaliptv.com/wp-content/uploads/2015/10/onDemandTulalipTVLogo.png",TULALIP TV 
-https://5c19aea334357.streamlock.net/tulalip/ngrp:myStream_all/playlist.m3u8
 #EXTINF:-1 tvg-name="The Weather Channel" tvg-id="The Weather Channel” tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/The_Weather_Channel_logo_2005-present.svg/220px-The_Weather_Channel_logo_2005-present.svg.png",The Weather Channel
 https://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 tvg-name="30A TV" tvg-id="30a-tv.com” tvg-logo="https://i.imgur.com/4TEMhxH.png",30A TV
