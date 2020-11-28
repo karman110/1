@@ -122,10 +122,6 @@ http://137.74.150.14:8080/permabil/DOSTtv/index.m3u8
 #EXTINF:-0,LALEGÜL TV
 http://lalegultv.netmedya.net/hls/lalegultv.m3u8
 #EXTINF:-0,Mesaj TV
-https://waw2.artiyerelmedya.net/mesajtv/bant1/playlist.m3u8
-#EXTINF:-0,Mihrap TV
-https://yayin.kudustv.com/981680400/mihraptv/playlist.m3u8
-#EXTINF:-0,Köy TV
 https://59cba4d34b678.streamlock.net/canlitv/koytv/chunklist.m3u8
 #EXTINF:-0,TARIM TV
 https://usd.nocvp.com/asset/7Gx7kEbk/chunklist.m3u8
@@ -145,10 +141,6 @@ https://5be5d840359c6.streamlock.net/kanalordutv/kanalordutv/chunklist.m3u8
 https://59cba4d34b678.streamlock.net/canlitv/kanal-2000/chunklist.m3u8
 #EXTINF:-0,CRI Türk Belgesel
 http://cri.aa.net.tr:1935/belgesel/belgesel/chunklist.m3u8
-#EXTINF:-0,Disney Channel
-http://ch.canlitvlive.io/disneychannel/live.m3u8
-#EXTINF:-0,Minika Go
-http://ch.canlitvlive.io/minikago/live.m3u8
 #EXTINF:-0,Minika Çocuk
 http://ch.canlitvlive.io/minikacocuk/live.m3u8
 #EXTINF:-0,TV 4
@@ -233,8 +225,6 @@ http://live.arkumedia.com:1935/dersim62tv/dersim62tv/playlist.m3u8
 https://waw2.artiyerelmedya.net/dimtv/bant1/playlist.m3u8
 #EXTINF:-0,DIYALOG TV
 http://yayin3.canlitv.com:1935/live/diyalogtv/iptvdelisi.m3u8
-#EXTINF:-0,DIYAR TV
-rtmp://yayin10.canliyayin.org/P981680400/diyartv
 #EXTINF:-0,Doğuş TV
 http://s01.vpis.io/dogustv/dogustv.m3u8
 #EXTINF:-0,DRT DENIZLI
@@ -247,8 +237,6 @@ https://5be5d840359c6.streamlock.net/egeaturktv/egeaturktv/playlist.m3u8
 http://stream.ege.edu.tr:1935/live/live/chunklist.m3u8
 #EXTINF:-0,E TV Manisa
 http://broadcasttr.com:1935/manisaetv/bant1/chunklist.m3u8
-#EXTINF:-0,Erciyes TV
-https://59cba4d34b678.streamlock.net/canlitv/erciyestv/chunklist.m3u8
 #EXTINF:-0,ERT Şah TV Erzincan
 http://win20.yayin.com.tr/ertsahtv/ertsahtv/iptvdelisi.m3u8
 #EXTINF:-0,Erzurum Web TV
@@ -259,8 +247,6 @@ https://ssl4.radyotvonline.com/e90tv/e90tvlive/chunklist.m3u8
 http://live.arkumedia.com:1935/finansturktv/finansturktv/playlist.m3u8
 #EXTINF:-0,Finest TV
 http://media.finest.tv/hls/live.m3u8
-#EXTINF:-0,FRT TV
-http://broadcasttr.com:1935/frttv/smil:frttv.smil/playlist.m3u8
 #EXTINF:-0,FRT TV alt
 http://waw1.artiyerelmedya.net:1935/frttv/bant1/playlist.m3u8
 #EXTINF:-0,FTV Türk
