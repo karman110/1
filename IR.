@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB OFOGH
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1507.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB Quran
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1564.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB Semnan
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1570.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB Sepehr FHD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1501.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 1
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1489.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 2
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1490.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 3
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1491.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 3 FHD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1488.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 4
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1492.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 5
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1499.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",Iran International HD
 http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1594.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",PMC FHD
@@ -131,7 +111,26 @@ https://5a3e964ed0b51.streamlock.net/w/azadah/chunklist_w1398305128.m3u8
 http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/chunklist_w1877115045.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://highvision.tv/wp-content/uploads/2018/11/0001.jpg" tvg-country="IR" tvg-url=",High Vision TV
 https://streamer1.connectto.com/HIGHVISION_WEB_1205/tracks-v1a1/mono.m3u8
-
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB OFOGH
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1507.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB Quran
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1564.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB Semnan
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1570.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB Sepehr FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1501.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 1
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1489.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 2
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1490.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 3
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1491.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 3 FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1488.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 4
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1492.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 5
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1499.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",24 Beat TV FHD
 http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1494.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",4U TV
