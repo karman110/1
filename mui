@@ -1,430 +1,173 @@
 #EXTM3U
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SEX PRIVE
-http://rec2.distv.net:80/egidio/egidio/546?checkedby:hlscat.com
-#EXTINF:0 tvg-country="BR" tvg-logo="" group-title="Undefined",SEX PRIVE
-http://rec2.distv.net:80/pablo/123/546?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/3930?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/3929?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA FHD
-http://cloud.nicefhd.xyz:80/haosi039/4626df9n/165034?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA HD
-http://rv.therevenge.co:80/0555141902/3893970296/79241?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA HD
-http://185.71.64.167:80/7654321/1234567/79356?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA HD
-http://rv.therevenge.co:80/0555141902/3893970296/79356?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA HD
-http://cloud.nicefhd.xyz:80/haosi039/4626df9n/165110?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/221910?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA HD
-http://185.71.64.167:80/7654321/1234567/79241?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",LA SEXTA HD
-http://tv.nousiptv.com:25462/tobias/123/3166?checkedby:hlscat.com
-#EXTINF:0 tvg-country="ES" tvg-logo="" group-title="Undefined",La Sexta HD ES
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4208?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://yt3.ggpht.com/a-/AJLlDp0clHA3g9C5FCCH4qTsDEvVIj-BVy-1KSR92A=s900-mo-c-c0xffffffff-rj-k-no" group-title="Undefined",Sextavision Rancagua
-https://590c5dc5c3271.streamlock.net/carlos107/carlos107/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Setanta Sports +
-http://195.158.29.129/live_360/live.stream+_360p.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Setanta Sports HD
-http://myott.tv/stream/E9LYLBWT7X/234.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sharjah Sports,الشارقة سبورت
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b2000000.m3u8?v=&checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",NBC,Sport HD 720
-http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sports 1
-http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/89714?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sports 1
-http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/15018?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sports 10
-http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/8962?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sports 11
-http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/8961?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sports 11
-http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/668059?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sports 2
-http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/15017?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sports 2
-http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/625249?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sports 3
-http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/53269?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sports 3B
-http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/53163?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sports 4
-http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/15015?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sports 4
-http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/8968?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sports 5
-http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/625257?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sports 5
-http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/625248?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sports 6
-http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/15013?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sports 6
-http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/89665?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sports 7
-http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/15012?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sports 7
-http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/8965?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sports 8
-http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/15011?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sports 8
-http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/8964?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sports 9
-http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/8963?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Sports 9
-http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/15010?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",TNT Sports Argentina
-http://latvonlive.com:33612/Pablo/1234/637?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Turkmenistan Sport
-http://217.174.225.146/hls/ch004_720/index.m3u8?q=?seg-user-zona-iptv.ru-v1-a1.m3u8&checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",TyC Sports HD
-http://latvonlive.com:33612/Pablo/1234/239?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/tbcqI3o.jpg" group-title="Sport",US SPORT Tennis Plus 1
-https://playoutengine.sinclairstoryline.com/playout/f2f8b269-dd85-4434-bdd3-b3a64ca9cd60/g.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Viasat Sport
-http://live-ng-01.more.tv/hls/Viasat_Sport_HD/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Viasat Sport East
-https://persik.tv/stream/3602/287583/10249.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Viasat Sport HD
-http://c0.cdn.trinity-tv.net/stream/nwsjexhdi7k5xs2ckauzm7k5v759gbqrz2gw6gwnxtfgkfmemfjcgbnfx44954seezpt9z3gvu7u7xze8my57y7yddkqsutzqk6yne3xf5idpv4yemchyerpvzrg39keuym7vtgmanusygj54xx39ess3i======.m3u8?checkedby:iptvcat.com&checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports En Espaٌol HD
-http://latvonlive.com:33612/Pablo/1234/241?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",beIN Sports HD
-http://latvonlive.com:33612/Pablo/1234/261?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",sport1 HD
-http://176.10.117.3:5000/play/a03k?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",Астрахань.Ru Sport
-https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v1a1/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Sport",Abu Dhabi Sports,Abu Dhabi Sports 1,Abu Dhabi Sports 1 HD (Opt-1),Abu Dhabi Sports1
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_sports1&checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/lKl2wZH.png" group-title="Sport",Abu Dhabi Sports 1
-https://admdn1.cdn.mangomolo.com/adsports1/smil:adsports1.stream.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/9q8gFsq.png" group-title="Sport",Abu Dhabi Sports 2
-https://admdn5.cdn.mangomolo.com/adsports2/smil:adsports2.stream.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Sport",Abu Dhabi Sports 3
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports3&checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/U6XDpXY.png" group-title="Sport",Abu Dhabi Sports 3
-https://admdn3.cdn.mangomolo.com/adsports3/smil:adsports3.stream.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="Sport",Abu Dhabi Sports 4
-http://www.elahmad.com/tv/m3u8/adtv.m3u8?id=abudhabi_Sports4&checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/8VqomZ5.png" group-title="Sport",Abu Dhabi Sports 4
-https://admdn4.cdn.mangomolo.com/adsports4/smil:adsports4.stream.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport",Dubai Sports
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports&checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport",Dubai Sports
-https://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/iYgHR5D.png" group-title="Sport",Dubai Sports 1
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports1&checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport",Dubai Sports 2
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports2&checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/qBdOZ1x.png" group-title="Sport",Dubai Sports 2
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3
-http://www.elahmad.com/tv/m3u8/dubaitv.m3u8?id=dubaisports3&checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/hxxjMPJ.jpg" group-title="Sport",Dubai Sports 3
-https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/eytrf0Y.png" group-title="Sport",Dubai Racing,SPORT : Dubai Racing,SPORT | Dubai Racing
-http://dmisvthvll.cdn.mangomolo.com/events/smil:events.smil/chunklist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",Sharjah Sport,Sharjah Sports
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/IaRaabJ.jpg" group-title="Sport",Sharjah Sport
-https://svs.itworkscdn.net/smc4sportslive/smc4.smil/chunklist_b585000.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORT HD
-http://rv.therevenge.co:80/0555141902/3893970296/80008?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORT NEWS HD
-http://rv.therevenge.co:80/0555141902/3893970296/80006?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 1 HD
-http://rv.therevenge.co:80/0555141902/3893970296/80005?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 12 HD EN
-http://rv.therevenge.co:80/0555141902/3893970296/79994?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 15 HD
-http://rv.therevenge.co:80/0555141902/3893970296/79991?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 2 HD
-http://rv.therevenge.co:80/0555141902/3893970296/80004?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 3 HD
-http://rv.therevenge.co:80/0555141902/3893970296/80003?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 4 HD
-http://rv.therevenge.co:80/0555141902/3893970296/80002?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 5 HD
-http://rv.therevenge.co:80/0555141902/3893970296/80001?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 7 HD
-http://rv.therevenge.co:80/0555141902/3893970296/79999?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 8 HD
-http://rv.therevenge.co:80/0555141902/3893970296/79998?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BEIN SPORTS 9 HD
-http://rv.therevenge.co:80/0555141902/3893970296/79997?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 1
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4758?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 1 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30334?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 1 HD
-http://euiptv.live:8080/Bekim/DviC9IkJDj/8137?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 1 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/234227?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 2
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4759?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 2 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30332?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 2 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/234228?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 3 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30330?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 3 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/234229?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT 3 HD UK
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/4760?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT ESPN FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/234230?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT ESPN HD
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1512?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORT ESPN HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/234231?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 1
-http://rv.therevenge.co:80/0555141902/3893970296/79978?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 1
-http://rv.therevenge.co:80/0555141902/3893970296/79932?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 1
-http://rv.therevenge.co:80/0555141902/3893970296/79957?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 1
-http://185.232.53.5:2086/arellano/kgtL965n2Y/67062?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 2
-http://rv.therevenge.co:80/0555141902/3893970296/79931?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 2
-http://rv.therevenge.co:80/0555141902/3893970296/79956?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 2
-http://185.232.53.5:2086/arellano/kgtL965n2Y/67063?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 2
-http://rv.therevenge.co:80/0555141902/3893970296/79977?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 3
-http://rv.therevenge.co:80/0555141902/3893970296/79955?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 3
-http://rv.therevenge.co:80/0555141902/3893970296/79976?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS 3
-http://185.232.53.5:2086/arellano/kgtL965n2Y/67075?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS ESPN
-http://rv.therevenge.co:80/0555141902/3893970296/79933?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS ESPN
-http://rv.therevenge.co:80/0555141902/3893970296/79979?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS ESPN
-http://rv.therevenge.co:80/0555141902/3893970296/79958?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS ESPN
-http://185.232.53.5:2086/arellano/kgtL965n2Y/67076?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS EXTRA 5
-http://rv.therevenge.co:80/0555141902/3893970296/79908?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT SPORTS MOSAIC
-http://rv.therevenge.co:80/0555141902/3893970296/79929?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1
-http://iptvsmarters.cc:25461/bercan/bercan/4241?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 1
-http://iptvsmarters.cc:25461/live/ocoskun/ocoskun/4241.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 2
-http://iptvsmarters.cc:25461/live/ocoskun/ocoskun/4242.m3u8?checkedby:hlscat.com
-
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 2 HD
-http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169893?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 2 HD
-http://euiptv.live:8080/Bekim/DviC9IkJDj/8139?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 3
-http://iptvsmarters.cc:25461/live/ocoskun/ocoskun/4243.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 3 FHD
-http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169891?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 3 HD
-http://euiptv.live:8080/Bekim/DviC9IkJDj/81953?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 3 HD
-http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169894?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport 3 UHD
-http://euiptv.live:8080/Bekim/DviC9IkJDj/8140?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport ESPN
-http://iptvsmarters.cc:25461/live/ocoskun/ocoskun/4244.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport ESPN FHD
-http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169895?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport ESPN HD
-http://euiptv.live:8080/Bekim/DviC9IkJDj/81954?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport Extra 1
-http://euiptv.live:8080/Bekim/DviC9IkJDj/7951?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport Extra 3
-http://euiptv.live:8080/Bekim/DviC9IkJDj/7953?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport Extra 3 HD
-http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169904?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport eXtra 1 HD
-http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169902?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport eXtra 2 FHD
-http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169896?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",BT Sport eXtra 4 HD
-http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169905?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",EIR SPORT 1
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91786?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",EIR SPORT 2
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91787?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",EIR SPORTS 1
-http://rv.therevenge.co:80/0555141902/3893970296/79832?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",EIR SPORTS 1
-http://185.232.53.5:2086/arellano/kgtL965n2Y/36252?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",EIR SPORTS 2
-http://185.232.53.5:2086/arellano/kgtL965n2Y/36253?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",EIR SPORTS 2 FHD
-http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169977?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",EIR Sports 2
-http://iptvsmarters.cc:25461/live/ocoskun/ocoskun/4257.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",EUROSPORT 1
-http://rv.therevenge.co:80/0555141902/3893970296/79928?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",EUROSPORT 1
-http://185.232.53.5:2086/arellano/kgtL965n2Y/72659?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",EUROSPORT 1 FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/30273?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",EUROSPORT 2
-http://185.232.53.5:2086/arellano/kgtL965n2Y/72660?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",EUROSPORT 2 FHD
-http://cloud.nicefhd.xyz:80/haosi039/4626df9n/169985?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",EUROSPORT ONE
-http://185.232.53.5:2086/arellano/kgtL965n2Y/99200?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",EUROSPORT TWO
-http://185.232.53.5:2086/arellano/kgtL965n2Y/99201?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Eir Sport 1 UHD
-http://euiptv.live:8080/Bekim/DviC9IkJDj/7990?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Eir Sport 2 HD
-http://euiptv.live:8080/Bekim/DviC9IkJDj/81957?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Eir Sport 2 UHD
-http://euiptv.live:8080/Bekim/DviC9IkJDj/7992?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Eurosport 1 HD
-http://euiptv.live:8080/Bekim/DviC9IkJDj/81958?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Eurosport 2
-http://euiptv.live:8080/Bekim/DviC9IkJDj/7994?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",FREE SPORTS FHD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99704?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",FREESPORTS
-http://mains.vip:2086/craigg/1Lurn7m3F1/99228?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",FREESPORTS
-http://185.232.53.5:2086/arellano/kgtL965n2Y/99228?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
-http://161.0.157.9/PLTV/88888888/224/3221226899/03.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
-http://161.0.157.9/PLTV/88888888/224/3221226899/02.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/djeM9yx.png" group-title="Sport",Flow Sports 1
-http://161.0.157.5/PLTV/88888888/224/3221226899/01.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Free Sports
-http://euiptv.live:8080/Bekim/DviC9IkJDj/8003?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",HORIZON SPORTS
-http://cloud.nicefhd.xyz:80/haosi039/4626df9n/170019?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="https://i.imgur.com/jt6g1Jt.png" group-title="Sport",Horizon Sports
-https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",PREMIER SPORTS
-http://rv.therevenge.co:80/0555141902/3893970296/79950?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",PREMIER SPORTS 1
-http://mains.vip:2086/craigg/1Lurn7m3F1/91782?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",PREMIER SPORTS 1
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91782?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",PREMIER SPORTS 2
-http://rv.therevenge.co:80/0555141902/3893970296/79949?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",PREMIER SPORTS 2
-http://mains.vip:2086/craigg/1Lurn7m3F1/91783?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",PREMIER SPORTS 2
-http://185.232.53.5:2086/arellano/kgtL965n2Y/91783?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",PREMIERE SPORTS
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32743?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",Premier Sports HD
-http://cloud.nicefhd.xyz:80/haosi039/4626df9n/170126?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SETANTA SPORTS HD
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1501?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SETANTA/PREMIERE SPORTS
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/32754?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORT CRICKET HD
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1017?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORT MIX
-http://rv.therevenge.co:80/0555141902/3893970296/79964?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORT MIX
-http://rv.therevenge.co:80/0555141902/3893970296/79935?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS ACTION
-http://rv.therevenge.co:80/0555141902/3893970296/79987?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS ACTION
-http://rv.therevenge.co:80/0555141902/3893970296/79943?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS ACTION HD
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1018?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS ACTION HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99699?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS ARENA
-http://rv.therevenge.co:80/0555141902/3893970296/79983?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS ARENA
-http://rv.therevenge.co:80/0555141902/3893970296/79962?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS ARENA
-http://rv.therevenge.co:80/0555141902/3893970296/79938?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS ARENA
-http://mains.vip:2086/craigg/1Lurn7m3F1/85931?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS ARENA
-http://185.232.53.5:2086/arellano/kgtL965n2Y/85931?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS ARENA HD
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1016?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS ARENA HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99700?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS CRICKET
-http://rv.therevenge.co:80/0555141902/3893970296/79982?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS CRICKET
-http://rv.therevenge.co:80/0555141902/3893970296/79961?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS CRICKET
-http://mains.vip:2086/craigg/1Lurn7m3F1/51106?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS CRICKET
-http://rv.therevenge.co:80/0555141902/3893970296/79937?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS CRICKET
-http://185.232.53.5:2086/arellano/kgtL965n2Y/51106?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1
-http://rv.therevenge.co:80/0555141902/3893970296/79981?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1
-http://rv.therevenge.co:80/0555141902/3893970296/79960?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1
-http://rv.therevenge.co:80/0555141902/3893970296/79936?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1
-http://mains.vip:2086/craigg/1Lurn7m3F1/67056?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1
-http://185.232.53.5:2086/arellano/kgtL965n2Y/67056?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1 HD
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1020?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS F1 HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99698?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS FOOTBALL
-http://rv.therevenge.co:80/0555141902/3893970296/79942?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS FOOTBALL
-http://rv.therevenge.co:80/0555141902/3893970296/79967?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS FOOTBALL
-http://rv.therevenge.co:80/0555141902/3893970296/79986?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS FOOTBALL
-http://mains.vip:2086/craigg/1Lurn7m3F1/67057?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS FOOTBALL
-http://185.232.53.5:2086/arellano/kgtL965n2Y/67057?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS FOOTBALL HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99695?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS GOLF
-http://rv.therevenge.co:80/0555141902/3893970296/79980?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS GOLF
-http://rv.therevenge.co:80/0555141902/3893970296/79934?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS GOLF
-http://rv.therevenge.co:80/0555141902/3893970296/79959?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS GOLF
-http://mains.vip:2086/craigg/1Lurn7m3F1/67059?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS GOLF
-http://185.232.53.5:2086/arellano/kgtL965n2Y/67059?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS GOLF HD
-http://portal1.iptveurope.net:8000/Ekremdalgac/FD7xI27cCv/1019?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS GOLF HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99697?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MAIN EVENT
-http://rv.therevenge.co:80/0555141902/3893970296/79941?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MAIN EVENT
-http://rv.therevenge.co:80/0555141902/3893970296/79985?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MAIN EVENT
-http://mains.vip:2086/craigg/1Lurn7m3F1/67058?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MAIN EVENT
-http://rv.therevenge.co:80/0555141902/3893970296/79965?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MAIN EVENT
-http://185.232.53.5:2086/arellano/kgtL965n2Y/67058?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MAIN EVENT HD
-http://primeplus.tv:8080/9fmdpS1HX64Jt1jK/GswpEYfHHZEGn6fqcDnlH/99693?checkedby:hlscat.com
-#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Sport",SKY SPORTS MIX
-http://mains.vip:2086/craigg/1Lurn7m3F1/67061?checkedby:hlscat.com
+#EXTINF:-1 tvg-id="" tvg-name="24 Box TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/HGmC8ea.png" tvg-country="IR" tvg-url="" group-title="Movies",24 Box TV
+http://51.158.190.97/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="4U TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/Icob3E3.jpg" tvg-country="IR" tvg-url="" group-title="Entertainment",4U TV
+http://live.4ulive.ir/
+#EXTINF:-1 tvg-id="" tvg-name="Afghan TV" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/afghantv.jpg" tvg-country="IR" tvg-url="" group-title="",AFN TV
+https://unirtmp.tulix.tv/tintv2/tintv2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Alam" tvg-language="Arabic" tvg-logo="https://i.imgur.com/jY1u1zz.png" tvg-country="IR" tvg-url="" group-title="News",Al Alam
+https://live2.alalamtv.net/live/Alalam/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="IR" tvg-url="" group-title="",Al Kawthar TV
+http://178.252.143.156:1935/live/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Al Zahra TV" tvg-language="" tvg-logo="https://i.imgur.com/ffFbUmd.jpg" tvg-country="IR" tvg-url="" group-title="",Al Zahra TV
+https://live.al-zahratv.com/live/playlist2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="" tvg-country="IR" tvg-url="" group-title="Sport",All Sports
+http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="AMG TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/Wc6KQta.png" tvg-country="IR" tvg-url="" group-title="Entertainment",AMG TV
+https://nl.live21.ir/hls2/AMG.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Andisheh TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/UFV7YVy.jpg" tvg-country="IR" tvg-url="" group-title="",Andisheh TV
+https://livestream.5centscdn.com/cls090117/49ead3a7c6432c5358a086d078110c16.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ayeneh TV" tvg-language="Persian" tvg-logo="https://www.ayeneh.org/wp-content/uploads/2016/04/Ayeneh-TV-April-16-400x223.png" tvg-country="IR" tvg-url="" group-title="",Ayeneh TV
+https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="http://static.guim.co.uk/sys-images/Guardian/About/General/2012/3/14/1331728105752/bbc-persian-tv-007.jpg" tvg-country="IR" tvg-url="" group-title="News",BBC Persian (not 24hrs)
+https://vs-dash-ww-live.bbcfmt.hs.llnwd.net/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/pc_hd_abr_v2_dash.mpd
+#EXTINF:-1 tvg-id="" tvg-name="Caltex TV" tvg-language="Persian" tvg-logo="https://www.livefarsi.com/uploads/tv_image/caltex-music-tv.png" tvg-country="IR" tvg-url="" group-title="Music",Caltex TV
+https://vid1.caltexmusic.com/hls/caltextv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Canada Star TV" tvg-language="English" tvg-logo="http://canadastartv.com/resimler/sistem/logo.png" tvg-country="IR" tvg-url="" group-title="",Canada Star TV
+https://live.livestreamtv.ca/canadastartv/smil:canadastartv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cine Film" tvg-language="Persian" tvg-logo="https://i.imgur.com/wWKyJDs.png" tvg-country="IR" tvg-url="" group-title="Entertainment",Cine Film
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cineseries" tvg-language="Persian" tvg-logo="https://i.imgur.com/Iz8re8Z.png" tvg-country="IR" tvg-url="" group-title="Entertainment",Cineseries
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="EBC1 TV" tvg-language="Persian" tvg-logo="https://www.livefarsi.com/uploads/tv_image/ebc1-tv.jpg" tvg-country="IR" tvg-url="" group-title="Music",EBC1 TV
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Ganje Hozoor" tvg-language="Persian" tvg-logo="http://channels.roku.com/images/1f1d73fcce5245c48a21dfcfbebea2ef-hd.jpg" tvg-country="IR" tvg-url="" group-title="",Ganje Hozoor
+https://topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HodHod TV" tvg-language="Persian" tvg-logo="http://www.hodhodfarsi.tv/style-index/hodhod-logo.png" tvg-country="IR" tvg-url="" group-title="Kids",Hodhod
+http://51.158.184.234/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="iFILM Arabic" tvg-language="Arabic" tvg-logo="https://i.imgur.com/RPwKZUD.jpg" tvg-country="IR" tvg-url="" group-title="Movies",iFILM Arabic
+https://live.presstv.com/ifilmlive/smil:ifilmar.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="iFILM English" tvg-language="English" tvg-logo="https://i.imgur.com/GgmXZRU.png" tvg-country="IR" tvg-url="" group-title="Movies",iFILM English
+https://live1.presstv.com/live/ifilmen.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="iFILM Persian 1" tvg-language="Persian" tvg-logo="https://i.imgur.com/El4Ymh6.png" tvg-country="IR" tvg-url="" group-title="Movies",iFILM Persian 1
+https://live.presstv.com/ifilmlive/smil:ifilmtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="iFILM Persian 2" tvg-language="Persian" tvg-logo="https://fa2.ifilmtv.com/img/test-final02.png" tvg-country="IR" tvg-url="" group-title="Movies",iFILM Persian 2
+https://live1.presstv.com/live/ifilm2.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Imam Hussein TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/FPfq4O5.png" tvg-country="IR" tvg-url="" group-title="Religious",Imam Hussein TV 1
+https://live.imamhossaintv.com/live/ih103/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="INTV Simaye Azadi" tvg-language="Persian" tvg-logo="https://i.imgur.com/CTIINTk.png" tvg-country="IR" tvg-url="" group-title="",INTV Simaye Azadi
+https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Iran International" tvg-language="Persian" tvg-logo="https://i.imgur.com/oeiaea6.png" tvg-country="IR" tvg-url="" group-title="News",Iran International
+https://live.playstop.me/LS-63503-4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Iran-e Farda TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/wQO4Fiv.png" tvg-country="IR" tvg-url="" group-title="",Iran-e Farda TV
+https://bozztv.com/36bay2/gin/giniko_iranefardatv_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IRIB Amoozesh" tvg-language="Persian" tvg-logo="https://i.imgur.com/MbZtaDO.png" tvg-country="IR" tvg-url="" group-title="Education",IRIB Amoozesh
+https://bozztv.com/36bay2/gin/giniko_iribamoozesh_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="IRIB Nasim IR" tvg-name="IRIB Nasim" tvg-language="English" tvg-logo="https://i.imgur.com/vJN95kP.png" tvg-country="IR" tvg-url="" group-title="Entertainment",IRIB NASIM
+https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IRIB OFOGH" tvg-language="Persian" tvg-logo="https://i.imgur.com/7fh4LwG.png" tvg-country="IR" tvg-url="" group-title="Documentary",IRIB OFOGH
+https://bozztv.com/36bay2/gin/giniko_iribofogh_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="IRIB TV1 IR" tvg-name="IRIB TV1" tvg-language="Persian" tvg-logo="https://i.imgur.com/hH9xk9K.png" tvg-country="IR" tvg-url="" group-title="General",IRIB TV1
+https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="IRIB TV2 IR" tvg-name="IRIB TV2" tvg-language="Persian" tvg-logo="https://i.imgur.com/gEkSbEi.png" tvg-country="IR" tvg-url="" group-title="General",IRIB TV2
+https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IRIB TV3" tvg-language="Persian" tvg-logo="https://i.imgur.com/xAdm6cB.png" tvg-country="IR" tvg-url="" group-title="General",IRIB TV3
+https://livetv.persianleague.com/live/tv3/playlist.m3u8
+#EXTINF:-1 tvg-id="IRIB TV4 IR" tvg-name="IRIB TV4" tvg-language="Persian" tvg-logo="https://i.imgur.com/pTJEpeJ.png" tvg-country="IR" tvg-url="" group-title="General",IRIB TV4
+https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="IRIB TV5 IR" tvg-name="IRIB TV5" tvg-language="Persian" tvg-logo="https://i.imgur.com/qQBqGGf.png" tvg-country="IR" tvg-url="" group-title="General",IRIB TV5
+https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IRIB Varzesh" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a6/IRIB_Varzesh_Logo.png" tvg-country="IR" tvg-url="" group-title="Sport",IRIB Varzesh
+https://livetv.persianleague.com/live/varzesh/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ITN TV" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/12/Iran_TV_Network.png" tvg-country="IR" tvg-url="" group-title="Entertainment",ITN TV
+https://2nbyjjx7y53k-hls-live.5centscdn.com/031820/ba22796be201dee03c46a9b0ada66145.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Kalemeh TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/HQjLbwm.png" tvg-country="IR" tvg-url="" group-title="Religious",Kalemeh TV
+https://live.kalemehtv.tv/live/ngrp:kalemeh_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Karbala Live 1" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="Religious",Karbala Live 1
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Karbala Live 2" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="Religious",Karbala Live 2
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot2/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Karbala Live 3" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="Religious",Karbala Live 3
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot3/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Karbala Live 4" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="Religious",Karbala Live 4
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Karbala Live 5" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="Religious",Karbala Live 5
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot5/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Karbala Live 6" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" tvg-country="IR" tvg-url="" group-title="Religious",Karbala Live 6
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot6/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Manoto TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/dNB92lj.png" tvg-country="IR" tvg-url="" group-title="Entertainment",Manoto
+https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mashhad Live 1 (Azadi)" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Mashhad_Metro_logo.png" tvg-country="IR" tvg-url="" group-title="Religious",Mashhad Live 1 (Azadi)
+https://tv.razavi.ir/hls/azadi.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mashhad Live 2 (Enghelab)" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Mashhad_Metro_logo.png" tvg-country="IR" tvg-url="" group-title="Religious",Mashhad Live 2 (Enghelab)
+https://tv.razavi.ir/hls/enghelab.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mihan TV" tvg-language="Persian" tvg-logo="http://mihantv.com/wp-content/themes/mihantv/images/logo.png" tvg-country="IR" tvg-url="" group-title="News",Mihan TV
+https://iptv.mihantv.com/live/playlist1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mohabat TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/espyPNl.png" tvg-country="IR" tvg-url="" group-title="Religious",Mohabat TV
+http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Mohabat TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/r1VblfT.png" tvg-country="IR" tvg-url="" group-title="Religious",Mohabat TV
+https://5acf9f9415a10.streamlock.net:443/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Navahang TV" tvg-language="Persian" tvg-logo="http://www.navahang.com/apple-touch-icon.png" tvg-country="IR" tvg-url="" group-title="Music",Navahang TV
+http://163.172.134.85/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Omid Javedan" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/omidjavedan.jpg" tvg-country="IR" tvg-url="" group-title="",Omid Javedan
+https://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="OX Film" tvg-language="Persian" tvg-logo="https://i.imgur.com/97ATQV7.png" tvg-country="IR" tvg-url="" group-title="Entertainment",OX Film
+http://51.158.103.244/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Oxir TV" tvg-language="Persian" tvg-logo="https://telegramindex.com/assets/telegram/chat/OXIRTV" tvg-country="IR" tvg-url="" group-title="Entertainment",Oxir TV
+http://212.47.226.211/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Parnian TV" tvg-language="Persian" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ca-parnian-tv-9509.jpg" tvg-country="IR" tvg-url="" group-title="",Parnian TV
+https://live2.parnian.tv/hls/live/play.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Pars TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/EKS7sPr.png" tvg-country="IR" tvg-url="" group-title="",Pars TV
+https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Parsiland TV" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/parsiland.jpg" tvg-country="IR" tvg-url="" group-title="Entertainment",Parsiland TV
+http://vps.parsiland.net/hls/ParsiLand.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Payam Javan TV" tvg-language="Persian" tvg-logo="https://payamjavan.com/wp-content/uploads/2019/05/logo-Payam-Javan.png" tvg-country="IR" tvg-url="" group-title="Entertainment",Payam Javan TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Payvand TV" tvg-language="Persian" tvg-logo="http://nebula.wsimg.com/e903234fabf798439adab0207277eb7b?AccessKeyId=2686ECEA8341253D570E&disposition=0&alloworigin=1" tvg-country="IR" tvg-url="" group-title="Religious",Payvand TV
+https://uni6rtmp.tulix.tv/ucur1/Payvand/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PBC Tapesh TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/J0Oj78g.jpg" tvg-country="IR" tvg-url="" group-title="",PBC Tapesh TV
+http://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PBC Tapesh TV (backup)" tvg-language="Persian" tvg-logo="http://www.tapesh.tv/wp-content/uploads/2017/08/tapesh-new-logo-300x300.png" tvg-country="IR" tvg-url="" group-title="Entertainment",PBC Tapesh TV (backup)
+http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Persian Bazar" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/persianbazar.png" tvg-country="IR" tvg-url="" group-title="",Persian Bazar
+https://stream.persiantv1.com/ptv1/playlist1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Persiana 1 FAMILY" tvg-language="Persian" tvg-logo="https://i.imgur.com/cMhVIge.png" tvg-country="IR" tvg-url="" group-title="Family",Persiana 1 FAMILY
+http://51.15.229.209/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Persiana 2 CINEMA" tvg-language="Persian" tvg-logo="https://i.imgur.com/OUu7eyJ.png" tvg-country="IR" tvg-url="" group-title="Movies",Persiana 2 CINEMA
+http://51.15.193.156/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Persiana 3 JUNIOR" tvg-language="Persian" tvg-logo="https://i.imgur.com/o9Gu7XX.png" tvg-country="IR" tvg-url="" group-title="Kids",Persiana 3 JUNIOR
+http://51.158.74.129/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Persiana 4 IRANIAN" tvg-language="Persian" tvg-logo="https://i.imgur.com/uGIVWnE.png" tvg-country="IR" tvg-url="" group-title="Entertainment",Persiana 4 IRANIAN
+http://51.158.97.214/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Persiana 5 DOCUMENTARY" tvg-language="Persian" tvg-logo="https://i.imgur.com/Gmg0Y88.png" tvg-country="IR" tvg-url="" group-title="Documentary",Persiana 5 DOCUMENTARY
+http://163.172.174.60/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Persiana 6 MUSIC" tvg-language="Persian" tvg-logo="https://i.imgur.com/uZgjd9S.jpg" tvg-country="IR" tvg-url="" group-title="Music",Persiana 6 MUSIC
+http://163.172.147.113/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Press TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/TNQKahI.png" tvg-country="IR" tvg-url="" group-title="News",Press TV
+https://bozztv.com/36bay2/gin/giniko_presstv_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Farda" tvg-language="Persian" tvg-logo="https://i.imgur.com/NqTGH0Q.png" tvg-country="IR" tvg-url="" group-title="",Radio Farda
+https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Javan TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/4XTyMST.jpg" tvg-country="IR" tvg-url="" group-title="Music",Radio Javan TV
+https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rangarang TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/s5yF9aU.jpg" tvg-country="IR" tvg-url="" group-title="",Rangarang TV
+https://iptv.rangarang.us/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Sahar Urdu" tvg-language="Urdu" tvg-logo="https://i.imgur.com/eNIZq3q.png" tvg-country="IR" tvg-url="" group-title="",Sahar Urdu
+https://bozztv.com/36bay2/gin/giniko_saharurdu_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Salamat Tube" tvg-language="Persian" tvg-logo="https://i.imgur.com/2Ka4Ins.png" tvg-country="IR" tvg-url="" group-title="Health",Salamat Tube
+http://51.158.116.146/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SAT7 PARS" tvg-language="Persian" tvg-logo="https://i.imgur.com/zsPFNFu.png" tvg-country="IR" tvg-url="" group-title="Religious",SAT7 PARS
+https://unirtmp.tulix.tv/sat7pars/satparslive-web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="SAT7 TURK" tvg-language="Turkish" tvg-logo="https://i.imgur.com/X5ut7of.png" tvg-country="IR" tvg-url="" group-title="Religious",SAT7 TURK
+https://unirtmp.tulix.tv/sat7turk/satturklive-web.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://nejattv.org/assets/img/tbn-nejat-logo.png" tvg-country="IR" tvg-url="" group-title="",TBN Nejat TV
+https://api.new.livestream.com/accounts/27460990/events/8266913/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Tin TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/YpBeTXf.png" tvg-country="IR" tvg-url="" group-title="",Tin TV
+https://unirtmp.tulix.tv/tintv/tintv/chunklist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TIN TV" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/tin.jpg" tvg-country="IR" tvg-url="" group-title="",TIN TV
+https://unirtmp.tulix.tv/tintv/tintv/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="TV Azadi" tvg-language="Persian" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-tv-azadi-4338.jpg" tvg-country="IR" tvg-url="" group-title="",TV Azadi
+https://5a3e964ed0b51.streamlock.net/w/azadah/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Valiasr TV" tvg-language="Persian" tvg-logo="https://i.pinimg.com/736x/ed/16/6f/ed166f14a9bbebb09f4c8795eb1806ba.jpg" tvg-country="IR" tvg-url="" group-title="Religious",Valiasr TV
+https://ir3.live21.ir/hls2/valiasr.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Varzesh TV" tvg-language="Persian" tvg-logo="https://i.imgur.com/dSYJdEJ.png" tvg-country="IR" tvg-url="" group-title="Sport",Varzesh TV
+http://51.158.66.44/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Varzesh TV 2" tvg-language="Persian" tvg-logo="https://i.imgur.com/a9QcLWY.png" tvg-country="IR" tvg-url="" group-title="Sport",Varzesh TV 2
+http://51.158.176.190/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Varzesh TV 3" tvg-language="Persian" tvg-logo="https://i.imgur.com/mnAodqf.png" tvg-country="IR" tvg-url="" group-title="Sport",Varzesh TV 3
+http://51.15.236.137/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Varzesh TV 4" tvg-language="Persian" tvg-logo="https://i.imgur.com/f1e6M2L.png" tvg-country="IR" tvg-url="" group-title="Sport",Varzesh TV 4
+http://163.172.138.186/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="VOA Persian" tvg-language="Persian" tvg-logo="https://i.imgur.com/7uEI6ck.png" tvg-country="IR" tvg-url="" group-title="News",VOA Persian
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="YourTime TV" tvg-language="Persian" tvg-logo="https://yourtime.tv/img/utv-logo.png" tvg-country="IR" tvg-url="" group-title="Entertainment",YourTime TV
+https://hls.yourtime.live/hls/stream.m3u8
