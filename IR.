@@ -329,7 +329,7 @@ http://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/i
 https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",Pars TV PTN
 http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1561.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="https://www.parsatv.com/index_files/channels/parsiland.jpg" group-title="Entertainment;Undefined",Parsiland TV,ParsiLand TV (US)
+#EXTINF:0 tvg-country="IR" tvg-logo="https://www.parsatv.com/index_files/channels/parsiland.jpg" group-title="",Parsiland TV,ParsiLand TV (US)
 http://vps.parsiland.net/hls/ParsiLand.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",Payam Aramesh FHD
 http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1511.ts?checkedby:hlscat.com
