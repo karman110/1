@@ -287,7 +287,7 @@ https://d2rwmwucnr0d10.cloudfront.net/live_500.m3u8?checkedby:hlscat.com
 http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1574.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",Mifa Music FHD
 http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1544.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="http://mihantv.com/wp-content/themes/mihantv/images/logo.png" group-title=";Undefined",Mihan TV,Mihan TV (US)
+#EXTINF:0 tvg-country="IR" tvg-logo="http://mihantv.com/wp-content/themes/mihantv/images/logo.png" group-title="",Mihan TV,Mihan TV (US)
 http://iptv.mihantv.com/live/playlist1/index.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",Mihan TV
 http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1526.ts?checkedby:hlscat.com
