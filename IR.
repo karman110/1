@@ -399,7 +399,7 @@ http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1597.ts?checkedby:hlscat.c
 http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1557.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/7uEI6ck.png" group-title="",VOA Persian
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",VOA Persian
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",VOA Persian
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8#EXTINF:-1 tvg-logo="https://i.imgur.com/4rzSB71.png" group-title="IRAN",24 Box TV?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",VOX 1
 http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1562.ts?checkedby:hlscat.com
