@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB OFOGH
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1507.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB Quran
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1564.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB Semnan
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1570.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB Sepehr FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1501.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 1
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1489.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 2
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1490.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 3
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1491.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 3 FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1488.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 4
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1492.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 5
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1499.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",Iran International HD
 http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1594.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",PMC FHD
@@ -7,9 +27,6 @@ http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1523.ts?checkedby:hlscat.c
 http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1517.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",Persian Movie
 http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1602.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",Persian One
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB Varzesh
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1500.ts?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-name="Navahang TV" tvg-language="Persian" tvg-logo="http://www.navahang.com/apple-touch-icon.png" tvg-country="IR" tvg-url=",Navahang TV
 http://163.172.134.85/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/dNB92lj.png" tvg-country="IR" tvg-url=",Manoto
@@ -54,6 +71,8 @@ https://bozztv.com/36bay2/gin/giniko_iribofogh_900kb_36bay2/tracks-v1a1/mono.m3u
 https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="IRIB TV2 IR" tvg-name="IRIB TV2 IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/gEkSbEi.png" tvg-country="IR" tvg-url=",IRIB TV2
 https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB Varzesh
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1500.ts?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="IRIB TV4 IR" tvg-name="IRIB TV4 IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/pTJEpeJ.png" tvg-country="IR" tvg-url=",IRIB TV4
 https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="IRIB TV5 IR" tvg-name="IRIB TV5 IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/qQBqGGf.png" tvg-country="IR" tvg-url=",IRIB TV5
@@ -305,26 +324,6 @@ https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u
 http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1516.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/7fh4LwG.png" group-title="",IRIB OFOGH
 https://bozztv.com/36bay2/gin/giniko_iribofogh_900kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB OFOGH
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1507.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB Quran
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1564.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB Semnan
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1570.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB Sepehr FHD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1501.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 1
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1489.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 2
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1490.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 3
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1491.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 3 FHD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1488.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 4
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1492.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB TV 5
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1499.ts?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/hH9xk9K.png" group-title="",IRIB TV1
 https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/gEkSbEi.png" group-title="",IRIB TV2
