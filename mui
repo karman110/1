@@ -1,173 +1,420 @@
-#EXTINF:-1 tvg-logo="https://i.imgur.com/HL7fwzt.png" group-title="UK",Afrobeats
-https://stream.ecable.tv/afrobeats/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.iptv-epg.com/co/AMC.co.png" group-title="UK",AMC
-http://84.22.33.254/unicast.amc/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/uxEkyBS.png" group-title="UK",AsSalt TV
-https://stream.ecable.tv/asstv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png" group-title="UK",BBC News
-https://edge-1192-ch-gv.filmon.com/live/27.low.stream/playlist.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/idRFfhY.png" group-title="UK",Bloomberg TV
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/1200px-Boomerang_2014_logo.svg.png" group-title="UK",Boomerang
-http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Box_hits.svg/1280px-Box_hits.svg.png" group-title="UK",Box Hits
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/aUyuS7T.png" group-title="UK",BritCom
-https://dai.google.com/linear/hls/event/IdHTuehZQPClis-gJaZkFQ/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pcpSfMD.png" group-title="UK",CBBC
-http://bozztv.com/36bay2/gin/giniko_bbcthree_900kb_36bay2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4wbZUfh.png" group-title="UK",CGTN Documentary (Opt-1)
-http://live.cgtn.com/cctv-d.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4wbZUfh.png" group-title="UK",CGTN Documentary (Opt-2)
-http://livefr.cgtn.com/1000d/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4wbZUfh.png" group-title="UK",CGTN Documentary (Opt-3)
-http://45.126.83.51/qwr9ew/s/s20/index2.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="UK",CNBC Europe
-http://ott-cdn.ucom.am/s65/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.createandcraft.com/gb/common/images/brand-shop/about-us/logo.png" group-title="UK",Create and Craft
-https://live-craftuk.simplestreamcdn.com/craftuk/3/prog_index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/eD8zkhY.png" group-title="UK",Cruise1st TV
-https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/cruise_tv/hls_video/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zvLBL3b.png" group-title="UK",Discovery Turbo
-http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4qrQOr7.png" group-title="UK",DSport
-http://jiocgehub.jio.ril.com/Dsports_HD/Dsports_HD.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="http://gostreamtv.com/wp-content/uploads/channel-logos/duck-tv-logo.png" group-title="UK",Duck TV
-http://livecdnh3.tvanywhere.ae/hls/duck/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://ocdn.eu/images/program-tv/NTU7MDA_/e7114237dc0731c7dd660c32d6822432.png" group-title="UK",English Club TV
-http://ott-cdn.ucom.am/s37/index.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="UK",Food Network
-http://95.86.32.7:999/food
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/1280px-FOX_Sports_logo.svg.png" group-title="UK",Fox Sports
-http://45.58.62.92:8080
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Gemporia_tv_in.png" group-title="UK",Gemporia (Opt-1)
-https://57d6b85685bb8.streamlock.net/abrgemporiaukgfx/livestream_source/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/38/Gemporia_tv_in.png" group-title="UK",Gemporia (Opt-2)
-http://57d6b85685bb8.streamlock.net:1935/abrgemporiaukgfx/livestream_360p/index.m3u8
-
-#EXTINF:-1 tvg-logo="http://cineframe.mx/wp-content/uploads/2017/08/H2.png" group-title="UK",H2
-http://livecdnh1.tvanywhere.ae:80/hls/h2/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CzsBnvf.png" group-title="UK",Horizon Sports
-https://a.jsrdn.com/broadcast/22705/+0000/hi/c.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PZM20Hh.png" group-title="UK",Ideal World (Opt-1)
-http://live-isd.simplestreamcdn.com/idealworld/3/prog_index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PZM20Hh.png" group-title="UK",Ideal World (Opt-2)
-http://live-isd.simplestreamcdn.com/idealworld/1/prog_index.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/PZM20Hh.png" group-title="UK",Ideal World (Opt-3)
-http://live-isd.simplestreamcdn.com/idealworld/2/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/zbuuLmm.png" group-title="UK",ITV
-http://sportportal1.akamaized.net/hls/live/702646/itvlive/ITV1PORTAL2/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://undergroundbass.co.uk/image/koollondon.png" group-title="UK",Kool London Radio
-http://w10.streamgb.com:1935/kool/kool/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/XTv8pla.png" group-title="UK",Motorsport TV
-http://45.58.62.92:8084
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="UK",Nat Geo People
-http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="UK",Nat Geo Wild (Asia)
-http://103.199.160.85/Content/insync/Live/Channel(Insync)/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/h0NNZ2U.png" group-title="UK",Nat Geo Wild (MENA)
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/bUepAp5.png" group-title="UK",National Geographic
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jJhXY0I.png" group-title="UK",QVC
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_main_clean/bitrate1.isml/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jJhXY0I.png" group-title="UK",QVC +1
-http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi1/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jJhXY0I.png" group-title="UK",QVC Beauty
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_beauty_clean/bitrate1.isml/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jJhXY0I.png" group-title="UK",QVC Style
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_style_clean/bitrate1.isml/live.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jJhXY0I.png" group-title="UK",QVC Extra
-http://live.qvcuk.simplestreamcdn.com/live/qvcuk_extra_clean/bitrate1.isml/live.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b98pyw6.png" group-title="UK",Reel PX Action
-http://1586823379.rsc.cdn77.org/1586823379/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wu2uDZm.png" group-title="UK",Reel PX Comedy
-http://1427531085.rsc.cdn77.org/1427531085/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kCEQmLH.png" group-title="UK",Reel PX Family
-http://1294836789.rsc.cdn77.org/1294836789/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FHZpgMw.png" group-title="UK",Reel PX Unlimited
-http://1002631743.rsc.cdn77.org/1002631743/tracks-v1a1/mono.m3u8
- 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4Zi4S1H.png" group-title="UK",Reel PX Vintage
-http://1946514655.rsc.cdn77.org/1946514655/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oxfXXlb.png" group-title="UK",Reuters
-http://220.158.149.28:8180/live/TV00000000000000000034@HHZT
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/jEtKLkp.png" group-title="UK",SciFi (Opt-1)
-http://84.22.33.254/unicast.scifi/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/IlSYKSK.png" group-title="UK",Sheffield Live! 93.2 FM
-http://tv.sheffieldlive.org/hls/main.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="UK",Sky News (Opt-1)
-http://ax.micaesoft.com/YMitv/YMITV_UK_UKskytv_2.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="UK",Sky News (Opt-2)
-http://ax.micaesoft.com/YMitv/YMITV_US_USnasatv_1.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="UK",Sky News (SD)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sky-news-logo.png" group-title="UK",Sky News (HD)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/05.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/8Beeu4z.png" group-title="UK",Sunburn TV
-https://vcndstv.teleosmedia.com/stream/dstv/sunburn/seglist_720p.m3u8
-
-#EXTINF:-1 tvg-logo="http://superyacht.tv/media/cache/header_main_logo/bundles/app/img/logo.png" group-title="UK",Superyacht TV
-http://cdn.mobibase.com/hls/733/258_5000k/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/55vA85a.png" group-title="UK",The Boat Show
-https://a.jsrdn.com/broadcast/22706/+0000/hi/c.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/gPaTIUd.png" group-title="UK",The Box
-http://csm-e.tm.yospace.com/csm/extlive/boxplus01,thebox-desktop.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Reb1RLr.png" group-title="UK",Trace Sports Stars (No-Audio)
-https://d2ktlibtvvj8vp.cloudfront.net/trace_sportsstars/4/prog_index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/oitvOug.png" group-title="UK",World of Free Sports
-https://a.jsrdn.com/broadcast/22723/+0000/hi/c.m3u8
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",24 Beat TV FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1494.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",4U TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1518.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/tUuspxt.png" group-title="Undefined",AFN Farsi Net (US)
+https://unirtmp.tulix.tv/tintv2/tintv2//chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://www.parsatv.com/index_files/channels/afghantv.jpg" group-title="Undefined",AFN TV
+https://unirtmp.tulix.tv/tintv2/tintv2/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",ATV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1549.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",AVA Family FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1513.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",AVA Music
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/196358?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="News",Al Alam,Al-Alam
+https://live2.alalamtv.net/live/Alalam/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR;TR" tvg-logo="https://i.imgur.com/ffFbUmd.jpg" group-title="Undefined",Al Zahra TV,Al-Zahra TV Turkic
+https://live.al-zahratv.com/live/playlist2/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Amouzesh TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1569.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Andisheh TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1538.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Angel TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1550.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://www.ayeneh.org/wp-content/uploads/2016/04/Ayeneh-TV-April-16-400x223.png" group-title="Undefined",Ayeneh TV
+https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/chunks.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://www.ayeneh.org/wp-content/uploads/2016/04/Ayeneh-TV-April-16-400x223.png" group-title="Undefined",Ayeneh TV
+https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Azadi TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1575.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",BBC Persian
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1503.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Boushehr TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1583.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",CINE Series HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/166818?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Cine Film FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1497.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Cine Series FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1498.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/Iz8re8Z.png" group-title="Entertainment",Cineseries
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Dena TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1598.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",EBC 1 HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/69510?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://www.livefarsi.com/uploads/tv_image/ebc1-tv.jpg" group-title="Music",EBC1 TV
+https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Erfan Halgheh
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1560.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Fars TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1592.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Sport",Football HD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1496.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM 24B FHD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/166809?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM AZ
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/64976?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Bollywood
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1475.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Bollywood HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/5481?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM CLASSIC
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/5478?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Classic
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1466.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Comedy
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/5418?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Comedy
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1476.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Drama
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1474.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Drama + HD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1478.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Drama+
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/56803?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM FIT
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/166807?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Film
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1485.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Food
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/5476?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Food
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1465.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Junior
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1473.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Junior HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/5474?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Kids",GEM KIDS
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1480.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Kids HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/5473?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Kurd TV
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/196361?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Latino
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1479.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Latino
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/166810?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Life +
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1472.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Life HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/5441?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Maxx HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/5442?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Nature
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1487.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Proprty
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1468.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM RIVER
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/56805?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM RIVER+ HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/194256?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Rubix HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/166828?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Series
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1469.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Series + FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1470.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Series + HD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1467.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Series HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/70764?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM TEEN
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/56816?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM TRAVEL
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1483.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1462.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM TV + HD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1463.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM TV HD
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/5459?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Travel
+http://pascaltv.site:8080/magicoiptv/1ed63025640d/64972?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM USA
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1471.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/bQ89zEc.png" group-title="Undefined",Ganj e Hozour (US) (Opt-1)
+http://topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Ganj e Hozour TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1548.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="http://channels.roku.com/images/1f1d73fcce5245c48a21dfcfbebea2ef-hd.jpg" group-title="Undefined",Ganje Hozoor
+https://topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Golestan TV Sabz TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1582.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",HPTV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1596.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Hadi TV2
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1606.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Hadi TV4
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1607.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Hadi TV5
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1608.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Hadi TV6
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1609.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Hamoon TV Zahedan
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1567.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",I Film 2
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1527.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",I Film TV Farsi
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1524.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",I Film TV Farsi FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1525.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/CTIINTk.png" group-title="Undefined",INTV Simaye Azadi
+https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB Abadan
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1590.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB Aftab TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1573.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB Alborz Karaj TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1584.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/MbZtaDO.png" group-title="Education",IRIB Amoozesh
+https://bozztv.com/36bay2/gin/giniko_iribamoozesh_800kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB Baran TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1568.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB Esfahan
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1502.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB Eshragh TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1572.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB Hamedan TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1571.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB ILAM
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1581.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB Jame Jam
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1588.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB Mahabad
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1589.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB NAMAYESH
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1504.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/vJN95kP.png" group-title="Entertainment",IRIB NASIM
+https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB Nasim
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1516.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/7fh4LwG.png" group-title="Documentary",IRIB OFOGH
+https://bozztv.com/36bay2/gin/giniko_iribofogh_900kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB OFOGH
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1507.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB Quran
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1564.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB Semnan
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1570.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB Sepehr FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1501.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB TV 1
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1489.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB TV 2
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1490.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB TV 3
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1491.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB TV 3 FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1488.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB TV 4
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1492.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB TV 5
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1499.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/hH9xk9K.png" group-title="General",IRIB TV1
+https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/gEkSbEi.png" group-title="General",IRIB TV2
+https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/pTJEpeJ.png" group-title="General",IRIB TV4
+https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/qQBqGGf.png" group-title="General",IRIB TV5
+https://bozztv.com/36bay2/gin/giniko_irib5_900kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB Varzesh
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1500.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",ITN
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1555.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Imam Hussein TV 1
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1610.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Iran E Farda
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1528.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/oeiaea6.png" group-title="News",Iran International
+https://live.playstop.me/LS-63503-4/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Iran International FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1595.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Iran International HD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1594.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Iran e Aryaee TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1541.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/wQO4Fiv.png" group-title="Undefined",Iran-e Farda TV
+https://bozztv.com/36bay2/gin/giniko_iranefardatv_900kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Irinn TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1532.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Jahanbin TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1601.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Kalemeh TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1547.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Kanal Jadid
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1537.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Kanal Yek TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1552.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Religious",Karbala Live 1
+https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Kerman TV IRIB Ostani
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1566.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Kermanshah TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1580.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Khatereh TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1521.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Khoozestan TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1599.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Khorasan Razavi TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1578.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Khorasan Shomali TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1577.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Khorosan Jonoobi
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1579.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Lorestan TV Aflak TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1600.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",MAXX
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1482.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",MBC Persia
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1484.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",MBC Persia FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1481.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="Entertainment",Manoto
+https://d2rwmwucnr0d10.cloudfront.net/live.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Manoto +1 FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1534.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Manoto 1
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1536.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="Entertainment",Manoto |HD 1080|
+https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="Entertainment",Manoto |HD 720|
+https://d2rwmwucnr0d10.cloudfront.net/live_1500.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="Entertainment",Manoto |SD|
+https://d2rwmwucnr0d10.cloudfront.net/live_500.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Mazandaran TV Tabarestan TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1574.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Music",Mifa Music FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1544.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="http://mihantv.com/wp-content/themes/mihantv/images/logo.png" group-title="News;Undefined",Mihan TV,Mihan TV (US)
+http://iptv.mihantv.com/live/playlist1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Mihan TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1526.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="http://mihantv.com/wp-content/themes/mihantv/images/logo.png" group-title="News",Mihan TV
+https://iptv.mihantv.com/live/playlist1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Modern Economy
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1493.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Mohabat TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1545.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/r1VblfT.png" group-title="Religious",Mohabat TV
+https://5acf9f9415a10.streamlock.net:443/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/espyPNl.png" group-title="Religious",Mohabat TV
+http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Mohabat TV  rtm
+rtmp://media.mohabat.tv/live_transcoder/_definst_/mp4:mohabat.stream_360p?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Mostanad FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1559.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="http://www.navahang.com/apple-touch-icon.png" group-title="Music",Navahang TV
+http://163.172.134.85/hls/stream.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://www.parsatv.com/index_files/channels/omidjavedan.jpg" group-title="Undefined",Omid Javedan
+http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/chunks.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://www.parsatv.com/index_files/channels/omidjavedan.jpg" group-title="Undefined",Omid Javedan
+https://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Onyx Movies FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1611.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Onyx Movies HD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1612.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="http://www.tapesh.tv/wp-content/uploads/2017/08/tapesh-new-logo-300x300.png" group-title="Entertainment",PBC Tapesh TV (backup)
+http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",PMC
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1522.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",PMC FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1523.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ca-parnian-tv-9509.jpg" group-title="Undefined",Parnian TV
+https://live2.parnian.tv/hls/.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="http://assyriatodaynetwork.com/assets/img/parstv.png" group-title="Undefined",Pars TV
+http://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/EKS7sPr.png" group-title="Undefined",Pars TV
+https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Pars TV PTN
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1561.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://www.parsatv.com/index_files/channels/parsiland.jpg" group-title="Entertainment;Undefined",Parsiland TV,ParsiLand TV (US)
+http://vps.parsiland.net/hls/ParsiLand.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Payam Aramesh FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1511.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://payamjavan.com/wp-content/uploads/2019/05/logo-Payam-Javan.png" group-title="Entertainment",Payam Javan TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://payamjavan.com/wp-content/uploads/2019/05/logo-Payam-Javan.png" group-title="Entertainment",Payam Javan TV
+https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="http://nebula.wsimg.com/e903234fabf798439adab0207277eb7b?AccessKeyId=2686ECEA8341253D570E&disposition=0&alloworigin=1" group-title="Religious",Payvand TV
+http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Persian Classic
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1517.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Persian Movie
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1602.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Persian One
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1533.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Persian Top Toon
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1520.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Qazvin TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1565.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Radio Farda
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1553.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/NqTGH0Q.png" group-title="Undefined",Radio Farda
+https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Radio Javan
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1529.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/fM4KCk9.png" group-title="Undefined",Radio Javan (US) (Opt-2)
+https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Radio Javan FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1530.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="Music",Radio Javan TV
+https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Radio Nama AVA
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1586.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/s5yF9aU.jpg" group-title="Undefined",Rangarang TV
+http://iptv.rangarang.us/live/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/s5yF9aU.jpg" group-title="Undefined",Rangarang TV
+https://iptv.rangarang.us/live/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",River + FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1543.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",River TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1542.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Rubix + FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1540.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Rubix TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1539.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",SHOMA
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1587.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Sahand TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1576.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Simaye Azadi HD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1604.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",TAMASHA FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1519.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://www.parsatv.com/index_files/channels/tin.jpg" group-title="Undefined",TIN TV
+https://unirtmp.tulix.tv/tintv/tintv/playlist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",TV One
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1593.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",TV Varzish HD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1495.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Tapesh TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1554.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/YpBeTXf.png" group-title="Undefined",Tin TV
+https://unirtmp.tulix.tv/tintv/tintv/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",TooSheh TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1597.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Towheed TV FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1557.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/7uEI6ck.png" group-title="News",VOA Persian
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",VOA Persian
+https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8#EXTINF:-1 tvg-logo="https://i.imgur.com/4rzSB71.png" group-title="IRAN",24 Box TV?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",VOX 1
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1562.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",VOX 2
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1563.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Velayat TV
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1531.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Voa TV Persian FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1505.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Voa TV Persian HD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1506.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Yazd TV IRIB Taban
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1591.ts?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Your Time TV FHD
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1512.ts?checkedby:hlscat.com
