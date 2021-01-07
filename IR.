@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/oeiaea6.png" tvg-country="IR" tvg-url=",Iran International
 https://live.playstop.me/LS-63503-4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="http://static.guim.co.uk/sys-images/Guardian/About/General/2012/3/14/1331728105752/bbc-persian-tv-007.jpg" tvg-country="IR" tvg-url=",BBC Persian
+https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/index.m3u8
 #EXTINF:-1 tvg-id="IRIB Nasim IR" tvg-name="IRIB Nasim" tvg-language="English" tvg-logo="https://i.imgur.com/vJN95kP.png" tvg-country="IR" tvg-url=",IRIB NASIM
 https://bozztv.com/36bay2/gin/giniko_iribnasim_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/dNB92lj.png" tvg-country="IR" tvg-url=",Manoto
@@ -41,8 +43,6 @@ https://bozztv.com/36bay2/gin/giniko_iribamoozesh_800kb_36bay2/tracks-v1a1/mono.
 https://bozztv.com/36bay2/gin/giniko_irib1_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="IRIB TV2 IR" tvg-name="IRIB TV2 IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/gEkSbEi.png" tvg-country="IR" tvg-url=",IRIB TV2
 https://bozztv.com/36bay2/gin/giniko_irib2_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",IRIB Varzesh
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1500.ts?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="IRIB TV4 IR" tvg-name="IRIB TV4 IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/pTJEpeJ.png" tvg-country="IR" tvg-url=",IRIB TV4
 https://bozztv.com/36bay2/gin/giniko_irib4_900kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="IRIB TV5 IR" tvg-name="IRIB TV5 IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/qQBqGGf.png" tvg-country="IR" tvg-url=",IRIB TV5
@@ -95,9 +95,6 @@ https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/
 https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="https://www.livefarsi.com/uploads/tv_image/ebc1-tv.jpg" group-title="",EBC1 TV
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8?checkedby:hlscat.com
-
-
-
 #EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/bQ89zEc.png" group-title="",Ganj e Hozour (US) (Opt-1)
 http://topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-name="Navahang TV" tvg-language="Persian" tvg-logo="http://www.navahang.com/apple-touch-icon.png" tvg-country="IR" tvg-url=",Navahang TV
@@ -112,14 +109,6 @@ https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8
 https://5a3e964ed0b51.streamlock.net/w/azadah/chunklist_w1398305128.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-tv-azadi-4338.jpg" tvg-country="IR" tvg-url="" group-title="",TV Azadi
 https://5a3e964ed0b51.streamlock.net/w/azadah/chunklist_w1398305128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://www.mellitv.com/images/sitelogo.png" tvg-country="IR" tvg-url="" group-title="",MTC
-http://mellitv.tulix.tv:1935/mellitv/myStream.sdp/chunklist_w1877115045.m3u8
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",AVA Family FHD
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1513.ts?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",AVA Music
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/196358?checkedby:hlscat.com
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="http://static.guim.co.uk/sys-images/Guardian/About/General/2012/3/14/1331728105752/bbc-persian-tv-007.jpg" tvg-country="IR" tvg-url=",BBC Persian
-https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/index.m3u8
 #EXTINF:0 tvg-country="IR" tvg-logo="" group-title="",GEM 24B FHD
 http://pascaltv.site:8080/magicoiptv/1ed63025640d/166809?checkedby:hlscat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/us-amg-television-9776.jpg" tvg-country="IR" tvg-url=",AMG TV
