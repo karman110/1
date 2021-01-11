@@ -255,3 +255,9 @@ https://live.cast-control.eu:443/xalastratv/xalastratv/playlist.m3u8
 http://rtmp.one.by:1200
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="BY" tvg-url=",Первый Музыкальный BY [FHD]
 http://rtmp.one.by:1300
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB Varzesh HD
+http://iptvtree.net:8080/766a3d10/7781c6505e/5381?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB TV 3 HD
+http://iptvtree.net:8080/766a3d10/7781c6505e/5386?checkedby:hlscat.com
+#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB TV 3
+http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1491.ts?checkedby:hlscat.com
