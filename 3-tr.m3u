@@ -257,10 +257,6 @@ http://waw1.artiyerelmedya.net:1935/olaytv/bant1/playlist.m3u8
 http://yerelmedya.tv:1935/grt/_definst_/bant1/chunklist.m3u8
 #EXTINF:-0,G TV GÜNEYDOGU TV
 http://stream2.taksimbilisim.com:1935/gtv/smil:gtv.smil/iptvdelisi.m3u8
-#EXTINF:-0,Hunat TV Kayseri
-https://59cba4d34b678.streamlock.net/canlitv/hunattv/chunklist.m3u8
-#EXTINF:-0,ILKE TV
-https://waw2.artiyerelmedya.net/ilketv/bant1/playlist.m3u8
 #EXTINF:-0,Istanbul TV
 http://streaming.netdirekt.com.tr/35757/msyapi/chunks.m3u8
 #EXTINF:-0,IBB TV
@@ -275,28 +271,16 @@ http://yayin.netradyom.com:1935/live/kanal12/chunklist.m3u8
 https://waw2.artiyerelmedya.net/kanal15/bant1/chunks.m3u8
 #EXTINF:-0,KANAL 19
 http://live.arkumedia.com:1935/kanal19tv/kanal19tv/playlist.m3u8
-#EXTINF:-0,KANAL 19 alt2
-https://5be5d840359c6.streamlock.net/kanal19tv/kanal19tv/chunklist.m3u8
 #EXTINF:-0,KANAL 23
 https://cdn13-kanal23.yayin.com.tr/kanal23/ngrp:kanal23/playlist.m3u8
 #EXTINF:-0,KANAL 26
 https://waw2.artiyerelmedya.net:446/kanal26/bant1/playlist.m3u8
 #EXTINF:-0,KANAL 33
 https://59cba4d34b678.streamlock.net/canlitv/kanal33mersin/chunklist.m3u8
-#EXTINF:-0,KANAL 33 alt.
-http://stream.taksimbilisim.com:1935/kanal33/bant1/chunklist.m3u8
 #EXTINF:-0,KANAL 34
-http://live.arkumedia.com:1935/kanal34tv/kanal34tv/chunklist.m3u8
-#EXTINF:-0,KANAL 34 alt.
 https://5be5d840359c6.streamlock.net/kanal34tv/kanal34tv/chunklist.m3u8
-#EXTINF:-0,KANAL 38
-https://59cba4d34b678.streamlock.net/live/kanal38/chunklist.m3u8
-#EXTINF:-0,KANAL 42
-http://ch.canlitvlive.io/konyatv/live.m3u8
 #EXTINF:-0,KANAL 56
 https://cdn-kanal56tv.yayin.com.tr/Kanal56TV/Kanal56TV/playlist.m3u8
-#EXTINF:-0,Kanal 60 TV
-https://59cba4d34b678.streamlock.net/canlitv/kanal60/chunklist.m3u8
 #EXTINF:-0,KANAL 68
 https://waw2.artiyerelmedya.net/kanal68/bant1/playlist.m3u8
 #EXTINF:-0,KANAL 101
@@ -307,22 +291,14 @@ http://stream2.taksimbilisim.com:1935/kanala/bant1/playlist.m3u8
 https://5be5d840359c6.streamlock.net/kanalartvin/kanalartvin/chunklist.m3u8
 #EXTINF:-0,KANAL B
 http://212.174.58.161/hls-live/livepkgr/_definst_/liveevent/kanalb.m3u8
-#EXTINF:-0,Kanal D Drama
-http://5.135.92.133:52841/out/u/549_1.m3u8
-#EXTINF:-0,Kanal Ege
-https://59cba4d34b678.streamlock.net/canlitv/kanalege/chunklist.m3u8
 #EXTINF:-0,Kanal Ordu TV
 http://live.arkumedia.com:1935/kanalordutv/kanalordutv/chunklist.m3u8
 \#EXTINF:-0,KANAL V VIP Antalya
 http://yerelmedya.tv:1935/kanalv/bant1/chunklist.m3u8
 #EXTINF:-0,KANAL Z
 https://waw2.artiyerelmedya.net/kanalz/bant1/chunks.m3u8
-#EXTINF:-0,Kapadokya TV
-https://59cba4d34b678.streamlock.net/canlitv/kapadokyatv/chunklist.m3u8
 #EXTINF:-0,Kardelen TV
 http://cdn1.streamencoding.com:1935/kardelen_live/HD/playlist.m3u8
-#EXTINF:-0,KAY TV
-http://yayin3.canlitv.com:1935/canlitv/kaytv/iptvdelisi.m3u8
 #EXTINF:-0,KENT TÜRK
 http://yerelmedya.tv:1935/38kenttv/bant1/chunklist.m3u8
 #EXTINF:-0,KON TV
