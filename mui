@@ -1,8 +1,195 @@
-#EXTM3U
-#PLAYLIST:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB Varzesh HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/5381?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB TV 3 HD
-http://iptvtree.net:8080/766a3d10/7781c6505e/5386?checkedby:hlscat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",IRIB TV 3
-http://89.187.191.133:8889/live/MuMlvH9VvO/RtZFXVlsEC/1491.ts?checkedby:hlscat.com
+#EXTM3U8
+
+
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat.
+https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat..
+https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat1
+http://95.170.215.106/hls/m3u8/Kurdsat-Backup.m3u8
+
+#EXTINF:-1, tvg-logo="",kurdsatnews
+http://95.170.215.106/hls/m3u8/Kurdsat-N-Backup.m3u8
+
+#EXTINF:-1, tvg-logo="",https://2.bp.blogspot.com/-p8WZ_Hpjicc/XMH3ayf2ghI/AAAAAAAACt4/H64XH23XhFI8zJGG5QFXNRecoxkqdaueQCLcBGAs/s1600/GK-TV.png",gk-tv
+
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/37.m3u8
+
+#EXTINF:-1, tvg-logo="",Kirkuk
+
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/58.m3u8 
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdistantv.png",kurdistan                    
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream/playlist.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="",kurdistan24
+http://95.170.215.106/hls/m3u8/K24-Backup.m3u8
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/rudaw.png",rudaw       
+https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist_b2000000.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/zagros.png",zagros                           
+https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
+
+
+
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv.png",nrt
+http://95.170.215.106/hls/m3u8/NRT-Backup.m3u8
+
+
+
+ 
+#EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv-2.png",nrt2.
+http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
+ 
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv-2.png",nrt2
+http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
+
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/newline-tv.png",newline
+http://ftp.dayia.tech/images/CC11.m3u8
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/newline-tv.png",newline2
+
+http://ftp.dayia.tech/images/CC12.m3u8
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/cihan-tv.png",Cihan 
+http://ftp.dayia.tech/images/CC10.m3u8
+ 
+#EXTINF:-1, tvg-logo="",kurdmax
+http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="",kurdmax.
+http://95.170.215.106/hls/m3u8/KURDMAX-B-Backup.m3u8
+
+#EXTINF:-1, tvg-logo="",kurdmaxshow
+http://31.14.40.139:1935/liveTrans/SHOW1/chunklist_w1057724583.m3u8
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/files/03-10-2017-b83282e7-Kurdmaxshow.png",asterahd
+http://cdn.teradek.live:1935/live/astera/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="",Nettv. 
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
+
+ 
+#EXTINF:-1, tvg-logo="",Nettv 
+
+https://5ab29cc78f681.streamlock.net/teratargetvideostream2nd/livestream/playlist.m3u8
+
+
+#EXTINF:-1, tvg-logo="",Sahar
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/56.m3u8
+
+#EXTINF:-1, tvg-logo="",Aryan
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/47.m3u8 
+
+#EXTINF:-1, tvg-logo="",falcon1
+http://falconiptv.hopto.org:1935/f1/_definst_/f1/manifest_w743762073.m3u8
+
+#EXTINF:-1, tvg-logo="",falcon2
+http://falconiptv.hopto.org:1935/f2/_definst_/f2/manifest_w666555832.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="",falconfamily
+http://falconiptv.hopto.org:1935/f4/f4/manifest.m3u
+
+#EXTINF:-1,waar
+http://95.170.215.106/hls/m3u8/Waar-Backup.m3u8
+#EXTINF:-1,waar.
+https://5cc309e93b721.streamlock.net/8412/8412/playlist.m3u8
+#EXTINF:-1,zarok
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8 
+
+
+EXTINF:-1, tvg-logo="",kurdmaxpepule
+http://31.14.40.139:1935/liveTrans/Pepule/playlist.m3u8
+
+EXTINF:-1, tvg-logo="",kurdmaxpepule.
+http://31.14.40.139:1935/liveTrans/Kurmanci/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/amozhgary-tv.png",Amozhgary
+http://e7wfgmi6.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/AmozhgaryLiveTv.m3u8
+
+#EXTINF:-1,""nrt4
+http://185.132.132.19/swe162129/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-logo="",Dangi Quran
+http://radio.dangiquran.com:40/live/radio/playlist.m3u8
+
+EXTINF:-1, tvg-logo="",zayala
+https://karwan5.de/zayala-tv/zayala-tv/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/utv-hawler-tv.png",utv-hawler
+http://utv.teradek.live:1935/live/utv/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="",payam
+
+http://95.170.215.106/hls/m3u8/Payam-TV-Backup.m3u8   
+
+#EXTINF:-1, tvg-logo="",payam.
+https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="",Bangawaz
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/46.m3u8 
+
+
+#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/speda-tv.png",speda
+ http://speda.teradek.live:1935/live/spedahd/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="",national-geographic 
+http://livecdnh1.tvanywhere.ae/hls/nat_geo/02.m3u8
+
+#EXTINF:-1, tvg-logo="",national-geographic.. 
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
+
+
+#EXTINF:-1, tvg-logo="https://kurdistancommentary.files.wordpress.com/2010/12/trt6.png",TRT-Kurdi
+http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
+
+
+#EXTINF:-1, tvg-logo="",Jin
+
+http://app1.jintv.org:12335/medialive/jintv.m3u8
+
+
+#EXTINF:-1, tvg-logo="",manbij
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/45.m3u8
+
+#EXTINF:-1, tvg-logo="",Rojava
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/55.m3u8 
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ronahi.png",Ronahi
+http://51.77.84.37/live/live.m3u8
+
+
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/sterk.png",sterk
+http://137.74.205.201/live25/live25.m3u8
+
+
+#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ciratv.png",cira
+https://bozztv.com/36bay2/gin/giniko_ciratv_800kb_36bay2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, tvg-logo="",med muzik
+http://137.74.205.201/live3/mm-3mbps.m3u8
+
+
+#EXTINF:-1, tvg-logo="",Vin
+http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/43.m3u8
+
+#EXTINF:-1,ava TV
+http://95.170.207.28:1935/live/Channel01/playlist.m3u8
+
+#EXTINF:-1, tvg-logo="",kurdmax.music
+
+http://31.14.40.139:1935/music/livestream/palylist.m3u8
