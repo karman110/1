@@ -1,193 +1,3284 @@
-#EXTM3U8
-
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat.
-https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/index.m3u8
-
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat..
-https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdsat.png",kurdsat1
-http://95.170.215.106/hls/m3u8/Kurdsat-Backup.m3u8
-
-#EXTINF:-1, tvg-logo="",kurdsatnews
-http://95.170.215.106/hls/m3u8/Kurdsat-N-Backup.m3u8
-
-#EXTINF:-1, tvg-logo="",https://2.bp.blogspot.com/-p8WZ_Hpjicc/XMH3ayf2ghI/AAAAAAAACt4/H64XH23XhFI8zJGG5QFXNRecoxkqdaueQCLcBGAs/s1600/GK-TV.png",gk-tv
-
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/37.m3u8
-
-#EXTINF:-1, tvg-logo="",Kirkuk
-
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/58.m3u8 
-
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/kurdistantv.png",kurdistan                    
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream/playlist.m3u8
-
-
-
-#EXTINF:-1, tvg-logo="",kurdistan24
-http://95.170.215.106/hls/m3u8/K24-Backup.m3u8
-
-#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/rudaw.png",rudaw       
-https://svs.itworkscdn.net/rudawlive/rudawlive.smil/chunklist_b2000000.m3u8
-
-
-
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/zagros.png",zagros                           
-https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
-
-
-
-
-#EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv.png",nrt
-http://95.170.215.106/hls/m3u8/NRT-Backup.m3u8
-
-
-
- 
-#EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv-2.png",nrt2.
-http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
- 
-
-#EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/nalia-tv-2.png",nrt2
-http://95.170.215.106/hls/m3u8/NRT2-Backup.m3u8
-
-
-#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/newline-tv.png",newline
-http://ftp.dayia.tech/images/CC11.m3u8
-
-#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/newline-tv.png",newline2
-
-http://ftp.dayia.tech/images/CC12.m3u8
-
-#EXTINF:-1, tvg-logo="http://karwan.tv/logo/tv/cihan-tv.png",Cihan 
-http://ftp.dayia.tech/images/CC10.m3u8
- 
-#EXTINF:-1, tvg-logo="",kurdmax
-http://31.14.40.139:1935/liveTrans/ngrp:myStream2_all/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="",kurdmax.
-http://95.170.215.106/hls/m3u8/KURDMAX-B-Backup.m3u8
-
-#EXTINF:-1, tvg-logo="",kurdmaxshow
-http://31.14.40.139:1935/liveTrans/SHOW1/chunklist_w1057724583.m3u8
-
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/files/03-10-2017-b83282e7-Kurdmaxshow.png",asterahd
-http://cdn.teradek.live:1935/live/astera/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="",Nettv. 
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/39.m3u8
-
- 
-#EXTINF:-1, tvg-logo="",Nettv 
-
-https://5ab29cc78f681.streamlock.net/teratargetvideostream2nd/livestream/playlist.m3u8
-
-
-#EXTINF:-1, tvg-logo="",Sahar
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/56.m3u8
-
-#EXTINF:-1, tvg-logo="",Aryan
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/47.m3u8 
-
-#EXTINF:-1, tvg-logo="",falcon1
-http://falconiptv.hopto.org:1935/f1/_definst_/f1/manifest_w743762073.m3u8
-
-#EXTINF:-1, tvg-logo="",falcon2
-http://falconiptv.hopto.org:1935/f2/_definst_/f2/manifest_w666555832.m3u8
-
-
-
-#EXTINF:-1, tvg-logo="",falconfamily
-http://falconiptv.hopto.org:1935/f4/f4/manifest.m3u
-
-#EXTINF:-1,waar
-http://95.170.215.106/hls/m3u8/Waar-Backup.m3u8
-#EXTINF:-1,waar.
-https://5cc309e93b721.streamlock.net/8412/8412/playlist.m3u8
-#EXTINF:-1,zarok
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/59.m3u8 
-
-
-EXTINF:-1, tvg-logo="",kurdmaxpepule
-http://31.14.40.139:1935/liveTrans/Pepule/playlist.m3u8
-
-EXTINF:-1, tvg-logo="",kurdmaxpepule.
-http://31.14.40.139:1935/liveTrans/Kurmanci/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/amozhgary-tv.png",Amozhgary
-http://e7wfgmi6.blue.onyxservers.com/hls-live/livepkgr/_definst_/liveevent/AmozhgaryLiveTv.m3u8
-
-#EXTINF:-1,""nrt4
-http://185.132.132.19/swe162129/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, tvg-logo="",Dangi Quran
-http://radio.dangiquran.com:40/live/radio/playlist.m3u8
-
-EXTINF:-1, tvg-logo="",zayala
-https://karwan5.de/zayala-tv/zayala-tv/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/utv-hawler-tv.png",utv-hawler
-http://utv.teradek.live:1935/live/utv/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="",payam
-
-http://95.170.215.106/hls/m3u8/Payam-TV-Backup.m3u8   
-
-#EXTINF:-1, tvg-logo="",payam.
-https://5ab29cc78f681.streamlock.net/PayamTV/livestream/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="",Bangawaz
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/46.m3u8 
-
-
-#EXTINF:-1, tvg-logo="http://karwan.tv/images/tvlogo/speda-tv.png",speda
- http://speda.teradek.live:1935/live/spedahd/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="",national-geographic 
-http://livecdnh1.tvanywhere.ae/hls/nat_geo/02.m3u8
-
-#EXTINF:-1, tvg-logo="",national-geographic.. 
-http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/02.m3u8
-
-
-#EXTINF:-1, tvg-logo="https://kurdistancommentary.files.wordpress.com/2010/12/trt6.png",TRT-Kurdi
-http://trtcanlitv-lh.akamaihd.net/i/TRT6_1@181944/master.m3u8
-
-
-#EXTINF:-1, tvg-logo="",Jin
-
-http://app1.jintv.org:12335/medialive/jintv.m3u8
-
-
-#EXTINF:-1, tvg-logo="",manbij
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/45.m3u8
-
-#EXTINF:-1, tvg-logo="",Rojava
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/55.m3u8 
-
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ronahi.png",Ronahi
-http://51.77.84.37/live/live.m3u8
-
-
-
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/sterk.png",sterk
-http://137.74.205.201/live25/live25.m3u8
-
-
-#EXTINF:-1, tvg-logo="http://kurdtvs.net/uploads/ciratv.png",cira
-https://bozztv.com/36bay2/gin/giniko_ciratv_800kb_36bay2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, tvg-logo="",med muzik
-http://137.74.205.201/live3/mm-3mbps.m3u8
-
-
-#EXTINF:-1, tvg-logo="",Vin
-http://163.172.39.215:25461/live/line/C4@!a3a1@!w72A/43.m3u8
-
-#EXTINF:-1,ava TV
-http://95.170.207.28:1935/live/Channel01/playlist.m3u8
-
-#EXTINF:-1, tvg-logo="",kurdmax.music
-
-http://31.14.40.139:1935/music/livestream/palylist.m3u8
+#EXTINF:-1,Avengers: Infinity War
+http://infabalancer1.ddns.net:800/filesOVH/Avengers-Infinity.War.mp4
+#EXTINF:-1,Black Panther
+http://infabalancer1.ddns.net:800/filesOVH/Black.Panther.mp4
+#EXTINF:-1,Coco
+http://infabalancer1.ddns.net:800/filesOVH/Coco.mp4
+#EXTINF:-1,Days Of Thunder
+http://infabalancer1.ddns.net:800/filesOVH/Days.of.Thunder.mp4
+#EXTINF:-1,Gladiator
+http://infabalancer1.ddns.net:800/filesOVH/Gladiator.mp4
+#EXTINF:-1,John Wick
+http://infabalancer1.ddns.net:800/filesOVH/John.Wick.mp4
+#EXTINF:-1,John Wick: Chapter 2
+http://infabalancer1.ddns.net:800/filesOVH/John.Wick-Chapter.2.mp4
+#EXTINF:-1,Kickboxer
+http://infabalancer1.ddns.net:800/filesOVH/Kickboxer.mp4
+#EXTINF:-1,Kickboxer: Retaliation
+http://infabalancer1.ddns.net:800/filesOVH/Kickboxer-Retaliation.mp4
+#EXTINF:-1,Mission: Impossible - Fallout
+http://infabalancer1.ddns.net:800/filesOVH/Mission-Impossible.Fallout.mp4
+#EXTINF:-1,Rampage
+http://infabalancer1.ddns.net:800/filesOVH/Rampage.mp4
+#EXTINF:-1,Thor: Ragnarok
+http://infabalancer1.ddns.net:800/filesOVH/Thor-Ragnarok.mp4
+#EXTINF:-1,Crazy Rich Asians
+http://infabalancer1.ddns.net:800/filesOVH/Crazy.Rich.Asians.mp4
+#EXTINF:-1,The Equalizer 2
+http://infabalancer1.ddns.net:800/filesOVH/The.Equalizer.2.mp4
+#EXTINF:-1,Alpha
+http://infabalancer1.ddns.net:800/filesOVH/Alpha.mp4
+#EXTINF:-1,Apostle
+http://infabalancer1.ddns.net:800/filesOVH/Apostle.mp4
+#EXTINF:-1,BlacKkKlansman
+http://thenew.tv:8000/movie/Domingo1/Domingo12/6721.mp4
+#EXTINF:-1,Blindspotting
+http://infabalancer1.ddns.net:800/filesOVH/Blindspotting.mp4
+#EXTINF:-1,Christopher Robin
+http://infabalancer1.ddns.net:800/filesOVH/Christopher.Robin.mp4
+#EXTINF:-1,I Think We're Alone Now
+http://infabalancer1.ddns.net:800/filesOVH/I.Think.Were.Alone.Now.mp4
+#EXTINF:-1,Incredibles 2
+http://thenew.tv:8000/movie/Domingo1/Domingo12/6722.mp4
+#EXTINF:-1,Operation Finale
+http://infabalancer1.ddns.net:800/filesOVH/Operation.Finale.mp4
+#EXTINF:-1,Searching
+http://infabalancer1.ddns.net:800/filesOVH/Searching.mp4
+#EXTINF:-1,Solo: A Star Wars Story
+http://infabalancer1.ddns.net:800/filesOVH/Solo-A.Star.Wars.Story.mp4
+#EXTINF:-1,Sorry To Bother You
+http://infabalancer1.ddns.net:800/filesOVH/Sorry.to.Bother.You.mp4
+#EXTINF:-1,The Addams Family
+http://infabalancer1.ddns.net:800/filesOVH/The.Addams.Family.mp4
+#EXTINF:-1,The Darkest Minds
+http://infabalancer1.ddns.net:800/filesOVH/The.Darkest.Minds.mp4
+#EXTINF:-1,The Happy Prince
+http://infabalancer1.ddns.net:800/filesOVH/The.Happy.Prince.mp4
+#EXTINF:-1,The Nun
+http://infabalancer1.ddns.net:800/filesOVH/The.Nun.mp4
+#EXTINF:-1,The Padre
+http://infabalancer1.ddns.net:800/filesOVH/The.Padre.mp4
+#EXTINF:-1,The Spy Who Dumped Me
+http://infabalancer1.ddns.net:800/filesOVH/The.Spy.Who.Dumped.Me.mp4
+#EXTINF:-1,What Keeps You Alive
+http://infabalancer1.ddns.net:800/filesOVH/What.Keeps.You.Alive.mp4
+#EXTINF:-1,Eighth Grade
+http://infabalancer1.ddns.net:800/filesOVH/Eighth.Grade.mp4
+#EXTINF:-1,Operation Red Sea
+http://infabalancer1.ddns.net:800/filesOVH/Operation.Red.Sea.mp4
+#EXTINF:-1,SPORT:beIN Sports HD 1
+http://thenew.tv:8000/Domingo1/Domingo12/6761
+#EXTINF:-1,211 FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/211.FRENCH.mp4
+#EXTINF:-1,A Charlie Brown Christmas
+http://infabalancer1.ddns.net:800/filesOVH/A.Charlie.Brown.Christmas.mp4
+#EXTINF:-1,A Garfield Christmas Special
+http://infabalancer1.ddns.net:800/filesOVH/A.Garfield.Christmas.Special.mp4
+#EXTINF:-1,Mickey's Once Upon A Christmas
+http://infabalancer1.ddns.net:800/filesOVH/Mickeys.Once.Upon.a.Christmas.mp4
+#EXTINF:-1,Ant-Man Et La Guêpe FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Ant-Man.et.la.Guepe.FRENCH.mp4
+#EXTINF:-1,BAYWATCH: Alerte à Malibu FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/BAYWATCH-Alerte.a.Malibu.FRENCH.mp4
+#EXTINF:-1,Black Panther FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Black.Panther.FRENCH.mp4
+#EXTINF:-1,Crazy Rich Asians FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Crazy.Rich.Asians.FRENCH.mp4
+#EXTINF:-1,Justice League FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Justice.League.FRENCH.mp4
+#EXTINF:-1,La Nonne FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/La.Nonne.FRENCH.mp4
+#EXTINF:-1,Mile 22 FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Mile.22.FRENCH.mp4
+#EXTINF:-1,Mission: Impossible - Fallout  FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Mission-Impossible.Fallout.FRENCH.mp4
+#EXTINF:-1,Thor : Ragnarok FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Thor.-Ragnarok.FRENCH.mp4
+#EXTINF:-1,Vaiana, La Légende Du Bout Du Monde FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Vaiana.la.legende.du.bout.du.monde.FRENCH.mp4
+#EXTINF:-1,All Eyez On Me
+http://infabalancer1.ddns.net:800/filesOVH/All.Eyez.on.Me.mp4
+#EXTINF:-1,Avengers: Age Of Ultron
+http://infabalancer1.ddns.net:800/filesOVH/Avengers-Age.of.Ultron.mp4
+#EXTINF:-1,Baywatch
+http://infabalancer1.ddns.net:800/filesOVH/Baywatch.mp4
+#EXTINF:-1,Ben-Hur
+http://infabalancer1.ddns.net:800/filesOVH/Ben-Hur.mp4
+#EXTINF:-1,Dracula Untold
+http://infabalancer1.ddns.net:800/filesOVH/Dracula.Untold.mp4
+#EXTINF:-1,Guardians Of The Galaxy
+http://infabalancer1.ddns.net:800/filesOVH/Guardians.of.the.Galaxy.mp4
+#EXTINF:-1,Guardians Of The Galaxy Vol  2
+http://infabalancer1.ddns.net:800/filesOVH/Guardians.of.the.Galaxy.Vol.2.mp4
+#EXTINF:-1,Jigsaw
+http://infabalancer1.ddns.net:800/filesOVH/Jigsaw.mp4
+#EXTINF:-1,Jumanji: Welcome To The Jungle
+http://infabalancer1.ddns.net:800/filesOVH/Jumanji-Welcome.to.the.Jungle.mp4
+#EXTINF:-1,Logan
+http://infabalancer1.ddns.net:800/filesOVH/Logan.mp4
+#EXTINF:-1,Magic Mike XXL
+http://infabalancer1.ddns.net:800/filesOVH/Magic.Mike.XXL.mp4
+#EXTINF:-1,All Eyez On Me
+http://infabalancer1.ddns.net:800/filesOVH/All.Eyez.on.Me.mp4
+#EXTINF:-1,American Animals
+https://infa:mediavod@infa.lw975.usbx.me/files/movies/American.Animals.2018.V2.720p.BRRip.X264.AC3-EVO/American.Animals.2018.V2.720p.BRRip.X264.AC3-EVO.mkv
+#EXTINF:-1,American Assassin
+http://infabalancer1.ddns.net:800/filesOVH/American.Assassin.mp4
+#EXTINF:-1,American Beauty
+http://infabalancer1.ddns.net:800/filesOVH/American.Beauty.mp4
+#EXTINF:-1,American Gangster
+http://infabalancer1.ddns.net:800/filesOVH/American.Gangster.mp4
+#EXTINF:-1,American Hustle
+http://infabalancer1.ddns.net:800/filesOVH/American.Hustle.mp4
+#EXTINF:-1,American Pie 2
+http://infabalancer1.ddns.net:800/filesOVH/American.Pie.2.mp4
+#EXTINF:-1,American Sniper
+http://infabalancer1.ddns.net:800/filesOVH/American.Sniper.mp4
+#EXTINF:-1,Ant-Man
+http://infabalancer1.ddns.net:800/filesOVH/Ant-Man.mp4
+#EXTINF:-1,Armageddon
+http://infabalancer1.ddns.net:800/filesOVH/Armageddon.mp4
+#EXTINF:-1,Arrival
+http://infabalancer1.ddns.net:800/filesOVH/Arrival.mp4
+#EXTINF:-1,Assassin's Creed
+http://infabalancer1.ddns.net:800/filesOVH/Assassins.Creed.mp4
+#EXTINF:-1,Austin Powers In Goldmember
+http://infabalancer1.ddns.net:800/filesOVH/Austin.Powers.in.Goldmember.mp4
+#EXTINF:-1,Austin Powers: International Man Of Mystery
+http://infabalancer1.ddns.net:800/filesOVH/Austin.Powers-International.Man.of.Mystery.mp4
+#EXTINF:-1,Austin Powers: The Spy Who Shagged Me
+http://infabalancer1.ddns.net:800/filesOVH/Austin.Powers-The.Spy.Who.Shagged.Me.mp4
+#EXTINF:-1,Baby Driver
+http://infabalancer1.ddns.net:800/filesOVH/Baby.Driver.mp4
+#EXTINF:-1,Back To The Future
+http://infabalancer1.ddns.net:800/filesOVH/Back.to.the.Future.mp4
+#EXTINF:-1,Back To The Future Part II
+http://infabalancer1.ddns.net:800/filesOVH/Back.to.the.Future.Part.II.mp4
+#EXTINF:-1,Back To The Future Part III
+http://infabalancer1.ddns.net:800/filesOVH/Back.to.the.Future.Part.III.mp4
+#EXTINF:-1,Backcountry
+http://infabalancer1.ddns.net:800/filesOVH/Backcountry.mp4
+#EXTINF:-1,Bad Moms
+http://infabalancer1.ddns.net:800/filesOVH/Bad.Moms.mp4
+#EXTINF:-1,Jurassic Park
+http://infabalancer1.ddns.net:800/filesOVH/Jurassic.Park.mp4
+#EXTINF:-1,Jurassic Park III
+http://infabalancer1.ddns.net:800/filesOVH/Jurassic.Park.III.mp4
+#EXTINF:-1,Jurassic World
+http://infabalancer1.ddns.net:800/filesOVH/Jurassic.World.mp4
+#EXTINF:-1,Jurassic World: Fallen Kingdom
+http://infabalancer1.ddns.net:800/filesOVH/Jurassic.World-Fallen.Kingdom.mkv
+#EXTINF:-1,Justice League
+http://infabalancer1.ddns.net:800/filesOVH/Justice.League.mp4
+#EXTINF:-1,Justice League: Gods And Monsters
+http://infabalancer1.ddns.net:800/filesOVH/Justice.League-Gods.and.Monsters.mp4
+#EXTINF:-1,The Avengers
+http://infabalancer1.ddns.net:800/filesOVH/The.Avengers.mp4
+#EXTINF:-1,12 Years A Slave
+http://infabalancer1.ddns.net:800/filesOVH/12.Years.a.Slave.mp4
+#EXTINF:-1,A Cure For Wellness
+http://infabalancer1.ddns.net:800/filesOVH/A.Cure.for.Wellness.mp4
+#EXTINF:-1,A Family Man
+http://infabalancer1.ddns.net:800/filesOVH/A.Family.Man.mp4
+#EXTINF:-1,A Good Day To Die Hard
+http://infabalancer1.ddns.net:800/filesOVH/A.Good.Day.to.Die.Hard.mp4
+#EXTINF:-1,A Most Violent Year
+http://infabalancer1.ddns.net:800/filesOVH/A.Most.Violent.Year.mp4
+#EXTINF:-1,A Nightmare On Elm Street
+http://thenew.tv:8000/movie/Domingo1/Domingo12/7606.mp4
+#EXTINF:-1,A Wrinkle In Time
+http://infabalancer1.ddns.net:800/filesOVH/A.Wrinkle.in.Time.mp4
+#EXTINF:-1,Ace Ventura: Pet Detective
+http://infabalancer1.ddns.net:800/filesOVH/Ace.Ventura-Pet.Detective.mp4
+#EXTINF:-1,Action Point
+http://infabalancer1.ddns.net:800/filesOVH/Action.Point.mp4
+#EXTINF:-1,Acts Of Violence
+http://infabalancer1.ddns.net:800/filesOVH/Acts.of.Violence.mp4
+#EXTINF:-1,Aftermath
+http://infabalancer1.ddns.net:800/filesOVH/Aftermath.mp4
+#EXTINF:-1,Babe
+http://infabalancer1.ddns.net:800/filesOVH/Babe.mp4
+#EXTINF:-1,Batman
+http://infabalancer1.ddns.net:800/filesOVH/Batman.mp4
+#EXTINF:-1,Batman Begins
+http://infabalancer1.ddns.net:800/filesOVH/Batman.Begins.mp4
+#EXTINF:-1,Batman Forever
+http://infabalancer1.ddns.net:800/filesOVH/Batman.Forever.mp4
+#EXTINF:-1,Batman V Superman: Dawn Of Justice
+http://infabalancer1.ddns.net:800/filesOVH/Batman.v.Superman-Dawn.of.Justice.mp4
+#EXTINF:-1,Batman Vs  Robin
+http://infabalancer1.ddns.net:800/filesOVH/Batman.vs..Robin.mp4
+#EXTINF:-1,Batman: Bad Blood
+http://infabalancer1.ddns.net:800/filesOVH/Batman-Bad.Blood.mp4
+#EXTINF:-1,Beetlejuice
+http://infabalancer1.ddns.net:800/filesOVH/Beetlejuice.mp4
+#EXTINF:-1,Beverly Hills Cop
+http://infabalancer1.ddns.net:800/filesOVH/Beverly.Hills.Cop.mp4
+#EXTINF:-1,Beverly Hills Cop II
+http://infabalancer1.ddns.net:800/filesOVH/Beverly.Hills.Cop.II.mp4
+#EXTINF:-1,Beverly Hills Cop III
+http://infabalancer1.ddns.net:800/filesOVH/Beverly.Hills.Cop.III.mp4
+#EXTINF:-1,Black Hawk Down
+http://infabalancer1.ddns.net:800/filesOVH/Black.Hawk.Down.mp4
+#EXTINF:-1,Black Mass
+http://infabalancer1.ddns.net:800/filesOVH/Black.Mass.mp4
+#EXTINF:-1,Blade Runner
+http://infabalancer1.ddns.net:800/filesOVH/Blade.Runner.mp4
+#EXTINF:-1,Blood Father
+http://infabalancer1.ddns.net:800/filesOVH/Blood.Father.mp4
+#EXTINF:-1,Blood Money
+http://infabalancer1.ddns.net:800/filesOVH/Blood.Money.mp4
+#EXTINF:-1,Blow
+http://infabalancer1.ddns.net:800/filesOVH/Blow.mp4
+#EXTINF:-1,Braveheart
+http://infabalancer1.ddns.net:800/filesOVH/Braveheart.mp4
+#EXTINF:-1,Bridge Of Spies
+http://infabalancer1.ddns.net:800/filesOVH/Bridge.of.Spies.mp4
+#EXTINF:-1,Captain America: Civil War
+http://infabalancer1.ddns.net:800/filesOVH/Captain.America-Civil.War.mp4
+#EXTINF:-1,Captain America: The First Avenger
+http://infabalancer1.ddns.net:800/filesOVH/Captain.America-The.First.Avenger.mp4
+#EXTINF:-1,Captain America: The Winter Soldier
+http://infabalancer1.ddns.net:800/filesOVH/Captain.America-The.Winter.Soldier.mp4
+#EXTINF:-1,Captive
+http://infabalancer1.ddns.net:800/filesOVH/Captive.mp4
+#EXTINF:-1,Cargo
+http://infabalancer1.ddns.net:800/filesOVH/Cargo.mp4
+#EXTINF:-1,Cars 3
+http://thenew.tv:8000/movie/Domingo1/Domingo12/7638.mp4
+#EXTINF:-1,Casino Royale
+http://infabalancer1.ddns.net:800/filesOVH/Casino.Royale.mp4
+#EXTINF:-1,CHiPS
+http://infabalancer1.ddns.net:800/filesOVH/CHiPS.mp4
+#EXTINF:-1,Cell
+http://infabalancer1.ddns.net:800/filesOVH/Cell.mp4
+#EXTINF:-1,Chappaquiddick
+http://infabalancer1.ddns.net:800/filesOVH/Chappaquiddick.mp4
+#EXTINF:-1,Cinderella
+http://infabalancer1.ddns.net:800/filesOVH/Cinderella.mp4
+#EXTINF:-1,Clash Of The Titans
+http://infabalancer1.ddns.net:800/filesOVH/Clash.of.the.Titans.mp4
+#EXTINF:-1,Collateral Beauty
+http://infabalancer1.ddns.net:800/filesOVH/Collateral.Beauty.mp4
+#EXTINF:-1,Colossal
+http://infabalancer1.ddns.net:800/filesOVH/Colossal.mp4
+#EXTINF:-1,Coming To America
+http://infabalancer1.ddns.net:800/filesOVH/Coming.to.America.mp4
+#EXTINF:-1,Concussion
+http://infabalancer1.ddns.net:800/filesOVH/Concussion.mp4
+#EXTINF:-1,Contract Killers
+http://infabalancer1.ddns.net:800/filesOVH/Contract.Killers.mp4
+#EXTINF:-1,Convict
+http://infabalancer1.ddns.net:800/filesOVH/Convict.mp4
+#EXTINF:-1,Coyote Ugly
+http://infabalancer1.ddns.net:800/filesOVH/Coyote.Ugly.mp4
+#EXTINF:-1,Creed
+http://infabalancer1.ddns.net:800/filesOVH/Creed.mp4
+#EXTINF:-1,Criminal
+http://infabalancer1.ddns.net:800/filesOVH/Criminal.mp4
+#EXTINF:-1,Curious George
+http://infabalancer1.ddns.net:800/filesOVH/Curious.George.mp4
+#EXTINF:-1,Daddy's Home
+http://infabalancer1.ddns.net:800/filesOVH/Daddys.Home.mp4
+#EXTINF:-1,Daddy's Home 2
+http://infabalancer1.ddns.net:800/filesOVH/Daddys.Home.2.mp4
+#EXTINF:-1,Darkest Hour
+http://infabalancer1.ddns.net:800/filesOVH/Darkest.Hour.mp4
+#EXTINF:-1,Deadpool
+http://infabalancer1.ddns.net:800/filesOVH/Deadpool.mp4
+#EXTINF:-1,Deadpool 2
+http://infabalancer1.ddns.net:800/filesOVH/Deadpool.2.mp4
+#EXTINF:-1,Deepwater Horizon
+http://infabalancer1.ddns.net:800/filesOVH/Deepwater.Horizon.mp4
+#EXTINF:-1,Delivery Man
+http://infabalancer1.ddns.net:800/filesOVH/Delivery.Man.mp4
+#EXTINF:-1,Den Of Thieves
+http://infabalancer1.ddns.net:800/filesOVH/Den.of.Thieves.mp4
+#EXTINF:-1,Despicable Me 3
+http://infabalancer1.ddns.net:800/filesOVH/Despicable.Me.3.mp4
+#EXTINF:-1,Diary Of A Wimpy Kid
+http://infabalancer1.ddns.net:800/filesOVH/Diary.of.a.Wimpy.Kid.mp4
+#EXTINF:-1,Diary Of A Wimpy Kid: Dog Days
+http://infabalancer1.ddns.net:800/filesOVH/Diary.of.a.Wimpy.Kid-Dog.Days.mp4
+#EXTINF:-1,Diary Of A Wimpy Kid: Rodrick Rules
+http://infabalancer1.ddns.net:800/filesOVH/Diary.of.a.Wimpy.Kid-Rodrick.Rules.mp4
+#EXTINF:-1,Diary Of A Wimpy Kid: The Long Haul
+http://infabalancer1.ddns.net:800/filesOVH/Diary.of.a.Wimpy.Kid:.The.Long.Haul.mp4
+#EXTINF:-1,Die Another Day
+http://infabalancer1.ddns.net:800/filesOVH/Die.Another.Day.mp4
+#EXTINF:-1,Dirty Dancing
+http://infabalancer1.ddns.net:800/filesOVH/Dirty.Dancing.mp4
+#EXTINF:-1,Dirty Rotten Scoundrels
+http://infabalancer1.ddns.net:800/filesOVH/Dirty.Rotten.Scoundrels.mp4
+#EXTINF:-1,Django Unchained
+http://infabalancer1.ddns.net:800/filesOVH/Django.Unchained.mp4
+#EXTINF:-1,Don Jon
+http://infabalancer1.ddns.net:800/filesOVH/Don.Jon.mp4
+#EXTINF:-1,Don't Breathe
+http://infabalancer1.ddns.net:800/filesOVH/Dont.Breathe.mp4
+#EXTINF:-1,Don't Hang Up
+http://infabalancer1.ddns.net:800/filesOVH/Dont.Hang.Up.mp4
+#EXTINF:-1,Don't Kill It
+http://infabalancer1.ddns.net:800/filesOVH/Dont.Kill.It.mp4
+#EXTINF:-1,Don't Knock Twice
+http://infabalancer1.ddns.net:800/filesOVH/Dont.Knock.Twice.mp4
+#EXTINF:-1,Don't Think Twice
+http://infabalancer1.ddns.net:800/filesOVH/Dont.Think.Twice.mp4
+#EXTINF:-1,Dope
+http://infabalancer1.ddns.net:800/filesOVH/Dope.mp4
+#EXTINF:-1,Downsizing
+http://infabalancer1.ddns.net:800/filesOVH/Downsizing.mp4
+#EXTINF:-1,Dumb And Dumber
+http://infabalancer1.ddns.net:800/filesOVH/Dumb.and.Dumber.mp4
+#EXTINF:-1,Dumb And Dumber To
+http://infabalancer1.ddns.net:800/filesOVH/Dumb.and.Dumber.2.mp4
+#EXTINF:-1,Dunkirk
+http://infabalancer1.ddns.net:800/filesOVH/Dunkirk.mp4
+#EXTINF:-1,Eighth Grade
+http://infabalancer1.ddns.net:800/filesOVH/Eighth.Grade.mp4
+#EXTINF:-1,Elf
+http://infabalancer1.ddns.net:800/filesOVH/Elf.mp4
+#EXTINF:-1,End Of Watch
+http://infabalancer1.ddns.net:800/filesOVH/End.of.Watch.mp4
+#EXTINF:-1,Enemy Of The State
+http://infabalancer1.ddns.net:800/filesOVH/Enemy.of.the.State.mp4
+#EXTINF:-1,Entourage
+http://infabalancer1.ddns.net:800/filesOVH/Entourage.mp4
+#EXTINF:-1,Eternal Sunshine Of The Spotless Mind
+http://thenew.tv:8000/movie/Domingo1/Domingo12/7689.mp4
+#EXTINF:-1,EuroTrip
+http://infabalancer1.ddns.net:800/filesOVH/EuroTrip.mp4
+#EXTINF:-1,Fantastic Four
+http://infabalancer1.ddns.net:800/filesOVH/Fantastic.Four.mp4
+#EXTINF:-1,Fast & Furious 6
+http://infabalancer1.ddns.net:800/filesOVH/Fast.Furious.6.mp4
+#EXTINF:-1,Fences
+http://infabalancer1.ddns.net:800/filesOVH/Fences.mp4
+#EXTINF:-1,Ferris Bueller's Day Off
+http://infabalancer1.ddns.net:800/filesOVH/Ferris.Buellers.Day.Off.mp4
+#EXTINF:-1,Fifty Shades Darker
+http://infabalancer1.ddns.net:800/filesOVH/Fifty.Shades.Darker.mp4
+#EXTINF:-1,Fifty Shades Freed
+http://infabalancer1.ddns.net:800/filesOVH/Fifty.Shades.Freed.mp4
+#EXTINF:-1,Fifty Shades Of Black
+http://infabalancer1.ddns.net:800/filesOVH/Fifty.Shades.of.Black.mp4
+#EXTINF:-1,Fifty Shades Of Grey
+https://infa:mediavod@infa.lw975.usbx.me/files/movies/Fifty%20Shades%20of%20Grey%20%282015%29%20%5B1080p%5D/Fifty.Shades.of.Grey.2015.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1,Fight Club
+http://infabalancer1.ddns.net:800/filesOVH/Fight.Club.mp4
+#EXTINF:-1,Final Score
+http://infabalancer1.ddns.net:800/filesOVH/Final.Score.mp4
+#EXTINF:-1,Finders Keepers
+http://infabalancer1.ddns.net:800/filesOVH/Finders.Keepers.mp4
+#EXTINF:-1,Finding Dory
+http://infabalancer1.ddns.net:800/filesOVH/Finding.Dory.mp4
+#EXTINF:-1,First Kill
+http://infabalancer1.ddns.net:800/filesOVH/First.Kill.mp4
+#EXTINF:-1,Flatliners
+http://infabalancer1.ddns.net:800/filesOVH/Flatliners.mp4
+#EXTINF:-1,Fletch
+http://infabalancer1.ddns.net:800/filesOVH/Fletch.mp4
+#EXTINF:-1,Focus
+http://infabalancer1.ddns.net:800/filesOVH/Focus.mp4
+#EXTINF:-1,Focus
+http://infabalancer1.ddns.net:800/filesOVH/Focus.mp4
+#EXTINF:-1,Four Brothers
+http://infabalancer1.ddns.net:800/filesOVH/Four.Brothers.mp4
+#EXTINF:-1,Free State Of Jones
+https://infa:mediavod@infa.lw975.usbx.me/files/movies/Free.State.of.Jones.2016.720p.BluRay.x264-x0r/Free.State.of.Jones.2016.720p.BluRay.x264-x0r.mkv
+#EXTINF:-1,Friday The 13th
+http://infabalancer1.ddns.net:800/filesOVH/Friday.the.13th.2009.mp4
+#EXTINF:-1,From Dusk Till Dawn
+http://infabalancer1.ddns.net:800/filesOVH/From.Dusk.Till.Dawn.mp4
+#EXTINF:-1,Frozen
+http://thenew.tv:8000/movie/Domingo1/Domingo12/7715.mp4
+#EXTINF:-1,Full Metal Jacket
+http://infabalancer1.ddns.net:800/filesOVH/Full.Metal.Jacket.mp4
+#EXTINF:-1,Furious 7
+http://infabalancer1.ddns.net:800/filesOVH/Furious.7.mp4
+#EXTINF:-1,Fury
+http://infabalancer1.ddns.net:800/filesOVH/Fury.mp4
+#EXTINF:-1,Game Night
+http://infabalancer1.ddns.net:800/filesOVH/Game.Night.mp4
+#EXTINF:-1,Gangster Land
+http://infabalancer1.ddns.net:800/filesOVH/Gangster.Land.mp4
+#EXTINF:-1,Get Hard
+http://infabalancer1.ddns.net:800/filesOVH/Get.Hard.mp4
+#EXTINF:-1,Get Out
+http://infabalancer1.ddns.net:800/filesOVH/Get.Out.mp4
+#EXTINF:-1,Get Shorty
+http://infabalancer1.ddns.net:800/filesOVH/Get.Shorty.mp4
+#EXTINF:-1,Ghost
+http://infabalancer1.ddns.net:800/filesOVH/Ghost.mp4
+#EXTINF:-1,Godzilla
+http://infabalancer1.ddns.net:800/filesOVH/Godzilla.mp4
+#EXTINF:-1,Gone Girl
+http://infabalancer1.ddns.net:800/filesOVH/Gone.Girl.mp4
+#EXTINF:-1,Gran Torino
+http://infabalancer1.ddns.net:800/filesOVH/Gran.Torino.mp4
+#EXTINF:-1,Gravity
+http://infabalancer1.ddns.net:800/filesOVH/Gravity.mp4
+#EXTINF:-1,Grease
+http://infabalancer1.ddns.net:800/filesOVH/Grease.mp4
+#EXTINF:-1,Gringo
+http://infabalancer1.ddns.net:800/filesOVH/Gringo.mp4
+#EXTINF:-1,Halloween: Resurrection
+http://infabalancer1.ddns.net:800/filesOVH/Halloween-Resurrection.mp4
+#EXTINF:-1,Harry Potter And The Chamber Of Secrets
+http://infabalancer1.ddns.net:800/filesOVH/Harry.Potter.and.the.Chamber.of.Secrets.mp4
+#EXTINF:-1,Harry Potter And The Deathly Hallows: Part 1
+http://infabalancer1.ddns.net:800/filesOVH/Harry.Potter.and.the.Deathly.Hallows-Part.1.mp4
+#EXTINF:-1,Harry Potter And The Deathly Hallows: Part 2
+http://infabalancer1.ddns.net:800/filesOVH/Harry.Potter.and.the.Deathly.Hallows-Part.2.mp4
+#EXTINF:-1,Harry Potter And The Goblet Of Fire
+http://infabalancer1.ddns.net:800/filesOVH/Harry.Potter.and.the.Goblet.of.Fire.mp4
+#EXTINF:-1,Harry Potter And The Half-Blood Prince
+http://infabalancer1.ddns.net:800/filesOVH/Harry.Potter.and.the.Half-Blood.Prince.mp4
+#EXTINF:-1,Harry Potter And The Order Of The Phoenix
+http://infabalancer1.ddns.net:800/filesOVH/Harry.Potter.and.the.Order.of.the.Phoenix.mp4
+#EXTINF:-1,Harry Potter And The Philosopher's Stone
+http://infabalancer1.ddns.net:800/filesOVH/Harry.Potter.and.the.Philosophers.Stone.mp4
+#EXTINF:-1,Harry Potter And The Prisoner Of Azkaban
+http://infabalancer1.ddns.net:800/filesOVH/Harry.Potter.and.the.Prisoner.of.Azkaban.mp4
+#EXTINF:-1,Heist
+http://infabalancer1.ddns.net:800/filesOVH/Heist.mp4
+#EXTINF:-1,Hell Or High Water
+http://infabalancer1.ddns.net:800/filesOVH/Hell.or.High.Water.mp4
+#EXTINF:-1,Hidden Figures
+http://infabalancer1.ddns.net:800/filesOVH/Hidden.Figures.mp4
+#EXTINF:-1,Horrible Bosses 2
+http://infabalancer1.ddns.net:800/filesOVH/Horrible.Bosses.2.mp4
+#EXTINF:-1,Hostiles
+http://infabalancer1.ddns.net:800/filesOVH/Hostiles.mp4
+#EXTINF:-1,Hot Tub Time Machine
+http://infabalancer1.ddns.net:800/filesOVH/Hot.Tub.Time.Machine.mp4
+#EXTINF:-1,How The Grinch Stole Christmas
+http://infabalancer1.ddns.net:800/filesOVH/How.the.Grinch.Stole.Christmas.mp4
+#EXTINF:-1,Hush    Girls Don't Scream
+http://infabalancer1.ddns.net:800/filesOVH/Hush.Girls.Dont.Scream.mp4
+#EXTINF:-1,Ice Age
+http://infabalancer1.ddns.net:800/filesOVH/Ice.Age.mp4
+#EXTINF:-1,Ice Age: Continental Drift
+http://infabalancer1.ddns.net:800/filesOVH/Ice.Age-Continental.Drift.mp4
+#EXTINF:-1,Ice Age: The Great Egg-Scapade
+http://infabalancer1.ddns.net:800/filesOVH/Ice.Age-The.Great.Egg-Scapade.mp4
+#EXTINF:-1,Independence Day
+http://infabalancer1.ddns.net:800/filesOVH/Independence.Day.mp4
+#EXTINF:-1,Independence Day: Resurgence
+http://infabalancer1.ddns.net:800/filesOVH/Independence.Day-Resurgence.mp4
+#EXTINF:-1,Insurgent
+http://infabalancer1.ddns.net:800/filesOVH/Insurgent.mp4
+#EXTINF:-1,Interstellar
+http://infabalancer1.ddns.net:800/filesOVH/Interstellar.mp4
+#EXTINF:-1,The Fate Of The Furious
+http://infabalancer1.ddns.net:800/filesOVH/The.Fate.of.the.Furious.mp4
+#EXTINF:-1,The Inglorious Bastards
+http://infabalancer1.ddns.net:800/filesOVH/The.Inglorious.Bastards.mp4
+#EXTINF:-1,Friday After Next
+http://infabalancer1.ddns.net:800/filesOVH/Friday.After.Next.mp4
+#EXTINF:-1,Kindergarten Cop
+http://infabalancer1.ddns.net:800/filesOVH/Kindergarten.Cop.mp4
+#EXTINF:-1,Kindergarten Cop 2
+http://infabalancer1.ddns.net:800/filesOVH/Kindergarten.Cop.2.mp4
+#EXTINF:-1,Kong: Skull Island
+http://infabalancer1.ddns.net:800/filesOVH/Kong-Skull.Island.mp4
+#EXTINF:-1,Kung Fu Panda 3
+http://infabalancer1.ddns.net:800/filesOVH/Kung.Fu.Panda.3.mp4
+#EXTINF:-1,Kung Fu Panda: Secrets Of The Scroll
+http://infabalancer1.ddns.net:800/filesOVH/Kung.Fu.Panda-Secrets.of.the.Scroll.mp4
+#EXTINF:-1,La La Land
+http://infabalancer1.ddns.net:800/filesOVH/La.La.Land.mp4
+#EXTINF:-1,Lady Bird
+http://infabalancer1.ddns.net:800/filesOVH/Lady.Bird.mp4
+#EXTINF:-1,Last Action Hero
+http://infabalancer1.ddns.net:800/filesOVH/Last.Action.Hero.mp4
+#EXTINF:-1,Life Is Beautiful
+http://infabalancer1.ddns.net:800/filesOVH/Life.Is.Beautiful.mp4
+#EXTINF:-1,Logan Lucky
+http://infabalancer1.ddns.net:800/filesOVH/Logan.Lucky.mp4
+#EXTINF:-1,Lord Of War
+http://infabalancer1.ddns.net:800/filesOVH/Lord.of.War.mp4
+#EXTINF:-1,Louis C K
+http://infabalancer1.ddns.net:800/filesOVH/Louis.C.K..2017.mp4
+#EXTINF:-1,Maggie's Plan
+http://infabalancer1.ddns.net:800/filesOVH/Maggies.Plan.mp4
+#EXTINF:-1,Maze Runner: The Death Cure
+http://infabalancer1.ddns.net:800/filesOVH/Maze.Runner-The.Death.Cure.mp4
+#EXTINF:-1,Maze Runner: The Scorch Trials
+http://infabalancer1.ddns.net:800/filesOVH/Maze.Runner-The.Scorch.Trials.mp4
+#EXTINF:-1,Meet The Parents
+http://infabalancer1.ddns.net:800/filesOVH/Meet.the.Parents.mp4
+#EXTINF:-1,Memento
+http://infabalancer1.ddns.net:800/filesOVH/Memento.mp4
+#EXTINF:-1,Michael Clayton
+http://infabalancer1.ddns.net:800/filesOVH/Michael.Clayton.mp4
+#EXTINF:-1,Mission: Impossible - Ghost Protocol
+http://infabalancer1.ddns.net:800/filesOVH/Mission-Impossible.Ghost.Protocol.mp4
+#EXTINF:-1,Mission: Impossible - Rogue Nation
+http://infabalancer1.ddns.net:800/filesOVH/Mission-Impossible.Rogue.Nation.mp4
+#EXTINF:-1,Molly's Game
+http://infabalancer1.ddns.net:800/filesOVH/Mollys.Game.mp4
+#EXTINF:-1,Mom And Dad
+http://infabalancer1.ddns.net:800/filesOVH/Mom.and.Dad.mp4
+#EXTINF:-1,Moneyball
+http://infabalancer1.ddns.net:800/filesOVH/Moneyball.mp4
+#EXTINF:-1,Monster
+http://infabalancer1.ddns.net:800/filesOVH/Monster.mp4
+#EXTINF:-1,Mothers And Daughters
+http://infabalancer1.ddns.net:800/filesOVH/Mothers.and.Daughters.mp4
+#EXTINF:-1,Moulin Rouge!
+http://infabalancer1.ddns.net:800/filesOVH/Moulin.Rouge..mp4
+#EXTINF:-1,Mr  Peabody & Sherman
+http://infabalancer1.ddns.net:800/filesOVH/Mr..Peabody...Sherman.mp4
+#EXTINF:-1,Mr  Right
+http://infabalancer1.ddns.net:800/filesOVH/Mr..Right.mp4
+#EXTINF:-1,Mud
+http://infabalancer1.ddns.net:800/filesOVH/Mud.mp4
+#EXTINF:-1,Murder On The Orient Express
+http://infabalancer1.ddns.net:800/filesOVH/Murder.on.the.Orient.Express.mp4
+#EXTINF:-1,My Cousin Vinny
+http://infabalancer1.ddns.net:800/filesOVH/My.Cousin.Vinny.mp4
+#EXTINF:-1,National Lampoon's Christmas Vacation
+http://infabalancer1.ddns.net:800/filesOVH/National.Lampoons.Christmas.Vacation.mp4
+#EXTINF:-1,Neighbors
+http://infabalancer1.ddns.net:800/filesOVH/Neighbors.mp4
+#EXTINF:-1,Neighbors 2: Sorority Rising
+http://infabalancer1.ddns.net:800/filesOVH/Neighbors.2-Sorority.Rising.mp4
+#EXTINF:-1,Never Been Kissed
+http://infabalancer1.ddns.net:800/filesOVH/Never.Been.Kissed.mp4
+#EXTINF:-1,Nocturnal Animals
+http://infabalancer1.ddns.net:800/filesOVH/Nocturnal.Animals.mp4
+#EXTINF:-1,Now You See Me 2
+http://infabalancer1.ddns.net:800/filesOVH/Now.You.See.Me.2.mp4
+#EXTINF:-1,Octopussy
+http://infabalancer1.ddns.net:800/filesOVH/Octopussy.mp4
+#EXTINF:-1,Office Christmas Party
+http://infabalancer1.ddns.net:800/filesOVH/Office.Christmas.Party.mp4
+#EXTINF:-1,Old School
+http://infabalancer1.ddns.net:800/filesOVH/Old.School.mp4
+#EXTINF:-1,Olympus Has Fallen
+http://infabalancer1.ddns.net:800/filesOVH/Olympus.Has.Fallen.mp4
+#EXTINF:-1,Overboard
+http://infabalancer1.ddns.net:800/filesOVH/Overboard.mp4
+#EXTINF:-1,Pacific Rim: Uprising
+http://infabalancer1.ddns.net:800/filesOVH/Pacific.Rim-Uprising.mp4
+#EXTINF:-1,Raw
+http://infabalancer1.ddns.net:800/filesOVH/Raw.mp4
+#EXTINF:-1,Overdrive
+http://infabalancer1.ddns.net:800/filesOVH/Overdrive.mp4
+#EXTINF:-1,Pan
+http://infabalancer1.ddns.net:800/filesOVH/Pan.mp4
+#EXTINF:-1,Paranormal Activity: The Ghost Dimension
+http://infabalancer1.ddns.net:800/filesOVH/Paranormal.Activity-The.Ghost.Dimension.mp4
+#EXTINF:-1,Passengers
+http://infabalancer1.ddns.net:800/filesOVH/Passengers.mp4
+#EXTINF:-1,Patient Zero
+http://infabalancer1.ddns.net:800/filesOVH/Patient.Zero.mp4
+#EXTINF:-1,Patriots Day
+http://infabalancer1.ddns.net:800/filesOVH/Patriots.Day.mp4
+#EXTINF:-1,Paul Blart: Mall Cop 2
+http://infabalancer1.ddns.net:800/filesOVH/Paul.Blart-Mall.Cop.2.mp4
+#EXTINF:-1,Pay The Ghost
+http://infabalancer1.ddns.net:800/filesOVH/Pay.the.Ghost.mp4
+#EXTINF:-1,Pet Sematary
+http://infabalancer1.ddns.net:800/filesOVH/Pet.Sematary.mp4
+#EXTINF:-1,Phantom Thread
+http://infabalancer1.ddns.net:800/filesOVH/Phantom.Thread.mp4
+#EXTINF:-1,Pitch Perfect
+http://infabalancer1.ddns.net:800/filesOVH/Pitch.Perfect.mp4
+#EXTINF:-1,Pitch Perfect 2
+http://infabalancer1.ddns.net:800/filesOVH/Pitch.Perfect.2.mp4
+#EXTINF:-1,Pitch Perfect 3
+http://infabalancer1.ddns.net:800/filesOVH/Pitch.Perfect.3.mp4
+#EXTINF:-1,Pixels
+http://infabalancer1.ddns.net:800/filesOVH/Pixels.mp4
+#EXTINF:-1,Please Stand By
+http://infabalancer1.ddns.net:800/filesOVH/Please.Stand.By.mp4
+#EXTINF:-1,Pocahontas
+http://infabalancer1.ddns.net:800/filesOVH/Pocahontas.mp4
+#EXTINF:-1,Point Break
+http://infabalancer1.ddns.net:800/filesOVH/Point.Break.mp4
+#EXTINF:-1,Police Academy
+http://infabalancer1.ddns.net:800/filesOVH/Police.Academy.mp4
+#EXTINF:-1,Police Academy 2: Their First Assignment
+http://infabalancer1.ddns.net:800/filesOVH/Police.Academy.2-Their.First.Assignment.mp4
+#EXTINF:-1,Police Academy 3: Back In Training
+http://infabalancer1.ddns.net:800/filesOVH/Police.Academy.3-Back.in.Training.mp4
+#EXTINF:-1,Police Academy 4: Citizens On Patrol
+http://infabalancer1.ddns.net:800/filesOVH/Police.Academy.4-Citizens.on.Patrol.mp4
+#EXTINF:-1,Police Academy 5: Assignment Miami Beach
+http://infabalancer1.ddns.net:800/filesOVH/Police.Academy.5-Assignment.Miami.Beach.mp4
+#EXTINF:-1,Police Academy 6: City Under Siege
+http://infabalancer1.ddns.net:800/filesOVH/Police.Academy.6-City.Under.Siege.mp4
+#EXTINF:-1,Popstar: Never Stop Never Stopping
+http://infabalancer1.ddns.net:800/filesOVH/Popstar-Never.Stop.Never.Stopping.mp4
+#EXTINF:-1,Power Rangers
+http://infabalancer1.ddns.net:800/filesOVH/Power.Rangers.mp4
+#EXTINF:-1,American History X
+http://infabalancer1.ddns.net:800/filesOVH/American.History.X.mp4
+#EXTINF:-1,Red Sparrow
+http://infabalancer1.ddns.net:800/filesOVH/Red.Sparrow.mp4
+#EXTINF:-1,Role Models
+http://infabalancer1.ddns.net:800/filesOVH/Role.Models.mp4
+#EXTINF:-1,Running Scared
+http://infabalancer1.ddns.net:800/filesOVH/Running.Scared.mp4
+#EXTINF:-1,Rush
+http://infabalancer1.ddns.net:800/filesOVH/Rush.mp4
+#EXTINF:-1,Rush Hour
+http://infabalancer1.ddns.net:800/filesOVH/Rush.Hour.mp4
+#EXTINF:-1,Rush Hour 2
+http://infabalancer1.ddns.net:800/filesOVH/Rush.Hour.2.mp4
+#EXTINF:-1,Rush Hour 3
+http://infabalancer1.ddns.net:800/filesOVH/Rush.Hour.3.mp4
+#EXTINF:-1,Safe House
+http://infabalancer1.ddns.net:800/filesOVH/Safe.House.mp4
+#EXTINF:-1,Salt
+http://infabalancer1.ddns.net:800/filesOVH/Salt.mp4
+#EXTINF:-1,San Andreas
+http://infabalancer1.ddns.net:800/filesOVH/San.Andreas.mp4
+#EXTINF:-1,Saturday Night Live: The Best Of Eddie Murphy
+http://infabalancer1.ddns.net:800/filesOVH/Saturday.Night.Live-The.Best.of.Eddie.Murphy.mp4
+#EXTINF:-1,Scary Movie
+http://infabalancer1.ddns.net:800/filesOVH/Scary.Movie.mp4
+#EXTINF:-1,Scary Movie 3
+http://infabalancer1.ddns.net:800/filesOVH/Scary.Movie.3.mp4
+#EXTINF:-1,Scary Movie 4
+http://infabalancer1.ddns.net:800/filesOVH/Scary.Movie.4.mp4
+#EXTINF:-1,Scary Movie 5
+http://infabalancer1.ddns.net:800/filesOVH/Scary.Movie.5.mp4
+#EXTINF:-1,Scrooged
+http://infabalancer1.ddns.net:800/filesOVH/Scrooged.mp4
+#EXTINF:-1,Se7en
+http://infabalancer1.ddns.net:800/filesOVH/Se7en.mp4
+#EXTINF:-1,She's All That
+http://infabalancer1.ddns.net:800/filesOVH/Shes.All.That.mp4
+#EXTINF:-1,She's Out Of My League
+http://infabalancer1.ddns.net:800/filesOVH/Shes.Out.of.My.League.mp4
+#EXTINF:-1,Sing
+http://infabalancer1.ddns.net:800/filesOVH/Sing.mp4
+#EXTINF:-1,Skyfall
+http://infabalancer1.ddns.net:800/filesOVH/Skyfall.mp4
+#EXTINF:-1,Smallfoot
+http://infabalancer1.ddns.net:800/filesOVH/Smallfoot.mp4
+#EXTINF:-1,Snatch
+http://infabalancer1.ddns.net:800/filesOVH/Snatch.mp4
+#EXTINF:-1,Snowden
+http://infabalancer1.ddns.net:800/filesOVH/Snowden.mp4
+#EXTINF:-1,Sofia The First: The Floating Palace
+http://infabalancer1.ddns.net:800/filesOVH/Sofia.the.First-The.Floating.Palace.mp4
+#EXTINF:-1,Southpaw
+http://infabalancer1.ddns.net:800/filesOVH/Southpaw.mp4
+#EXTINF:-1,Space Jam
+http://infabalancer1.ddns.net:800/filesOVH/Space.Jam.mp4
+#EXTINF:-1,Spider-Man
+http://infabalancer1.ddns.net:800/filesOVH/Spider-Man.mp4
+#EXTINF:-1,Spider-Man: Homecoming
+http://infabalancer1.ddns.net:800/filesOVH/Spider-Man-Homecoming.mp4
+#EXTINF:-1,Split
+http://infabalancer1.ddns.net:800/filesOVH/Split.mp4
+#EXTINF:-1,Stand By Me
+http://infabalancer1.ddns.net:800/filesOVH/Stand.by.Me.mp4
+#EXTINF:-1,Standing Tall
+http://infabalancer1.ddns.net:800/filesOVH/Standing.Tall.mp4
+#EXTINF:-1,Star Trek
+http://infabalancer1.ddns.net:800/filesOVH/Star.Trek.mp4
+#EXTINF:-1,Star Trek II: The Wrath Of Khan
+http://infabalancer1.ddns.net:800/filesOVH/Star.Trek.II-The.Wrath.of.Khan.mp4
+#EXTINF:-1,Star Trek III: The Search For Spock
+http://infabalancer1.ddns.net:800/filesOVH/Star.Trek.III-The.Search.for.Spock.mp4
+#EXTINF:-1,Star Trek Into Darkness
+http://infabalancer1.ddns.net:800/filesOVH/Star.Trek.Into.Darkness.mp4
+#EXTINF:-1,Star Trek IV: The Voyage Home
+http://infabalancer1.ddns.net:800/filesOVH/Star.Trek.IV-The.Voyage.Home.mp4
+#EXTINF:-1,Star Trek VI: The Undiscovered Country
+http://infabalancer1.ddns.net:800/filesOVH/Star.Trek.VI-The.Undiscovered.Country.mp4
+#EXTINF:-1,Star Trek: First Contact
+http://infabalancer1.ddns.net:800/filesOVH/Star.Trek-First.Contact.mp4
+#EXTINF:-1,Star Trek: Insurrection
+http://infabalancer1.ddns.net:800/filesOVH/Star.Trek-Insurrection.mp4
+#EXTINF:-1,Star Trek: Nemesis
+http://infabalancer1.ddns.net:800/filesOVH/Star.Trek-Nemesis.mp4
+#EXTINF:-1,Star Wars: Episode I - The Phantom Menace
+http://infabalancer1.ddns.net:800/filesOVH/Star.Wars-Episode.I.The.Phantom.Menace.mp4
+#EXTINF:-1,Steve Jobs
+http://infabalancer1.ddns.net:800/filesOVH/Steve.Jobs.mp4
+#EXTINF:-1,Straight Outta Compton
+http://infabalancer1.ddns.net:800/filesOVH/Straight.Outta.Compton.mp4
+#EXTINF:-1,Stretch
+http://infabalancer1.ddns.net:800/filesOVH/Stretch.mp4
+#EXTINF:-1,Suicide Squad
+http://infabalancer1.ddns.net:800/filesOVH/Suicide.Squad.mp4
+#EXTINF:-1,Sully
+http://infabalancer1.ddns.net:800/filesOVH/Sully.mp4
+#EXTINF:-1,Origine Inconnue FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/2036.Origine.inconnue.FRENCH.mp4
+#EXTINF:-1,A Quiet Place
+http://infabalancer1.ddns.net:800/filesOVH/A.Quiet.Place.mp4
+#EXTINF:-1,Die Hard
+http://infabalancer1.ddns.net:800/filesOVH/Die.Hard.mp4
+#EXTINF:-1,Die Hard 2
+http://infabalancer1.ddns.net:800/filesOVH/Die.Hard.2.mp4
+#EXTINF:-1,Die Hard: With A Vengeance
+http://infabalancer1.ddns.net:800/filesOVH/Die.Hard-With.a.Vengeance.mp4
+#EXTINF:-1,Fleuve Noir
+http://infabalancer1.ddns.net:800/filesOVH/Fleuve.noir.mp4
+#EXTINF:-1,Jumanji: Welcome To The Jungle
+http://infabalancer1.ddns.net:800/filesOVH/Jumanji-Welcome.to.the.Jungle.mp4
+#EXTINF:-1,Le Trip à Trois
+http://infabalancer1.ddns.net:800/filesOVH/Le.Trip.a.trois.mp4
+#EXTINF:-1,Live Free Or Die Hard
+http://infabalancer1.ddns.net:800/filesOVH/Live.Free.or.Die.Hard.mp4
+#EXTINF:-1,Lone Ranger, Naissance D'un Héros
+http://infabalancer1.ddns.net:800/filesOVH/Lone.Ranger.naissance.dun.heros.mp4
+#EXTINF:-1,Mandy
+http://infabalancer1.ddns.net:800/filesOVH/Mandy.mp4
+#EXTINF:-1,Night School
+http://infabalancer1.ddns.net:800/filesOVH/Night.School.mp4
+#EXTINF:-1,Outlaw King
+http://infabalancer1.ddns.net:800/filesOVH/Outlaw.King.avi
+#EXTINF:-1,Overlord
+http://infabalancer1.ddns.net:800/filesOVH/Overlord.avi
+#EXTINF:-1,Peppermint
+http://infabalancer1.ddns.net:800/filesOVH/Peppermint.mp4
+#EXTINF:-1,Ready Player One
+http://infabalancer1.ddns.net:800/filesOVH/Ready.Player.One.mp4
+#EXTINF:-1,Ready Player One FR
+http://infabalancer1.ddns.net:800/filesOVH/Ready.Player.One.FR.mp4
+#EXTINF:-1,The Ballad Of Buster Scruggs
+http://infabalancer1.ddns.net:800/filesOVH/The.Ballad.of.Buster.Scruggs.avi
+#EXTINF:-1,The Christmas Chronicles
+http://infabalancer1.ddns.net:800/filesOVH/The.Christmas.Chronicles.mp4
+#EXTINF:-1,The Happytime Murders
+http://infabalancer1.ddns.net:800/filesOVH/The.Happytime.Murders.mp4
+#EXTINF:-1,The House With A Clock In Its Walls
+http://infabalancer1.ddns.net:800/filesOVH/The.House.with.a.Clock.in.Its.Walls.mp4
+#EXTINF:-1,The Predator
+http://infabalancer1.ddns.net:800/filesOVH/The.Predator.mp4
+#EXTINF:-1,Venom
+http://infabalancer1.ddns.net:800/filesOVH/Venom.mp4
+#EXTINF:-1,Widows
+http://infabalancer1.ddns.net:800/filesOVH/Widows.mp4
+#EXTINF:-1,Yéti & Compagnie
+http://infabalancer1.ddns.net:800/filesOVH/Yeti...Compagnie.mp4
+#EXTINF:-1,10 Things I Hate About You
+http://infabalancer1.ddns.net:800/filesOVH/10.Things.I.Hate.About.You.mkv
+#EXTINF:-1,16 Wishes
+http://infabalancer1.ddns.net:800/filesOVH/16.Wishes.mp4
+#EXTINF:-1,A Cinderella Story
+http://infabalancer1.ddns.net:800/filesOVH/A.Cinderella.Story.avi
+#EXTINF:-1,A Cinderella Story: Once Upon A Song
+http://infabalancer1.ddns.net:800/filesOVH/A.Cinderella.Story-Once.Upon.a.Song.avi
+#EXTINF:-1,A Walk To Remember
+http://infabalancer1.ddns.net:800/filesOVH/A.Walk.to.Remember.mp4
+#EXTINF:-1,About A Boy
+http://infabalancer1.ddns.net:800/filesOVH/About.a.Boy.mp4
+#EXTINF:-1,About Time
+http://infabalancer1.ddns.net:800/filesOVH/About.Time.mp4
+#EXTINF:-1,Another Cinderella Story
+http://infabalancer1.ddns.net:800/filesOVH/Another.Cinderella.Story.mkv
+#EXTINF:-1,Bridget Jones: The Edge Of Reason
+http://infabalancer1.ddns.net:800/filesOVH/Bridget.Jones-The.Edge.of.Reason.mp4
+#EXTINF:-1,Bridget Jones's Baby
+http://infabalancer1.ddns.net:800/filesOVH/Bridget.Joness.Baby.avi
+#EXTINF:-1,Bridget Jones's Diary
+http://infabalancer1.ddns.net:800/filesOVH/Bridget.Joness.Diary.mp4
+#EXTINF:-1,Brooklyn
+http://infabalancer1.ddns.net:800/filesOVH/Brooklyn.mkv
+#EXTINF:-1,Burlesque
+http://infabalancer1.ddns.net:800/filesOVH/Burlesque.mp4
+#EXTINF:-1,Camp Rock
+http://infabalancer1.ddns.net:800/filesOVH/Camp.Rock.avi
+#EXTINF:-1,Edward Aux Mains D'argent
+http://infabalancer1.ddns.net:800/filesOVH/Edward.aux.mains.dargent.mp4
+#EXTINF:-1,La Momie FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/La.Momie.FRENCH.mp4
+#EXTINF:-1,Tomb Raider FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Tomb.Raider.FRENCH.mp4
+#EXTINF:-1,Camp Rock 2: The Final Jam
+http://infabalancer1.ddns.net:800/filesOVH/Camp.Rock.2-The.Final.Jam.mp4
+#EXTINF:-1,Clueless
+http://infabalancer1.ddns.net:800/filesOVH/Clueless.mp4
+#EXTINF:-1,Couples Retreat
+http://infabalancer1.ddns.net:800/filesOVH/Couples.Retreat.mp4
+#EXTINF:-1,Cruel Intentions
+http://infabalancer1.ddns.net:800/filesOVH/Cruel.Intentions.mp4
+#EXTINF:-1,Deadpool 2 FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Deadpool.2.FRENCH.mp4
+#EXTINF:-1,Dear John
+http://infabalancer1.ddns.net:800/filesOVH/Dear.John.mp4
+#EXTINF:-1,Definitely, Maybe
+http://infabalancer1.ddns.net:800/filesOVH/Definitely.Maybe.mp4
+#EXTINF:-1,Easy A
+http://infabalancer1.ddns.net:800/filesOVH/Easy.A.mp4
+#EXTINF:-1,Enchanted
+http://infabalancer1.ddns.net:800/filesOVH/Enchanted.avi
+#EXTINF:-1,Father Of The Bride
+http://infabalancer1.ddns.net:800/filesOVH/Father.of.the.Bride.mkv
+#EXTINF:-1,Jumanji : Bienvenue Dans La Jungle
+http://infabalancer1.ddns.net:800/filesOVH/Jumanji.-Bienvenue.dans.la.jungle.mp4
+#EXTINF:-1,Teen Titans GO ! Le Film
+http://infabalancer1.ddns.net:800/filesOVH/Teen.Titans.GO...Le.film.mp4
+#EXTINF:-1,Four Weddings And A Funeral
+http://infabalancer1.ddns.net:800/filesOVH/Four.Weddings.and.a.Funeral.mkv
+#EXTINF:-1,Freaky Friday
+http://infabalancer1.ddns.net:800/filesOVH/Freaky.Friday.avi
+#EXTINF:-1,Hairspray
+http://infabalancer1.ddns.net:800/filesOVH/Hairspray.mp4
+#EXTINF:-1,He's Just Not That Into You
+http://infabalancer1.ddns.net:800/filesOVH/Hes.Just.Not.That.Into.You.avi
+#EXTINF:-1,How To Lose A Guy In 10 Days
+http://infabalancer1.ddns.net:800/filesOVH/How.to.Lose.a.Guy.in.10.Days.mp4
+#EXTINF:-1,Juno
+http://infabalancer1.ddns.net:800/filesOVH/Juno.mkv
+#EXTINF:-1,Just Married
+http://infabalancer1.ddns.net:800/filesOVH/Just.Married.mp4
+#EXTINF:-1,Knocked Up
+http://infabalancer1.ddns.net:800/filesOVH/Knocked.Up.mkv
+#EXTINF:-1,Leap Year
+http://infabalancer1.ddns.net:800/filesOVH/Leap.Year.mp4
+#EXTINF:-1,Legally Blonde
+http://infabalancer1.ddns.net:800/filesOVH/Legally.Blonde.mp4
+#EXTINF:-1,Letters To Juliet
+http://infabalancer1.ddns.net:800/filesOVH/Letters.to.Juliet.mp4
+#EXTINF:-1,Equalizer 2 FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Equalizer.2.FRENCH.mp4
+#EXTINF:-1,Ferdinand FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Ferdinand.FRENCH.mp4
+#EXTINF:-1,Made Of Honor
+http://infabalancer1.ddns.net:800/filesOVH/Made.of.Honor.mp4
+#EXTINF:-1,Mamma Mia!
+http://infabalancer1.ddns.net:800/filesOVH/Mamma.Mia..mp4
+#EXTINF:-1,Mean Girls
+http://infabalancer1.ddns.net:800/filesOVH/Mean.Girls.mp4
+#EXTINF:-1,Mean Girls 2
+http://thenew.tv:8000/movie/Domingo1/Domingo12/8708.mp4
+#EXTINF:-1,Miss Congeniality
+http://infabalancer1.ddns.net:800/filesOVH/Miss.Congeniality.mp4
+#EXTINF:-1,New Year's Eve
+http://infabalancer1.ddns.net:800/filesOVH/New.Years.Eve.avi
+#EXTINF:-1,Notting Hill
+http://infabalancer1.ddns.net:800/filesOVH/Notting.Hill.avi
+#EXTINF:-1,P S  I Love You
+http://infabalancer1.ddns.net:800/filesOVH/P.S..I.Love.You.mp4
+#EXTINF:-1,Pretty Woman
+http://infabalancer1.ddns.net:800/filesOVH/Pretty.Woman.mp4
+#EXTINF:-1,Princess Protection Program
+http://infabalancer1.ddns.net:800/filesOVH/Princess.Protection.Program.avi
+#EXTINF:-1,Safe Haven
+http://infabalancer1.ddns.net:800/filesOVH/Safe.Haven.mp4
+#EXTINF:-1,Save The Last Dance
+http://infabalancer1.ddns.net:800/filesOVH/Save.the.Last.Dance.avi
+#EXTINF:-1,Sex And The City
+http://infabalancer1.ddns.net:800/filesOVH/Sex.and.the.City.mp4
+#EXTINF:-1,Sleeping With The Enemy
+http://infabalancer1.ddns.net:800/filesOVH/Sleeping.with.the.Enemy.mp4
+#EXTINF:-1,Sleepover
+http://infabalancer1.ddns.net:800/filesOVH/Sleepover.avi
+#EXTINF:-1,Stardust
+http://infabalancer1.ddns.net:800/filesOVH/Stardust.mp4
+#EXTINF:-1,Stepmom
+http://infabalancer1.ddns.net:800/filesOVH/Stepmom.mp4
+#EXTINF:-1,Sweet Home Alabama
+http://infabalancer1.ddns.net:800/filesOVH/Sweet.Home.Alabama.mp4
+#EXTINF:-1,The Back-Up Plan
+http://infabalancer1.ddns.net:800/filesOVH/The.Back-Up.Plan.mp4
+#EXTINF:-1,The Holiday
+http://infabalancer1.ddns.net:800/filesOVH/The.Holiday.mp4
+#EXTINF:-1,The Longest Ride
+http://infabalancer1.ddns.net:800/filesOVH/The.Longest.Ride.mp4
+#EXTINF:-1,The Lucky One
+http://infabalancer1.ddns.net:800/filesOVH/The.Lucky.One.mp4
+#EXTINF:-1,The Notebook
+http://infabalancer1.ddns.net:800/filesOVH/The.Notebook.mp4
+#EXTINF:-1,The Proposal
+http://infabalancer1.ddns.net:800/filesOVH/The.Proposal.mp4
+#EXTINF:-1,The Sisterhood Of The Traveling Pants
+http://infabalancer1.ddns.net:800/filesOVH/The.Sisterhood.of.the.Traveling.Pants.mp4
+#EXTINF:-1,The Twilight Saga: Breaking Dawn - Part 1
+http://infabalancer1.ddns.net:800/filesOVH/The.Twilight.Saga-Breaking.Dawn.Part.1.mp4
+#EXTINF:-1,The Twilight Saga: Breaking Dawn - Part 2
+http://infabalancer1.ddns.net:800/filesOVH/The.Twilight.Saga-Breaking.Dawn.Part.2.mp4
+#EXTINF:-1,The Twilight Saga: Eclipse
+http://infabalancer1.ddns.net:800/filesOVH/The.Twilight.Saga-Eclipse.mp4
+#EXTINF:-1,The Twilight Saga: Eclipse
+http://infabalancer1.ddns.net:800/filesOVH/The.Twilight.Saga-Eclipse.mp4
+#EXTINF:-1,The Twilight Saga: New Moon
+http://infabalancer1.ddns.net:800/filesOVH/The.Twilight.Saga-New.Moon.mp4
+#EXTINF:-1,The Ugly Truth
+http://infabalancer1.ddns.net:800/filesOVH/The.Ugly.Truth.mp4
+#EXTINF:-1,Titanic
+http://infabalancer1.ddns.net:800/filesOVH/Titanic.mp4
+#EXTINF:-1,Jack & Sarah
+http://infabalancer1.ddns.net:800/filesOVH/Jack...Sarah.mp4
+#EXTINF:-1,Jersey Girl
+http://infabalancer1.ddns.net:800/filesOVH/Jersey.Girl.mp4
+#EXTINF:-1,The Wedding Planner
+http://infabalancer1.ddns.net:800/filesOVH/The.Wedding.Planner.mp4
+#EXTINF:-1,Two Weeks Notice
+http://infabalancer1.ddns.net:800/filesOVH/Two.Weeks.Notice.mp4
+#EXTINF:-1,Water For Elephants
+http://infabalancer1.ddns.net:800/filesOVH/Water.for.Elephants.mp4
+#EXTINF:-1,What Women Want
+http://infabalancer1.ddns.net:800/filesOVH/What.Women.Want.mp4
+#EXTINF:-1,While You Were Sleeping
+http://infabalancer1.ddns.net:800/filesOVH/While.You.Were.Sleeping.mp4
+#EXTINF:-1,Wild Child
+http://infabalancer1.ddns.net:800/filesOVH/Wild.Child.mp4
+#EXTINF:-1,2 Fast 2 Furious
+http://infabalancer1.ddns.net:800/filesOVH/2.Fast.2.Furious.mp4
+#EXTINF:-1,Fast Five
+http://infabalancer1.ddns.net:800/filesOVH/Fast.Five.mp4
+#EXTINF:-1,The Fast And The Furious: Tokyo Drift
+http://infabalancer1.ddns.net:800/filesOVH/The.Fast.and.the.Furious-Tokyo.Drift.mp4
+#EXTINF:-1,Demain Tout Commence
+http://infabalancer1.ddns.net:800/filesOVH/Demain.tout.commence.mp4
+#EXTINF:-1,First Man : Le Premier Homme Sur La Lune
+http://infabalancer1.ddns.net:800/filesOVH/First.Man.-le.premier.homme.sur.la.Lune.mp4
+#EXTINF:-1,Wonder Woman FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Wonder.Woman.FRENCH.mp4
+#EXTINF:-1,Taxi 5
+http://infabalancer1.ddns.net:800/filesOVH/Taxi.5.mp4
+#EXTINF:-1,Alpha FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Alpha.FRENCH.mp4
+#EXTINF:-1,Avengers : Infinity War FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Avengers.-Infinity.War.FRENCH.mp4
+#EXTINF:-1,Skyscraper FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Skyscraper.FRENCH.mp4
+#EXTINF:-1,A Christmas Story
+http://infabalancer1.ddns.net:800/filesOVH/A.christmas.story.mp4
+#EXTINF:-1,Adventures In Babysitting
+http://infabalancer1.ddns.net:800/filesOVH/Adventures.in.Babysitting.mp4
+#EXTINF:-1,Baby Boom
+http://infabalancer1.ddns.net:800/filesOVH/Baby.Boom.mp4
+#EXTINF:-1,Beetlejuice
+http://infabalancer1.ddns.net:800/filesOVH/Beetlejuice.mp4
+#EXTINF:-1,Better Off Dead   
+http://infabalancer1.ddns.net:800/filesOVH/Better.Off.Dead....mp4
+#EXTINF:-1,Big
+http://infabalancer1.ddns.net:800/filesOVH/Big.mp4
+#EXTINF:-1,Bill & Ted's Excellent Adventure
+http://infabalancer1.ddns.net:800/filesOVH/Bill...Teds.Excellent.Adventure.mp4
+#EXTINF:-1,Broadcast News
+http://infabalancer1.ddns.net:800/filesOVH/Broadcast.News.mp4
+#EXTINF:-1,Caddyshack
+http://infabalancer1.ddns.net:800/filesOVH/Caddyshack.mp4
+#EXTINF:-1,Can't Buy Me Love
+http://infabalancer1.ddns.net:800/filesOVH/Cant.Buy.Me.Love.mp4
+#EXTINF:-1,Commando
+http://infabalancer1.ddns.net:800/filesOVH/Commando.mp4
+#EXTINF:-1,Dead Poets Society
+http://infabalancer1.ddns.net:800/filesOVH/Dead.Poets.Society.mp4
+#EXTINF:-1,Desperately Seeking Susan
+http://infabalancer1.ddns.net:800/filesOVH/Desperately.Seeking.Susan.mp4
+#EXTINF:-1,Drugstore Cowboy
+https://infa:mediavod@infa.lw975.usbx.me/files/english%20movies/80s/Drugstore.Cowboy.1989.720p.BluRay.X264-AMIABLE%20%5bPublicHD%5d/Drugstore.Cowboy.1989.720p.BluRay.X264-AMIABLE.mkv
+#EXTINF:-1,Eddie Murphy: Delirious
+http://thenew.tv:8000/movie/Domingo1/Domingo12/8781.mp4
+#EXTINF:-1,Escape From New York
+http://infabalancer1.ddns.net:800/filesOVH/Escape.from.New.York.mp4
+#EXTINF:-1,Fast Times At Ridgemont High
+http://infabalancer1.ddns.net:800/filesOVH/Fast.Times.at.Ridgemont.High.mp4
+#EXTINF:-1,Gotti FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Gotti.FRENCH.mp4
+#EXTINF:-1,Le Monde Secret Des Emojis FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Le.Monde.secret.des.Emojis.FRENCH.mp4
+#EXTINF:-1,Les Maîtres De L'illusion FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Les.Maîtres.de.lillusion.FRENCH.mp4
+#EXTINF:-1,Sausage Party, La Vie Privée Des Aliments FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Sausage.Party.la.vie.privee.des.aliments.FRENCH.mp4
+#EXTINF:-1,Sixteen Candles
+http://thenew.tv:8000/movie/Domingo1/Domingo12/8764.mp4
+#EXTINF:-1,Solo: A Star Wars Story FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Solo-A.Star.Wars.Story.FRENCH.mp4
+#EXTINF:-1,Fast & Furious 8 FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Fast...Furious.8.FRENCH.mp4
+#EXTINF:-1,Field Of Dreams
+http://infabalancer1.ddns.net:800/filesOVH/Field.of.Dreams.mp4
+#EXTINF:-1,Flight Of The Navigator
+http://infabalancer1.ddns.net:800/filesOVH/Flight.of.the.Navigator.mp4
+#EXTINF:-1,Gremlins
+http://infabalancer1.ddns.net:800/filesOVH/Gremlins.mp4
+#EXTINF:-1,Heathers
+http://infabalancer1.ddns.net:800/filesOVH/Heathers.mp4
+#EXTINF:-1,Highlander
+http://infabalancer1.ddns.net:800/filesOVH/Highlander.mp4
+#EXTINF:-1,Krush Groove
+http://thenew.tv:8000/movie/Domingo1/Domingo12/8790.mp4
+#EXTINF:-1,Labyrinth
+http://infabalancer1.ddns.net:800/filesOVH/Labyrinth.mp4
+#EXTINF:-1,Ladyhawke
+http://infabalancer1.ddns.net:800/filesOVH/Ladyhawke.mp4
+#EXTINF:-1,Little Shop Of Horrors
+http://infabalancer1.ddns.net:800/filesOVH/Little.Shop.of.Horrors.mp4
+#EXTINF:-1,Lost In America
+http://infabalancer1.ddns.net:800/filesOVH/Lost.in.America.mp4
+#EXTINF:-1,My Left Foot: The Story Of Christy Brown
+http://infabalancer1.ddns.net:800/filesOVH/My.Left.Foot-The.Story.of.Christy.Brown.mp4
+#EXTINF:-1,Mystery Train
+http://infabalancer1.ddns.net:800/filesOVH/Mystery.Train.mp4
+#EXTINF:-1,La Ch'tite Famille FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/La.chtite.famille.FRENCH.mp4
+#EXTINF:-1,National Lampoon's Vacation
+http://infabalancer1.ddns.net:800/filesOVH/National.Lampoons.Vacation.mp4
+#EXTINF:-1,Near Dark
+http://infabalancer1.ddns.net:800/filesOVH/Near.Dark.mp4
+#EXTINF:-1,Poltergeist
+http://infabalancer1.ddns.net:800/filesOVH/Poltergeist.1982.mp4
+#EXTINF:-1,Purple Rain
+http://infabalancer1.ddns.net:800/filesOVH/Purple.Rain.mp4
+#EXTINF:-1,Raging Bull
+http://infabalancer1.ddns.net:800/filesOVH/Raging.Bull.mp4
+#EXTINF:-1,Hôtel Transylvanie 3 : Des Vacances Monstrueuses FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Hotel.Transylvanie.3.-Des.vacances.monstrueuses.FRENCH.mp4
+#EXTINF:-1,Raising Arizona
+http://infabalancer1.ddns.net:800/filesOVH/Raising.Arizona.mp4
+#EXTINF:-1,Real Genius
+http://infabalancer1.ddns.net:800/filesOVH/Real.Genius.mp4
+#EXTINF:-1,Revenge Of The Nerds
+http://infabalancer1.ddns.net:800/filesOVH/Revenge.of.the.Nerds.mp4
+#EXTINF:-1,Risky Business
+http://infabalancer1.ddns.net:800/filesOVH/Risky.Business.mp4
+#EXTINF:-1,RoboCop
+http://infabalancer1.ddns.net:800/filesOVH/RoboCop.mp4
+#EXTINF:-1,Say Anything   
+http://infabalancer1.ddns.net:800/filesOVH/Say.Anything....mp4
+#EXTINF:-1,Short Circuit
+http://infabalancer1.ddns.net:800/filesOVH/Short.Circuit.mp4
+#EXTINF:-1,Sleepaway Camp
+http://infabalancer1.ddns.net:800/filesOVH/Sleepaway.Camp.mp4
+#EXTINF:-1,Spaceballs
+http://infabalancer1.ddns.net:800/filesOVH/Spaceballs.mp4
+#EXTINF:-1,Mystic Pizza
+http://infabalancer1.ddns.net:800/filesOVH/Mystic.Pizza.mp4
+#EXTINF:-1,Pretty In Pink
+http://infabalancer1.ddns.net:800/filesOVH/Pretty.in.Pink.mp4
+#EXTINF:-1,St  Elmo's Fire
+http://infabalancer1.ddns.net:800/filesOVH/St..Elmos.Fire.mp4
+#EXTINF:-1,Steel Magnolias
+http://infabalancer1.ddns.net:800/filesOVH/Steel.Magnolias.mp4
+#EXTINF:-1,Stripes
+http://infabalancer1.ddns.net:800/filesOVH/Stripes.mp4
+#EXTINF:-1,The Blues Brothers
+http://infabalancer1.ddns.net:800/filesOVH/The.Blues.Brothers.mp4
+#EXTINF:-1,The Breakfast Club
+http://infabalancer1.ddns.net:800/filesOVH/The.Breakfast.Club.mp4
+#EXTINF:-1,The Color Purple
+http://infabalancer1.ddns.net:800/filesOVH/The.Color.Purple.mp4
+#EXTINF:-1,The Goonies
+http://infabalancer1.ddns.net:800/filesOVH/The.Goonies.mp4
+#EXTINF:-1,The Great Outdoors
+http://infabalancer1.ddns.net:800/filesOVH/The.Great.Outdoors.mp4
+#EXTINF:-1,The Karate Kid
+http://infabalancer1.ddns.net:800/filesOVH/The.Karate.Kid.mp4
+#EXTINF:-1,The Land Before Time
+http://infabalancer1.ddns.net:800/filesOVH/The.Land.Before.Time.mp4
+#EXTINF:-1,The Last Starfighter
+http://infabalancer1.ddns.net:800/filesOVH/The.Last.Starfighter.mp4
+#EXTINF:-1,The Lost Boys
+http://infabalancer1.ddns.net:800/filesOVH/The.Lost.Boys.mp4
+#EXTINF:-1,The Terminator
+http://infabalancer1.ddns.net:800/filesOVH/The.Terminator.mp4
+#EXTINF:-1,This Is Spinal Tap
+http://infabalancer1.ddns.net:800/filesOVH/This.Is.Spinal.Tap.mp4
+#EXTINF:-1,Tootsie
+http://infabalancer1.ddns.net:800/filesOVH/Tootsie.mp4
+#EXTINF:-1,Top Gun
+http://infabalancer1.ddns.net:800/filesOVH/Top.Gun.mp4
+#EXTINF:-1,Trading Places
+http://infabalancer1.ddns.net:800/filesOVH/Trading.Places.mp4
+#EXTINF:-1,UHF
+http://infabalancer1.ddns.net:800/filesOVH/UHF.mp4
+#EXTINF:-1,Uncle Buck
+http://infabalancer1.ddns.net:800/filesOVH/Uncle.Buck.mp4
+#EXTINF:-1,Valley Girl
+http://infabalancer1.ddns.net:800/filesOVH/Valley.Girl.mp4
+#EXTINF:-1,Wall Street
+http://infabalancer1.ddns.net:800/filesOVH/Wall.Street.mp4
+#EXTINF:-1,Weird Science
+http://infabalancer1.ddns.net:800/filesOVH/Weird.Science.mp4
+#EXTINF:-1,When Harry Met Sally   
+http://infabalancer1.ddns.net:800/filesOVH/When.Harry.Met.Sally....mp4
+#EXTINF:-1,Working Girl
+http://infabalancer1.ddns.net:800/filesOVH/Working.Girl.mp4
+#EXTINF:-1,50 First Dates
+http://infabalancer1.ddns.net:800/filesOVH/50.First.Dates.mp4
+#EXTINF:-1,A Fish Called Wanda
+http://infabalancer1.ddns.net:800/filesOVH/A.Fish.Called.Wanda.mp4
+#EXTINF:-1,Adventureland
+http://infabalancer1.ddns.net:800/filesOVH/Adventureland.mp4
+#EXTINF:-1,Anchorman: The Legend Of Ron Burgundy
+http://infabalancer1.ddns.net:800/filesOVH/Anchorman-The.Legend.of.Ron.Burgundy.mp4
+#EXTINF:-1,Animal House
+http://infabalancer1.ddns.net:800/filesOVH/Animal.House.mp4
+#EXTINF:-1,Bad Santa
+http://infabalancer1.ddns.net:800/filesOVH/Bad.Santa.mp4
+#EXTINF:-1,BASEketball
+http://infabalancer1.ddns.net:800/filesOVH/BASEketball.mp4
+#EXTINF:-1,Blades Of Glory
+http://infabalancer1.ddns.net:800/filesOVH/Blades.of.Glory.mp4
+#EXTINF:-1,Blazing Saddles
+http://infabalancer1.ddns.net:800/filesOVH/Blazing.Saddles.mp4
+#EXTINF:-1,Borat: Cultural Learnings Of America For Make Benefit Glorious Nation Of Kazakhstan
+http://infabalancer1.ddns.net:800/filesOVH/Borat-Cultural.Learnings.of.America.mp4
+#EXTINF:-1,Cheech & Chong's Next Movie
+http://infabalancer1.ddns.net:800/filesOVH/Cheech...Chongs.Next.Movie.mp4
+#EXTINF:-1,Clerks II
+http://infabalancer1.ddns.net:800/filesOVH/Clerks.II.mp4
+#EXTINF:-1,Coneheads
+http://infabalancer1.ddns.net:800/filesOVH/Coneheads.mp4
+#EXTINF:-1,Detroit Rock City
+http://infabalancer1.ddns.net:800/filesOVH/Detroit.Rock.City.mp4
+#EXTINF:-1,Dickie Roberts: Former Child Star
+http://thenew.tv:8000/movie/Domingo1/Domingo12/8857.mp4
+#EXTINF:-1,DodgeBall: A True Underdog Story
+http://infabalancer1.ddns.net:800/filesOVH/DodgeBall-A.True.Underdog.Story.mp4
+#EXTINF:-1,Dogma
+http://infabalancer1.ddns.net:800/filesOVH/Dogma.mp4
+#EXTINF:-1,Dude, Where's My Car?
+http://infabalancer1.ddns.net:800/filesOVH/Dude.Wheres.My.Car.mp4
+#EXTINF:-1,Forgetting Sarah Marshall
+http://infabalancer1.ddns.net:800/filesOVH/Forgetting.Sarah.Marshall.mp4
+#EXTINF:-1,Friday
+http://infabalancer1.ddns.net:800/filesOVH/Friday.mp4
+#EXTINF:-1,Grandma's Boy
+http://infabalancer1.ddns.net:800/filesOVH/Grandmas.Boy.mp4
+#EXTINF:-1,Harold & Kumar Go To White Castle
+http://infabalancer1.ddns.net:800/filesOVH/Harold...Kumar.Go.to.White.Castle.mp4
+#EXTINF:-1,Heat
+http://infabalancer1.ddns.net:800/filesOVH/Heat.mp4
+#EXTINF:-1,Hot Fuzz
+http://infabalancer1.ddns.net:800/filesOVH/Hot.Fuzz.mp4
+#EXTINF:-1,Hot Rod
+http://infabalancer1.ddns.net:800/filesOVH/Hot.Rod.mp4
+#EXTINF:-1,How To Lose Friends & Alienate People
+http://infabalancer1.ddns.net:800/filesOVH/How.to.Lose.Friends...Alienate.People.mp4
+#EXTINF:-1,I Love You, Man
+http://infabalancer1.ddns.net:800/filesOVH/I.Love.You.Man.mp4
+#EXTINF:-1,Jackass: The Movie
+http://infabalancer1.ddns.net:800/filesOVH/Jackass-The.Movie.mp4
+#EXTINF:-1,Jay And Silent Bob Strike Back
+http://infabalancer1.ddns.net:800/filesOVH/Jay.and.Silent.Bob.Strike.Back.mp4
+#EXTINF:-1,Joe Dirt
+http://infabalancer1.ddns.net:800/filesOVH/Joe.Dirt.mp4
+#EXTINF:-1,Kingpin
+http://infabalancer1.ddns.net:800/filesOVH/Kingpin.mp4
+#EXTINF:-1,Liar Liar
+http://infabalancer1.ddns.net:800/filesOVH/Liar.Liar.mp4
+#EXTINF:-1,Life Of Brian
+http://infabalancer1.ddns.net:800/filesOVH/Life.of.Brian.mp4
+#EXTINF:-1,Little Miss Sunshine
+http://infabalancer1.ddns.net:800/filesOVH/Little.Miss.Sunshine.mp4
+#EXTINF:-1,Major League
+http://infabalancer1.ddns.net:800/filesOVH/Major.League.mp4
+#EXTINF:-1,Mallrats
+http://infabalancer1.ddns.net:800/filesOVH/Mallrats.mp4
+#EXTINF:-1,Monty Python And The Holy Grail
+http://infabalancer1.ddns.net:800/filesOVH/Monty.Python.and.the.Holy.Grail.mp4
+#EXTINF:-1,Napoleon Dynamite
+http://infabalancer1.ddns.net:800/filesOVH/Napoleon.Dynamite.mp4
+#EXTINF:-1,Observe And Report
+http://infabalancer1.ddns.net:800/filesOVH/Observe.and.Report.mp4
+#EXTINF:-1,Office Space
+http://infabalancer1.ddns.net:800/filesOVH/Office.Space.mp4
+#EXTINF:-1,Paul Blart: Mall Cop
+http://infabalancer1.ddns.net:800/filesOVH/Paul.Blart-Mall.Cop.mp4
+#EXTINF:-1,Private Parts
+http://infabalancer1.ddns.net:800/filesOVH/Private.Parts.mp4
+#EXTINF:-1,Road Trip
+http://infabalancer1.ddns.net:800/filesOVH/Road.Trip.mp4
+#EXTINF:-1,Saving Silverman
+http://infabalancer1.ddns.net:800/filesOVH/Saving.Silverman.mp4
+#EXTINF:-1,School Of Rock
+http://infabalancer1.ddns.net:800/filesOVH/School.of.Rock.mp4
+#EXTINF:-1,Sex Drive
+http://infabalancer1.ddns.net:800/filesOVH/Sex.Drive.mp4
+#EXTINF:-1,Step Brothers
+http://infabalancer1.ddns.net:800/filesOVH/Step.Brothers.mp4
+#EXTINF:-1,Super Troopers
+http://infabalancer1.ddns.net:800/filesOVH/Super.Troopers.mp4
+#EXTINF:-1,Superbad
+http://infabalancer1.ddns.net:800/filesOVH/Superbad.mp4
+#EXTINF:-1,Talladega Nights: The Ballad Of Ricky Bobby
+https://infa:mediavod@infa.lw975.usbx.me/files/english%20movies/comedys/Talladega%20Nights%20The%20Ballad%20of%20Ricky%20Bobby%20(2006)/Talladega.Nights.The.Ballad.of.Ricky.Bobby.2006.720p.bluray.x264.YIFY.mp4
+#EXTINF:-1,The 'Burbs
+http://infabalancer1.ddns.net:800/filesOVH/The.Burbs.mp4
+#EXTINF:-1,The 40 Year Old Virgin
+http://infabalancer1.ddns.net:800/filesOVH/The.40.Year.Old.Virgin.mp4
+#EXTINF:-1,The Big Lebowski
+https://infa:mediavod@infa.lw975.usbx.me/files/english%20movies/comedys/The%20Big%20Lebowski%20(1998)/The.Big.Lebowski.1998.720p.BrRip.x264.YIFY.mp4
+#EXTINF:-1,The Cable Guy
+http://infabalancer1.ddns.net:800/filesOVH/The.Cable.Guy.mp4
+#EXTINF:-1,The Dukes Of Hazzard: The Beginning
+http://infabalancer1.ddns.net:800/filesOVH/The.Dukes.of.Hazzard-The.Beginning.mp4
+#EXTINF:-1,The Hangover
+http://infabalancer1.ddns.net:800/filesOVH/The.Hangover.mp4
+#EXTINF:-1,The Jerk
+http://infabalancer1.ddns.net:800/filesOVH/The.Jerk.mp4
+#EXTINF:-1,The Naked Gun: From The Files Of Police Squad!
+http://thenew.tv:8000/movie/Domingo1/Domingo12/8895.mp4
+#EXTINF:-1,The Wedding Singer
+http://infabalancer1.ddns.net:800/filesOVH/The.Wedding.Singer.mp4
+#EXTINF:-1,The Whole Nine Yards
+http://thenew.tv:8000/movie/Domingo1/Domingo12/8902.mp4
+#EXTINF:-1,There's Something About Mary
+http://thenew.tv:8000/movie/Domingo1/Domingo12/8903.mp4
+#EXTINF:-1,Tommy Boy
+http://infabalancer1.ddns.net:800/filesOVH/Tommy.Boy.mp4
+#EXTINF:-1,Trainwreck
+http://infabalancer1.ddns.net:800/filesOVH/Trainwreck.mp4
+#EXTINF:-1,Tropic Thunder
+http://infabalancer1.ddns.net:800/filesOVH/Tropic.Thunder.mp4
+#EXTINF:-1,Wayne's World
+http://thenew.tv:8000/movie/Domingo1/Domingo12/8907.mp4
+#EXTINF:-1,Yes Man
+http://infabalancer1.ddns.net:800/filesOVH/Yes.Man.mp4
+#EXTINF:-1,Youth In Revolt
+http://infabalancer1.ddns.net:800/filesOVH/Youth.in.Revolt.mp4
+#EXTINF:-1,Zack And Miri Make A Porno
+http://infabalancer1.ddns.net:800/filesOVH/Zack.and.Miri.Make.a.Porno.mp4
+#EXTINF:-1,Zombieland
+http://infabalancer1.ddns.net:800/filesOVH/Zombieland.mp4
+#EXTINF:-1,Zoolander
+http://infabalancer1.ddns.net:800/filesOVH/Zoolander.mp4
+#EXTINF:-1,A Midnight Clear
+http://infabalancer1.ddns.net:800/filesOVH/A.Midnight.Clear.mp4
+#EXTINF:-1,Apocalypse Now
+http://infabalancer1.ddns.net:800/filesOVH/Apocalypse.Now.mp4
+#EXTINF:-1,Behind Enemy Lines
+http://infabalancer1.ddns.net:800/filesOVH/Behind.Enemy.Lines.mp4
+#EXTINF:-1,Biggie: The Life Of Notorious B I G  FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Biggie-The.Life.of.Notorious.B.I.G..FRENCH.mp4
+#EXTINF:-1,Born On The Fourth Of July
+http://infabalancer1.ddns.net:800/filesOVH/Born.on.the.Fourth.of.July.mp4
+#EXTINF:-1,Casablanca
+http://infabalancer1.ddns.net:800/filesOVH/Casablanca.mp4
+#EXTINF:-1,Das Boot
+http://infabalancer1.ddns.net:800/filesOVH/Das.Boot.mp4
+#EXTINF:-1,Enemy At The Gate
+http://infabalancer1.ddns.net:800/filesOVH/Enemy.at.the.Gate.mp4
+#EXTINF:-1,Eye In The Sky
+http://infabalancer1.ddns.net:800/filesOVH/Eye.in.the.Sky.mp4
+#EXTINF:-1,Flags Of Our Fathers
+http://infabalancer1.ddns.net:800/filesOVH/Flags.of.Our.Fathers.mp4
+#EXTINF:-1,Glory
+http://infabalancer1.ddns.net:800/filesOVH/Glory.mp4
+#EXTINF:-1,Good Morning, Vietnam
+http://infabalancer1.ddns.net:800/filesOVH/Good.Morning.Vietnam.mp4
+#EXTINF:-1,Hacksaw Ridge
+http://infabalancer1.ddns.net:800/filesOVH/Hacksaw.Ridge.mp4
+#EXTINF:-1,Inglourious Basterds
+http://infabalancer1.ddns.net:800/filesOVH/Inglourious.Basterds.mp4
+#EXTINF:-1,Jarhead
+http://infabalancer1.ddns.net:800/filesOVH/Jarhead.mp4
+#EXTINF:-1,Lawrence Of Arabia
+http://infabalancer1.ddns.net:800/filesOVH/Lawrence.of.Arabia.mp4
+#EXTINF:-1,Lincoln
+http://infabalancer1.ddns.net:800/filesOVH/Lincoln.mp4
+#EXTINF:-1,Lone Survivor
+http://infabalancer1.ddns.net:800/filesOVH/Lone.Survivor.mp4
+#EXTINF:-1,Master And Commander: The Far Side Of The World
+http://infabalancer1.ddns.net:800/filesOVH/Master.and.Commander-The.Far.Side.of.the.World.mp4
+#EXTINF:-1,No Man's Land
+http://infabalancer1.ddns.net:800/filesOVH/No.Mans.Land.mkv
+#EXTINF:-1,Patton
+http://infabalancer1.ddns.net:800/filesOVH/Patton.mp4
+#EXTINF:-1,Platoon
+http://infabalancer1.ddns.net:800/filesOVH/Platoon.mp4
+#EXTINF:-1,Saving Private Ryan
+http://infabalancer1.ddns.net:800/filesOVH/Saving.Private.Ryan.mp4
+#EXTINF:-1,Schindler's List
+http://infabalancer1.ddns.net:800/filesOVH/Schindlers.List.mp4
+#EXTINF:-1,Son Of Saul
+http://thenew.tv:8000/movie/Domingo1/Domingo12/8946.mp4
+#EXTINF:-1,Spartacus
+http://infabalancer1.ddns.net:800/filesOVH/Spartacus.mp4
+#EXTINF:-1,The English Patient
+http://infabalancer1.ddns.net:800/filesOVH/The.English.Patient.mp4
+#EXTINF:-1,The Hurt Locker
+http://infabalancer1.ddns.net:800/filesOVH/The.Hurt.Locker.mp4
+#EXTINF:-1,The Imitation Game
+http://infabalancer1.ddns.net:800/filesOVH/The.Imitation.Game.mp4
+#EXTINF:-1,The Killing Fields
+http://infabalancer1.ddns.net:800/filesOVH/The.Killing.Fields.mp4
+#EXTINF:-1,The Last Dragonslayer FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/The.Last.Dragonslayer.FRENCH.mp4
+#EXTINF:-1,The Last Of The Mohicans
+http://infabalancer1.ddns.net:800/filesOVH/The.Last.of.the.Mohicans.mp4
+#EXTINF:-1,The Thin Red Line
+http://infabalancer1.ddns.net:800/filesOVH/The.Thin.Red.Line.mp4
+#EXTINF:-1,The Wind That Shakes The Barley
+http://infabalancer1.ddns.net:800/filesOVH/The.Wind.That.Shakes.the.Barley.mp4
+#EXTINF:-1,Three Kings
+http://infabalancer1.ddns.net:800/filesOVH/Three.Kings.mp4
+#EXTINF:-1,War Horse
+http://infabalancer1.ddns.net:800/filesOVH/War.Horse.mp4
+#EXTINF:-1,Where Eagles Dare
+http://infabalancer1.ddns.net:800/filesOVH/Where.Eagles.Dare.mp4
+#EXTINF:-1,Zero Dark Thirty
+http://infabalancer1.ddns.net:800/filesOVH/Zero.Dark.Thirty.mp4
+#EXTINF:-1,It's A Wonderful Life
+http://infabalancer1.ddns.net:800/filesOVH/Its.a.Wonderful.Life.mp4
+#EXTINF:-1,Miracle On 34th Street
+http://infabalancer1.ddns.net:800/filesOVH/Miracle.on.34th.Street.mp4
+#EXTINF:-1,Halloween
+http://infabalancer1.ddns.net:800/filesOVH/Halloween.mp4
+#EXTINF:-1,The Santa Clause
+http://infabalancer1.ddns.net:800/filesOVH/The.Santa.Clause.mp4
+#EXTINF:-1,A Bronx Tale
+https://infa:mediavod@infa.lw975.usbx.me/files/movies/A.Bronx.Tale.1993.720p.BluRay.x264-x0r/A.Bronx.Tale.1993.720p.BluRay.x264-x0r.mkv
+#EXTINF:-1,A View To A Kill
+http://infabalancer1.ddns.net:800/filesOVH/A.View.to.a.Kill.mp4
+#EXTINF:-1,Diamonds Are Forever
+http://infabalancer1.ddns.net:800/filesOVH/Diamonds.Are.Forever.mp4
+#EXTINF:-1,Dr  No
+http://infabalancer1.ddns.net:800/filesOVH/Dr..No.mp4
+#EXTINF:-1,For Your Eyes Only
+http://infabalancer1.ddns.net:800/filesOVH/For.Your.Eyes.Only.mp4
+#EXTINF:-1,From Russia With Love
+http://infabalancer1.ddns.net:800/filesOVH/From.Russia.with.Love.mp4
+#EXTINF:-1,Gangs Of New York
+http://infabalancer1.ddns.net:800/filesOVH/Gangs.of.New.York.mp4
+#EXTINF:-1,GoldenEye
+http://infabalancer1.ddns.net:800/filesOVH/GoldenEye.mp4
+#EXTINF:-1,Goldfinger
+http://infabalancer1.ddns.net:800/filesOVH/Goldfinger.mp4
+#EXTINF:-1,Licence To Kill
+http://infabalancer1.ddns.net:800/filesOVH/Licence.to.Kill.mp4
+#EXTINF:-1,Live And Let Die
+http://infabalancer1.ddns.net:800/filesOVH/Live.and.Let.Die.mp4
+#EXTINF:-1,Miller's Crossing
+http://infabalancer1.ddns.net:800/filesOVH/Millers.Crossing.mp4
+#EXTINF:-1,Never Say Never Again
+http://infabalancer1.ddns.net:800/filesOVH/Never.Say.Never.Again.mp4
+#EXTINF:-1,On Her Majesty's Secret Service
+http://infabalancer1.ddns.net:800/filesOVH/On.Her.Majestys.Secret.Service.mp4
+#EXTINF:-1,Public Enemies
+http://infabalancer1.ddns.net:800/filesOVH/Public.Enemies.mp4
+#EXTINF:-1,Pulp Fiction
+http://infabalancer1.ddns.net:800/filesOVH/Pulp.Fiction.mp4
+#EXTINF:-1,Quantum Of Solace
+http://infabalancer1.ddns.net:800/filesOVH/Quantum.of.Solace.mp4
+#EXTINF:-1,Road To Perdition
+http://infabalancer1.ddns.net:800/filesOVH/Road.to.Perdition.mp4
+#EXTINF:-1,Sexy Beast
+http://infabalancer1.ddns.net:800/filesOVH/Sexy.Beast.mp4
+#EXTINF:-1,Spectre
+http://infabalancer1.ddns.net:800/filesOVH/Spectre.mp4
+#EXTINF:-1,The Departed
+http://infabalancer1.ddns.net:800/filesOVH/The.Departed.mp4
+#EXTINF:-1,The Living Daylights
+http://infabalancer1.ddns.net:800/filesOVH/The.Living.Daylights.mp4
+#EXTINF:-1,The Man With The Golden Gun
+http://infabalancer1.ddns.net:800/filesOVH/The.Man.with.the.Golden.Gun.mp4
+#EXTINF:-1,The Spy Who Loved Me
+http://infabalancer1.ddns.net:800/filesOVH/The.Spy.Who.Loved.Me.mp4
+#EXTINF:-1,The Untouchables
+http://infabalancer1.ddns.net:800/filesOVH/The.Untouchables.mp4
+#EXTINF:-1,Thunderball
+http://infabalancer1.ddns.net:800/filesOVH/Thunderball.mp4
+#EXTINF:-1,Tomorrow Never Dies
+http://infabalancer1.ddns.net:800/filesOVH/Tomorrow.Never.Dies.mp4
+#EXTINF:-1,White Heat
+http://infabalancer1.ddns.net:800/filesOVH/White.Heat.mp4
+#EXTINF:-1,You Only Live Twice
+http://infabalancer1.ddns.net:800/filesOVH/You.Only.Live.Twice.mp4
+#EXTINF:-1,A Star Is Born FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/A.Star.Is.Born.FRENCH.mp4
+#EXTINF:-1,Chasseuse De Géants FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Chasseuse.de.geants.FRENCH.mp4
+#EXTINF:-1,3:10 To Yuma
+http://infabalancer1.ddns.net:800/filesOVH/3-10.to.Yuma.mp4
+#EXTINF:-1,A Fistful Of Dollars
+http://infabalancer1.ddns.net:800/filesOVH/A.Fistful.of.Dollars.mp4
+#EXTINF:-1,Appaloosa
+http://infabalancer1.ddns.net:800/filesOVH/Appaloosa.mp4
+#EXTINF:-1,Bone Tomahawk
+http://infabalancer1.ddns.net:800/filesOVH/Bone.Tomahawk.mp4
+#EXTINF:-1,Butch Cassidy And The Sundance Kid
+http://infabalancer1.ddns.net:800/filesOVH/Butch.Cassidy.and.the.Sundance.Kid.mp4
+#EXTINF:-1,Face/Off
+http://infabalancer1.ddns.net:800/filesOVH/Face.Off.mp4
+#EXTINF:-1,High Noon
+http://infabalancer1.ddns.net:800/filesOVH/High.Noon.mp4
+#EXTINF:-1,How The West Was Won
+http://infabalancer1.ddns.net:800/filesOVH/How.the.West.Was.Won.mp4
+#EXTINF:-1,Jason Bourne
+http://infabalancer1.ddns.net:800/filesOVH/Jason.Bourne.mp4
+#EXTINF:-1,Kill Bill: Vol  1
+http://infabalancer1.ddns.net:800/filesOVH/Kill.Bill-Vol..1.mp4
+#EXTINF:-1,Kill Bill: Vol  2
+http://infabalancer1.ddns.net:800/filesOVH/Kill.Bill-Vol..2.mp4
+#EXTINF:-1,My Darling Clementine
+http://infabalancer1.ddns.net:800/filesOVH/My.Darling.Clementine.mp4
+#EXTINF:-1,Once Upon A Time In The West
+http://infabalancer1.ddns.net:800/filesOVH/Once.Upon.a.Time.in.the.West.mp4
+#EXTINF:-1,Open Range
+http://infabalancer1.ddns.net:800/filesOVH/Open.Range.mp4
+#EXTINF:-1,Ready Player One
+http://infabalancer1.ddns.net:800/filesOVH/Ready.Player.One.mp4
+#EXTINF:-1,Rio Bravo
+http://infabalancer1.ddns.net:800/filesOVH/Rio.Bravo.mp4
+#EXTINF:-1,Silverado
+http://infabalancer1.ddns.net:800/filesOVH/Silverado.mp4
+#EXTINF:-1,Stagecoach
+http://infabalancer1.ddns.net:800/filesOVH/Stagecoach.mp4
+#EXTINF:-1,Terminator 2: Judgment Day
+http://infabalancer1.ddns.net:800/filesOVH/Terminator.2-Judgment.Day.mp4
+#EXTINF:-1,The Bourne Identity
+http://infabalancer1.ddns.net:800/filesOVH/The.Bourne.Identity.mp4
+#EXTINF:-1,The Bourne Legacy
+http://infabalancer1.ddns.net:800/filesOVH/The.Bourne.Legacy.mp4
+#EXTINF:-1,The Bourne Ultimatum
+http://infabalancer1.ddns.net:800/filesOVH/The.Bourne.Ultimatum.mp4
+#EXTINF:-1,The Good, The Bad And The Ugly
+http://infabalancer1.ddns.net:800/filesOVH/The.Good.the.Bad.and.the.Ugly.mp4
+#EXTINF:-1,The Hateful Eight
+http://infabalancer1.ddns.net:800/filesOVH/The.Hateful.Eight.mp4
+#EXTINF:-1,The Man Who Shot Liberty Valance
+http://infabalancer1.ddns.net:800/filesOVH/The.Man.Who.Shot.Liberty.Valance.mp4
+#EXTINF:-1,The Matrix
+http://infabalancer1.ddns.net:800/filesOVH/The.Matrix.mp4
+#EXTINF:-1,The Proposition
+http://infabalancer1.ddns.net:800/filesOVH/The.Proposition.mp4
+#EXTINF:-1,The Quick And The Dead
+http://infabalancer1.ddns.net:800/filesOVH/The.Quick.and.the.Dead.mp4
+#EXTINF:-1,The Salvation
+http://infabalancer1.ddns.net:800/filesOVH/The.Salvation.mp4
+#EXTINF:-1,The Searchers
+http://infabalancer1.ddns.net:800/filesOVH/The.Searchers.mp4
+#EXTINF:-1,The Wild Bunch
+http://infabalancer1.ddns.net:800/filesOVH/The.Wild.Bunch.mp4
+#EXTINF:-1,Tombstone
+http://infabalancer1.ddns.net:800/filesOVH/Tombstone.mp4
+#EXTINF:-1,True Grit
+http://infabalancer1.ddns.net:800/filesOVH/True.Grit.mp4
+#EXTINF:-1,Unforgiven
+http://infabalancer1.ddns.net:800/filesOVH/Unforgiven.mp4
+#EXTINF:-1,Wonder Woman
+http://infabalancer1.ddns.net:800/filesOVH/Wonder.Woman.mp4
+#EXTINF:-1,Iron Man
+http://infabalancer1.ddns.net:800/filesOVH/Iron.Man.mp4
+#EXTINF:-1,Iron Man 2
+http://infabalancer1.ddns.net:800/filesOVH/Iron.Man.2.mp4
+#EXTINF:-1,Iron Man 3
+http://infabalancer1.ddns.net:800/filesOVH/Iron.Man.3.mp4
+#EXTINF:-1,Comedy Central Roast Of Bruce Willis
+http://infabalancer1.ddns.net:800/filesOVH/Comedy.Central.Roast.of.Bruce.Willis.mp4
+#EXTINF:-1,Comedy Central Roast Of Charlie Sheen
+http://infabalancer1.ddns.net:800/filesOVH/Comedy.Central.Roast.of.Charlie.Sheen.mp4
+#EXTINF:-1,Comedy Central Roast Of David Hasselhoff
+http://infabalancer1.ddns.net:800/filesOVH/Comedy.Central.Roast.of.David.Hasselhoff.mp4
+#EXTINF:-1,Comedy Central Roast Of Donald Trump
+http://infabalancer1.ddns.net:800/filesOVH/Comedy.Central.Roast.of.Donald.Trump.mp4
+#EXTINF:-1,Comedy Central Roast Of Flavor Flav
+http://infabalancer1.ddns.net:800/filesOVH/Comedy.Central.Roast.of.Flavor.Flav.mp4
+#EXTINF:-1,Comedy Central Roast Of Hugh Hefner
+http://infabalancer1.ddns.net:800/filesOVH/Comedy.Central.Roast.of.Hugh.Hefner.mp4
+#EXTINF:-1,Comedy Central Roast Of Joan Rivers
+http://infabalancer1.ddns.net:800/filesOVH/Comedy.Central.Roast.of.Joan.Rivers.mp4
+#EXTINF:-1,Comedy Central Roast Of Justin Bieber
+http://infabalancer1.ddns.net:800/filesOVH/Comedy.Central.Roast.of.Justin.Bieber.mp4
+#EXTINF:-1,Comedy Central Roast Of Roseanne
+http://infabalancer1.ddns.net:800/filesOVH/Comedy.Central.Roast.of.Roseanne.mp4
+#EXTINF:-1,Final Score FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Final.Score.FRENCH.mp4
+#EXTINF:-1,Higher Power FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Higher.Power.FRENCH.mp4
+#EXTINF:-1,Junior Majeur FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Junior.Majeur.FRENCH.mp4
+#EXTINF:-1,The Stronghold FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/The.Stronghold.FRENCH.mp4
+#EXTINF:-1,Battle Drone
+http://infabalancer1.ddns.net:800/filesOVH/Battle.Drone.mp4
+#EXTINF:-1,Hochelaga, Terre Des Âmes FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Hochelaga.Terre.des.Âmes.FRENCH.mp4
+#EXTINF:-1,Les Dents, Pipi Et Au Lit
+http://infabalancer1.ddns.net:800/filesOVH/Les.dents.pipi.et.au.lit.mp4
+#EXTINF:-1,Rampage, Hors De Contrôle
+http://infabalancer1.ddns.net:800/filesOVH/Rampage.Hors.de.contrôle.mp4
+#EXTINF:-1,Comedy Central Roast Of Bruce Willis
+http://infabalancer1.ddns.net:800/filesOVH/Comedy.Central.Roast.of.Bruce.Willis.mp4
+#EXTINF:-1,28 Days Later
+http://infabalancer1.ddns.net:800/filesOVH/28.Days.Later.mp4
+#EXTINF:-1,Hellraiser
+http://infabalancer1.ddns.net:800/filesOVH/Hellraiser.mp4
+#EXTINF:-1,Insidious
+http://infabalancer1.ddns.net:800/filesOVH/Insidious.mp4
+#EXTINF:-1,It
+http://infabalancer1.ddns.net:800/filesOVH/It.mp4
+#EXTINF:-1,It Follows
+http://infabalancer1.ddns.net:800/filesOVH/It.Follows.mp4
+#EXTINF:-1,Night Of The Living Dead
+http://infabalancer1.ddns.net:800/filesOVH/Night.of.the.Living.Dead.mp4
+#EXTINF:-1,Paranormal Activity
+http://infabalancer1.ddns.net:800/filesOVH/Paranormal.Activity.mp4
+#EXTINF:-1,Psycho
+http://infabalancer1.ddns.net:800/filesOVH/Psycho.mp4
+#EXTINF:-1,Rosemary's Baby
+http://infabalancer1.ddns.net:800/filesOVH/Rosemarys.Baby.mp4
+#EXTINF:-1,Saw
+http://infabalancer1.ddns.net:800/filesOVH/Saw.mp4
+#EXTINF:-1,Scream
+http://infabalancer1.ddns.net:800/filesOVH/Scream.mp4
+#EXTINF:-1,The Babadook
+http://infabalancer1.ddns.net:800/filesOVH/The.Babadook.mp4
+#EXTINF:-1,The Blair Witch Project
+http://infabalancer1.ddns.net:800/filesOVH/The.Blair.Witch.Project.mp4
+#EXTINF:-1,The Cabin In The Woods
+http://infabalancer1.ddns.net:800/filesOVH/The.Cabin.in.the.Woods.mp4
+#EXTINF:-1,The Conjuring
+http://infabalancer1.ddns.net:800/filesOVH/The.Conjuring.mp4
+#EXTINF:-1,The Descent
+http://infabalancer1.ddns.net:800/filesOVH/The.Descent.mp4
+#EXTINF:-1,The Exorcist
+http://infabalancer1.ddns.net:800/filesOVH/The.Exorcist.mp4
+#EXTINF:-1,The Fly
+http://infabalancer1.ddns.net:800/filesOVH/The.Fly.mp4
+#EXTINF:-1,The Invitation
+http://infabalancer1.ddns.net:800/filesOVH/The.Invitation.mp4
+#EXTINF:-1,The Others
+http://infabalancer1.ddns.net:800/filesOVH/The.Others.mp4
+#EXTINF:-1,The Ring
+http://infabalancer1.ddns.net:800/filesOVH/The.Ring.mp4
+#EXTINF:-1,The Ritual
+http://infabalancer1.ddns.net:800/filesOVH/The.Ritual.mp4
+#EXTINF:-1,The Shining
+http://infabalancer1.ddns.net:800/filesOVH/The.Shining.mp4
+#EXTINF:-1,The Sixth Sense
+http://infabalancer1.ddns.net:800/filesOVH/The.Sixth.Sense.mp4
+#EXTINF:-1,The Texas Chainsaw Massacre
+http://infabalancer1.ddns.net:800/filesOVH/The.Texas.Chainsaw.Massacre.mp4
+#EXTINF:-1,The Witch
+http://infabalancer1.ddns.net:800/filesOVH/The.Witch.mp4
+#EXTINF:-1,Bon Cop Bad Cop 2
+http://infabalancer1.ddns.net:800/filesOVH/Bon.Cop.Bad.Cop.2.mp4
+#EXTINF:-1,US: UFC FIGHT PASS | HD
+http://thenew.tv:8000/Domingo1/Domingo12/14072
+#EXTINF:-1,The Little Drummer Boy
+http://infabalancer1.ddns.net:800/filesOVH/The.Little.Drummer.Boy.mp4
+#EXTINF:-1,Mowgli: Legend Of The Jungle
+http://infabalancer1.ddns.net:800/filesOVH/Mowgli-Legend.of.the.Jungle.mp4
+#EXTINF:-1,First Blood
+http://infabalancer1.ddns.net:800/filesOVH/First.Blood.mp4
+#EXTINF:-1,Rambo
+http://infabalancer1.ddns.net:800/filesOVH/Rambo.mp4
+#EXTINF:-1,Rambo III
+http://infabalancer1.ddns.net:800/filesOVH/Rambo.III.mp4
+#EXTINF:-1,Rambo: First Blood Part II
+http://thenew.tv:8000/movie/Domingo1/Domingo12/17565.mp4
+#EXTINF:-1,Training Day
+http://infabalancer1.ddns.net:800/filesOVH/Training.Day.mp4
+#EXTINF:-1,White Boy Rick
+http://infabalancer1.ddns.net:800/filesOVH/White.Boy.Rick.mp4
+#EXTINF:-1,Instant Family
+http://infabalancer1.ddns.net:800/filesOVH/Instant.Family.mp4
+#EXTINF:-1,101 Dalmatians
+http://infabalancer1.ddns.net:800/filesOVH/101.Dalmatians.mp4
+#EXTINF:-1,A Bug's Life
+http://infabalancer1.ddns.net:800/filesOVH/A.Bugs.Life.mp4
+#EXTINF:-1,Aladdin
+http://infabalancer1.ddns.net:800/filesOVH/Aladdin.mp4
+#EXTINF:-1,Bambi
+http://infabalancer1.ddns.net:800/filesOVH/Bambi.mp4
+#EXTINF:-1,Beauty And The Beast
+http://infabalancer1.ddns.net:800/filesOVH/Beauty.and.the.Beast.mp4
+#EXTINF:-1,Bee Movie
+http://infabalancer1.ddns.net:800/filesOVH/Bee.Movie.mp4
+#EXTINF:-1,Cars
+http://infabalancer1.ddns.net:800/filesOVH/Cars.mp4
+#EXTINF:-1,Cars 2
+http://infabalancer1.ddns.net:800/filesOVH/Cars.2.mp4
+#EXTINF:-1,Chicken Run
+http://infabalancer1.ddns.net:800/filesOVH/Chicken.Run.mp4
+#EXTINF:-1,Despicable Me
+http://infabalancer1.ddns.net:800/filesOVH/Despicable.Me.mp4
+#EXTINF:-1,Despicable Me 2
+https://infa:mediavod@infa.lw975.usbx.me/files/english%20movies/family/Despicable%20Me%202%20(2013)%20%5b1080p%5d/Despicable.Me.2.2013.1080p.BluRay.x264.YIFY.mp4
+#EXTINF:-1,Despicable Me 3
+http://infabalancer1.ddns.net:800/filesOVH/Despicable.Me.3.mp4
+#EXTINF:-1,Finding Nemo
+http://thenew.tv:8000/movie/Domingo1/Domingo12/18210.mp4
+#EXTINF:-1,Home Alone 3
+http://infabalancer1.ddns.net:800/filesOVH/Home.Alone.3.mp4
+#EXTINF:-1,Homeward Bound: The Incredible Journey
+http://infabalancer1.ddns.net:800/filesOVH/Homeward.Bound-The.Incredible.Journey.mp4
+#EXTINF:-1,How To Train Your Dragon
+http://infabalancer1.ddns.net:800/filesOVH/How.to.Train.Your.Dragon.mp4
+#EXTINF:-1,How To Train Your Dragon 2
+http://infabalancer1.ddns.net:800/filesOVH/How.to.Train.Your.Dragon.2.mp4
+#EXTINF:-1,Hugo
+http://infabalancer1.ddns.net:800/filesOVH/Hugo.mp4
+#EXTINF:-1,Inside Out
+http://infabalancer1.ddns.net:800/filesOVH/Inside.Out.mp4
+#EXTINF:-1,Lady And The Tramp
+http://infabalancer1.ddns.net:800/filesOVH/Lady.and.the.Tramp.mp4
+#EXTINF:-1,Mary Poppins
+http://infabalancer1.ddns.net:800/filesOVH/Mary.Poppins.mp4
+#EXTINF:-1,Monsters University
+http://infabalancer1.ddns.net:800/filesOVH/Monsters.University.mp4
+#EXTINF:-1,Shrek
+http://infabalancer1.ddns.net:800/filesOVH/Shrek.mp4
+#EXTINF:-1,Shrek 2
+http://infabalancer1.ddns.net:800/filesOVH/Shrek.2.mp4
+#EXTINF:-1,Shrek Forever After
+http://infabalancer1.ddns.net:800/filesOVH/Shrek.Forever.After.mp4
+#EXTINF:-1,Shrek The Third
+http://infabalancer1.ddns.net:800/filesOVH/Shrek.the.Third.mp4
+#EXTINF:-1,The BFG
+http://infabalancer1.ddns.net:800/filesOVH/The.BFG.mp4
+#EXTINF:-1,The Incredibles
+http://thenew.tv:8000/movie/Domingo1/Domingo12/18227.mp4
+#EXTINF:-1,The Jungle Book
+http://infabalancer1.ddns.net:800/filesOVH/The.Jungle.Book.mp4
+#EXTINF:-1,The LEGO MOVIE
+http://infabalancer1.ddns.net:800/filesOVH/The.LEGO.MOVIE.mp4
+#EXTINF:-1,The Lion King
+http://thenew.tv:8000/movie/Domingo1/Domingo12/18232.mp4
+#EXTINF:-1,The Little Mermaid
+http://infabalancer1.ddns.net:800/filesOVH/The.Little.Mermaid.mp4
+#EXTINF:-1,The Nightmare Before Christmas
+http://infabalancer1.ddns.net:800/filesOVH/The.Nightmare.Before.Christmas.mp4
+#EXTINF:-1,The Peanuts Movie
+http://infabalancer1.ddns.net:800/filesOVH/The.Peanuts.Movie.mp4
+#EXTINF:-1,The Polar Express
+http://infabalancer1.ddns.net:800/filesOVH/The.Polar.Express.mp4
+#EXTINF:-1,The Sandlot
+http://infabalancer1.ddns.net:800/filesOVH/The.Sandlot.mp4
+#EXTINF:-1,The Sound Of Music
+http://infabalancer1.ddns.net:800/filesOVH/The.Sound.of.Music.mp4
+#EXTINF:-1,The Wizard Of Oz
+http://infabalancer1.ddns.net:800/filesOVH/The.Wizard.of.Oz.mp4
+#EXTINF:-1,Trolls
+http://infabalancer1.ddns.net:800/filesOVH/Trolls.mp4
+#EXTINF:-1,Turbo
+http://infabalancer1.ddns.net:800/filesOVH/Turbo.mp4
+#EXTINF:-1,Winnie The Pooh
+http://infabalancer1.ddns.net:800/filesOVH/Winnie.the.Pooh.mp4
+#EXTINF:-1,Wonder
+http://infabalancer1.ddns.net:800/filesOVH/Wonder.mp4
+#EXTINF:-1,Wreck-It Ralph
+http://infabalancer1.ddns.net:800/filesOVH/Wreck-It.Ralph.mp4
+#EXTINF:-1,Zootopia
+http://infabalancer1.ddns.net:800/filesOVH/Zootopia.mp4
+#EXTINF:-1,Aurore
+http://infabalancer1.ddns.net:800/filesOVH/Aurore.2017.mp4
+#EXTINF:-1,2 Temps, 3 Mouvements
+http://infabalancer1.ddns.net:800/filesOVH/2.temps.3.mouvements.mp4
+#EXTINF:-1,Jurassic World : Fallen Kingdom
+http://infabalancer1.ddns.net:800/filesOVH/Jurassic.World-Fallen.Kingdom-FRENCH.mp4
+#EXTINF:-1,Une Prière Avant L'aube
+http://infabalancer1.ddns.net:800/filesOVH/Une.Priere.avant.laube.mp4
+#EXTINF:-1,Hunter Killer
+http://infabalancer1.ddns.net:800/filesOVH/Hunter.Killer.mp4
+#EXTINF:-1,A Chipmunk Christmas
+http://infabalancer1.ddns.net:800/filesOVH/A.Chipmunk.Christmas.mp4
+#EXTINF:-1,He-Man And She-Ra: A Christmas Special
+http://infabalancer1.ddns.net:800/filesOVH/He-Man.and.She-Ra-A.Christmas.Special.mp4
+#EXTINF:-1,Home Alone
+http://infabalancer1.ddns.net:800/filesOVH/Home.Alone.mp4
+#EXTINF:-1,Home Alone 2: Lost In New York
+http://infabalancer1.ddns.net:800/filesOVH/Home.Alone.2-Lost.in.New.York.mp4
+#EXTINF:-1,US: KIDS READING TV
+http://thenew.tv:8000/Domingo1/Domingo12/20897
+#EXTINF:-1,Pepermint
+http://infabalancer1.ddns.net:800/filesOVH/Pepermint.mp4
+#EXTINF:-1,Casper's Haunted Christmas
+http://infabalancer1.ddns.net:800/filesOVH/Caspers.Haunted.Christmas.mp4
+#EXTINF:-1,Frosty The Snowman
+http://thenew.tv:8000/movie/Domingo1/Domingo12/20923.mp4
+#EXTINF:-1,A Flintstones Christmas Carol
+http://infabalancer1.ddns.net:800/filesOVH/A.Flintstones.Christmas.Carol.mp4
+#EXTINF:-1,Jingle All The Way
+http://infabalancer1.ddns.net:800/filesOVH/Jingle.All.the.Way.mp4
+#EXTINF:-1,Friday The 13th Part 2
+http://infabalancer1.ddns.net:800/filesOVH/Friday.the.13th.Part.2.1981.mp4
+#EXTINF:-1,Mortal Engines
+http://thenew.tv:8000/movie/Domingo1/Domingo12/50741.mkv
+#EXTINF:-1,Big Fish
+http://infabalancer1.ddns.net:800/filesOVH/Big.Fish.2003.mkv
+#EXTINF:-1,Cast Away
+http://infabalancer1.ddns.net:800/filesOVH/Cast.Away.2000.mkv
+#EXTINF:-1,Con Air
+http://infabalancer1.ddns.net:800/filesOVH/Con-Air.1997.mkv
+#EXTINF:-1,Hannibal
+http://infabalancer1.ddns.net:800/filesOVH/Hannibal.mp4
+#EXTINF:-1,Machine Gun Preacher
+http://infabalancer1.ddns.net:800/filesOVH/Machine.Gun.Preacher.mp4
+#EXTINF:-1,Manhunter
+http://infabalancer1.ddns.net:800/filesOVH/Manhunter.mp4
+#EXTINF:-1,Red Dragon
+http://infabalancer1.ddns.net:800/filesOVH/Red.Dragon.mp4
+#EXTINF:-1,Taken
+http://infabalancer1.ddns.net:800/filesOVH/Taken.mp4
+#EXTINF:-1,Taken 2
+http://infabalancer1.ddns.net:800/filesOVH/Taken.2.mp4
+#EXTINF:-1,The Rock
+http://infabalancer1.ddns.net:800/filesOVH/The.Rock.mp4
+#EXTINF:-1,Cult Of Chucky
+http://infabalancer1.ddns.net:800/filesOVH/Cult.of.Chucky.mp4
+#EXTINF:-1,Curse Of Chucky
+http://infabalancer1.ddns.net:800/filesOVH/Curse.of.Chucky.mp4
+#EXTINF:-1,Juice
+http://infabalancer1.ddns.net:800/filesOVH/Juice.mp4
+#EXTINF:-1,Legend
+http://infabalancer1.ddns.net:800/filesOVH/Legend.mp4
+#EXTINF:-1,Straight Outta Compton
+http://infabalancer1.ddns.net:800/filesOVH/Straight.Outta.Compton.2015.mkv
+#EXTINF:-1,The Fall Of The Krays
+http://infabalancer1.ddns.net:800/filesOVH/The.Fall.Of.The.Krays.2016.avi
+#EXTINF:-1,The Krays
+http://infabalancer1.ddns.net:800/filesOVH/The.Krays.mp4
+#EXTINF:-1,The Krays: Dead Man Walking
+http://infabalancer1.ddns.net:800/filesOVH/The.Krays-Dead.Man.Walking.mp4
+#EXTINF:-1,The Rise Of The Krays
+http://infabalancer1.ddns.net:800/filesOVH/The.Rise.of.the.Krays.2015.mkv
+#EXTINF:-1,Never Die Alone
+http://infabalancer1.ddns.net:800/filesOVH/Never.Die.Alone.mp4
+#EXTINF:-1,Havana Darkness
+http://infabalancer1.ddns.net:800/filesOVH/Havana.Darkness.mp4
+#EXTINF:-1,The Hate U Give - La Haine Qu'on Donne
+http://thenew.tv:8000/movie/Domingo1/Domingo12/50900.mkv
+#EXTINF:-1,Wolf Creek
+http://infabalancer1.ddns.net:800/filesOVH/Wolf.Creek.mp4
+#EXTINF:-1,Wolf Creek 2
+http://infabalancer1.ddns.net:800/filesOVH/Wolf.Creek.2.mp4
+#EXTINF:-1,1st Summoning
+http://infabalancer1.ddns.net:800/filesOVH/1st.Summoning.mp4
+#EXTINF:-1,Atone
+http://infabalancer1.ddns.net:800/filesOVH/Atone.mp4
+#EXTINF:-1,Crucible Of The Vampire
+http://infabalancer1.ddns.net:800/filesOVH/Crucible.of.the.Vampire.mp4
+#EXTINF:-1,David Bowie: Finding Fame
+http://infabalancer1.ddns.net:800/filesOVH/David.Bowie-Finding.Fame.mp4
+#EXTINF:-1,I Still See You
+http://infabalancer1.ddns.net:800/filesOVH/I.Still.See.You.mp4
+#EXTINF:-1,Lords Of Chaos
+http://infabalancer1.ddns.net:800/filesOVH/Lords.Of.Chaos.2019.mkv
+#EXTINF:-1,The Rock
+http://thenew.tv:8000/movie/Domingo1/Domingo12/51010.avi
+#EXTINF:-1,The Silence Of The Lambs
+http://infabalancer1.ddns.net:800/filesOVH/The.Silence.of.the.Lambs.mp4
+#EXTINF:-1,Trapped In Paradise
+http://thenew.tv:8000/movie/Domingo1/Domingo12/51008.mp4
+#EXTINF:-1,Apprentis Parents
+http://thenew.tv:8000/movie/Domingo1/Domingo12/51016.mkv
+#EXTINF:-1,12 Years A Slave
+http://infabalancer1.ddns.net:800/filesOVH/12.Years.a.Slave.mp4
+#EXTINF:-1,Cooley High
+http://infabalancer1.ddns.net:800/filesOVH/Cooley.High.mp4
+#EXTINF:-1,Foxy Brown
+http://infabalancer1.ddns.net:800/filesOVH/Foxy.Brown.mp4
+#EXTINF:-1,Shaft
+http://infabalancer1.ddns.net:800/filesOVH/Shaft.mp4
+#EXTINF:-1,24/7 | SESAME STREET
+http://thenew.tv:8000/Domingo1/Domingo12/51117
+#EXTINF:-1,A Piece Of The Action
+http://infabalancer1.ddns.net:800/filesOVH/A.Piece.of.the.Action.1977.mkv
+#EXTINF:-1,Claudine
+http://infabalancer1.ddns.net:800/filesOVH/Claudine.mp4
+#EXTINF:-1,Cornbread, Earl And Me
+http://infabalancer1.ddns.net:800/filesOVH/Cornbread.Earl.and.Me.1975.mkv
+#EXTINF:-1,Imitation Of Life
+http://infabalancer1.ddns.net:800/filesOVH/Imitation.of.Life.mp4
+#EXTINF:-1,Menace II Society
+http://infabalancer1.ddns.net:800/filesOVH/Menace.2.Society.avi
+#EXTINF:-1,Three The Hard Way
+http://infabalancer1.ddns.net:800/filesOVH/Three.the.Hard.Way.mp4
+#EXTINF:-1,Uptown Saturday Night
+http://thenew.tv:8000/movie/Domingo1/Domingo12/51119.mp4
+#EXTINF:-1,Wuthering Heights
+http://infabalancer1.ddns.net:800/filesOVH/Wuthering.Heights.2011.mkv
+#EXTINF:-1,Ride Clear Of Diablo
+http://infabalancer1.ddns.net:800/filesOVH/Ride.Clear.of.Diablo.mp4
+#EXTINF:-1,Varsity Punks
+http://thenew.tv:8000/movie/Domingo1/Domingo12/51126.mkv
+#EXTINF:-1,8 Mile
+http://infabalancer1.ddns.net:800/filesOVH/8.Mile.2002.mkv
+#EXTINF:-1,ATL
+http://infabalancer1.ddns.net:800/filesOVH/ATL.mp4
+#EXTINF:-1,Blue Hill Avenue
+http://infabalancer1.ddns.net:800/filesOVH/Blue.Hill.Avenue.mp4
+#EXTINF:-1,Clockers
+http://infabalancer1.ddns.net:800/filesOVH/Clockers.mkv
+#EXTINF:-1,Dead Presidents
+http://infabalancer1.ddns.net:800/filesOVH/Dead.Presidents.mp4
+#EXTINF:-1,One Eight Seven
+http://infabalancer1.ddns.net:800/filesOVH/One.Eight.Seven.mp4
+#EXTINF:-1,Do The Right Thing
+http://infabalancer1.ddns.net:800/filesOVH/Do.the.Right.Thing.mp4
+#EXTINF:-1,Next Day Air
+http://infabalancer1.ddns.net:800/filesOVH/Next.Day.Air.mp4
+#EXTINF:-1,Freedom Writers
+http://infabalancer1.ddns.net:800/filesOVH/Freedom.Writers.2007.mp4
+#EXTINF:-1,Gridiron Gang
+http://infabalancer1.ddns.net:800/filesOVH/Gridiron.Gang.mp4
+#EXTINF:-1,How High
+http://infabalancer1.ddns.net:800/filesOVH/How.High.mp4
+#EXTINF:-1,Hustle & Flow
+http://infabalancer1.ddns.net:800/filesOVH/Hustle...Flow.mp4
+#EXTINF:-1,In Too Deep
+http://infabalancer1.ddns.net:800/filesOVH/In.Too.Deep.mp4
+#EXTINF:-1,Jason's Lyric
+http://thenew.tv:8000/movie/Domingo1/Domingo12/51235.mp4
+#EXTINF:-1,Captain Corelli's Mandolin
+http://infabalancer1.ddns.net:800/filesOVH/Captain.Corellis.Mandolin.mp4
+#EXTINF:-1,City Of God
+http://infabalancer1.ddns.net:800/filesOVH/City.of.God.mp4
+#EXTINF:-1,Hurricane
+http://infabalancer1.ddns.net:800/filesOVH/Hurricane.mp4
+#EXTINF:-1,Iron Man
+http://thenew.tv:8000/movie/Domingo1/Domingo12/51292.mkv
+#EXTINF:-1,Iron Man 2
+http://thenew.tv:8000/movie/Domingo1/Domingo12/51293.mkv
+#EXTINF:-1,Iron Man 3
+http://thenew.tv:8000/movie/Domingo1/Domingo12/51294.mkv
+#EXTINF:-1,L'Incroyable Hulk
+http://thenew.tv:8000/movie/Domingo1/Domingo12/51291.mkv
+#EXTINF:-1,Machine Gun Preacher
+http://infabalancer1.ddns.net:800/filesOVH/Machine.Gun.Preacher.mp4
+#EXTINF:-1,Rush Hour
+http://infabalancer1.ddns.net:800/filesOVH/Rush.Hour.1998.mkv
+#EXTINF:-1,Rush Hour 2
+http://infabalancer1.ddns.net:800/filesOVH/Rush.Hour.2.mp4
+#EXTINF:-1,Rush Hour 3
+http://infabalancer1.ddns.net:800/filesOVH/Rush.Hour.3.mp4
+#EXTINF:-1,The Family Man
+http://infabalancer1.ddns.net:800/filesOVH/The.Family.Man.mp4
+#EXTINF:-1,The Hangover
+http://infabalancer1.ddns.net:800/filesOVH/The.Hangover.Part.2.2011.mkv
+#EXTINF:-1,The Players Club
+http://thenew.tv:8000/movie/Domingo1/Domingo12/51237.mp4
+#EXTINF:-1,Windtalkers
+http://infabalancer1.ddns.net:800/filesOVH/Windtalkers.mp4
+#EXTINF:-1,Les Animaux Fantastiques : Les Crimes De Grindelwald
+http://thenew.tv:8000/movie/Domingo1/Domingo12/51295.aac-rolled
+#EXTINF:-1,Spider-Man : New Generation
+http://thenew.tv:8000/movie/Domingo1/Domingo12/51296.mkv
+#EXTINF:-1,NRL 24/7
+http://thenew.tv:8000/Domingo1/Domingo12/51380
+#EXTINF:-1,Casse-Noisette Et Les Quatre Royaumes
+http://thenew.tv:8000/movie/Domingo1/Domingo12/51491.mkv
+#EXTINF:-1,Marie Stuart, Reine D'Écosse
+http://thenew.tv:8000/movie/Domingo1/Domingo12/51492.mkv
+#EXTINF:-1,La Mort De Superman
+http://thenew.tv:8000/movie/Domingo1/Domingo12/51496.mkv
+#EXTINF:-1,Millénium: Ce Qui Ne Me Tue Pas
+http://thenew.tv:8000/movie/Domingo1/Domingo12/51495.mkv
+#EXTINF:-1,Pas Si Folle
+http://thenew.tv:8000/movie/Domingo1/Domingo12/51497.mkv
+#EXTINF:-1,SuperFly
+http://thenew.tv:8000/movie/Domingo1/Domingo12/51493.mkv
+#EXTINF:-1,AFL 24/7 | UHD
+http://thenew.tv:8000/Domingo1/Domingo12/51390
+#EXTINF:-1,AI Rising
+http://infabalancer1.ddns.net:800/filesOVH/AIeRising.mp4
+#EXTINF:-1,Blade: Trinity
+http://infabalancer1.ddns.net:800/filesOVH/Blade.Trinity.2004.mkv
+#EXTINF:-1,Nazi Overlord
+http://infabalancer1.ddns.net:800/filesOVH/Nazi.Overlord.mp4
+#EXTINF:-1,St  Agatha
+http://infabalancer1.ddns.net:800/filesOVH/Ste.Agatha.mp4
+#EXTINF:-1,GoodFellas
+http://infabalancer1.ddns.net:800/filesOVH/GoodFellas.mp4
+#EXTINF:-1,Stray
+http://infabalancer1.ddns.net:800/filesOVH/Stray.mp4
+#EXTINF:-1,The Boy Who Harnessed The Wind
+https://infa:mediavod@infa.lw975.usbx.me/files/movies/The.Boy.Who.Harnessed.the.Wind.2019.1080p.NF.WEB-DL.DD5.1.H264-CMRG/The.Boy.Who.Harnessed.the.Wind.2019.1080p.NF.WEB-DL.DD5.1.H264-CMRG.mkv
+#EXTINF:-1,The Standoff At Sparrow Creek
+http://infabalancer1.ddns.net:800/filesOVH/The.Standoff.at.Sparrow.Creek.mp4
+#EXTINF:-1,We Die Young
+http://infabalancer1.ddns.net:800/filesOVH/We.Die.Young.mp4
+#EXTINF:-1,Gone In Sixty Seconds
+http://infabalancer1.ddns.net:800/filesOVH/Gone.in.Sixty.Seconds.2000.mkv
+#EXTINF:-1,24/7: Peppa Pig
+http://thenew.tv:8000/Domingo1/Domingo12/51605
+#EXTINF:-1,24/7: Peppa Pig*
+http://thenew.tv:8000/Domingo1/Domingo12/84151
+#EXTINF:-1,Peter Pan
+http://infabalancer1.ddns.net:800/filesOVH/Peter.Pan.mp4
+#EXTINF:-1,The Godfather: Part II
+http://infabalancer1.ddns.net:800/filesOVH/The.Godfather-Part.II.mp4
+#EXTINF:-1,Mission: Impossible
+http://infabalancer1.ddns.net:800/filesOVH/Mission-Impossible.mp4
+#EXTINF:-1,Mission: Impossible II
+http://infabalancer1.ddns.net:800/filesOVH/Mission-Impossible.II.mp4
+#EXTINF:-1,Mission: Impossible III
+http://infabalancer1.ddns.net:800/filesOVH/Mission-Impossible.III.mp4
+#EXTINF:-1,Almost Famous
+http://infabalancer1.ddns.net:800/filesOVH/Almost.Famous.mp4
+#EXTINF:-1,Avatar
+http://infabalancer1.ddns.net:800/filesOVH/Avatar.mp4
+#EXTINF:-1,Being John Malkovich
+http://infabalancer1.ddns.net:800/filesOVH/Being.John.Malkovich.mp4
+#EXTINF:-1,Boogie Nights
+http://infabalancer1.ddns.net:800/filesOVH/Boogie.Nights.mp4
+#EXTINF:-1,Children Of Men
+http://infabalancer1.ddns.net:800/filesOVH/Children.of.Men.mp4
+#EXTINF:-1,Edward Scissorhands
+http://infabalancer1.ddns.net:800/filesOVH/Edward.Scissorhands.mp4
+#EXTINF:-1,Fargo
+http://infabalancer1.ddns.net:800/filesOVH/Fargo.mp4
+#EXTINF:-1,Good Will Hunting
+http://infabalancer1.ddns.net:800/filesOVH/Good.Will.Hunting.mp4
+#EXTINF:-1,Groundhog Day
+http://infabalancer1.ddns.net:800/filesOVH/Groundhog.Day.mp4
+#EXTINF:-1,L A  Confidential
+http://infabalancer1.ddns.net:800/filesOVH/LeAe.Confidential.mp4
+#EXTINF:-1,Lost In Translation
+http://infabalancer1.ddns.net:800/filesOVH/Lost.in.Translation.mp4
+#EXTINF:-1,Minority Report
+http://infabalancer1.ddns.net:800/filesOVH/Minority.Report.mp4
+#EXTINF:-1,Se7en
+http://infabalancer1.ddns.net:800/filesOVH/Se7en.mp4
+#EXTINF:-1,The Lord Of The Rings: The Fellowship Of The Ring
+http://infabalancer1.ddns.net:800/filesOVH/The.Lord.of.the.Rings-The.Fellowship.of.the.Ring.mp4
+#EXTINF:-1,The Lord Of The Rings: The Return Of The King
+http://infabalancer1.ddns.net:800/filesOVH/The.Lord.of.the.Rings-The.Return.of.the.King.mp4
+#EXTINF:-1,The Lord Of The Rings: The Two Towers
+http://infabalancer1.ddns.net:800/filesOVH/The.Lord.of.the.Rings-The.Two.Towers.mp4
+#EXTINF:-1,The Prestige
+http://infabalancer1.ddns.net:800/filesOVH/The.Prestige.mp4
+#EXTINF:-1,The Shawshank Redemption
+http://infabalancer1.ddns.net:800/filesOVH/The.Shawshank.Redemption.mp4
+#EXTINF:-1,Trainspotting
+http://infabalancer1.ddns.net:800/filesOVH/Trainspotting.mp4
+#EXTINF:-1,Boiler Room
+http://infabalancer1.ddns.net:800/filesOVH/Boiler.Room.2000.mp4
+#EXTINF:-1,Fighting With My Family
+http://infabalancer1.ddns.net:800/filesOVH/Fighting.with.My.Family.mp4
+#EXTINF:-1,Pretty Broken
+http://infabalancer1.ddns.net:800/filesOVH/Pretty.Broken.mp4
+#EXTINF:-1,Shaun Of The Dead
+http://infabalancer1.ddns.net:800/filesOVH/Shaun.Of.The.Dead.2004.mkv
+#EXTINF:-1,The Godfather: Part III
+http://infabalancer1.ddns.net:800/filesOVH/The.Godfather-Part.III.mp4
+#EXTINF:-1,The Protector
+http://infabalancer1.ddns.net:800/filesOVH/The.Protector.mp4
+#EXTINF:-1,Viking Blood
+http://infabalancer1.ddns.net:800/filesOVH/Viking.Blood.mp4
+#EXTINF:-1,Isn't It Romantic
+http://infabalancer1.ddns.net:800/filesOVH/Isnt.It.Romantic.2019.mkv
+#EXTINF:-1,30 Miles To Nowhere
+http://infabalancer1.ddns.net:800/filesOVH/30.Miles.to.Nowhere.mp4
+#EXTINF:-1,Among The Shadows
+http://infabalancer1.ddns.net:800/filesOVH/Among.the.Shadows.mp4
+#EXTINF:-1,Devil's Path
+http://infabalancer1.ddns.net:800/filesOVH/Devils.Path.mp4
+#EXTINF:-1,Mike And Dave Need Wedding Date
+http://infabalancer1.ddns.net:800/filesOVH/Mike.and.Dave.Need.Wedding.Dates.2016.mkv
+#EXTINF:-1,Something
+http://infabalancer1.ddns.net:800/filesOVH/Something.2019.mp4
+#EXTINF:-1,The Hard Way
+http://infabalancer1.ddns.net:800/filesOVH/The.Hard.Way.2019.mkv
+#EXTINF:-1,What Lies Ahead
+http://infabalancer1.ddns.net:800/filesOVH/What.Lies.Ahead.2019.mkv
+#EXTINF:-1,Aquaman VF
+http://thenew.tv:8000/movie/Domingo1/Domingo12/54213.mkv
+#EXTINF:-1,American Animals
+http://thenew.tv:8000/movie/Domingo1/Domingo12/54214.mkv
+#EXTINF:-1,Alice In Wonderland
+http://thenew.tv:8000/movie/Domingo1/Domingo12/54237.mkv
+#EXTINF:-1,100 Yards
+http://infabalancer1.ddns.net:800/filesOVH/100.Yards.2018.mp4
+#EXTINF:-1,American Me
+http://thenew.tv:8000/movie/Domingo1/Domingo12/55267.avi
+#EXTINF:-1,Apocalypto
+http://thenew.tv:8000/movie/Domingo1/Domingo12/55270.mp4
+#EXTINF:-1,Blood In, Blood Out
+http://thenew.tv:8000/movie/Domingo1/Domingo12/55263.avi
+#EXTINF:-1,Born In East L A 
+http://thenew.tv:8000/movie/Domingo1/Domingo12/55571.avi
+#EXTINF:-1,Enter The Dragon The Deadly Three
+http://thenew.tv:8000/movie/Domingo1/Domingo12/55627.mkv
+#EXTINF:-1,Fist Of Fury
+http://thenew.tv:8000/movie/Domingo1/Domingo12/55625.mkv
+#EXTINF:-1,Game Of Death
+http://infabalancer1.ddns.net:800/filesOVH/The.Game.of.Death.1978.mkv
+#EXTINF:-1,Game Of Death II
+http://infabalancer1.ddns.net:800/filesOVH/Game.of.Death.1981.mkv
+#EXTINF:-1,My Family
+http://infabalancer1.ddns.net:800/filesOVH/My.Family.1995.avi
+#EXTINF:-1,The Big Boss
+http://thenew.tv:8000/movie/Domingo1/Domingo12/55624.mkv
+#EXTINF:-1,The Hobbit: An Unexpected Journey
+http://thenew.tv:8000/movie/Domingo1/Domingo12/55572.mp4
+#EXTINF:-1,The Hobbit: The Battle Of The Five Armies
+http://infabalancer1.ddns.net:800/filesOVH/The.Hobbit.The.Battle.of.the.Five.Armies.2014.mkv
+#EXTINF:-1,The Hobbit: The Desolation Of Smaug
+http://thenew.tv:8000/movie/Domingo1/Domingo12/55573.mp4
+#EXTINF:-1,The Quest
+http://infabalancer1.ddns.net:800/filesOVH/The.Quest.1996.mp4
+#EXTINF:-1,The Way Of The Dragon
+http://thenew.tv:8000/movie/Domingo1/Domingo12/55626.mkv
+#EXTINF:-1,Almost Famous
+http://infabalancer1.ddns.net:800/filesOVH/Almost.Famous.mp4
+#EXTINF:-1,Vegas Vacation
+http://infabalancer1.ddns.net:800/filesOVH/National.Lampoons.Vegas.Vacation.1997.mkv
+#EXTINF:-1,Happy Death Day 2U
+http://infabalancer1.ddns.net:800/filesOVH/Happy.Death.Day.2U.mp4
+#EXTINF:-1,How To Train Your Dragon: The Hidden World
+http://infabalancer1.ddns.net:800/filesOVH/How.to.Train.Your.Dragon-The.Hidden.World.mp4
+#EXTINF:-1,I'm Not Here
+http://infabalancer1.ddns.net:800/filesOVH/Im.Not.Here.mp4
+#EXTINF:-1,Juanita
+http://infabalancer1.ddns.net:800/filesOVH/Juanita.2019.mkv
+#EXTINF:-1,The Lego Movie 2: The Second Part
+http://infabalancer1.ddns.net:800/filesOVH/The.Lego.Movie.2-The.Second.Part.mp4
+#EXTINF:-1,Walk  Ride  Rodeo 
+http://infabalancer1.ddns.net:800/filesOVH/Walke.Ridee.Rodeoe.mp4
+#EXTINF:-1,Poetic Justice
+http://infabalancer1.ddns.net:800/filesOVH/Poetic.Justice.mp4
+#EXTINF:-1,The Clovehitch Killer
+http://infabalancer1.ddns.net:800/filesOVH/The.Clovehitch.Killer.mp4
+#EXTINF:-1,Le Retour De Mary Poppins
+http://thenew.tv:8000/movie/Domingo1/Domingo12/55932.mkv
+#EXTINF:-1,First We Take Brooklyn
+http://infabalancer1.ddns.net:800/filesOVH/First.We.Take.Brooklyn.mp4
+#EXTINF:-1,If Beale Street Could Talk
+http://infabalancer1.ddns.net:800/filesOVH/If.Beale.Street.Could.Talk.2019.mp4
+#EXTINF:-1,ARM:ARMENIA TV
+http://thenew.tv:8000/Domingo1/Domingo12/58099
+#EXTINF:-1,Replicas
+http://thenew.tv:8000/movie/Domingo1/Domingo12/58769.avi
+#EXTINF:-1,Aquaman
+http://thenew.tv:8000/movie/Domingo1/Domingo12/58939.mkv
+#EXTINF:-1,Eat Pray Love
+http://infabalancer1.ddns.net:800/filesOVH/Eat.Pray.Love.mp4
+#EXTINF:-1,Mange, Prie, Aime
+http://thenew.tv:8000/movie/Domingo1/Domingo12/58914.mp4
+#EXTINF:-1,The Mule
+http://thenew.tv:8000/movie/Domingo1/Domingo12/59038.mkv
+#EXTINF:-1,The Green Mile
+http://thenew.tv:8000/movie/Domingo1/Domingo12/59129.mkv
+#EXTINF:-1,Holmes & Watson
+http://infabalancer1.ddns.net:800/filesOVH/Holmes.and.Watson.2018.mkv
+#EXTINF:-1,Stan & Ollie
+http://thenew.tv:8000/movie/Domingo1/Domingo12/59210.avi
+#EXTINF:-1,A Dog's Way Home
+http://thenew.tv:8000/movie/Domingo1/Domingo12/59212.mkv
+#EXTINF:-1,Kursk
+http://thenew.tv:8000/movie/Domingo1/Domingo12/59213.mkv
+#EXTINF:-1,The Matrix
+http://thenew.tv:8000/movie/Domingo1/Domingo12/59318.
+#EXTINF:-1,3/21 - In the Crease - (Fri 22 Mar 2:00PM)
+http://thenew.tv:8000/Domingo1/Domingo12/59317
+#EXTINF:-1,Big Kill
+http://thenew.tv:8000/movie/Domingo1/Domingo12/59215.mkv
+#EXTINF:-1,The Quake
+http://thenew.tv:8000/movie/Domingo1/Domingo12/59214.avi
+#EXTINF:-1,BARE KNUCKLE BOXING: (Live Matches Only)
+http://thenew.tv:8000/Domingo1/Domingo12/65009
+#EXTINF:-1,MMA : Okto Sports (One Championship MMA Broadcaster)
+http://thenew.tv:8000/Domingo1/Domingo12/65010
+#EXTINF:-1,UFC 24/7
+http://thenew.tv:8000/Domingo1/Domingo12/59455
+#EXTINF:-1,Bumblebee
+http://inf247.ddns.net/Bumblebee.2018.avi
+#EXTINF:-1,Bumblebee
+http://infabalancer1.ddns.net:800/files/FRMOVIES/Bumblebee.2018.FRENCH.720p.BluRay.x264-VENUE/Bumblebee.2018.FRENCH.720p.BluRay.x264-VENUE.mkv
+#EXTINF:-1,Triple Frontière
+http://thenew.tv:8000/movie/Domingo1/Domingo12/59590.mkv
+#EXTINF:-1,Dragon: The Bruce Lee Story
+http://infabalancer1.ddns.net:800/filesOVH/Dragon-The.Bruce.Lee.Story.mp4
+#EXTINF:-1,A Madea Family Funeral
+http://infabalancer1.ddns.net:800/filesOVH/A.Madea.Family.Funeral.mp4
+#EXTINF:-1,What Men Want
+http://infabalancer1.ddns.net:800/filesOVH/What.Men.Want.mp4
+#EXTINF:-1,Mary Poppins Returns
+http://infabalancer1.ddns.net:800/files/FRMOVIES/Mary.Poppins.Returns.2018.MULTi.DVDRip.x264.AC3-NoTag.mkv
+#EXTINF:-1,Red
+http://thenew.tv:8000/movie/Domingo1/Domingo12/61188.mkv
+#EXTINF:-1,Red 2
+http://thenew.tv:8000/movie/Domingo1/Domingo12/61189.mkv
+#EXTINF:-1,Welcome To Marwen
+http://infabalancer1.ddns.net:800/filesOVH/Welcome.To.Marwen.mp4
+#EXTINF:-1,US: YES NETWORK
+http://thenew.tv:8000/Domingo1/Domingo12/61714
+#EXTINF:-1,Annihilation French
+http://thenew.tv:8000/movie/Domingo1/Domingo12/62945.mkv
+#EXTINF:-1,Annie
+http://infabalancer1.ddns.net:800/filesOVH/Annie.mp4
+#EXTINF:-1,La Princesse De Chicago
+http://thenew.tv:8000/movie/Domingo1/Domingo12/62946.mkv
+#EXTINF:-1,Glass
+http://thenew.tv:8000/movie/Domingo1/Domingo12/62950.mkv
+#EXTINF:-1,Une Seconde Chance
+http://thenew.tv:8000/movie/Domingo1/Domingo12/62951.mkv
+#EXTINF:-1,Anon
+http://thenew.tv:8000/movie/Domingo1/Domingo12/62952.mkv
+#EXTINF:-1,Ánimas
+http://thenew.tv:8000/movie/Domingo1/Domingo12/62953.mkv
+#EXTINF:-1,Brain On Fire
+http://thenew.tv:8000/movie/Domingo1/Domingo12/62954.mkv
+#EXTINF:-1,Bright
+http://thenew.tv:8000/movie/Domingo1/Domingo12/62955.mp4
+#EXTINF:-1,Cam
+http://thenew.tv:8000/movie/Domingo1/Domingo12/62956.mkv
+#EXTINF:-1,Candy Jar
+http://thenew.tv:8000/movie/Domingo1/Domingo12/62957.mkv
+#EXTINF:-1,Cargo Vf
+http://thenew.tv:8000/movie/Domingo1/Domingo12/62958.mkv
+#EXTINF:-1,Close
+http://thenew.tv:8000/movie/Domingo1/Domingo12/62959.mkv
+#EXTINF:-1,Part 1 - (Fri 05/04 10:24AM GMT)
+http://thenew.tv:8000/Domingo1/Domingo12/63021
+#EXTINF:-1,Courage Et Rodéo
+http://thenew.tv:8000/movie/Domingo1/Domingo12/63059.mkv
+#EXTINF:-1,Dans La Peau Du Loup
+http://thenew.tv:8000/movie/Domingo1/Domingo12/63060.mkv
+#EXTINF:-1,Darc
+http://thenew.tv:8000/movie/Domingo1/Domingo12/63061.mkv
+#EXTINF:-1,The Cloverfield Paradox
+http://thenew.tv:8000/movie/Domingo1/Domingo12/63058.mkv
+#EXTINF:-1,The Dirt VF
+http://thenew.tv:8000/movie/Domingo1/Domingo12/63062.mkv
+#EXTINF:-1,A3
+http://thenew.tv:8000/Domingo1/Domingo12/62479
+#EXTINF:-1,Freddy Vs  Jason
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65218.mp4
+#EXTINF:-1,Mr  Holland's Opus
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65219.mkv
+#EXTINF:-1,Escape Room
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65220.mkv
+#EXTINF:-1,Searching - Portée Disparue
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65355.mkv
+#EXTINF:-1,Kayıp Aranıyor
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65354.mkv
+#EXTINF:-1,Astérix - Le Secret De La Potion Magique
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65356.mkv
+#EXTINF:-1,Gladiateur
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65358.mkv
+#EXTINF:-1,La Mule
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65360.mkv
+#EXTINF:-1,Outlaw King: Le Roi Hors-la-loi
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65362.mkv
+#EXTINF:-1,Roxanne, Roxanne
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65364.mkv
+#EXTINF:-1,Serenity
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65361.mkv
+#EXTINF:-1,The Dirt
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65359.mkv
+#EXTINF:-1,Unicorn Store VF
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65357.mkv
+#EXTINF:-1,You Get Me
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65363.mkv
+#EXTINF:-1,Alex, Le Destin D'un Roi
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65365.mkv
+#EXTINF:-1,Blindspotting
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65367.mkv
+#EXTINF:-1,Can You Ever Forgive Me?
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65366.mkv
+#EXTINF:-1,La Légende De Cocaïne Island
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65368.mkv
+#EXTINF:-1,300
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65371.mkv
+#EXTINF:-1,300 : La Naissance D'un Empire
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65381.mkv
+#EXTINF:-1,Alien Warfare
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65385.mkv
+#EXTINF:-1,Reign Of The Supermen
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65384.mkv
+#EXTINF:-1,Astérix - Le Secret De La Potion Magique
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65386.mkv
+#EXTINF:-1,Qu'est-ce Qu'on A Fait Au Bon Dieu ?
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65387.mkv
+#EXTINF:-1,Une Femme D'exception
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65388.mkv
+#EXTINF:-1,Mrs  Doubtfire
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65503.mp4
+#EXTINF:-1,The Highwaymen
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65410.mp4
+#EXTINF:-1,Dr  Giggles
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65513.mp4
+#EXTINF:-1,Polar FR
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65515.mkv
+#EXTINF:-1,Bienvenue à Marwen
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65520.mkv
+#EXTINF:-1,IO
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65518.mkv
+#EXTINF:-1,Justice League Vs  The Fatal Five
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65519.mkv
+#EXTINF:-1,Message From The King
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65516.mkv
+#EXTINF:-1,Mowgli : La Légende De La Jungle
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65517.mkv
+#EXTINF:-1,Nés En Chine
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65525.mkv
+#EXTINF:-1,St  Agatha
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65523.mkv
+#EXTINF:-1,Stan Et Ollie
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65521.mkv
+#EXTINF:-1,The Vanished
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65522.mkv
+#EXTINF:-1,Un Nouveau Jour Sur Terre
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65524.mkv
+#EXTINF:-1,A L'heure Des Souvenirs
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65527.mkv
+#EXTINF:-1,Une Mariée Folle à Lier
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65526.mkv
+#EXTINF:-1,US: SONY MOVIE CHANNEL | HD
+http://thenew.tv:8000/Domingo1/Domingo12/65690
+#EXTINF:-1,US: WESTERNS 4 U | HD
+http://thenew.tv:8000/Domingo1/Domingo12/65686
+#EXTINF:-1,WWE WrestleMania 35
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65702.mp4
+#EXTINF:-1,Speed
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65977.mp4
+#EXTINF:-1,ES: Movistar LIGA
+http://thenew.tv:8000/Domingo1/Domingo12/65978
+#EXTINF:-1,Sometimes They Come Back
+http://infabalancer1.ddns.net:800/filesOVH/Sometimes.They.Come.Back.1991.avi
+#EXTINF:-1,ES: M LIGA | UHD
+http://thenew.tv:8000/Domingo1/Domingo12/66359
+#EXTINF:-1,ES: M Liga de Campeones | UHD
+http://thenew.tv:8000/Domingo1/Domingo12/66358
+#EXTINF:-1,Captain Marvel
+http://thenew.tv:8000/movie/Domingo1/Domingo12/66535.mkv
+#EXTINF:-1,The Internship
+http://infabalancer1.ddns.net:800/filesOVH/The.Internship.2013.mkv
+#EXTINF:-1,5th Passenger
+http://infabalancer1.ddns.net:800/filesOVH/5th.Passenger.mp4
+#EXTINF:-1,A Bad Moms Christmas
+http://infabalancer1.ddns.net:800/filesOVH/A.Bad.Moms.Christmas.mp4
+#EXTINF:-1,A Beautiful Mind
+http://infabalancer1.ddns.net:800/filesOVH/A.Beautiful.Mind.mp4
+#EXTINF:-1,A Private War
+http://infabalancer1.ddns.net:800/filesOVH/A.Private.War.mp4
+#EXTINF:-1,A Star Is Born
+http://infabalancer1.ddns.net:800/filesOVH/A.Star.Is.Born.mp4
+#EXTINF:-1,Airplane!
+http://infabalancer1.ddns.net:800/filesOVH/Airplane..mp4
+#EXTINF:-1,American Hangman
+http://infabalancer1.ddns.net:800/filesOVH/American.Hangman.mp4
+#EXTINF:-1,An Acceptable Loss
+http://infabalancer1.ddns.net:800/filesOVH/An.Acceptable.Loss.mp4
+#EXTINF:-1,Animal
+http://infabalancer1.ddns.net:800/filesOVH/Animal.mp4
+#EXTINF:-1,Annabelle
+http://infabalancer1.ddns.net:800/filesOVH/Annabelle.mp4
+#EXTINF:-1,Annabelle
+http://infabalancer1.ddns.net:800/filesOVH/Annabelle.mp4
+#EXTINF:-1,Annihilation
+http://infabalancer1.ddns.net:800/filesOVH/Annihilation.mp4
+#EXTINF:-1,Ant-Man And The Wasp
+http://infabalancer1.ddns.net:800/filesOVH/Ant-Man.and.the.Wasp.mp4
+#EXTINF:-1,Aquaman
+http://infabalancer1.ddns.net:800/filesOVH/Aquamen.2018.mkv
+#EXTINF:-1,Argo
+http://infabalancer1.ddns.net:800/filesOVH/Argo.mp4
+#EXTINF:-1,At Eternity's Gate
+http://infabalancer1.ddns.net:800/filesOVH/At.Eternitys.Gate.mp4
+#EXTINF:-1,Baby Boy
+http://thenew.tv:8000/movie/Domingo1/Domingo12/48886.avi
+#EXTINF:-1,Bad Boys
+http://infabalancer1.ddns.net:800/filesOVH/Bad.Boys.mp4
+#EXTINF:-1,Bad Times At The El Royale
+http://infabalancer1.ddns.net:800/filesOVH/Bad.Times.at.the.El.Royale.mp4
+#EXTINF:-1,Bad Times At The El Royale
+http://infabalancer1.ddns.net:800/filesOVH/Bad.Times.at.the.El.Royale.mp4
+#EXTINF:-1,Bambi
+http://infabalancer1.ddns.net:800/filesOVH/Bambi.mp4
+#EXTINF:-1,Belly
+http://infabalancer1.ddns.net:800/filesOVH/Belly.mp4
+#EXTINF:-1,Ben Is Back
+http://infabalancer1.ddns.net:800/filesOVH/Ben.Is.Back.mp4
+#EXTINF:-1,Big Daddy
+http://infabalancer1.ddns.net:800/filesOVH/Big.Daddy.mp4
+#EXTINF:-1,Billy Madison
+http://infabalancer1.ddns.net:800/filesOVH/Billy.Madison.mp4
+#EXTINF:-1,Blackwood, Le Pensionnat
+http://thenew.tv:8000/movie/Domingo1/Domingo12/46176.mkv
+#EXTINF:-1,Blanche-Neige Et Les Sept Nains
+http://infabalancer1.ddns.net:800/filesOVH/Blanche-Neige.et.les.Sept.Nains.mp4
+#EXTINF:-1,Blood Diamond
+http://infabalancer1.ddns.net:800/filesOVH/Blood.Diamond.mp4
+#EXTINF:-1,Bloopers TVA
+http://infabalancer1.ddns.net:800/filesOVH/Bloopers.TVA.mp4
+#EXTINF:-1,Blue
+http://infabalancer1.ddns.net:800/filesOVH/Blue.mp4
+#EXTINF:-1,Bodied
+http://infabalancer1.ddns.net:800/filesOVH/Bodied.mp4
+#EXTINF:-1,Body Of Lies
+http://infabalancer1.ddns.net:800/filesOVH/Body.of.Lies.mp4
+#EXTINF:-1,Body Of Lies
+http://infabalancer1.ddns.net:800/filesOVH/Body.of.Lies.mp4
+#EXTINF:-1,Bohemian Rhapsody
+http://thenew.tv:8000/movie/Domingo1/Domingo12/46175.mkv
+#EXTINF:-1,Bohemian Rhapsody
+http://infabalancer1.ddns.net:800/filesOVH/Bohemian.Rhapsody.mp4
+#EXTINF:-1,Boomerang
+http://thenew.tv:8000/movie/Domingo1/Domingo12/49458.avi
+#EXTINF:-1,Breaking In
+http://infabalancer1.ddns.net:800/filesOVH/Breaking.In.mp4
+#EXTINF:-1,Bridesmaids
+http://infabalancer1.ddns.net:800/filesOVH/Bridesmaids.mp4
+#EXTINF:-1,Broken Arrow
+http://infabalancer1.ddns.net:800/filesOVH/Broken.Arrow.mp4
+#EXTINF:-1,Can You Ever Forgive Me?
+http://infabalancer1.ddns.net:800/filesOVH/Can.You.Ever.Forgive.Me.mp4
+#EXTINF:-1,Car Wash
+http://infabalancer1.ddns.net:800/filesOVH/Car.Wash.mp4
+#EXTINF:-1,Casino
+http://infabalancer1.ddns.net:800/filesOVH/Casino.mp4
+#EXTINF:-1,CB4
+http://infabalancer1.ddns.net:800/filesOVH/CB4.mp4
+#EXTINF:-1,Circus World
+http://infabalancer1.ddns.net:800/filesOVH/Circus.World.mp4
+#EXTINF:-1,Close
+http://infabalancer1.ddns.net:800/filesOVH/Close.mp4
+#EXTINF:-1,Crash
+http://infabalancer1.ddns.net:800/filesOVH/Crash.mp4
+#EXTINF:-1,Creed II
+http://thenew.tv:8000/movie/Domingo1/Domingo12/46151.mkv
+#EXTINF:-1,Creed II
+http://infabalancer1.ddns.net:800/filesOVH/Creed.2.mkv
+#EXTINF:-1,Dances With Wolves
+http://infabalancer1.ddns.net:800/filesOVH/Dances.with.Wolves.mp4
+#EXTINF:-1,Deadly Friend
+http://thenew.tv:8000/movie/Domingo1/Domingo12/65396.mp4
+#EXTINF:-1,Deep Cover
+http://infabalancer1.ddns.net:800/filesOVH/Deep.Cover.mp4
+#EXTINF:-1,Destroyer
+http://infabalancer1.ddns.net:800/filesOVH/Destroyer.2019.avi
+#EXTINF:-1,Don't Come Back From The Moon
+http://infabalancer1.ddns.net:800/filesOVH/Dont.Come.Back.from.the.Moon.mp4
+#EXTINF:-1,Donnie Brasco
+http://infabalancer1.ddns.net:800/filesOVH/Donnie.Brasco.mp4
+#EXTINF:-1,Donnybrook
+http://infabalancer1.ddns.net:800/filesOVH/Donnybrook.mp4
+#EXTINF:-1,Draft Day
+http://infabalancer1.ddns.net:800/filesOVH/Draft.Day.mp4
+#EXTINF:-1,Dragon Ball Super: Broly
+http://infabalancer1.ddns.net:800/filesOVH/Dragon.Ball.Super-Broly.mp4
+#EXTINF:-1,Dragon Ball Super: Broly
+http://infabalancer1.ddns.net:800/filesOVH/Dragon.Ball.Super-Broly.mp4
+#EXTINF:-1,Dragon Ball Z: Broly – The Legendary Super Saiyan
+http://infabalancer1.ddns.net:800/filesOVH/Dragon.Ball.Z-Broly.–.The.Legendary.Super.Saiyan.mp4
+#EXTINF:-1,Dumbo
+http://infabalancer1.ddns.net:800/filesOVH/Dumbo.mp4
+#EXTINF:-1,E T  L'extra-terrestre
+http://infabalancer1.ddns.net:800/filesOVH/E.T.lextra-terrestre.mp4
+#EXTINF:-1,E T  The Extra-Terrestrial
+http://infabalancer1.ddns.net:800/filesOVH/E.T.the.Extra-Terrestrial.mp4
+#EXTINF:-1,En Eaux Troubles
+http://infabalancer1.ddns.net:800/filesOVH/En.eaux.troubles.mp4
+#EXTINF:-1,Escape From Alcatraz
+http://infabalancer1.ddns.net:800/filesOVH/Escape.from.Alcatraz.mp4
+#EXTINF:-1,Fahrenheit 11/9
+http://infabalancer1.ddns.net:800/filesOVH/Fahrenheit.11.9.mp4
+#EXTINF:-1,First Man
+http://infabalancer1.ddns.net:800/filesOVH/First.Man.avi
+#EXTINF:-1,Flightplan
+http://infabalancer1.ddns.net:800/filesOVH/Flightplan.mp4
+#EXTINF:-1,Forrest Gump
+http://infabalancer1.ddns.net:800/filesOVH/Forrest.Gump.mp4
+#EXTINF:-1,Friday The 13th
+http://infabalancer1.ddns.net:800/filesOVH/Friday.the.13th.1980.mp4
+#EXTINF:-1,Friday The 13th Part III
+http://infabalancer1.ddns.net:800/filesOVH/Friday.the.13th.Part.III.mp4
+#EXTINF:-1,Girls Trip
+http://infabalancer1.ddns.net:800/files/nzb/Girls.Trip.2017.mkv
+#EXTINF:-1,Glass
+http://infabalancer1.ddns.net:800/filesOVH/Glass.mp4
+#EXTINF:-1,Green Book
+http://infabalancer1.ddns.net:800/filesOVH/Green.Book.mp4
+#EXTINF:-1,Grown Ups
+http://infabalancer1.ddns.net:800/filesOVH/Grown.Ups.mp4
+#EXTINF:-1,Grown Ups 2
+http://infabalancer1.ddns.net:800/filesOVH/Grown.Ups.2.mp4
+#EXTINF:-1,Halloween
+http://infabalancer1.ddns.net:800/filesOVH/Halloween.mp4
+#EXTINF:-1,Happy Gilmore
+http://infabalancer1.ddns.net:800/filesOVH/Happy.Gilmore.mp4
+#EXTINF:-1,Higher Learning
+http://infabalancer1.ddns.net:800/filesOVH/Higher.Learning.mp4
+#EXTINF:-1,Horrible Bosses
+http://infabalancer1.ddns.net:800/filesOVH/Horrible.Bosses.mp4
+#EXTINF:-1,Hot Tub Time Machine 2
+http://infabalancer1.ddns.net:800/filesOVH/Hot.Tub.Time.Machine.2.mp4
+#EXTINF:-1,House Party
+http://thenew.tv:8000/movie/Domingo1/Domingo12/49459.avi
+#EXTINF:-1,House Party 3
+http://infabalancer1.ddns.net:800/filesOVH/House.Party.3.mp4
+#EXTINF:-1,I Got The Hook Up
+http://infabalancer1.ddns.net:800/filesOVH/I.Got.the.Hook.Up.mp4
+#EXTINF:-1,Inception
+http://infabalancer1.ddns.net:800/filesOVH/Inception.mp4
+#EXTINF:-1,Indivisible
+http://infabalancer1.ddns.net:800/filesOVH/Indivisible.mp4
+#EXTINF:-1,IO
+http://infabalancer1.ddns.net:800/filesOVH/IO.mp4
+#EXTINF:-1,It Could Happen To You
+http://infabalancer1.ddns.net:800/filesOVH/It.Could.Happen.to.You.mp4
+#EXTINF:-1,King Of Thieves
+http://infabalancer1.ddns.net:800/filesOVH/King.of.Thieves.mp4
+#EXTINF:-1,L'Ombre D'Emily
+http://thenew.tv:8000/movie/Domingo1/Domingo12/46148.mkv
+#EXTINF:-1,La Revanche De Freddy
+http://infabalancer1.ddns.net:800/filesOVH/La.Revanche.de.Freddy.mp4
+#EXTINF:-1,Lawless
+http://infabalancer1.ddns.net:800/filesOVH/Lawless.mp4
+#EXTINF:-1,Le Fondateur
+http://infabalancer1.ddns.net:800/filesOVH/Le.Fondateur.mp4
+#EXTINF:-1,Le Grinch
+http://infabalancer1.ddns.net:800/filesOVH/Le.Grinch.mp4
+#EXTINF:-1,Lebanon
+http://infabalancer1.ddns.net:800/filesOVH/Lebanon.mp4
+#EXTINF:-1,Legend
+http://infabalancer1.ddns.net:800/filesOVH/Legend.mp4
+#EXTINF:-1,Les Griffes Du Cauchemar
+http://infabalancer1.ddns.net:800/filesOVH/Les.Griffes.du.cauchemar.mp4
+#EXTINF:-1,Les Trois Caballeros
+http://infabalancer1.ddns.net:800/filesOVH/Les.Trois.Caballeros.mp4
+#EXTINF:-1,Les Veuves
+http://thenew.tv:8000/movie/Domingo1/Domingo12/46150.mkv
+#EXTINF:-1,Lionheart
+http://infabalancer1.ddns.net:800/filesOVH/Lionheart.mp4
+#EXTINF:-1,Little Nicky
+http://infabalancer1.ddns.net:800/filesOVH/Little.Nicky.mp4
+#EXTINF:-1,London Fields
+http://infabalancer1.ddns.net:800/filesOVH/London.Fields.mp4
+#EXTINF:-1,Love & Basketball
+http://thenew.tv:8000/movie/Domingo1/Domingo12/35301.mp4
+#EXTINF:-1,Love Actually
+http://infabalancer1.ddns.net:800/filesOVH/Love.Actually.mp4
+#EXTINF:-1,Lukas
+http://infabalancer1.ddns.net:800/filesOVH/Lukas.mp4
+#EXTINF:-1,Mad Max: Fury Road
+http://infabalancer1.ddns.net:800/filesOVH/Mad.Max-Fury.Road.mp4
+#EXTINF:-1,Maman, J'ai Encore Raté L'avion !
+http://infabalancer1.ddns.net:800/filesOVH/Maman.jai.encore.rate.lavion..mp4
+#EXTINF:-1,Maman, J'ai Raté L'avion !
+http://infabalancer1.ddns.net:800/filesOVH/Maman.jai.rate.lavion..mp4
+#EXTINF:-1,Man On Fire
+http://infabalancer1.ddns.net:800/filesOVH/Man.on.Fire.mp4
+#EXTINF:-1,Mean Streets
+http://infabalancer1.ddns.net:800/filesOVH/Mean.Streets.mp4
+#EXTINF:-1,Men In Black
+http://infabalancer1.ddns.net:800/filesOVH/Men.in.Black.mp4
+#EXTINF:-1,Men In Black 3
+http://infabalancer1.ddns.net:800/filesOVH/Men.in.Black.3.mp4
+#EXTINF:-1,Mid90s
+http://infabalancer1.ddns.net:800/filesOVH/Mid90s.mp4
+#EXTINF:-1,Mile 22
+http://infabalancer1.ddns.net:800/filesOVH/Mile.22.mp4
+#EXTINF:-1,Monsters And Men
+http://infabalancer1.ddns.net:800/filesOVH/Monsters.and.Men.mp4
+#EXTINF:-1,Moonlight
+http://infabalancer1.ddns.net:800/filesOVH/Moonlight.mp4
+#EXTINF:-1,Mortal Engines
+http://infabalancer1.ddns.net:800/filesOVH/Mortal.Engines.mp4
+#EXTINF:-1,Mowgli: Legend Of The Jungle
+http://infabalancer1.ddns.net:800/filesOVH/Mowgli-Legend.of.the.Jungle.mp4
+#EXTINF:-1,Mr  Deeds
+http://infabalancer1.ddns.net:800/filesOVH/Mr..Deeds.mp4
+#EXTINF:-1,Never Heard
+http://infabalancer1.ddns.net:800/filesOVH/Never.Heard.mp4
+#EXTINF:-1,No Country For Old Men
+http://infabalancer1.ddns.net:800/filesOVH/No.Country.for.Old.Men.mp4
+#EXTINF:-1,Nobody's Fool
+http://infabalancer1.ddns.net:800/filesOVH/Nobodys.Fool.mp4
+#EXTINF:-1,North Of Alaska
+http://infabalancer1.ddns.net:800/files/nzb/North.to.Alaska.1960.mkv
+#EXTINF:-1,O G 
+http://infabalancer1.ddns.net:800/files/nzb/O.G.2018.mkv
+#EXTINF:-1,Ocean's Eight
+http://infabalancer1.ddns.net:800/filesOVH/Oceans.Eight.mp4
+#EXTINF:-1,On The Run Tour: Beyoncé And Jay Z
+http://infabalancer1.ddns.net:800/filesOVH/On.the.Run.Tour-Beyonce.and.Jay.Z.mp4
+#EXTINF:-1,Once Upon A Time In America
+http://infabalancer1.ddns.net:800/filesOVH/Once.Upon.a.Time.in.America.mp4
+#EXTINF:-1,Over The Top
+http://thenew.tv:8000/movie/Domingo1/Domingo12/36338.mp4
+#EXTINF:-1,Pacific Rim
+http://infabalancer1.ddns.net:800/filesOVH/Pacific.Rim.mp4
+#EXTINF:-1,Pineapple Express
+http://infabalancer1.ddns.net:800/filesOVH/Pineapple.Express.mp4
+#EXTINF:-1,Pinocchio
+http://infabalancer1.ddns.net:800/filesOVH/Pinocchio.mp4
+#EXTINF:-1,Pirates Des Caraïbes : La Vengeance De Salazar
+http://infabalancer1.ddns.net:800/filesOVH/Pirates.des.Caraïbes.-La.Vengeance.de.Salazar.mp4
+#EXTINF:-1,Planes, Trains And Automobiles
+http://infabalancer1.ddns.net:800/filesOVH/Planes.Trains.and.Automobiles.mp4
+#EXTINF:-1,Polar
+http://infabalancer1.ddns.net:800/filesOVH/Polar.mp4
+#EXTINF:-1,Postcards From London
+http://infabalancer1.ddns.net:800/filesOVH/Postcards.from.London.mp4
+#EXTINF:-1,Punch-Drunk Love
+http://infabalancer1.ddns.net:800/filesOVH/Punch-Drunk.Love.mp4
+#EXTINF:-1,Raiders Of The Lost Ark
+http://infabalancer1.ddns.net:800/filesOVH/Raiders.of.the.Lost.Ark.mp4
+#EXTINF:-1,Ralph Breaks The Internet
+http://infabalancer1.ddns.net:800/filesOVH/Ralph.Breaks.the.Internet.mp4
+#EXTINF:-1,Ratatouille
+http://infabalancer1.ddns.net:800/filesOVH/Ratatouille.mp4
+#EXTINF:-1,Ratatouille
+http://thenew.tv:8000/movie/Domingo1/Domingo12/29416.mp4
+#EXTINF:-1,Requiem For A Dream
+http://thenew.tv:8000/movie/Domingo1/Domingo12/8457.mp4
+#EXTINF:-1,Reservoir Dogs
+http://infabalancer1.ddns.net:800/filesOVH/Reservoir.Dogs.mp4
+#EXTINF:-1,Resident Evil
+http://infabalancer1.ddns.net:800/filesOVH/Resident.Evil.2002.mkv
+#EXTINF:-1,Resident Evil: Afterlife
+http://infabalancer1.ddns.net:800/filesOVH/Resident.Evil.Afterlife.2010.mkv
+#EXTINF:-1,Resident Evil: Apocalypse
+http://infabalancer1.ddns.net:800/filesOVH/Resident.Evil-Apocalypse.mp4
+#EXTINF:-1,Resident Evil: Extinction
+http://infabalancer1.ddns.net:800/filesOVH/Resident.Evil.Extinction.2007.mkv
+#EXTINF:-1,Resident Evil: Retribution
+http://infabalancer1.ddns.net:800/filesOVH/Resident.Evil.Retribution.2012.mkv
+#EXTINF:-1,Resident Evil: The Final Chapter
+http://infabalancer1.ddns.net:800/filesOVH/Resident.Evil.The.Final.Chapter.2017.mkv
+#EXTINF:-1,Revenge
+http://infabalancer1.ddns.net:800/filesOVH/Revenge.mp4
+#EXTINF:-1,Revolutionary Road
+http://infabalancer1.ddns.net:800/filesOVH/Revolutionary.Road.mp4
+#EXTINF:-1,Ride Along
+http://infabalancer1.ddns.net:800/files/nzb/Ride.Along.2014.mkv
+#EXTINF:-1,Ride Along 2
+http://infabalancer1.ddns.net:800/files/nzb/Ride.Along.2.2016.mkv
+#EXTINF:-1,Robin Des Bois, La Rébellion
+http://infabalancer1.ddns.net:800/filesOVH/Robin.des.bois.La.rebellion.mp4
+#EXTINF:-1,Robin Hood
+http://infabalancer1.ddns.net:800/filesOVH/Robin.Hood.mp4
+#EXTINF:-1,Rocky
+http://infabalancer1.ddns.net:800/filesOVH/Rocky.mp4
+#EXTINF:-1,Rocky Balboa
+http://infabalancer1.ddns.net:800/filesOVH/Rocky.Balboa.mp4
+#EXTINF:-1,Rocky II
+http://infabalancer1.ddns.net:800/filesOVH/Rocky.II.mp4
+#EXTINF:-1,Rocky III
+http://infabalancer1.ddns.net:800/filesOVH/Rocky.III.mp4
+#EXTINF:-1,Rocky IV
+http://infabalancer1.ddns.net:800/filesOVH/Rocky.IV.mp4
+#EXTINF:-1,Rocky V
+http://infabalancer1.ddns.net:800/filesOVH/Rocky.V.mp4
+#EXTINF:-1,Savage Sam
+http://thenew.tv:8000/movie/Domingo1/Domingo12/50778.avi
+#EXTINF:-1,Savages
+http://infabalancer1.ddns.net:800/filesOVH/Savages.mp4
+#EXTINF:-1,Scary Movie 2
+http://infabalancer1.ddns.net:800/filesOVH/Scary.Movie.2.mp4
+#EXTINF:-1,Serenity
+http://infabalancer1.ddns.net:800/filesOVH/Serenity.mp4
+#EXTINF:-1,Shottas
+http://thenew.tv:8000/movie/Domingo1/Domingo12/49449.avi
+#EXTINF:-1,Shutter Island
+http://infabalancer1.ddns.net:800/filesOVH/Shutter.Island.mp4
+#EXTINF:-1,Sicario
+http://infabalancer1.ddns.net:800/filesOVH/Sicario.mp4
+#EXTINF:-1,Sicario: Day Of The Soldado
+http://infabalancer1.ddns.net:800/filesOVH/Sicario-Day.of.the.Soldado.mp4
+#EXTINF:-1,Skyscraper
+http://infabalancer1.ddns.net:800/filesOVH/Skyscraper.mp4
+#EXTINF:-1,Slender Man
+http://infabalancer1.ddns.net:800/filesOVH/Slender.Man.mp4
+#EXTINF:-1,Slumdog Millionaire
+http://infabalancer1.ddns.net:800/filesOVH/Slumdog.Millionaire.mp4
+#EXTINF:-1,Some Kind Of Wonderful
+http://thenew.tv:8000/movie/Domingo1/Domingo12/44261.avi
+#EXTINF:-1,Spider-Man: Into The Spider-Verse
+http://infabalancer1.ddns.net:800/filesOVH/Spider-Man-Into.the.Spider-Verse.mp4
+#EXTINF:-1,Spotlight
+http://infabalancer1.ddns.net:800/filesOVH/Spotlight.mp4
+#EXTINF:-1,Star Trek: Generations
+http://infabalancer1.ddns.net:800/filesOVH/Star.Trek-Generations.mp4
+#EXTINF:-1,Sugar Hill
+http://thenew.tv:8000/movie/Domingo1/Domingo12/49419.avi
+#EXTINF:-1,Super Troopers 2
+http://infabalancer1.ddns.net:800/filesOVH/Super.Troopers.2.mp4
+#EXTINF:-1,SuperFly
+http://infabalancer1.ddns.net:800/filesOVH/SuperFly.mp4
+#EXTINF:-1,Suspiria
+http://infabalancer1.ddns.net:800/filesOVH/Suspiria.mp4
+#EXTINF:-1,Tales From The Hood
+http://infabalancer1.ddns.net:800/files/Tales%20From%20the%20Hood/Tales%20from%20the%20Hood%201995%20BluRay%201080p%20AC3-2%20H265-d3g.mkv
+#EXTINF:-1,Tangerine
+http://infabalancer1.ddns.net:800/filesOVH/Tangerine.mp4
+#EXTINF:-1,The Born Losers
+http://infabalancer1.ddns.net:800/filesOVH/The.Born.Losers.1967.mkv
+#EXTINF:-1,The Boy Next Door
+http://infabalancer1.ddns.net:800/filesOVH/The.Boy.Next.Door.mp4
+#EXTINF:-1,The Color Purple
+http://infabalancer1.ddns.net:800/files/The.Color.Purple.1985.1080p.BluRay.REMUX.AVC.DTS-HD.MA.5.1-EPSiLON.mkv
+#EXTINF:-1,The Counselor
+http://infabalancer1.ddns.net:800/filesOVH/The.Counselor.mp4
+#EXTINF:-1,The Fault In Our Stars
+http://infabalancer1.ddns.net:800/filesOVH/The.Fault.in.Our.Stars.mp4
+#EXTINF:-1,The Favourite
+http://infabalancer1.ddns.net:800/filesOVH/The.Favourite.mp4
+#EXTINF:-1,The Favourite
+http://infabalancer1.ddns.net:800/filesOVH/The.Favourite.mp4
+#EXTINF:-1,The First Purge
+http://infabalancer1.ddns.net:800/filesOVH/The.First.Purge.mp4
+#EXTINF:-1,The Girl In The Spider's Web
+http://infabalancer1.ddns.net:800/filesOVH/The.Girl.in.the.Spiders.Web.mp4
+#EXTINF:-1,The Godfather
+http://infabalancer1.ddns.net:800/filesOVH/The.Godfather.mp4
+#EXTINF:-1,The Greatest Showman
+http://infabalancer1.ddns.net:800/filesOVH/The.Greatest.Showman.mp4
+#EXTINF:-1,The Grinch
+http://infabalancer1.ddns.net:800/filesOVH/The.Grinch.mp4
+#EXTINF:-1,The Harrowing
+http://infabalancer1.ddns.net:800/filesOVH/The.Harrowing.mp4
+#EXTINF:-1,The Hate U Give
+http://infabalancer1.ddns.net:800/filesOVH/The.Hate.U.Give.mp4
+#EXTINF:-1,The Hate You Give Me
+http://infabalancer1.ddns.net:800/files/The%20Hate%20You%20Give%202018%2010bit%20hevc-d3g/The%20Hate%20You%20Give%202018%20BluRay%2010Bit%201080p%20DD5.1%20Multi%20H265-d3g.mkv
+#EXTINF:-1,The Informant!
+http://infabalancer1.ddns.net:800/filesOVH/The.Informant.2009.mkv
+#EXTINF:-1,The Longest Day
+http://infabalancer1.ddns.net:800/filesOVH/The.Longest.Day.mp4
+#EXTINF:-1,The Mack
+http://infabalancer1.ddns.net:800/files/The.Mac.1973.DVDRip.XviD.AC3-MAJESTiC/The.Mac.1973.DVDRip.XviD.AC3-MAJESTiC.avi
+#EXTINF:-1,The Man Who Killed Hitler And Then The Bigfoot
+http://infabalancer1.ddns.net:800/filesOVH/The.Man.Who.Killed.Hitler.and.Then.the.Bigfoot.mp4
+#EXTINF:-1,The Matrix Reloaded
+http://infabalancer1.ddns.net:800/filesOVH/The.Matrix.Reloaded.mp4
+#EXTINF:-1,The Old Man & The Gun
+http://infabalancer1.ddns.net:800/filesOVH/The.Old.Man.the.Gun.mp4
+#EXTINF:-1,The Punisher
+http://infabalancer1.ddns.net:800/filesOVH/The.Punisher.2004.mkv
+#EXTINF:-1,The Rape Of Recy Taylor
+http://infabalancer1.ddns.net:800/filesOVH/The.Rape.of.Recy.Taylor.mp4
+#EXTINF:-1,The Replacements
+http://infabalancer1.ddns.net:800/filesOVH/The.Replacements.mp4
+#EXTINF:-1,The Rider
+http://infabalancer1.ddns.net:800/filesOVH/The.Rider.mp4
+#EXTINF:-1,The Shape Of Water
+http://infabalancer1.ddns.net:800/filesOVH/The.Shape.of.Water.mp4
+#EXTINF:-1,The Sisters Brothers
+http://infabalancer1.ddns.net:800/filesOVH/The.Sisters.Brothers.mp4
+#EXTINF:-1,The Social Network
+http://infabalancer1.ddns.net:800/filesOVH/The.Social.Network.mp4
+#EXTINF:-1,The Standoff At Sparrow Creek
+http://infabalancer1.ddns.net:800/filesOVH/The.Standoff.at.Sparrow.Creek.mp4
+#EXTINF:-1,The Unseen
+http://infabalancer1.ddns.net:800/files/movies/The.Unseen.2019/The.Unseen.2019.DVDRip.XviD.AC3-EVO.avi
+#EXTINF:-1,The Usual Suspects
+http://infabalancer1.ddns.net:800/filesOVH/The.Usual.Suspects.mp4
+#EXTINF:-1,The Vanishing
+http://infabalancer1.ddns.net:800/filesOVH/The.Vanishing.mp4
+#EXTINF:-1,The Waterboy
+http://infabalancer1.ddns.net:800/filesOVH/The.Waterboy.mp4
+#EXTINF:-1,The Wedding Party
+http://infabalancer1.ddns.net:800/filesOVH/The.Wedding.Party.mp4
+#EXTINF:-1,The Wife
+http://infabalancer1.ddns.net:800/filesOVH/The.Wife.mp4
+#EXTINF:-1,The Wolf Of Wall Street
+http://infabalancer1.ddns.net:800/filesOVH/The.Wolf.of.Wall.Street.mp4
+#EXTINF:-1,The Wood
+http://infabalancer1.ddns.net:800/filesOVH/The.Wood.mp4
+#EXTINF:-1,There Will Be Blood
+http://infabalancer1.ddns.net:800/filesOVH/There.Will.Be.Blood.mp4
+#EXTINF:-1,Thor
+http://infabalancer1.ddns.net:800/filesOVH/Thor.mp4
+#EXTINF:-1,Thor: The Dark World
+http://infabalancer1.ddns.net:800/filesOVH/Thor-The.Dark.World.mp4
+#EXTINF:-1,Three Billboards Outside Ebbing, Missouri
+http://infabalancer1.ddns.net:800/filesOVH/Three.Billboards.Outside.Ebbing.Missouri.mp4
+#EXTINF:-1,Top Gun
+http://infabalancer1.ddns.net:800/files/nzb/Top.Gun.1986.mkv
+#EXTINF:-1,Trading Paint
+http://infabalancer1.ddns.net:800/filesOVH/Trading.Paint.mp4
+#EXTINF:-1,Traffik
+http://infabalancer1.ddns.net:800/files/Traffik.2018.1080p.BluRay.DTS-HD.MA.5.1.x264-iFT/Traffik.2018.1080p.BluRay.DTS-HD.MA.5.1.x264-iFT.mkv
+#EXTINF:-1,Tully
+http://infabalancer1.ddns.net:800/filesOVH/Tully.mp4
+#EXTINF:-1,Venom FRENCH
+http://infabalancer1.ddns.net:800/filesOVH/Venom.FRENCH.mp4
+#EXTINF:-1,Vice
+http://infabalancer1.ddns.net:800/filesOVH/Vice.mp4
+#EXTINF:-1,Waist Deep
+http://infabalancer1.ddns.net:800/files/Waist.Deep.2006.720p.BluRay.DTS.x264-LEGi0N/Waist.Deep.2006.720p.BluRay.DTS.x264-LEGi0N.mkv
+#EXTINF:-1,WALL·E
+http://thenew.tv:8000/movie/Domingo1/Domingo12/27482.mp4
+#EXTINF:-1,Warrior
+http://infabalancer1.ddns.net:800/filesOVH/Warrior.mp4
+#EXTINF:-1,We Were Soldiers
+http://infabalancer1.ddns.net:800/filesOVH/We.Were.Soldiers.mp4
+#EXTINF:-1,White Men Can't Jump
+http://infabalancer1.ddns.net:800/filesOVH/White.Men.Cant.Jump.1992.mp4
+#EXTINF:-1,Whitney
+http://infabalancer1.ddns.net:800/files/Whitney.2018.720p.BluRay.x264-x0r/Whitney.2018.720p.BluRay.x264-x0r.mkv
+#EXTINF:-1,Who Framed Roger Rabbit
+http://infabalancer1.ddns.net:800/filesOVH/Who.Framed.Roger.Rabbit.mp4
+#EXTINF:-1,Wildlife
+http://infabalancer1.ddns.net:800/filesOVH/Wildlife.2018.mp4
+#EXTINF:-1,Willy Wonka & The Chocolate Factory
+http://infabalancer1.ddns.net:800/filesOVH/Willy.Wonka.the.Chocolate.Factory.mp4
+#EXTINF:-1,Wonderland
+http://infabalancer1.ddns.net:800/filesOVH/Wonderland.mp4
+#EXTINF:-1,Yardie
+http://infabalancer1.ddns.net:800/filesOVH/Yardie.mp4
+#EXTINF:-1,If Beale Street Could Talk
+http://thenew.tv:8000/movie/Domingo1/Domingo12/72500.mkv
+#EXTINF:-1,Miss Bala
+http://thenew.tv:8000/movie/Domingo1/Domingo12/72478.mkv
+#EXTINF:-1,On The Basis Of Sex
+http://thenew.tv:8000/movie/Domingo1/Domingo12/72490.mkv
+#EXTINF:-1,Pet Sematary
+http://thenew.tv:8000/movie/Domingo1/Domingo12/72471.mkv
+#EXTINF:-1,Second Act
+http://thenew.tv:8000/movie/Domingo1/Domingo12/72498.mkv
+#EXTINF:-1,The Kid Who Would Be King
+http://thenew.tv:8000/movie/Domingo1/Domingo12/72485.mkv
+#EXTINF:-1,The Prodigy
+http://thenew.tv:8000/movie/Domingo1/Domingo12/72481.mkv
+#EXTINF:-1,They Shall Not Grow Old
+http://thenew.tv:8000/movie/Domingo1/Domingo12/72476.mkv
+#EXTINF:-1,What Men Want
+http://thenew.tv:8000/movie/Domingo1/Domingo12/72475.mkv
+#EXTINF:-1,Avengers: Endgame
+http://thenew.tv:8000/movie/Domingo1/Domingo12/73096.mp4
+#EXTINF:-1,US: BABYFIRST TV
+http://thenew.tv:8000/Domingo1/Domingo12/73097
+#EXTINF:-1,24/7: The Wonder Years
+http://thenew.tv:8000/Domingo1/Domingo12/73910
+#EXTINF:-1,Backdraft
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74046.mkv
+#EXTINF:-1,Backdraft 2
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74045.mp4
+#EXTINF:-1,24/7: Good Luck Charlie
+http://thenew.tv:8000/Domingo1/Domingo12/74404
+#EXTINF:-1,101 Dalmatians
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74718.avi
+#EXTINF:-1,20,000 Leagues Under the Sea
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74712.avi
+#EXTINF:-1,Alice in Wonderland
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74708.avi
+#EXTINF:-1,Babes in Toyland
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74719.avi
+#EXTINF:-1,Bambi
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74704.avi
+#EXTINF:-1,Bedknobs and Broomsticks
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74724.avi
+#EXTINF:-1,Cinderella
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74707.avi
+#EXTINF:-1,Davy Crockett, Indian Fighter
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74713.avi
+#EXTINF:-1,Dumbo
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74702.avi
+#EXTINF:-1,Escape to Witch Mountain
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74726.avi
+#EXTINF:-1,Fantasia
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74686.avi
+#EXTINF:-1,Lady and the Tramp
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74714.avi
+#EXTINF:-1,Moon Pilot
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74721.avi
+#EXTINF:-1,Old Yeller
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74715.avi
+#EXTINF:-1,Pete's Dragon
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74727.avi
+#EXTINF:-1,Pinocchio
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74701.avi
+#EXTINF:-1,Robin Hood
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74725.avi
+#EXTINF:-1,Sleeping Beauty
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74716.avi
+#EXTINF:-1,Snow White And The Seven Dwarfs
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74487.mkv
+#EXTINF:-1,Swiss Family Robinson
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74717.avi
+#EXTINF:-1,The Adventures of Ichabod and Mr. Toad
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74705.avi
+#EXTINF:-1,The Jungle Book
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74723.avi
+#EXTINF:-1,The Living Desert
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74710.avi
+#EXTINF:-1,The Parent Trap
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74720.avi
+#EXTINF:-1,The Reluctant Dragon
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74703.avi
+#EXTINF:-1,The Story of Robin Hood and His Merrie Men
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74709.avi
+#EXTINF:-1,The Sword and the Rose
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74711.avi
+#EXTINF:-1,The Sword in the Stone
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74722.avi
+#EXTINF:-1,Treasure Island
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74706.avi
+#EXTINF:-1,A Bug's Life
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74802.avi
+#EXTINF:-1,A Far Off Place
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74763.avi
+#EXTINF:-1,A Goofy Movie
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74775.avi
+#EXTINF:-1,A Kid in King Arthur's Court
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74776.avi
+#EXTINF:-1,Air Bud
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74791.avi
+#EXTINF:-1,Aladdin and the King of Thieves
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74784.avi
+#EXTINF:-1,An Extremely Goofy Movie
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74813.avi
+#EXTINF:-1,Angels in the Outfield
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74770.avi
+#EXTINF:-1,Atlantis: The Lost Empire
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74820.avi
+#EXTINF:-1,Beauty and the Beast: The Enchanted Christmas
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74792.avi
+#EXTINF:-1,Belle's Magical World
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74803.avi
+#EXTINF:-1,Blank Check
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74771.avi
+#EXTINF:-1,Bolt
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74842.avi
+#EXTINF:-1,Brave
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74848.mp4
+#EXTINF:-1,Bridge to Terabithia
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74838.avi
+#EXTINF:-1,Chicken Little
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74833.avi
+#EXTINF:-1,Cool Runnings
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74764.avi
+#EXTINF:-1,D2: The Mighty Ducks
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74772.avi
+#EXTINF:-1,D3: The Mighty Ducks
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74785.avi
+#EXTINF:-1,Dinosaur
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74814.avi
+#EXTINF:-1,DuckTales: The Movie - Treasure of the Lost Lamp
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74756.avi
+#EXTINF:-1,Enchanted
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74839.avi
+#EXTINF:-1,First Kid
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74786.avi
+#EXTINF:-1,Flight of the Navigator
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74752.avi
+#EXTINF:-1,Flubber
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74793.avi
+#EXTINF:-1,Freaky Friday
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74830.avi
+#EXTINF:-1,G-Force
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74844.avi
+#EXTINF:-1,George of the Jungle
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74794.avi
+#EXTINF:-1,Heavyweights
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74777.avi
+#EXTINF:-1,Hercules
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74795.avi
+#EXTINF:-1,Hocus Pocus
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74765.avi
+#EXTINF:-1,Homeward Bound II: Lost in San Francisco
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74787.avi
+#EXTINF:-1,Honey I Blew Up the Kid
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74759.avi
+#EXTINF:-1,Honey, I Shrunk the Kids
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74755.avi
+#EXTINF:-1,Honey, We Shrunk Ourselves
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74796.avi
+#EXTINF:-1,Ice Age: Dawn of the Dinosaurs
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74845.avi
+#EXTINF:-1,Inspector Gadget
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74809.avi
+#EXTINF:-1,Iron Will
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74773.avi
+#EXTINF:-1,James and the Giant Peach
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74788.avi
+#EXTINF:-1,Jungle 2 Jungle
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74797.avi
+#EXTINF:-1,Lady and the Tramp II: Scamp's Adventure
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74821.avi
+#EXTINF:-1,Lilo & Stitch
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74825.avi
+#EXTINF:-1,Man of the House
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74834.avi
+#EXTINF:-1,Mickey's Christmas Carol
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74753.avi
+#EXTINF:-1,Mighty Joe Young
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74804.avi
+#EXTINF:-1,Moana
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74849.mp4
+#EXTINF:-1,Monsters, Inc.
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74822.avi
+#EXTINF:-1,Mr. Magoo
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74798.avi
+#EXTINF:-1,Mulan
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74805.avi
+#EXTINF:-1,Muppet Treasure Island
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74789.avi
+#EXTINF:-1,My Favorite Martian
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74810.avi
+#EXTINF:-1,National Treasure
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74832.avi
+#EXTINF:-1,National Treasure: Book of Secrets
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74840.avi
+#EXTINF:-1,Oliver & Company
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74751.avi
+#EXTINF:-1,Operation Dumbo Drop
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74778.avi
+#EXTINF:-1,Oz the Great and Powerful
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74850.mp4
+#EXTINF:-1,Planes
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74851.mp4
+#EXTINF:-1,Pocahontas
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74779.avi
+#EXTINF:-1,Pocahontas II: Journey to a New World
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74806.avi
+#EXTINF:-1,Pooh's Grand Adventure: The Search for Christopher Robin
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74801.avi
+#EXTINF:-1,Popeye
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74746.avi
+#EXTINF:-1,Remember the Titans
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74815.avi
+#EXTINF:-1,Return to Never Land
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74826.avi
+#EXTINF:-1,Return to Oz
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74749.avi
+#EXTINF:-1,Rocketman
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74799.avi
+#EXTINF:-1,Saving Mr. Banks
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74852.mp4
+#EXTINF:-1,Secretariat
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74853.mp4
+#EXTINF:-1,Squanto: A Warrior's Tale
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74774.avi
+#EXTINF:-1,Tall Tale
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74780.avi
+#EXTINF:-1,Tangled
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74854.mkv
+#EXTINF:-1,Tarzan
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74811.avi
+#EXTINF:-1,Tarzan & Jane
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74827.avi
+#EXTINF:-1,The Adventures of Huck Finn
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74766.avi
+#EXTINF:-1,The Big Green
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74781.avi
+#EXTINF:-1,The Chronicles of Narnia: The Lion, the Witch and the Wardrobe
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74835.avi
+#EXTINF:-1,The Emperor's New Groove
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74816.avi
+#EXTINF:-1,The Fox and the Hound
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74747.avi
+#EXTINF:-1,The Great Mouse Detective
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74750.avi
+#EXTINF:-1,The Greatest Game Ever Played
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74836.avi
+#EXTINF:-1,The Hunchback of Notre Dame
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74790.avi
+#EXTINF:-1,The Kid
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74817.avi
+#EXTINF:-1,The Lion King 2: Simba's Pride
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74807.avi
+#EXTINF:-1,The Little Mermaid II: Return to the Sea
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74818.avi
+#EXTINF:-1,The Lizzie McGuire Movie
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74831.avi
+#EXTINF:-1,The Mighty Ducks
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74760.avi
+#EXTINF:-1,The Muppet Christmas Carol
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74761.avi
+#EXTINF:-1,The Nightmare Before Christmas
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74767.avi
+#EXTINF:-1,The Odd Life of Timothy Green
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74855.mp4
+#EXTINF:-1,The Other Side of Heaven
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74823.avi
+#EXTINF:-1,The Pacifier
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74837.avi
+#EXTINF:-1,The Parent Trap
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74808.avi
+#EXTINF:-1,The Princess and the Frog
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74846.avi
+#EXTINF:-1,The Princess Diaries
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74824.avi
+#EXTINF:-1,The Rescuers Down Under
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74757.avi
+#EXTINF:-1,The Return of Jafar
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74769.avi
+#EXTINF:-1,The Rocketeer
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74758.avi
+#EXTINF:-1,The Santa Clause 2
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74828.avi
+#EXTINF:-1,The Second Jungle Book: Mowgli & Baloo
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74800.avi
+#EXTINF:-1,The Three Musketeers
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74768.avi
+#EXTINF:-1,The Tigger Movie
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74819.avi
+#EXTINF:-1,Tinker Bell
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74843.avi
+#EXTINF:-1,Tom and Huck
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74782.avi
+#EXTINF:-1,Toy Story
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74783.avi
+#EXTINF:-1,Toy Story 2
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74812.avi
+#EXTINF:-1,Toy Story 3
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74856.mp4
+#EXTINF:-1,Tron
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74748.avi
+#EXTINF:-1,Tuck Everlasting
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74829.avi
+#EXTINF:-1,Underdog
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74841.avi
+#EXTINF:-1,Up
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74847.avi
+#EXTINF:-1,Who Framed Roger Rabbit
+http://thenew.tv:8000/movie/Domingo1/Domingo12/74754.avi
+#EXTINF:-1,'Neath the Arizona Skies
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75287.avi
+#EXTINF:-1,A Lady Takes a Chance
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75259.avi
+#EXTINF:-1,A Man Betrayed
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75268.avi
+#EXTINF:-1,Allegheny Uprising
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75273.avi
+#EXTINF:-1,Angel and the Badman
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75250.avi
+#EXTINF:-1,Arizona
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75304.avi
+#EXTINF:-1,Baby Face
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75293.avi
+#EXTINF:-1,Back to Bataan
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75254.avi
+#EXTINF:-1,Big Jake
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75198.avi
+#EXTINF:-1,Big Jim McLain
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75244.avi
+#EXTINF:-1,Blood Alley
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75235.avi
+#EXTINF:-1,Blue Steel
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75306.avi
+#EXTINF:-1,Born to the West
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75277.avi
+#EXTINF:-1,Brannigan
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75191.avi
+#EXTINF:-1,Cahill U.S. Marshal
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75193.avi
+#EXTINF:-1,Cast a Giant Shadow part 1
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75208.avi
+#EXTINF:-1,Cast a Giant Shadow Part 2
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75209.avi
+#EXTINF:-1,Chisum
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75194.avi
+#EXTINF:-1,Circus World
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75215.avi
+#EXTINF:-1,College Coach
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75291.avi
+#EXTINF:-1,Dakota
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75253.avi
+#EXTINF:-1,Dark Command
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75272.avi
+#EXTINF:-1,Dawn Rider
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75283.avi
+#EXTINF:-1,Donovan's Reef
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75217.avi
+#EXTINF:-1,El Dorado
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75207.avi
+#EXTINF:-1,Flame of Barbary Coast
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75255.avi
+#EXTINF:-1,Flying Leathernecks
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75246.avi
+#EXTINF:-1,Flying Tigers
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75262.avi
+#EXTINF:-1,Hatari!
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75221.avi
+#EXTINF:-1,Haunted Gold
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75298.avi
+#EXTINF:-1,Hellfighters Part 1
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75202.avi
+#EXTINF:-1,Hellfighters Part 2
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75203.avi
+#EXTINF:-1,His Private Secretary
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75294.avi
+#EXTINF:-1,Hondo
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75239.avi
+#EXTINF:-1,How the West Was Won Part 1
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75218.avi
+#EXTINF:-1,How the West Was Won Part 2
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75219.avi
+#EXTINF:-1,Idol of the Crowds
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75278.avi
+#EXTINF:-1,In Harm's Way
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75212.avi
+#EXTINF:-1,In Old California
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75263.avi
+#EXTINF:-1,Island in the Sky Part 1
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75240.avi
+#EXTINF:-1,Island in the Sky Part 2
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75241.avi
+#EXTINF:-1,Jet Pilot
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75230.avi
+#EXTINF:-1,King of the Pecos
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75279.avi
+#EXTINF:-1,Lady from Louisiana
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75267.avi
+#EXTINF:-1,Lawless Range
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75281.avi
+#EXTINF:-1,Legend of the Lost
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75229.avi
+#EXTINF:-1,McLintock!
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75216.avi
+#EXTINF:-1,McQ
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75192.avi
+#EXTINF:-1,New Frontier
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75274.avi
+#EXTINF:-1,North to Alaska
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75224.avi
+#EXTINF:-1,Operation Pacific
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75247.avi
+#EXTINF:-1,Paradise Canyon
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75282.avi
+#EXTINF:-1,Pittsburgh
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75261.avi
+#EXTINF:-1,Rainbow Valley
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75285.avi
+#EXTINF:-1,Reap the Wild Wind
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75265.avi
+#EXTINF:-1,Reunion in France
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75260.avi
+#EXTINF:-1,Ride Him, Cowboy
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75300.avi
+#EXTINF:-1,Rio Bravo
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75227.avi
+#EXTINF:-1,Rio Grande
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75248.avi
+#EXTINF:-1,Rio Lobo
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75199.avi
+#EXTINF:-1,Rooster Cogburn
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75190.avi
+#EXTINF:-1,Santa Fe Stampede
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75276.avi
+#EXTINF:-1,Seven Sinners
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75269.avi
+#EXTINF:-1,Shadow of the Eagle
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75303.avi
+#EXTINF:-1,Somewhere in Sonora
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75296.avi
+#EXTINF:-1,Stagecoach
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75275.avi
+#EXTINF:-1,Tall in the Saddle
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75256.avi
+#EXTINF:-1,Texas Cyclone
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75302.avi
+#EXTINF:-1,Texas Terror
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75286.avi
+#EXTINF:-1,The Alamo
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75225.avi
+#EXTINF:-1,The Barbarian and the Geisha
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75228.avi
+#EXTINF:-1,The Big Stampede
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75299.avi
+#EXTINF:-1,The Big Trail
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75305.avi
+#EXTINF:-1,The Comancheros
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75223.avi
+#EXTINF:-1,The Conqueror
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75234.avi
+#EXTINF:-1,The Cowboys
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75197.avi
+#EXTINF:-1,The Desert Trail
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75284.avi
+#EXTINF:-1,The Fighting Seabees
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75257.avi
+#EXTINF:-1,The Greatest Story Ever Told Part 1
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75213.avi
+#EXTINF:-1,The Greatest Story Ever Told Part 2
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75214.avi
+#EXTINF:-1,The Green Berets Part 1
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75204.avi
+#EXTINF:-1,The Green Berets Part 2
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75205.avi
+#EXTINF:-1,The High and the Mighty Part 1
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75237.avi
+#EXTINF:-1,The High and the Mighty Part 2
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75238.avi
+#EXTINF:-1,The Horse Soldiers
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75226.avi
+#EXTINF:-1,The Lawless Frontier
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75288.avi
+#EXTINF:-1,The Life of Jimmy Dolan
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75295.avi
+#EXTINF:-1,The Long Voyage Home
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75270.avi
+#EXTINF:-1,The Longest Day
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75220.avi
+#EXTINF:-1,The Man from Monterey
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75292.avi
+#EXTINF:-1,The Man From Utah
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75290.avi
+#EXTINF:-1,The Man Who Shot Liberty Valance
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75222.avi
+#EXTINF:-1,The Quiet Man
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75245.avi
+#EXTINF:-1,The Sea Chase
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75236.avi
+#EXTINF:-1,The Searchers
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75233.avi
+#EXTINF:-1,The Shepherd of the Hills
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75266.avi
+#EXTINF:-1,The Shootist Part 1
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75188.avi
+#EXTINF:-1,The Shootist Part 2
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75189.avi
+#EXTINF:-1,The Sons of Katie Elder Part 1
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75210.avi
+#EXTINF:-1,The Sons of Katie Elder Part 2
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75211.avi
+#EXTINF:-1,The Spoilers
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75264.avi
+#EXTINF:-1,The Telegraph Trail
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75297.avi
+#EXTINF:-1,The Trail Beyond
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75289.avi
+#EXTINF:-1,The Train Robbers
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75196.avi
+#EXTINF:-1,The Undefeated
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75200.avi
+#EXTINF:-1,The War Wagon
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75206.avi
+#EXTINF:-1,The Wings of Eagles Part 1
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75231.avi
+#EXTINF:-1,The Wings of Eagles Part 2
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75232.avi
+#EXTINF:-1,They Were Expendable
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75252.avi
+#EXTINF:-1,Three Faces West
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75271.avi
+#EXTINF:-1,Trouble Along the Way Part 1
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75242.avi
+#EXTINF:-1,Trouble Along the Way Part 2
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75243.avi
+#EXTINF:-1,True Grit
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75201.avi
+#EXTINF:-1,Two-Fisted Law
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75301.avi
+#EXTINF:-1,Tycoon
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75249.avi
+#EXTINF:-1,War of the Wildcats
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75258.avi
+#EXTINF:-1,Winds of the Wasteland
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75280.avi
+#EXTINF:-1,Without Reservations
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75251.avi
+#EXTINF:-1,Shazam!
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75480.mkv
+#EXTINF:-1,Piege de Feu
+http://thenew.tv:8000/movie/Domingo1/Domingo12/75692.mkv
+#EXTINF:-1,The Upside
+http://thenew.tv:8000/movie/Domingo1/Domingo12/80523.mkv
+#EXTINF:-1,Pokémon Detective Pikachu
+http://thenew.tv:8000/movie/Domingo1/Domingo12/81270.mkv
+#EXTINF:-1,Wonder Park
+http://thenew.tv:8000/movie/Domingo1/Domingo12/81271.mkv
+#EXTINF:-1,War Dogs
+http://thenew.tv:8000/movie/Domingo1/Domingo12/82495.mkv
+#EXTINF:-1,Apollo 11
+http://thenew.tv:8000/movie/Domingo1/Domingo12/82691.mkv
+#EXTINF:-1,Changeland
+http://thenew.tv:8000/movie/Domingo1/Domingo12/82694.mkv
+#EXTINF:-1,High Life
+http://thenew.tv:8000/movie/Domingo1/Domingo12/82690.mkv
+#EXTINF:-1,The Brink
+http://thenew.tv:8000/movie/Domingo1/Domingo12/82693.mkv
+#EXTINF:-1,The Poison Rose
+http://thenew.tv:8000/movie/Domingo1/Domingo12/82692.mkv
+#EXTINF:-1,Scarface
+http://thenew.tv:8000/movie/Domingo1/Domingo12/82861.mp4
+#EXTINF:-1,Twins
+http://thenew.tv:8000/movie/Domingo1/Domingo12/83308.mkv
