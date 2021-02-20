@@ -1,126 +1,303 @@
 #EXTM3U
-#PLAYLIST:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/tUuspxt.png" group-title="Undefined",AFN Farsi Net (US)
-https://unirtmp.tulix.tv/tintv2/tintv2//chunklist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://www.parsatv.com/index_files/channels/afghantv.jpg" group-title="Undefined",AFN TV
-https://unirtmp.tulix.tv/tintv2/tintv2/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/jY1u1zz.png" group-title="News",Al Alam,Al-Alam
-https://live2.alalamtv.net/live/Alalam/index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR;TR" tvg-logo="https://i.imgur.com/ffFbUmd.jpg" group-title="Undefined",Al Zahra TV,Al-Zahra TV Turkic
-https://live.al-zahratv.com/live/playlist2/index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://www.ayeneh.org/wp-content/uploads/2016/04/Ayeneh-TV-April-16-400x223.png" group-title="Undefined",Ayeneh TV
-https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/chunks.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://www.ayeneh.org/wp-content/uploads/2016/04/Ayeneh-TV-April-16-400x223.png" group-title="Undefined",Ayeneh TV
-https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",CINE Series HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/166818?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/Iz8re8Z.png" group-title="Entertainment",Cineseries
-https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM 24B FHD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/166809?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM AZ
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/64976?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Bollywood HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/5481?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Comedy
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/5418?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Drama+
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/56803?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM FIT
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/166807?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Food
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/5476?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Junior HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/5474?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Kids HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/5473?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Latino
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/166810?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Life HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/5441?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Maxx HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/5442?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM RIVER
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/56805?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Rubix HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/166828?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM TEEN
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/56816?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM TV HD
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/5459?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",GEM Travel
-http://pascaltv.site:8080/magicoiptv/1ed63025640d/64972?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/bQ89zEc.png" group-title="Undefined",Ganj e Hozour (US) (Opt-1)
-http://topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="http://channels.roku.com/images/1f1d73fcce5245c48a21dfcfbebea2ef-hd.jpg" group-title="Undefined",Ganje Hozoor
-https://topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/CTIINTk.png" group-title="Undefined",INTV Simaye Azadi
-https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/oeiaea6.png" group-title="News",Iran International
-https://live.playstop.me/LS-63503-4/index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/wQO4Fiv.png" group-title="Undefined",Iran-e Farda TV
-https://bozztv.com/36bay2/gin/giniko_iranefardatv_900kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Karbala_tv.jpg" group-title="Religious",Karbala Live 1
-https://stream.alkafeel.net/live/alkafeel/rAa5PGot1/manifest.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",MBC Persia HD
-http://sara12.webhop.net:8000/live/emad_854959/k3aRL3Eb/37324.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",MBC Persia HD
-http://sara12.webhop.net:8000/emad_854959/k3aRL3Eb/37324?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="Entertainment",Manoto
-https://d2rwmwucnr0d10.cloudfront.net/live.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="Entertainment",Manoto |HD 1080|
-https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="Entertainment",Manoto |HD 720|
-https://d2rwmwucnr0d10.cloudfront.net/live_1500.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="Entertainment",Manoto |SD|
-https://d2rwmwucnr0d10.cloudfront.net/live_500.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="http://mihantv.com/wp-content/themes/mihantv/images/logo.png" group-title="News;Undefined",Mihan TV,Mihan TV (US)
-http://iptv.mihantv.com/live/playlist1/index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="http://mihantv.com/wp-content/themes/mihantv/images/logo.png" group-title="News",Mihan TV
-https://iptv.mihantv.com/live/playlist1/index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/espyPNl.png" group-title="Religious",Mohabat TV
-http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/r1VblfT.png" group-title="Religious",Mohabat TV
-https://5acf9f9415a10.streamlock.net:443/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",Mohabat TV  rtm
-rtmp://media.mohabat.tv/live_transcoder/_definst_/mp4:mohabat.stream_360p?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="http://www.navahang.com/apple-touch-icon.png" group-title="Music",Navahang TV
-http://163.172.134.85/hls/stream.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://www.parsatv.com/index_files/channels/omidjavedan.jpg" group-title="Undefined",Omid Javedan
-http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/chunks.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://www.parsatv.com/index_files/channels/omidjavedan.jpg" group-title="Undefined",Omid Javedan
-https://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="http://www.tapesh.tv/wp-content/uploads/2017/08/tapesh-new-logo-300x300.png" group-title="Entertainment",PBC Tapesh TV (backup)
-http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ca-parnian-tv-9509.jpg" group-title="Undefined",Parnian TV
-https://live2.parnian.tv/hls/.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/EKS7sPr.png" group-title="Undefined",Pars TV
-https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="http://assyriatodaynetwork.com/assets/img/parstv.png" group-title="Undefined",Pars TV
-http://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://www.parsatv.com/index_files/channels/parsiland.jpg" group-title="Entertainment;Undefined",Parsiland TV,ParsiLand TV (US)
-http://vps.parsiland.net/hls/ParsiLand.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://payamjavan.com/wp-content/uploads/2019/05/logo-Payam-Javan.png" group-title="Entertainment",Payam Javan TV
-https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://payamjavan.com/wp-content/uploads/2019/05/logo-Payam-Javan.png" group-title="Entertainment",Payam Javan TV
-https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="http://nebula.wsimg.com/e903234fabf798439adab0207277eb7b?AccessKeyId=2686ECEA8341253D570E&disposition=0&alloworigin=1" group-title="Religious",Payvand TV
-http://uni6rtmp.tulix.tv:1935/ucur1/Payvand/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/NqTGH0Q.png" group-title="Undefined",Radio Farda
-https://rfe-lh.akamaihd.net/i/rfe_tvmc1@383622/master.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/fM4KCk9.png" group-title="Undefined",Radio Javan (US) (Opt-2)
-https://stream.rjtv.tv/live/smil:rjtv.smil/chunklist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/4XTyMST.jpg" group-title="Music",Radio Javan TV
-https://stream.rjtv.tv/live/smil:rjtv.smil/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/s5yF9aU.jpg" group-title="Undefined",Rangarang TV
-http://iptv.rangarang.us/live/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/s5yF9aU.jpg" group-title="Undefined",Rangarang TV
-https://iptv.rangarang.us/live/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://www.parsatv.com/index_files/channels/tin.jpg" group-title="Undefined",TIN TV
-https://unirtmp.tulix.tv/tintv/tintv/playlist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/YpBeTXf.png" group-title="Undefined",Tin TV
-https://unirtmp.tulix.tv/tintv/tintv/chunklist.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/7uEI6ck.png" group-title="News",VOA Persian
-https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8?checkedby:iptvcat.net
-#EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",VOA Persian
-https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8#EXTINF:-1 tvg-logo="https://i.imgur.com/4rzSB71.png" group-title="IRAN",24 Box TV?checkedby:iptvcat.net
+#EXTINF:-1,UK :BBC 1 HD
+http://attacktv.ddns.net:2052/11111111/22222222/71433
+#EXTINF:-1,UK :BBC 2 HD
+http://attacktv.ddns.net:2052/11111111/22222222/71432
+#EXTINF:-1,UK :BBC 3 HD
+http://attacktv.ddns.net:2052/11111111/22222222/71431
+#EXTINF:-1,UK :BBC 4 HD
+http://attacktv.ddns.net:2052/11111111/22222222/71430
+#EXTINF:-1,UK :BBC NEW HD
+http://attacktv.ddns.net:2052/11111111/22222222/71429
+#EXTINF:-1,UK :BBC Alba
+http://attacktv.ddns.net:2052/11111111/22222222/71428
+#EXTINF:-1,UK :4 Seven HD
+http://attacktv.ddns.net:2052/11111111/22222222/71427
+#EXTINF:-1,UK :ITV 1
+http://attacktv.ddns.net:2052/11111111/22222222/71426
+#EXTINF:-1,UK :ITV 2
+http://attacktv.ddns.net:2052/11111111/22222222/71425
+#EXTINF:-1,UK :ITV 3
+http://attacktv.ddns.net:2052/11111111/22222222/71424
+#EXTINF:-1,UK :ITV 4
+http://attacktv.ddns.net:2052/11111111/22222222/71423
+#EXTINF:-1,UK :At The Races
+http://attacktv.ddns.net:2052/11111111/22222222/71422
+#EXTINF:-1,UK :RACING UK
+http://attacktv.ddns.net:2052/11111111/22222222/71421
+#EXTINF:-1,UK :UTV HD
+http://attacktv.ddns.net:2052/11111111/22222222/71420
+#EXTINF:-1,UK :Fine Living
+http://attacktv.ddns.net:2052/11111111/22222222/71419
+#EXTINF:-1,UK : Univision Deportes
+http://attacktv.ddns.net:2052/11111111/22222222/71418
+#EXTINF:-1,UK :TLC
+http://attacktv.ddns.net:2052/11111111/22222222/71417
+#EXTINF:-1,UK :FOX NEWS
+http://attacktv.ddns.net:2052/11111111/22222222/71416
+#EXTINF:-1,UK :FOOD NETWORK
+http://attacktv.ddns.net:2052/11111111/22222222/71415
+#EXTINF:-1,UK :QUEST
+http://attacktv.ddns.net:2052/11111111/22222222/71414
+#EXTINF:-1,UK :Quest Red
+http://attacktv.ddns.net:2052/11111111/22222222/71413
+#EXTINF:-1,UK :Movies4Men
+http://attacktv.ddns.net:2052/11111111/22222222/71412
+#EXTINF:-1,UK :SYFY HD
+http://attacktv.ddns.net:2052/11111111/22222222/71411
+#EXTINF:-1,UK :TCM
+http://attacktv.ddns.net:2052/11111111/22222222/71410
+#EXTINF:-1,UK :History Channel HD
+http://attacktv.ddns.net:2052/11111111/22222222/71409
+#EXTINF:-1,UK : Box Hits
+http://attacktv.ddns.net:2052/11111111/22222222/71408
+#EXTINF:-1,UK : BOX OFFICE
+http://attacktv.ddns.net:2052/11111111/22222222/71407
+#EXTINF:-1,UK :BT Sport 3 HD
+http://attacktv.ddns.net:2052/11111111/22222222/71406
+#EXTINF:-1,UK :BT Sport 2 HD
+http://attacktv.ddns.net:2052/11111111/22222222/71405
+#EXTINF:-1,UK :BT Sport 1 HD
+http://attacktv.ddns.net:2052/11111111/22222222/71404
+#EXTINF:-1,UK :Tiny Pop HD
+http://attacktv.ddns.net:2052/11111111/22222222/71403
+#EXTINF:-1,UK :Premier Sports 1 FHD
+http://attacktv.ddns.net:2052/11111111/22222222/71402
+#EXTINF:-1,UK :Premier Sports 2 FHD
+http://attacktv.ddns.net:2052/11111111/22222222/71401
+#EXTINF:-1,UK :La Liga Tv FHD
+http://attacktv.ddns.net:2052/11111111/22222222/71400
+#EXTINF:-1,UK :FREE SPORTS HD
+http://attacktv.ddns.net:2052/11111111/22222222/71399
+#EXTINF:-1,UK :Eleven Sports HD
+http://attacktv.ddns.net:2052/11111111/22222222/71398
+#EXTINF:-1,UK :BT Sport 1 FHD
+http://attacktv.ddns.net:2052/11111111/22222222/71397
+#EXTINF:-1,UK :BT Sport 2 FHD
+http://attacktv.ddns.net:2052/11111111/22222222/71396
+#EXTINF:-1,UK :BT Sport 3 FHD
+http://attacktv.ddns.net:2052/11111111/22222222/71395
+#EXTINF:-1,UK :BT Sport ESPN HD
+http://attacktv.ddns.net:2052/11111111/22222222/71394
+#EXTINF:-1,UK :BT Sport Extra 1
+http://attacktv.ddns.net:2052/11111111/22222222/71393
+#EXTINF:-1,UK :BT Sport Extra 2
+http://attacktv.ddns.net:2052/11111111/22222222/71392
+#EXTINF:-1,UK :BT Sport Extra 3
+http://attacktv.ddns.net:2052/11111111/22222222/71391
+#EXTINF:-1,UK :BT Sport Extra 4
+http://attacktv.ddns.net:2052/11111111/22222222/71390
+#EXTINF:-1,UK :UFC FIGHT PASS
+http://attacktv.ddns.net:2052/11111111/22222222/71389
+#EXTINF:-1,UK :Challenge
+http://attacktv.ddns.net:2052/11111111/22222222/71388
+#EXTINF:-1,UK :CBS Action
+http://attacktv.ddns.net:2052/11111111/22222222/71387
+#EXTINF:-1,UK :CBS REALITY
+http://attacktv.ddns.net:2052/11111111/22222222/71386
+#EXTINF:-1,UK :Channel 4 FHD
+http://attacktv.ddns.net:2052/11111111/22222222/71385
+#EXTINF:-1,UK :Channel 5 FHD
+http://attacktv.ddns.net:2052/11111111/22222222/71384
+#EXTINF:-1,UK :Channel 5 Star
+http://attacktv.ddns.net:2052/11111111/22222222/71383
+#EXTINF:-1,UK :Channel 5 USA
+http://attacktv.ddns.net:2052/11111111/22222222/71382
+#EXTINF:-1,UK :Sky Movies Action&Adventure
+http://attacktv.ddns.net:2052/11111111/22222222/71381
+#EXTINF:-1,UK :SKY MOVIES CRIME & THRILLER
+http://attacktv.ddns.net:2052/11111111/22222222/71380
+#EXTINF:-1,UK :SKY MOVIES DRAMA
+http://attacktv.ddns.net:2052/11111111/22222222/71379
+#EXTINF:-1,UK :Sky Movies Family
+http://attacktv.ddns.net:2052/11111111/22222222/71378
+#EXTINF:-1,UK :Sky Living HD
+http://attacktv.ddns.net:2052/11111111/22222222/71377
+#EXTINF:-1,UK :Sky Movies Grates FHD
+http://attacktv.ddns.net:2052/11111111/22222222/71376
+#EXTINF:-1,UK :Sky Movies Premiere
+http://attacktv.ddns.net:2052/11111111/22222222/71375
+#EXTINF:-1,UK :SKY MOVIES SELECT
+http://attacktv.ddns.net:2052/11111111/22222222/71374
+#EXTINF:-1,UK :SKY MOVIES Hits
+http://attacktv.ddns.net:2052/11111111/22222222/71373
+#EXTINF:-1,UK :Sky Movies SyFi-Horror
+http://attacktv.ddns.net:2052/11111111/22222222/71372
+#EXTINF:-1,UK :SKY MOVIES COMEDY
+http://attacktv.ddns.net:2052/11111111/22222222/71371
+#EXTINF:-1,UK :SKY MOVIES DISNEY HD
+http://attacktv.ddns.net:2052/11111111/22222222/71370
+#EXTINF:-1,UK :Sky Sports news
+http://attacktv.ddns.net:2052/11111111/22222222/71369
+#EXTINF:-1,UK :Sky Sports Action HD
+http://attacktv.ddns.net:2052/11111111/22222222/71368
+#EXTINF:-1,UK :Sky Sports Action FullHD
+http://attacktv.ddns.net:2052/11111111/22222222/71367
+#EXTINF:-1,UK :Sky Sports Mix HD
+http://attacktv.ddns.net:2052/11111111/22222222/71366
+#EXTINF:-1,UK :Sky Sports Mix FullHD
+http://attacktv.ddns.net:2052/11111111/22222222/71365
+#EXTINF:-1,UK :Sky Sports Arena HD
+http://attacktv.ddns.net:2052/11111111/22222222/71364
+#EXTINF:-1,UK :Sky Sports Arena FullHD
+http://attacktv.ddns.net:2052/11111111/22222222/71363
+#EXTINF:-1,UK :Sky Sports Cricket HD
+http://attacktv.ddns.net:2052/11111111/22222222/71362
+#EXTINF:-1,UK :Sky Sports Cricket FullHD
+http://attacktv.ddns.net:2052/11111111/22222222/71361
+#EXTINF:-1,UK :SKY SPORTS GOLF FullHD
+http://attacktv.ddns.net:2052/11111111/22222222/71360
+#EXTINF:-1,UK :SKY SPORTS MAIN EVENT HD
+http://attacktv.ddns.net:2052/11111111/22222222/71359
+#EXTINF:-1,UK :Sky Sports Main Event FullHD
+http://attacktv.ddns.net:2052/11111111/22222222/71358
+#EXTINF:-1,UK :Sky Sports Premier League HD
+http://attacktv.ddns.net:2052/11111111/22222222/71357
+#EXTINF:-1,UK :Sky Sports Premier League FullHD
+http://attacktv.ddns.net:2052/11111111/22222222/71356
+#EXTINF:-1,UK :Sky Sports Football HD
+http://attacktv.ddns.net:2052/11111111/22222222/71355
+#EXTINF:-1,UK :Sky Sports Football FHD
+http://attacktv.ddns.net:2052/11111111/22222222/71354
+#EXTINF:-1,UK :SKY SPORTS F1 HD
+http://attacktv.ddns.net:2052/11111111/22222222/71353
+#EXTINF:-1,UK :SKY SPORTS F1 FHD
+http://attacktv.ddns.net:2052/11111111/22222222/71352
+#EXTINF:-1,UK :Sky Sports Golf HD
+http://attacktv.ddns.net:2052/11111111/22222222/71351
+#EXTINF:-1,UK :BoxNation FHD
+http://attacktv.ddns.net:2052/11111111/22222222/71350
+#EXTINF:-1,UK :Chelsea TV
+http://attacktv.ddns.net:2052/11111111/22222222/71349
+#EXTINF:-1,UK :Comedy Central FHD
+http://attacktv.ddns.net:2052/11111111/22222222/71348
+#EXTINF:-1,UK :Comedy Central Extra
+http://attacktv.ddns.net:2052/11111111/22222222/71347
+#EXTINF:-1,UK :Crime & Investigation
+http://attacktv.ddns.net:2052/11111111/22222222/71346
+#EXTINF:-1,UK :CBS Drama
+http://attacktv.ddns.net:2052/11111111/22222222/71345
+#EXTINF:-1,UK :DISCOVERY SCIENCE
+http://attacktv.ddns.net:2052/11111111/22222222/71344
+#EXTINF:-1,UK :EUROSPORT 1
+http://attacktv.ddns.net:2052/11111111/22222222/71343
+#EXTINF:-1,UK :EUROSPORT 2
+http://attacktv.ddns.net:2052/11111111/22222222/71342
+#EXTINF:-1,UK :Eir Sports 1
+http://attacktv.ddns.net:2052/11111111/22222222/71341
+#EXTINF:-1,UK :Eir Sports 2
+http://attacktv.ddns.net:2052/11111111/22222222/71340
+#EXTINF:-1,UK :EURONEWS
+http://attacktv.ddns.net:2052/11111111/22222222/71339
+#EXTINF:-1,UK :Baby TV
+http://attacktv.ddns.net:2052/11111111/22222222/71338
+#EXTINF:-1,UK :Disney Junior
+http://attacktv.ddns.net:2052/11111111/22222222/71337
+#EXTINF:-1,UK :DISNEY CHANNEL HD
+http://attacktv.ddns.net:2052/11111111/22222222/71336
+#EXTINF:-1,UK :DRAMA
+http://attacktv.ddns.net:2052/11111111/22222222/71335
+#EXTINF:-1,UK :DMAX UK
+http://attacktv.ddns.net:2052/11111111/22222222/71334
+#EXTINF:-1,UK :Discovery Shed
+http://attacktv.ddns.net:2052/11111111/22222222/71333
+#EXTINF:-1,UK :DISCOVERY TURBO
+http://attacktv.ddns.net:2052/11111111/22222222/71332
+#EXTINF:-1,UK :FOX SPORTS
+http://attacktv.ddns.net:2052/11111111/22222222/71331
+#EXTINF:-1,UK :Fox
+http://attacktv.ddns.net:2052/11111111/22222222/71330
+#EXTINF:-1,UK :DISCOVERY HISTORY
+http://attacktv.ddns.net:2052/11111111/22222222/71329
+#EXTINF:-1,UK :DISCOVERY INVESTIGATION
+http://attacktv.ddns.net:2052/11111111/22222222/71328
+#EXTINF:-1,UK :Home
+http://attacktv.ddns.net:2052/11111111/22222222/71327
+#EXTINF:-1,UK :Home & Health
+http://attacktv.ddns.net:2052/11111111/22222222/71326
+#EXTINF:-1,UK :MTV
+http://attacktv.ddns.net:2052/11111111/22222222/71325
+#EXTINF:-1,UK :MTV Dance
+http://attacktv.ddns.net:2052/11111111/22222222/71324
+#EXTINF:-1,UK :MTV Rocks
+http://attacktv.ddns.net:2052/11111111/22222222/71323
+#EXTINF:-1,UK :MTV Hits
+http://attacktv.ddns.net:2052/11111111/22222222/71322
+#EXTINF:-1,UK :MTV Classic
+http://attacktv.ddns.net:2052/11111111/22222222/71321
+#EXTINF:-1,UK :HORROR CHANNEL
+http://attacktv.ddns.net:2052/11111111/22222222/71320
+#EXTINF:-1,UK :LFC TV FHD
+http://attacktv.ddns.net:2052/11111111/22222222/71319
+#EXTINF:-1,UK :France 24 FHD
+http://attacktv.ddns.net:2052/11111111/22222222/71318
+#EXTINF:-1,UK :DISCOVERY Channel HD
+http://attacktv.ddns.net:2052/11111111/22222222/71317
+#EXTINF:-1,UK :E! Entertainment HD
+http://attacktv.ddns.net:2052/11111111/22222222/71316
+#EXTINF:-1,UK :NAT GEO WILD
+http://attacktv.ddns.net:2052/11111111/22222222/71315
+#EXTINF:-1,UK :NAT. GEO. FHD
+http://attacktv.ddns.net:2052/11111111/22222222/71314
+#EXTINF:-1,UK :Celtic FC TV (Live for Matches)
+http://attacktv.ddns.net:2052/11111111/22222222/71313
+#EXTINF:-1,UK :Alibi
+http://attacktv.ddns.net:2052/11111111/22222222/71312
+#EXTINF:-1,UK :Animal Planet
+http://attacktv.ddns.net:2052/11111111/22222222/71311
+#EXTINF:-1,UK :Dave
+http://attacktv.ddns.net:2052/11111111/22222222/71310
+#EXTINF:-1,UK :E4
+http://attacktv.ddns.net:2052/11111111/22222222/71309
+#EXTINF:-1,UK :Film 4
+http://attacktv.ddns.net:2052/11111111/22222222/71308
+#EXTINF:-1,UK :Gold
+http://attacktv.ddns.net:2052/11111111/22222222/71307
+#EXTINF:-1,UK :RTE One HD
+http://attacktv.ddns.net:2052/11111111/22222222/71306
+#EXTINF:-1,UK :RTE TWO HD
+http://attacktv.ddns.net:2052/11111111/22222222/71305
+#EXTINF:-1,UK :Setanta Sports 1
+http://attacktv.ddns.net:2052/11111111/22222222/71304
+#EXTINF:-1,UK :Sky 2
+http://attacktv.ddns.net:2052/11111111/22222222/71303
+#EXTINF:-1,UK :Sky Arts FHD
+http://attacktv.ddns.net:2052/11111111/22222222/71302
+#EXTINF:-1,UK :SKY Atlantic FHD
+http://attacktv.ddns.net:2052/11111111/22222222/71301
+#EXTINF:-1,UK :SKY NEWS
+http://attacktv.ddns.net:2052/11111111/22222222/71300
+#EXTINF:-1,UK :Sky One
+http://attacktv.ddns.net:2052/11111111/22222222/71299
+#EXTINF:-1,UK :Sky MUTV FHD
+http://attacktv.ddns.net:2052/11111111/22222222/71298
+#EXTINF:-1,UK :Sony Movies
+http://attacktv.ddns.net:2052/11111111/22222222/71297
+#EXTINF:-1,UK :EDEN
+http://attacktv.ddns.net:2052/11111111/22222222/71296
+#EXTINF:-1,UK :Travel Channel
+http://attacktv.ddns.net:2052/11111111/22222222/71295
+#EXTINF:-1,UK :True Entertainment
+http://attacktv.ddns.net:2052/11111111/22222222/71294
+#EXTINF:-1,UK :True Movies 1
+http://attacktv.ddns.net:2052/11111111/22222222/71293
+#EXTINF:-1,UK :Universal
+http://attacktv.ddns.net:2052/11111111/22222222/71292
+#EXTINF:-1,UK :VIVA
+http://attacktv.ddns.net:2052/11111111/22222222/71291
+#EXTINF:-1,UK :Watch
+http://attacktv.ddns.net:2052/11111111/22222222/71290
+#EXTINF:-1,UK :WWE Network
+http://attacktv.ddns.net:2052/11111111/22222222/71289
+#EXTINF:-1,UK :Yesterday
+http://attacktv.ddns.net:2052/11111111/22222222/71288
+#EXTINF:-1,UK :CBeebies HD
+http://attacktv.ddns.net:2052/11111111/22222222/71287
+#EXTINF:-1,UK :DISNEY XD
+http://attacktv.ddns.net:2052/11111111/22222222/71286
+#EXTINF:-1,UK :Cartoon Network FHD
+http://attacktv.ddns.net:2052/11111111/22222222/71285
+#EXTINF:-1,UK :NICK JUNIOR Too
+http://attacktv.ddns.net:2052/11111111/22222222/71284
+#EXTINF:-1,UK :NICKTOONS
+http://attacktv.ddns.net:2052/11111111/22222222/71283
