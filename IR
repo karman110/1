@@ -9,6 +9,8 @@ https://live.playstop.me/LS-63503-4/index.m3u8
 https://vs-hls-ww.live.cf.md.bbci.co.uk/pool_902/live/nonuk/bbc_persian_tv/bbc_persian_tv.isml/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/7uEI6ck.png" tvg-country="IR" tvg-url=",VOA Persian
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
+#EXTINF:0 tvg-country="IR" tvg-logo="http://www.tapesh.tv/wp-content/uploads/2017/08/tapesh-new-logo-300x300.png" group-title="",PBC Tapesh TV (backup)
+http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8?checkedby:iptvcat.com
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/omidjavedan.jpg" tvg-country="IR" tvg-url=",Omid Javedan
 http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/chunks.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="iFILM Persian 1" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/El4Ymh6.png" group-title="",iFILM Persian 1 (720p)
