@@ -56,8 +56,6 @@ http://a.jsrdn.com/broadcast/4df1bf71c1/+0000/high/c.m3u8
 https://1111296894.rsc.cdn77.org/LS-ATL-56868-1/index.m3u8
 #EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png",yeeah
 http://srv3.zcast.com.br/yeeaah/yeeaah/chunklist_w1186611669.m3u8
-#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", POP TV
-https://59f2354c05961.streamlock.net:1443/canaisforadoar/canaisforadoar/.m3u8
 #EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", MTV YO
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", MTV POP
@@ -70,8 +68,6 @@ https://ms7.mx-cd.net/tv/226-1855782/XITE_NL.smil/.m3u8
 https://talparadiohls-i.akamaihd.net/hls/live/624107/VR-Radio538-1/playlist.m3u8
 #EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Dancestar
 https://vcndstv.teleosmedia.com/stream/dstv/dstv/playlist.m3u8
-#EXTINF:0 tvg-logo="https://images.samsung.com/is/image/samsung/p5/au/faq/samsung-music.png", Monte Carlo
-http://live3.msf.cdn.mediaset.net/Content/hls_h0_clr_vos/live/channel(bb)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="French" tvg-logo="https://i.imgur.com/uisopuM.png" tvg-country="HT" tvg-url=",Nago TV
 http://haititivi.com:8088/haititv/tele6NY/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Modern Greek (1453-)" tvg-logo="http://i.imgur.com/pK2p5ey.png" tvg-country="GR" tvg-url=",NG
@@ -79,10 +75,6 @@ http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://i.imgur.com/DfugVgy.png" tvg-country="IT" tvg-url=",Radio Piter Pan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 
-#EXTINF:0 tvg-country="GR;IR" tvg-logo="" group-title="",Nautical Channel
-http://listamy.com:8080/Berto/Berto/309162?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR;IR" tvg-logo="" group-title="",OPEN TV
-http://listamy.com:8080/Berto/Berto/309163?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="https://www.parsatv.com/index_files/channels/omidjavedan.jpg" group-title="",Omid Javedan
 http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/chunks.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="http://www.tapesh.tv/wp-content/uploads/2017/08/tapesh-new-logo-300x300.png" group-title="",PBC Tapesh TV (backup)
@@ -93,8 +85,6 @@ https://live2.parnian.tv/hls/.m3u8?checkedby:iptvcat.com
 https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="https://payamjavan.com/wp-content/uploads/2019/05/logo-Payam-Javan.png" group-title="",Payam Javan TV
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/YpBeTXf.png" group-title="",Tin TV
-https://unirtmp.tulix.tv/tintv/tintv/chunklist.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/7uEI6ck.png" group-title="",VOA Persian
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8?checkedby:iptvcat.com
 
