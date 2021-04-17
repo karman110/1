@@ -79,23 +79,23 @@ http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Italian" tvg-logo="https://i.imgur.com/DfugVgy.png" tvg-country="IT" tvg-url=",Radio Piter Pan TV
 https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 
-#EXTINF:0 tvg-country="GR;IR" tvg-logo="" group-title="Undefined",Nautical Channel
+#EXTINF:0 tvg-country="GR;IR" tvg-logo="" group-title="",Nautical Channel
 http://listamy.com:8080/Berto/Berto/309162?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="GR;IR" tvg-logo="" group-title="Undefined",OPEN TV
+#EXTINF:0 tvg-country="GR;IR" tvg-logo="" group-title="",OPEN TV
 http://listamy.com:8080/Berto/Berto/309163?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="https://www.parsatv.com/index_files/channels/omidjavedan.jpg" group-title="Undefined",Omid Javedan
+#EXTINF:0 tvg-country="IR" tvg-logo="https://www.parsatv.com/index_files/channels/omidjavedan.jpg" group-title="",Omid Javedan
 http://livestream.5centscdn.com/shaditv/23abe62a446fc05ce0a6c810f4045308.sdp/chunks.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="http://www.tapesh.tv/wp-content/uploads/2017/08/tapesh-new-logo-300x300.png" group-title="Entertainment",PBC Tapesh TV (backup)
+#EXTINF:0 tvg-country="IR" tvg-logo="http://www.tapesh.tv/wp-content/uploads/2017/08/tapesh-new-logo-300x300.png" group-title="",PBC Tapesh TV (backup)
 http://iptv.tapesh.tv/tapesh/playlist1/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ca-parnian-tv-9509.jpg" group-title="Undefined",Parnian TV
+#EXTINF:0 tvg-country="IR" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/ca-parnian-tv-9509.jpg" group-title="",Parnian TV
 https://live2.parnian.tv/hls/.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/EKS7sPr.png" group-title="Undefined",Pars TV
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/EKS7sPr.png" group-title="",Pars TV
 https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="https://payamjavan.com/wp-content/uploads/2019/05/logo-Payam-Javan.png" group-title="Entertainment",Payam Javan TV
+#EXTINF:0 tvg-country="IR" tvg-logo="https://payamjavan.com/wp-content/uploads/2019/05/logo-Payam-Javan.png" group-title="",Payam Javan TV
 https://uni01rtmp.tulix.tv/kensecure/pjtv.stream/chunklist_w1355976606.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/YpBeTXf.png" group-title="Undefined",Tin TV
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/YpBeTXf.png" group-title="",Tin TV
 https://unirtmp.tulix.tv/tintv/tintv/chunklist.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/7uEI6ck.png" group-title="News",VOA Persian
+#EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/7uEI6ck.png" group-title="",VOA Persian
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8?checkedby:iptvcat.com
 
 
