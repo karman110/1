@@ -1,4 +1,40 @@
 #EXTM3U
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="",PMC HD
+https://hls.pmchd.live/hls/stream.m3u8
+#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="",CALTEX MUSIC HD
+https://vid1.caltexmusic.com/hls/caltextv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA + HD" tvg-logo="https://i.imgur.com/QaMnpKx.jpg" group-title="",PERSIANA + HD
+http://51.210.199.21/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA CINEMA" tvg-logo="https://i.imgur.com/PNgDL7b.png" group-title="",PERSIANA CINEMA
+http://51.210.199.15/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA CLASSIC" tvg-logo="https://i.imgur.com/2r7qMfh.png" group-title="",PERSIANA CLASSIC
+http://51.210.199.26/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA COMEDY" tvg-logo="https://i.imgur.com/byxZkMi.png" group-title="",PERSIANA COMEDY
+http://51.210.199.27/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA DOCUMENTARY" tvg-logo="https://i.imgur.com/uCPv1KT.png" group-title="",PERSIANA DOCUMENTARY
+http://51.210.199.23/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA ENTERTAINMENT" tvg-logo="https://i.imgur.com/LeLkpDr.png" group-title="",PERSIANA ENTERTAINMENT
+http://51.210.199.14/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA FAMILY" tvg-logo="https://i.imgur.com/OG2nMRk.png" group-title="",PERSIANA FAMILY
+http://51.210.199.19/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA FAMILY + " tvg-logo="https://i.imgur.com/1EFkWsZ.png" group-title="",PERSIANA FAMILY +
+http://51.210.199.13/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA GAME & TECH" tvg-logo="https://i.imgur.com/0y1p9G5.png" group-title="",PERSIANA GAME & TECH
+http://51.210.199.25/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA IRANIAN - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/gIihZfT.png" group-title="",PERSIANA IRANIAN - github.com/Free-IPTV
+http://51.210.199.22/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA JUNIOR" tvg-logo="https://i.imgur.com/LmbNidk.png" group-title="",PERSIANA JUNIOR
+http://51.210.199.18/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA MUSIC" tvg-logo="https://i.imgur.com/pMrAvY6.png" group-title="",PERSIANA MUSIC
+http://51.210.199.24/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PERSIANA NOSTALGIA" tvg-logo="https://i.imgur.com/lmqXkwa.png" group-title="",PERSIANA NOSTALGIA
+http://51.210.199.20/hls/stream.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Radio Javan" tvg-logo="https://i.imgur.com/Ba2GkX3.jpg" group-title="",Radio Javan
+http://51.210.199.6/hls/stream.m3u8
+#EXTINF:-1 tvg-id="BBCPersian.uk" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="",BBC Persian (540p)
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
+#EXTINF:-1 tvg-id="IranInternational.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/gUzGZK7.png" group-title="",Iran International (1080p)
+https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="AVAFamily.ir" tvg-name="AVA Family" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="",AVA Family
 http://51.210.199.5/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AVAFamily.ir" tvg-name="AVA Family" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="",AVA Family
@@ -38,10 +74,6 @@ https://livestream.5centscdn.com/cls032817/18e2bf34e2035dbabf48ee2db66405ce.sdp/
 http://51.210.227.130/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Radio Javan" tvg-logo="https://i.imgur.com/Ba2GkX3.jpg" group-title="",Radio Javan
 http://51.210.199.6/hls/stream.m3u8
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="",PMC HD
-https://hls.pmchd.live/hls/stream.m3u8
-#EXTINF:0 tvg-country="IT" tvg-logo="" group-title="",CALTEX MUSIC HD
-https://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:0 tvg-country="IR" tvg-logo="https://i.imgur.com/oeiaea6.png" group-title="",Iran International
 https://live.playstop.me/1816184091/chunklist_b1196000.m3u8
 #EXTINF:-1 tvg-id="ParsilandTV.ir" tvg-name="Parsiland TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.parsatv.com/index_files/channels/parsiland.jpg" tvg-url="" group-title="",Parsiland TV
@@ -155,34 +187,6 @@ http://51.210.199.46/hls/stream.m3u8
 http://51.210.199.53/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Maah TV" tvg-logo="https://i.imgur.com/MRWFcox.jpg" group-title="",Maah TV
 http://51.210.199.33/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERSIANA + HD" tvg-logo="https://i.imgur.com/QaMnpKx.jpg" group-title="",PERSIANA + HD
-http://51.210.199.21/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERSIANA CINEMA" tvg-logo="https://i.imgur.com/PNgDL7b.png" group-title="",PERSIANA CINEMA
-http://51.210.199.15/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERSIANA CLASSIC" tvg-logo="https://i.imgur.com/2r7qMfh.png" group-title="",PERSIANA CLASSIC
-http://51.210.199.26/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERSIANA COMEDY" tvg-logo="https://i.imgur.com/byxZkMi.png" group-title="",PERSIANA COMEDY
-http://51.210.199.27/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERSIANA DOCUMENTARY" tvg-logo="https://i.imgur.com/uCPv1KT.png" group-title="",PERSIANA DOCUMENTARY
-http://51.210.199.23/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERSIANA ENTERTAINMENT" tvg-logo="https://i.imgur.com/LeLkpDr.png" group-title="",PERSIANA ENTERTAINMENT
-http://51.210.199.14/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERSIANA FAMILY" tvg-logo="https://i.imgur.com/OG2nMRk.png" group-title="",PERSIANA FAMILY
-http://51.210.199.19/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERSIANA FAMILY + " tvg-logo="https://i.imgur.com/1EFkWsZ.png" group-title="",PERSIANA FAMILY +
-http://51.210.199.13/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERSIANA GAME & TECH" tvg-logo="https://i.imgur.com/0y1p9G5.png" group-title="",PERSIANA GAME & TECH
-http://51.210.199.25/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERSIANA IRANIAN - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/gIihZfT.png" group-title="",PERSIANA IRANIAN - github.com/Free-IPTV
-http://51.210.199.22/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERSIANA JUNIOR" tvg-logo="https://i.imgur.com/LmbNidk.png" group-title="",PERSIANA JUNIOR
-http://51.210.199.18/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERSIANA MUSIC" tvg-logo="https://i.imgur.com/pMrAvY6.png" group-title="",PERSIANA MUSIC
-http://51.210.199.24/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="PERSIANA NOSTALGIA" tvg-logo="https://i.imgur.com/lmqXkwa.png" group-title="",PERSIANA NOSTALGIA
-http://51.210.199.20/hls/stream.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Radio Javan" tvg-logo="https://i.imgur.com/Ba2GkX3.jpg" group-title="",Radio Javan
-http://51.210.199.6/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SL 1" tvg-logo="https://i.imgur.com/n9cuM2W.jpg" group-title="",SL 1
 http://51.210.199.3/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SL 2 - github.com/Free-IPTV" tvg-logo="https://i.imgur.com/BVuUx5R.jpg" group-title="",SL 2 - github.com/Free-IPTV
@@ -209,8 +213,6 @@ https://live.al-zahratv.com/live/playlist2/index.m3u8
 https://live.playstop.me/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Persian" tvg-logo="https://i.imgur.com/7uEI6ck.png" tvg-country="IR" tvg-url=",VOA Persian
 https://voa-lh.akamaihd.net/i/voapnn_7@72817/master.m3u8
-#EXTINF:-1 tvg-id="BBCPersian.uk" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="",BBC Persian (540p)
-https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:-1 tvg-id="PMC.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/srVaOna.png" group-title="",PMC (1080p)
 https://hls.pmchd.live/hls/stream.m3u8
 #EXTINF:-1 tvg-id="PMCRoyale.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/srVaOna.png" group-title="",PMC Royale (720p)
@@ -330,8 +332,6 @@ https://live.imamhossaintv.com/live/ih103/index.m3u8
 https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
 #EXTINF:-1 tvg-id="IranBeauty.ir" tvg-country="IR" tvg-language="" tvg-logo="https://i.imgur.com/e8vc8vh.jpg" group-title="",Iran Beauty (720p)
 http://51.210.199.57/hls/stream.m3u8
-#EXTINF:-1 tvg-id="IranInternational.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/gUzGZK7.png" group-title="",Iran International (1080p)
-https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="IraneAryaee.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="",Irane Aryaee (480p)
 http://159.69.58.154/irane_arya/irane_arya.m3u8
 \#EXTINF:-1 tvg-id="ITCTV.ca" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="",ITC TV (480p)
