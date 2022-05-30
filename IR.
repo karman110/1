@@ -7,7 +7,7 @@ http://51.210.199.5/hls/stream.m3u8
 http://51.210.199.4/hls/stream.m3u8
 #EXTINF:-1 tvg-id="AyenehTV.ir" tvg-name="Ayeneh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.ayeneh.org/wp-content/uploads/2016/04/Ayeneh-TV-April-16-400x223.png" group-title="",Ayeneh TV (720p)
 https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
-#EXTINF:-1 tvg-id="CaltexTV.ir" tvg-name="Caltex TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.livefarsi.com/uploads/tv_image/caltex-music-tv.png" group-title="Music",Caltex TV
+#EXTINF:-1 tvg-id="CaltexTV.ir" tvg-name="Caltex TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.livefarsi.com/uploads/tv_image/caltex-music-tv.png" group-title="",Caltex TV
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:-1 tvg-id="CanadaStarTV.ir" tvg-name="Canada Star TV" tvg-country="IR" tvg-language="English" tvg-logo="http://canadastartv.com/resimler/sistem/logo.png" group-title="",Canada Star TV
 https://live.livestreamtv.ca/canadastartv/smil:canadastartv.smil/playlist.m3u8
