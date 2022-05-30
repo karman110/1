@@ -338,6 +338,80 @@ https://58d921499d3d3.streamlock.net/RadioPiterpanTV/livestream/playlist.m3u8
 
 
 
+
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_170,h_80/https://karwan.tv/wp-content/uploads/2019/07/lalish-tv.png" tvg-name="LALISH SD"  group-title="",LALISH SD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/57
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://lh3.googleusercontent.com/proxy/3P4GoeU-wOoQP3hHBIZdMr42e3sxG0vuB3ki7-Kjvi0V43Kvp75fKjPYU2hllkdUUnhU14j13XCZsDfgZVD6" tvg-name="KURDSAT HD"  group-title="",KURDSAT HD
+https://bozztv.com/36bay2/gin/giniko_kurdsat_700kb_36bay2/tracks-v1a1/mono.m3u8?checkedby:hlscat.com
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_170,h_80/https://karwan.tv/wp-content/uploads/2019/07/jin-tv.png" tvg-name="JIN TV HD"  group-title="",JIN TV HD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/27
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://3.bp.blogspot.com/-Pbl50PYE9ww/XMH3eUIm8JI/AAAAAAAACuw/G4DDzOMkuGI-MG4xXcAiRrULt5CRV47mgCLcBGAs/w150-h150/Kurdistan-TV.png" tvg-name="KURDISTAN TV HD"  group-title="",KURDISTAN TV HD
+https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8?checkedby:hlscat.com
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://kurdtvs.net/uploads/kurdistantv.png" tvg-name="KURDISTAN TV SD"  group-title="",KURDISTAN TV SD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/42
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://kurdtvs.net/uploads/kurdmax.png" tvg-name="KURDMAX  KURMANCI FHD"  group-title="",KURDMAX  KURMANCI FHD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/30
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://kurdtvs.net/uploads/kurdmax.png" tvg-name="KURDMAX  SORANI FHD"  group-title="",KURDMAX  SORANI FHD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/31
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_170,h_80/https://karwan.tv/wp-content/uploads/2019/07/kurdmax-music.png" tvg-name="KURDMAX MUSIC HD"  group-title="",KURDMAX MUSIC HD
+http://31.14.40.139:1935/music/livestream/chunklist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://lh3.googleusercontent.com/proxy/9v9x16SHzyqEAxgFgtZEb2XqMumjBJ0e7Vk4LMYUztLwHnCMX8RPIogJyZJkMkMBDmXtyhSyJk0swHPP1P_9H6MA19Xn0nHw-0lOmMcCsflT5rWd0SCU_-C9ePwa" tvg-name="KURDMAX SHOW FHD"  group-title="",KURDMAX SHOW FHD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/32
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://lh3.googleusercontent.com/proxy/9v9x16SHzyqEAxgFgtZEb2XqMumjBJ0e7Vk4LMYUztLwHnCMX8RPIogJyZJkMkMBDmXtyhSyJk0swHPP1P_9H6MA19Xn0nHw-0lOmMcCsflT5rWd0SCU_-C9ePwa" tvg-name="KURDMAX SHOW KURMANCI FHD"  group-title="",KURDMAX SHOW KURMANCI FHD
+https://live1.karwan.tv/karwan.tv/kurdmax-show-tv-ku/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://kurdtvs.net/uploads/kurdsat.png" tvg-name="KURDSAT SD"  group-title="",KURDSAT SD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/35
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_170,h_80/https://karwan.tv/wp-content/uploads/2019/07/med-muzik-tv.png" tvg-name="MED MÜZİK SD"  group-title="",MED MÜZİK SD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/29
+
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_170,h_80/https://karwan.tv/wp-content/uploads/2019/07/medya-haber-tv.png" tvg-name="MEDYA HABER SD"  group-title="",MEDYA HABER SD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/23
+
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://nettvstreampaid.flashmediacast.com:1935/nettvstreampaid/livestream/chunklist_w1639028803.m3u8" tvg-name="NET FHD"  group-title="",NET FHD
+http://nettvstreampaid.flashmediacast.com:1935/nettvstreampaid/livestream/chunklist_w1639028803.m3u8
+
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://p16-va.tiktokcdn.com/img/musically-maliva-obj/1660609607120901~c5_720x720.jpeg" tvg-name="NET TV HD"  group-title="",NET TV HD
+https://live1.karwan.tv/karwan.tv/net-tv/playlist.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://kurdtvs.net/uploads/nettv.png" tvg-name="NET TV SD"  group-title="",NET TV SD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/39
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://kurdtvs.net/uploads/files/23-04-2016-c02c9b27-nrt2-hd-live-kurdtvs.png" tvg-name="NRT 2 SD"  group-title="",NRT 2 SD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/54
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_170,h_80/https://karwan.tv/wp-content/uploads/2020/03/nrt-3.png" tvg-name="NRT 3 KIDS SD"  group-title="",NRT 3 KIDS SD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/61
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/disp/f2149867406361.5b38f4a941fd0.png" tvg-name="NRT SD"  group-title="",NRT SD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/53
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_170,h_80/https://karwan.tv/wp-content/uploads/2019/07/payam-tv.png" tvg-name="PAYAM FHD"  group-title="",PAYAM FHD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/50
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_170,h_80/https://karwan.tv/wp-content/uploads/2019/07/rojava-tv.png" tvg-name="ROJAVA TV FHD"  group-title="",ROJAVA TV FHD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/55
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_170,h_80/https://karwan.tv/wp-content/uploads/2019/07/ronahi-tv.png" tvg-name="RONAHI SD"  group-title="",RONAHI SD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/26
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://kurdtvs.net/uploads/rudawhd.png" tvg-name="RUDAW FHD"  group-title="",RUDAW FHD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/34
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="Logo N/A" tvg-name="SAHAR KURDI SD"  group-title="",SAHAR KURDI SD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/56
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="http://kurdtvs.net/uploads/spedatv.png" tvg-name="SPEDA HD"  group-title="",SPEDA HD
+http://liveshell.net:1935/live/%20speda084k/chunklist_w2016677435.m3u8
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_170,h_80/https://karwan.tv/wp-content/uploads/2019/07/sterk-tv.png" tvg-name="STERK FHD"  group-title="",STERK FHD
+http://137.74.205.201/live2/sterk-3mbps.m3u8
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_170,h_80/https://karwan.tv/wp-content/uploads/2019/07/sterk-tv.png" tvg-name="STERK SD"  group-title="",STERK SD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/24
+#EXTINF:-1, tvg-id="New EPG" tvg-logo="https://img-s1.onedio.com/id-54b194a2e0f4fc58701dbeee/rev-0/w-635/listing/f-jpg-webp/s-88139da7b4a0c7e1c3c63bb68d542c27298c6e0b.webp" tvg-name="TRT KURD HD"  group-title="",TRT KURD HD
+https://tv-trtkurdi.live.trt.com.tr/master_720.m3u8?checkedby:hlscat.com
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="http://kurdtvs.net/uploads/files/25-02-2016-6b2f13a2-waartv.png" tvg-name="WAAR SD"  group-title="",WAAR SD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/52
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_170,h_80/https://karwan.tv/wp-content/uploads/2019/07/zagros-tv.png" tvg-name="ZAGROS SD"  group-title="",ZAGROS SD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/48
+#EXTINF:-1, tvg-id="EPG N/A" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_170,h_80/https://karwan.tv/wp-content/uploads/2020/01/zarok-tv.png" tvg-name="ZAROK TV SD"  group-title="",ZAROK TV SD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/59
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="V2Beat TV" tvg-language="" tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=320&height=320" tvg-country="UNSORTED" tvg-url=",V2Beat TV
 https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Russian" tvg-logo="" tvg-country="BY" tvg-url=",Первый Музыкальный BY
