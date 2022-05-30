@@ -45,8 +45,6 @@ http://51.210.199.4/hls/stream.m3u8
 https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/playlist.m3u8
 #EXTINF:-1 tvg-id="CaltexTV.ir" tvg-name="Caltex TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.livefarsi.com/uploads/tv_image/caltex-music-tv.png" group-title="",Caltex TV
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
-#EXTINF:-1 tvg-id="CanadaStarTV.ir" tvg-name="Canada Star TV" tvg-country="IR" tvg-language="English" tvg-logo="http://canadastartv.com/resimler/sistem/logo.png" group-title="",Canada Star TV
-https://live.livestreamtv.ca/canadastartv/smil:canadastartv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="EBC1TV.ir" tvg-name="EBC1 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.livefarsi.com/uploads/tv_image/ebc1-tv.jpg" group-title="",EBC1 TV (720p)
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 #EXTINF:-1 tvg-id="INTVSimayeAzadi.ir" tvg-name="INTV Simaye Azadi" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/CTIINTk.png" group-title="",INTV Simaye Azadi (1080p)
@@ -55,8 +53,6 @@ https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
 https://live.playstop.me/LS-63503-4/index.m3u8
 #EXTINF:-1 tvg-id="IraneFardaTV.ir" tvg-name="Iran-e Farda TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/wQO4Fiv.png" group-title="",Iran-e Farda TV
 https://bozztv.com/36bay2/gin/giniko_iranefardatv_900kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="KalemehTV.ir" tvg-name="Kalemeh TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/HQjLbwm.png" group-title="",Kalemeh TV (1080p)
-https://live.kalemehtv.tv/live/ngrp:kalemeh_all/playlist.m3u8
 https://stream.alkafeel.net/live/alkafeel/rAa5PGot4/manifest.m3u8
 #EXTINF:-1 tvg-id="MihanTV.ir" tvg-name="Mihan TV" tvg-country="IR" tvg-language="Persian" tvg-logo="http://mihantv.com/wp-content/themes/mihantv/images/logo.png" group-title="",Mihan TV
 https://iptv.mihantv.com/live/playlist1/index.m3u8
