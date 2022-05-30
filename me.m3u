@@ -1,4 +1,49 @@
 #EXTM3U
+
+#EXTINF:-1,IR_IRIB 1
+http://5.196.77.107:8000/live/y2OHcs0pUd/Wfoz1Qh2j8/112.ts
+#EXTINF:-1,IR_IRIB 2
+http://5.196.77.107:8000/live/y2OHcs0pUd/Wfoz1Qh2j8/113.ts
+#EXTINF:-1,IR_IRIB 3
+http://5.196.77.107:8000/live/y2OHcs0pUd/Wfoz1Qh2j8/114.ts
+#EXTINF:-1,IR_GEM TV
+http://5.196.77.107:8000/live/y2OHcs0pUd/Wfoz1Qh2j8/153.ts
+#EXTINF:-1,IR_IRIB 4
+http://5.196.77.107:8000/live/y2OHcs0pUd/Wfoz1Qh2j8/115.ts
+#EXTINF:-1,IR_IRIB 5
+http://5.196.77.107:8000/live/y2OHcs0pUd/Wfoz1Qh2j8/116.ts
+#EXTINF:-1,IR_JAM JAM 1
+http://5.196.77.107:8000/live/y2OHcs0pUd/Wfoz1Qh2j8/148.ts
+#EXTINF:-1,IR_JAM JAM 2
+http://5.196.77.107:8000/live/y2OHcs0pUd/Wfoz1Qh2j8/149.ts
+#EXTINF:-1,IR_AMOUZESH TV
+http://5.196.77.107:8000/live/y2OHcs0pUd/Wfoz1Qh2j8/150.ts
+#EXTINF:-1,IR_ZARZESH
+http://5.196.77.107:8000/live/y2OHcs0pUd/Wfoz1Qh2j8/120.ts
+#EXTINF:-1,IR_TAMASHA
+http://5.196.77.107:8000/live/y2OHcs0pUd/Wfoz1Qh2j8/126.ts
+#EXTINF:-1,IR_POUYA
+http://5.196.77.107:8000/live/y2OHcs0pUd/Wfoz1Qh2j8/118.ts
+#EXTINF:-1,IR_OMID
+http://5.196.77.107:8000/live/y2OHcs0pUd/Wfoz1Qh2j8/125.ts
+#EXTINF:-1,IR_OFOGH
+http://5.196.77.107:8000/live/y2OHcs0pUd/Wfoz1Qh2j8/123.ts
+#EXTINF:-1,IR_NASIM
+http://5.196.77.107:8000/live/y2OHcs0pUd/Wfoz1Qh2j8/119.ts
+#EXTINF:-1,IR_MOSTANAD
+http://5.196.77.107:8000/live/y2OHcs0pUd/Wfoz1Qh2j8/122.ts
+#EXTINF:-1,IR_IRINN
+http://5.196.77.107:8000/live/y2OHcs0pUd/Wfoz1Qh2j8/117.ts
+#EXTINF:-1,IR_IRAN QURAN
+http://5.196.77.107:8000/live/y2OHcs0pUd/Wfoz1Qh2j8/121.ts
+#EXTINF:-1,IR_IFILMFA
+http://5.196.77.107:8000/live/y2OHcs0pUd/Wfoz1Qh2j8/124.ts
+
+
+
+
+
+
 #EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",24Box FHD IR
 http://185.63.254.200:8080/live:ackoace/adjgjkagsdiywqekjgasdgs/682534?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="IR" tvg-logo="" group-title="Undefined",24Box HD IR
