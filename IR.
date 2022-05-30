@@ -348,12 +348,6 @@ http://cdn1.live.irib.ir:1935/epg-live/smil:jahanbin/playlist.m3u8
 https://live.kalemehtv.tv/live/ngrp:kalemeh_all/playlist.m3u8
 #EXTINF:-1 tvg-id="KhaterehTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="",Khatereh TV (368p)
 https://5caf24a595d94.streamlock.net:1937/8130/8130/playlist.m3u8
-#EXTINF:-1 tvg-id="ManotoTV.uk" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="",Manoto +1 (720p)
-http://159.69.58.154/manoto_plus1/manoto_plus.m3u8
-#EXTINF:-1 tvg-id="Manoto.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://dwphh95xlnw84.cloudfront.net/images/static/placeholder/manotologo.png" group-title="",Manoto TV (1080p)
-https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
-#EXTINF:-1 tvg-id="ManotoTV.uk" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/dNB92lj.png" group-title="",Manoto TV (1080p)
-https://d2rwmwucnr0d10.cloudfront.net/live.m3u8
 #EXTINF:-1 tvg-id="Marjaeyat.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="" group-title="",Marjaeyat (1080p)
 https://livefa.marjaeyattv.com/mtv_fa/playlist.m3u8
 #EXTINF:-1 tvg-id="MBCPersia.ae" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" group-title="",MBC Persia (1080p)
