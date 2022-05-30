@@ -1,4 +1,59 @@
 #EXTM3U8
+
+#EXTM3U
+#PLAYLIST:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",Manoto |HD 1080|
+https://d2rwmwucnr0d10.cloudfront.net/live_2500.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",Manoto |HD 720|
+https://d2rwmwucnr0d10.cloudfront.net/live_1500.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",Manoto |SD|
+https://d2rwmwucnr0d10.cloudfront.net/live_500.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",Mihan TV
+https://iptv.mihantv.com/live/playlist1/index.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",Mihan TV, Mihan TV (US)
+http://iptv.mihantv.com/live/playlist1/index.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",Mohabat TV
+https://5acf9f9415a10.streamlock.net:443/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",Mohabat TV
+http://204.11.235.251:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",Mohabat TV  rtm
+rtmp://media.mohabat.tv/live_transcoder/_definst_/mp4:mohabat.stream_360p?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",NAMA
+http://rv.therevenge.co:80/565656/565656/84254?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",NAMAYESH TV
+http://rv.therevenge.co:80/live/242424/242424/84284.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",NAMAYESH TV
+http://rv.therevenge.co:80/565656/565656/84284?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",NASIM TV
+http://rv.therevenge.co:80/live/11223344/11223344/84322.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",NASIM TV
+http://rv.therevenge.co:80/565656/565656/84322?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",NASIM TV
+http://rv.therevenge.co:80/live/242424/242424/84322.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",NAVAHANG HD
+http://rv.therevenge.co:80/live/242424/242424/84188.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",NAVAHANG HD
+http://rv.therevenge.co:80/live/11223344/11223344/84188.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",NAVAHANG HD
+http://rv.therevenge.co:80/565656/565656/84188?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",NR1 TV
+http://rv.therevenge.co:80/live/242424/242424/84308.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",NR1 TV
+http://rv.therevenge.co:80/565656/565656/84308?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",NR1 TV
+http://185.71.64.167:80/307245103371/307245103371/84308?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",Navahang TV
+http://163.172.134.85/hls/stream.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",OFOGH TV
+http://rv.therevenge.co:80/live/242424/242424/84283.m3u8?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",OFOGH TV
+http://rv.therevenge.co:80/565656/565656/84283?checkedby:dailyfreeiptvlist.com
+#EXTINF:0 tvg-country="iran" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran",OFOGH TV
+http://rv.therevenge.co:80/live/11223344/11223344/84283.m3u8?checkedby:dailyfreeiptvlist.com
+
+
+
+
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_170,h_80/https://karwan.tv/wp-content/uploads/2019/07/lalish-tv.png" tvg-name="LALISH SD"  group-title="",LALISH SD
 http://163.172.39.215:25461/line/C4@!a3a1@!w72A/57
 #EXTINF:-1, tvg-id="New EPG" tvg-logo="https://lh3.googleusercontent.com/proxy/3P4GoeU-wOoQP3hHBIZdMr42e3sxG0vuB3ki7-Kjvi0V43Kvp75fKjPYU2hllkdUUnhU14j13XCZsDfgZVD6" tvg-name="KURDSAT HD"  group-title="",KURDSAT HD
