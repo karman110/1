@@ -3,6 +3,8 @@
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:-1 tvg-id="IranInternational.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/gUzGZK7.png" group-title="",Iran International (1080p)
 https://dev-live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:-1 tvg-id="MBCPersia.ae" tvg-name="MBC Persia" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",MBC Persia (1080p)
+https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="PERSIANA MUSIC" tvg-logo="https://i.imgur.com/pMrAvY6.png" group-title="",PERSIANA MUSIC
 http://51.210.199.24/hls/stream.m3u8
 #EXTINF:0 tvg-country="IT" tvg-logo="" group-title="",PMC HD
@@ -101,8 +103,6 @@ http://51.210.199.8/hls/stream.m3u8
 http://51.210.199.9/hls/stream.m3u8
 #EXTINF:-1 tvg-id="EBC1TV.ir" tvg-name="EBC1 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.livefarsi.com/uploads/tv_image/ebc1-tv.jpg" tvg-url="" group-title="",EBC1 TV (720p)
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
-#EXTINF:-1 tvg-id="MBCPersia.ae" tvg-name="MBC Persia" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/MBC_Persia_Logo.png" tvg-url="https://raw.githubusercontent.com/Fazzani/grab/master/merge.zip" group-title="",MBC Persia (1080p)
-https://shls-mbcpersia-prod-dub.shahid.net/out/v1/bdc7cd0d990e4c54808632a52c396946/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Iran Beauty (Webradio)" tvg-logo="https://i.imgur.com/e8vc8vh.jpg" group-title="",Iran Beauty (Webradio)
 http://51.210.199.57/hls/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Iran Intl.Radio (Webradio)" tvg-logo="https://i.imgur.com/gUzGZK7.png" group-title="",Iranintl.Radio (Webradio)
