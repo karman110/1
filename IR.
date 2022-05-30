@@ -11,10 +11,6 @@ https://livestream.5centscdn.com/cls040318/b0d2763968fd0bdd2dc0d44ba2abf9ce.sdp/
 https://vid1.caltexmusic.com/hls/caltextv.m3u8
 #EXTINF:-1 tvg-id="CanadaStarTV.ir" tvg-name="Canada Star TV" tvg-country="IR" tvg-language="English" tvg-logo="http://canadastartv.com/resimler/sistem/logo.png" group-title="",Canada Star TV
 https://live.livestreamtv.ca/canadastartv/smil:canadastartv.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="CineFilm.ir" tvg-name="Cine Film" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/wWKyJDs.png" group-title="",Cine Film
-https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="Cineseries.ir" tvg-name="Cineseries" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Iz8re8Z.png" group-title="",Cineseries
-https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="EBC1TV.ir" tvg-name="EBC1 TV" tvg-country="IR" tvg-language="Persian" tvg-logo="https://www.livefarsi.com/uploads/tv_image/ebc1-tv.jpg" group-title="",EBC1 TV (720p)
 https://vsn1-cdn-phx.icastcenter.com/EBC1/EBC1/playlist.m3u8
 #EXTINF:-1 tvg-id="INTVSimayeAzadi.ir" tvg-name="INTV Simaye Azadi" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/CTIINTk.png" group-title="",INTV Simaye Azadi (1080p)
@@ -494,7 +490,10 @@ http://51.210.199.9/hls/stream.m3u8
 https://sdm.telewebion.com/live/taban/playlist.m3u8
 #EXTINF:-1 tvg-id="YourTimeTV.ir" tvg-country="IR" tvg-language="Persian" tvg-logo="https://yourtime.tv/img/utv-logo.png" group-title="",YourTime TV (720p) [Not 24/7]
 https://hls.yourtime.live/hls/stream.m3u8
-
+#EXTINF:-1 tvg-id="CineFilm.ir" tvg-name="Cine Film" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/wWKyJDs.png" group-title="",Cine Film
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="Cineseries.ir" tvg-name="Cineseries" tvg-country="IR" tvg-language="Persian" tvg-logo="https://i.imgur.com/Iz8re8Z.png" group-title="",Cineseries
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:0 tvg-country="IR" tvg-logo="https://www.parsatv.com/index_files/channels/omidjavedan.jpg" group-title="",Omid Javedan
