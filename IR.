@@ -1,10 +1,6 @@
 #EXTM3U
 #EXTINF:0 tvg-country="AF" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ee/LOGO_Manoto-Rebrand_2018.png" group-title="Entertainment",Manoto TV
 https://dh4wkqcyy8768.cloudfront.net/live.m3u8
-
-#EXTINF:0,http://51.210.199.26/hls/stream.m3u8
-http://51.210.199.26/hls/stream.m3u8
-
 #EXTINF:0,http://51.210.199.16/hls/stream.m3u8
 http://51.210.199.16/hls/stream.m3u8
 #EXTINF:0,https://dh4wkqcyy8768.cloudfront.net/live.m3u8
