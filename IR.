@@ -830,3 +830,5 @@ http://mypanel.tv:8080/9l935qdbqul/qaa0gqnpwki/8962?checkedby:hlscat.com
 https://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dubai Sports 3" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/International_UAE_Generic_241x241.png?raw=true" , Sports 3
 http://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/chunklist_b1300000.m3u8
+#EXTINF:0,https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
