@@ -7,3 +7,14 @@ https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persia
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
 #EXTINF:0,http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-hinda_backup
 http://bbcwssc.ic.llnwd.net/stream/bbcwssc_mp1_ws-hinda_backup
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=565040,CODECS="mp4a.40.5,avc1.66.30",RESOLUTION=512x288
+t=3840/v=pv5/b=437056/main.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=399650,CODECS="mp4a.40.5,avc1.66.21",RESOLUTION=384x216
+t=3840/v=pv4/b=281024/a=pa3/b=96000/main.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1012310,CODECS="mp4a.40.2,avc1.77.30",RESOLUTION=704x396
+t=3840/v=pv8/b=827008/a=pa4/b=128000/main.m3u8
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=1835960,CODECS="mp4a.40.2,avc1.100.31",RESOLUTION=960x540
+t=3840/v=pv10/b=1604032/main.m3u8
+#EXTINF:0,https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8
+https://vs-hls-pushb-ww.live.cf.md.bbci.co.uk/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_cloudfrontms_live.m3u8
