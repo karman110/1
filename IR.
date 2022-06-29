@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0 tvg-country="AF" tvg-logo="" group-title="",Manoto TV
+#EXTINF:0 tvg-country="s" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="s",Manoto
 https://dh4wkqcyy8768.cloudfront.net/live.m3u8
 #EXTINF:-1 tvg-id="BBCPersian.uk" tvg-country="IR" tvg-language="Persian" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/44/BBC_News_Persian_Logo.jpg" group-title="",BBC Persian
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
