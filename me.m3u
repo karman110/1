@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:0,https://dh4wkqcyy8768.cloudfront.net/live.m3u8
 https://dh4wkqcyy8768.cloudfront.net/live.m3u8
+#EXTINF:0,https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
+https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
