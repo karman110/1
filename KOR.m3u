@@ -1,7 +1,5 @@
 #EXTM3U
 
-#EXTM3U
-#PLAYLIST:dailyfreeiptvlist.com
 #EXTINF:0 tvg-country="iran-iptv-channels" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran-iptv-channels",24B HD
 http://185.71.64.167:80/307245103371/307245103371/84124?checkedby:dailyfreeiptvlist.com
 #EXTINF:0 tvg-country="iran-iptv-channels" tvg-logo="https://dailyfreeiptvlist.com/ir" group-title="iran-iptv-channels",30 TV
