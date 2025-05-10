@@ -1,0 +1,136 @@
+import datetime
+
+class DeliveryTracker:
+    def __init__(self):
+        self.drivers = {}
+        self.deliveries = []
+        
+    def add_driver(self, name):
+        if name not in self.drivers:
+            self.drivers[name] = []
+            print(f"Driver {name} added successfully.")
+        else:
+            print(f"Driver {name} already exists.")
+    
+    def add_delivery(self, driver_name, customer, address, price, date=None):
+        if driver_name not in self.drivers:
+            print(f"Error: Driver {driver_name} not found.")
+            return
+            
+        if date is None:
+            date = datetime.date.today()
+            
+        delivery = {
+            'driver': driver_name,
+            'customer': customer,
+            'address': address,
+            'price': float(price),
+            'date': date
+        }
+        
+        self.deliveries.append(delivery)
+        self.drivers[driver_name].append(delivery)
+        print(f"Delivery added for {driver_name}.")
+    
+    def show_daily_deliveries(self, date=None):
+        if date is None:
+            date = datetime.date.today()
+            
+        daily_deliveries = [d for d in self.deliveries if d['date'] == date]
+        
+        if not daily_deliveries:
+            print(f"No deliveries found for {date}.")
+            return
+            
+        print(f"\nDeliveries for {date}:")
+        print("-" * 50)
+        
+        drivers = set(d['driver'] for d in daily_deliveries)
+        grand_total = 0
+        
+        for driver in drivers:
+            driver_deliveries = [d for d in daily_deliveries if d['driver'] == driver]
+            driver_total = sum(d['price'] for d in driver_deliveries)
+            grand_total += driver_total
+            
+            print(f"\nDriver: {driver}")
+            print("-" * 40)
+            for i, delivery in enumerate(driver_deliveries, 1):
+                print(f"{i}. {delivery['customer']} - {delivery['address']}: ${delivery['price']:.2f}")
+            print(f"\nTotal for {driver}: ${driver_total:.2f}")
+        
+        print("\n" + "=" * 50)
+        print(f"GRAND TOTAL FOR ALL DRIVERS: ${grand_total:.2f}")
+        print("=" * 50)
+    
+    def save_to_file(self, filename="deliveries.txt"):
+        with open(filename, 'w') as f:
+            for delivery in self.deliveries:
+                line = f"{delivery['date']}|{delivery['driver']}|{delivery['customer']}|{delivery['address']}|{delivery['price']}\n"
+                f.write(line)
+        print(f"Data saved to {filename}.")
+    
+    def load_from_file(self, filename="deliveries.txt"):
+        try:
+            with open(filename, 'r') as f:
+                for line in f:
+                    date_str, driver, customer, address, price = line.strip().split('|')
+                    date = datetime.datetime.strptime(date_str, "%Y-%m-%d").date()
+                    self.add_delivery(driver, customer, address, price, date)
+            print(f"Data loaded from {filename}.")
+        except FileNotFoundError:
+            print("No existing data file found. Starting fresh.")
+
+def main():
+    tracker = DeliveryTracker()
+    tracker.load_from_file()
+    
+    while True:
+        print("\nDelivery Tracking System")
+        print("1. Add Driver")
+        print("2. Add Delivery")
+        print("3. View Today's Deliveries")
+        print("4. View Deliveries for Specific Date")
+        print("5. Save Data")
+        print("6. Exit")
+        
+        choice = input("Enter your choice (1-6): ")
+        
+        if choice == '1':
+            name = input("Enter driver name: ")
+            tracker.add_driver(name)
+        elif choice == '2':
+            driver = input("Driver name: ")
+            customer = input("Customer name: ")
+            address = input("Delivery address: ")
+            price = input("Delivery price: ")
+            date = input("Delivery date (YYYY-MM-DD, leave blank for today): ")
+            
+            try:
+                if date:
+                    date = datetime.datetime.strptime(date, "%Y-%m-%d").date()
+                else:
+                    date = None
+                tracker.add_delivery(driver, customer, address, price, date)
+            except ValueError:
+                print("Invalid date format. Please use YYYY-MM-DD.")
+        elif choice == '3':
+            tracker.show_daily_deliveries()
+        elif choice == '4':
+            date_str = input("Enter date (YYYY-MM-DD): ")
+            try:
+                date = datetime.datetime.strptime(date_str, "%Y-%m-%d").date()
+                tracker.show_daily_deliveries(date)
+            except ValueError:
+                print("Invalid date format. Please use YYYY-MM-DD.")
+        elif choice == '5':
+            tracker.save_to_file()
+        elif choice == '6':
+            tracker.save_to_file()
+            print("Goodbye!")
+            break
+        else:
+            print("Invalid choice. Please try again.")
+
+if __name__ == "__main__":
+    main()
